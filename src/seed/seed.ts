@@ -8,29 +8,18 @@ import {Categories} from "../models/category.model"
 import {SubCategories} from "../models/subCategory.model"
 import {Areas} from "../models/area.model"
 import {Levels} from "../models/level.model"
-import {QuizNumbers} from "../models/quizNumber.model"
+import {Quiz} from "../models/quiz.model"
 import { quizInfo,quiz1} from "../conteudo/vocabulario/substantivos/casa_familia/casa_familia"
 import {exerciseSchema} from "../validations/exercise.schema.validation"
+import {QuizData,createQuiz, getQuiz} from "../repositories/quiz.repository"
+import {quizSchema} from "../validations/quiz.schema.validation"
+import {ExerciseData} from "../repositories/exercise.repository"
+import {createQuizSeed} from "./quizSeed"
 
 const quiz=quiz1
 
 
 
-interface ExerciseData{
-    numero:string,
-    alternativa_a:string
-    alternativa_b:string
-    alternativa_c:string
-    alternativa_d:string
-    alternativa_correcta:string
-    pergunta:string
-    numeroQuiz:string
-    category:string
-    level:string
-    subCategory:string
-    area:string
-  
-}
 
 
 
@@ -51,14 +40,21 @@ async function seed(){
     if(!level){
         throw new Error("nivel nao encontrado")
     }
-    const quizNumber= await QuizNumbers.findOne({numeroQuiz:quizInfo.quizNUmber})
-    if(!quizNumber){
-        throw new Error("numero nao encontrado")
+  
+
+     
+        const dadosQuiz:Omit<QuizData,"id">={
+            numeroQuiz:quizInfo.quizNUmber,
+            category:category._id.toString(),
+            subCategory:subCategory._id.toString(),
+            area:area._id.toString(),
+            level:level._id.toString()
     }
+    
+    const quizId= await createQuizSeed(dadosQuiz)
 
     
-    
-    for(let count=0;quiz.length>count;count++){
+    for(let count=0;quiz.length>count;count++){ 
 
         const numero=quiz[count].numero
         const alternativa_correcta=quiz[count].resposta_correta
@@ -67,24 +63,28 @@ async function seed(){
         const alternativa_c=quiz[count].opcoes.C
         const alternativa_d=quiz[count].opcoes.D
        
-        const pergunta =quiz[count].pergunta
-        const dados:ExerciseData={
-            numero,alternativa_correcta,alternativa_a,
-            alternativa_b,alternativa_c,alternativa_d,
-            pergunta,
-            category:category._id.toString(),
-            subCategory:subCategory._id.toString(),
-            area:area._id.toString(),
-            level:level._id.toString(),
-            numeroQuiz:quizNumber._id.toString()
-        }
+       
 
         
 
-
          try {
-             await exerciseSchema.validate(dados)  
-             const newExercise= await createExercise(dados)
+            
+            if(!quizId){
+                throw new Error("houve um erro ao cadastrar o quiz")
+            }
+             const pergunta =quiz[count].pergunta
+             const dadosExercise:Omit<ExerciseData,"id"|"numeroNovo">={
+                numero,alternativa_correcta,alternativa_a,
+                alternativa_b,alternativa_c,alternativa_d,
+                pergunta,quiz:quizId
+             }
+             await exerciseSchema.validate(dadosExercise)
+             const newExercise= await createExercise(dadosExercise)
+             if(!newExercise){
+                throw new Error("houve um erro ao tentar criar exercicio")
+             }
+            
+             
         } catch (error:any) {
             console.log("houve um erro "+ error.message)
         }
@@ -92,8 +92,8 @@ async function seed(){
 
      }
        
-
-     console.log("enunciado cadastrado com sucesso")
+console.log("cadastro de quiz e questoes realizado com sucesso")
+     
 }
 
 

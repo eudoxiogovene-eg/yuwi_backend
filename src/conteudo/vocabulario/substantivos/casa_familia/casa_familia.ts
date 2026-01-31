@@ -5,7 +5,7 @@ export const quizInfo={
   subCategory:"substativos",
   area:"casa familia",
   level:"iniciante",
-  quizNUmber:1
+  quizNUmber:3
 }
 
 export const quiz1 = [

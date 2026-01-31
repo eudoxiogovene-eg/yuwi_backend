@@ -33,6 +33,7 @@ export const getSubCategory= async({id}:Omit<SubSubCategoryData,"name"|"category
 }
 
 export const getSubCategories= async()=>{
+    //await SubCategories.deleteMany()
     const subCategories= await SubCategories.find()
     if(!subCategories.length){
         throw new Error("ainda nao ha categorias cadastradas")

@@ -40,12 +40,32 @@ const exerciseSchema= new mongoose.Schema({
         required:true, 
         lowercase:true
     },
-    quiz:{
+    numeroQuiz:{
         type:mongoose.Schema.Types.ObjectId, 
-        ref:'Quiz ',
+        ref:'QuizNumber ',
         required:true, 
     },
-
+    category:{
+        type:mongoose.Schema.Types.ObjectId, 
+        ref:'Category ',
+        required:true, 
+    },
+    level:{
+        type:mongoose.Schema.Types.ObjectId, 
+        ref:'Level ',
+        required:true, 
+    },
+    subCategory:{
+        type:mongoose.Schema.Types.ObjectId, 
+        ref:'SubCategory ',
+        required:true, 
+    },
+    area:{
+        type:mongoose.Schema.Types.ObjectId, 
+        ref:'Area ',
+        required:true, 
+    },
+ 
     },{
         timestamps:true
     })  

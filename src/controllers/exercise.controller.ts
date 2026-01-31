@@ -17,7 +17,7 @@ export const Exercise__Controlers ={
      const {
         numero,alternativa_a,alternativa_b,
         alternativa_c, alternativa_d,alternativa_correcta,
-        pergunta,numeroQuiz,category,level,subCategory,area 
+        pergunta,quiz
      }=req.body
      const exercicio:ExerciseData=req.body
      
@@ -62,7 +62,7 @@ export const Exercise__Controlers ={
          const {
             numero,alternativa_a,alternativa_b,
             alternativa_c, alternativa_d,alternativa_correcta,
-            pergunta,numeroQuiz,category,level,subCategory,area,numeroNovo
+            pergunta,quiz
         }=req.body
 
      const exercicio:ExerciseData=req.body

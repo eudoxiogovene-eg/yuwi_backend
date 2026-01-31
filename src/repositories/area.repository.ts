@@ -34,6 +34,8 @@ export const getArea= async(id:string)=>{
 }
 
 export const getAreas= async()=>{
+
+    //await Areas.deleteMany()
     const areas= await Areas.find()
     if(!areas.length){
         throw new Error("ainda nao ha areas cadastradas")

@@ -12,11 +12,7 @@ export const exerciseSchema=yup.object().shape({
     alternativa_d:yup.string().required('o campo alternativa_d e obrigatorio'),
     alternativa_correcta:yup.string().required('o campo alternativa_correcta e obrigatorio'),
     pergunta:yup.string().required('o campo pergunta e obrigatorio'),
-    numeroQuiz:yup.string().required('o campo numeroQuiz e obrigatorio'),
-    category:yup.string().required('o campo category e obrigatorio'),
-    level:yup.string().required('o campo level e obrigatorio'),
-    subCategory:yup.string().required('o campo subCategory e obrigatorio'),
-    area:yup.string().required('o campo area e obrigatorio'),
+    quiz:yup.string().required('o campo quiz e obrigatorio'),
 })
 export const exerciseUpdateSchema=yup.object().shape({
     numero:yup.string().required('o campo nome e obrigatorio'),
@@ -26,12 +22,7 @@ export const exerciseUpdateSchema=yup.object().shape({
     alternativa_d:yup.string().required('o campo alternativa_d e obrigatorio'),
     alternativa_correcta:yup.string().required('o campo alternativa_correcta e obrigatorio'),
     pergunta:yup.string().required('o campo pergunta e obrigatorio'),
-    numeroQuiz:yup.string().required('o campo numeroQuiz e obrigatorio'),
-    category:yup.string().required('o campo category e obrigatorio'),
-    level:yup.string().required('o campo level e obrigatorio'),
-    subCategory:yup.string().required('o campo subCategory e obrigatorio'),
-    area:yup.string().required('o campo area e obrigatorio'),
-    numeroNovo:yup.string().required('o campo numero novo  e obrigatorio'),
+    quiz:yup.string().required('o campo quiz e obrigatorio'),
 })
  
  

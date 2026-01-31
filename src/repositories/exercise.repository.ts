@@ -11,11 +11,7 @@ export interface ExerciseData{
     alternativa_d:string
     alternativa_correcta:string
     pergunta:string
-    numeroQuiz:string
-    category:string
-    level:string
-    subCategory:string
-    area:string
+    quiz:string
     numeroNovo:string
 }
 
@@ -24,12 +20,9 @@ export const createExercise= async(exercise:Omit<ExerciseData,"id"|"numeroNovo">
     
     const exerciseExist= await Exercises.findOne({
         numero:exercise.numero,
-        numeroQuiz:exercise.numeroQuiz,
-        category:exercise.category,
-        level:exercise.level,
-        subCategory:exercise.subCategory,
-        area:exercise.area
+        quiz:exercise.quiz
     })
+
     if(exerciseExist){
         throw new Error("este esxercicio ja foi cadastrado")
     }
@@ -42,11 +35,7 @@ export const createExercise= async(exercise:Omit<ExerciseData,"id"|"numeroNovo">
         alternativa_d:exercise.alternativa_d,
         alternativa_correcta:exercise.alternativa_correcta,
         pergunta:exercise.pergunta,
-        numeroQuiz:exercise.numeroQuiz,
-        category:exercise.category,
-        level:exercise.level,
-        subCategory:exercise.subCategory,
-        area:exercise.area
+        quiz:exercise.quiz
     })
 
     if(!newExercise){
@@ -70,18 +59,14 @@ export const getExercises= async()=>{
     if(!exercices.length){
         throw new Error("ainda nao ha exercicios cadastrados")
     }
-    return exercices
+    return exercices     
 }
  
 
 export const updateExercise= async(exercise:ExerciseData,id:string)=>{
      const exerciseExist= await Exercises.findOne({
         numero:exercise.numero,
-        numeroQuiz:exercise.numeroQuiz,
-        category:exercise.category,
-        level:exercise.level,
-        subCategory:exercise.subCategory,
-        area:exercise.area,
+        quiz:exercise.quiz,
         alternativa_a:exercise.alternativa_a,
         alternativa_b:exercise.alternativa_b,
         alternativa_c:exercise.alternativa_c,
@@ -99,11 +84,8 @@ export const updateExercise= async(exercise:ExerciseData,id:string)=>{
     }
     const  numberEqual= await Exercises.findOne({
          numero:exercise.numeroNovo,
-         numeroQuiz:exercise.numeroQuiz,
-         category:exercise.category,
-         level:exercise.level,
-         subCategory:exercise.subCategory,
-         area:exercise.area,
+         quiz:exercise.quiz
+        
     })
 
    
@@ -124,11 +106,7 @@ export const updateExercise= async(exercise:ExerciseData,id:string)=>{
         alternativa_d:exercise.alternativa_d,
         alternativa_correcta:exercise.alternativa_correcta,
         pergunta:exercise.pergunta,
-        numeroQuiz:exercise.numeroQuiz,
-        category:exercise.category,
-        level:exercise.level,
-        subCategory:exercise.subCategory,
-        area:exercise.area
+        quiz:exercise.quiz
     },{
         new:true
     })

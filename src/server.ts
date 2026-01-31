@@ -11,8 +11,10 @@ import {Categories__routes} from "./routes/category.route"
 import {SubCategories__routes} from "./routes/subCategory.route"
 import {Areas__routes} from "./routes/area.route"
 import {Levels__routes} from "./routes/level.route"
-import {QuizNumber__routes} from "./routes/quizNumber.route"
+import {Quiz__routes} from "./routes/quiz.route"
 import {Exercise__routes} from "./routes/exercicio.route"
+import {PickQuiz__routes} from "./routes/pickQuiz.route"
+
 
 
 
@@ -40,9 +42,9 @@ app.use(Categories__routes)
 app.use(SubCategories__routes)
 app.use(Areas__routes)
 app.use(Levels__routes)
-app.use(QuizNumber__routes)
+app.use(Quiz__routes)
 app.use(Exercise__routes)
-
+app.use(PickQuiz__routes)
 
 
  db_connection.then(()=>{  
