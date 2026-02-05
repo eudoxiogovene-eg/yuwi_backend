@@ -24,3 +24,12 @@ export const userLoginrepository= async ({email,password}:User) => {
 }
 
 
+export const userLoginWithGoogleRepository=async(email:string)=>{
+    const userExist= await Users.findOne({email}).select("+password")
+    if(!userExist){
+        throw new Error("crendencias invalidas")
+    }
+    return userExist
+}
+
+

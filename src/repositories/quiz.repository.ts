@@ -27,6 +27,20 @@ export const createQuiz= async({numeroQuiz,category,subCategory,area,level}:Omit
     return newQuiz
 
 }
+export const createSemAreaQuiz= async({numeroQuiz,category,subCategory,level}:Omit<QuizData,"id"|"area">)=>{
+    const quizExist= await Quiz.findOne({numeroQuiz,category,subCategory,level})
+    if(quizExist){
+        throw new Error("este quiz ja foi cadastrado")
+    }
+
+    const newQuiz= await Quiz.create({numeroQuiz,category,subCategory,level})
+
+    if(!newQuiz){
+        throw new Error("houve um erro ao tentar criar numero quiz")
+    }
+    return newQuiz
+
+}
 
 export const getQuiz= async(id:string)=>{
     const quiz= await Quiz.findById(id)

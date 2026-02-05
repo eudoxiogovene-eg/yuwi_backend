@@ -23,7 +23,7 @@ const quizSchema= new mongoose.Schema({
         area:{
             type:mongoose.Schema.Types.ObjectId, 
             ref:'Area ',
-            required:true, 
+            required:false, 
         },
         level:{
             type:mongoose.Schema.Types.ObjectId, 

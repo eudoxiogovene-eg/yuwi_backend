@@ -3,8 +3,8 @@
 import {Request,Response,} from "express"
 
 
-import {createQuiz,getQuiz,getQuizzes,updateQuiz} from "../repositories/quiz.repository"
-import {quizSchema } from "../validations/quiz.schema.validation"
+import {createQuiz,getQuiz,getQuizzes,updateQuiz,createSemAreaQuiz} from "../repositories/quiz.repository"
+import {quizSchema,quizSEmAreaSchema } from "../validations/quiz.schema.validation"
 
 
 export const Quiz__Controlers ={
@@ -14,6 +14,20 @@ export const Quiz__Controlers ={
         try {
             await quizSchema.validate(req.body)
             const newQuiz= await createQuiz({numeroQuiz,category,subCategory,area,level})      
+            return res.status(200).json({
+                message:" quiz criado com sucesso",
+                data:newQuiz   
+            }) 
+        } catch (error:any) {
+            return res.status(400).json({message:error.message})
+        }
+
+   },
+    async createQuizSemArea(req:Request,res:Response){
+     const {numeroQuiz,category,subCategory,level}=req.body
+        try {
+            await quizSEmAreaSchema.validate(req.body)
+            const newQuiz= await createSemAreaQuiz({numeroQuiz,category,subCategory,level})      
             return res.status(200).json({
                 message:" quiz criado com sucesso",
                 data:newQuiz   

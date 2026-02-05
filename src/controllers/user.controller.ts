@@ -3,19 +3,23 @@ import  {Request,Response,} from "express"
 
 
 import {userValidacao,userUpdateValidacao} from "../validations/user"
-import {createNewUser,getUsers,getUser,updateUser} from "../repositories/user.js"
-
+import {createNewUser,getUsers,getUser,updateUser,createAccountWithGoogle} from "../repositories/user.js"
+import { userValidacaoSignUpWithGoogle} from "../validations/user"
 
 
 
 export const Users__Controlers ={
     
    async store(req:Request,res:Response){
-    const {nome,email,password}=req.body
-    
+    const {nome,email,password,confirmPassword}=req.body
+   
    
     try {
         await userValidacao.validate(req.body)
+        if(password!==confirmPassword){
+            throw new Error("as senhas nao correspondem")
+        }
+    
         const newUser= await createNewUser({nome,email,password})
 
         return res.status(200).json({
@@ -67,5 +71,21 @@ export const Users__Controlers ={
     }
    },
  
+   async createAccountWithGoogleController(req:Request,res:Response){
+       const {email,nome}=req.body
+    try {
+        await userValidacaoSignUpWithGoogle.validate(req.body)
+      
+        const newUser= await createAccountWithGoogle(email,nome)
+
+        return res.status(200).json({
+            message:"usuário criado com sucesso",
+            data:newUser 
+        })
+     
+    } catch (error:any) {
+        return res.status(400).json({message:error.message})
+    }
+   }
  
 }

@@ -1,11 +1,11 @@
 // ================= QUIZ 1 =================
 
 export const quizInfo={
-  category:"vocabulario",
-  subCategory:"substativos",
-  area:"casa familia",
-  level:"iniciante",
-  quizNUmber:3
+  category:"aleatorio",
+  subCategory:"só palavras",
+  area:"",
+  level:"avancado",
+  quizNUmber:1
 }
 
 export const quiz1 = [

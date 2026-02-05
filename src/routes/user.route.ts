@@ -10,5 +10,6 @@ routes.post('/createuser',Users__Controlers.store)
 routes.get('/findusers',Users__Controlers.index)
 routes.get('/finduser/:userId',Users__Controlers.show)
 routes.put('/finduserupdate/:userId',Users__Controlers.update)
+routes.post('/createUserWithGoogle',Users__Controlers.createAccountWithGoogleController)
 
 export const Users__routes=routes

@@ -13,7 +13,7 @@ export const PickQuiz__Controlers ={
     async pickQuizController(req:Request,res:Response){
         console.log("chegou no backend")
         const {category,subCategory,area,level} =req.body
-        const dados:PickQuizData={
+        const dados:PickQuizData={ 
             category,subCategory,area,level
         }
         try {

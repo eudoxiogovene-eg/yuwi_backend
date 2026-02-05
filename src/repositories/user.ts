@@ -3,6 +3,8 @@
 
 import { Users } from "../models/user.js"
 const bcrypt = require('bcrypt')
+import crypto from "crypto"
+const date= new Date()
 
 interface User{
     id:string
@@ -60,3 +62,20 @@ export const updateUser= async ({nome,id}:Omit<User,"email"|"password">)=>{
     return userUpdate
 } 
 
+
+
+export const createAccountWithGoogle= async(email:string,nome:string)=>{
+   const userExist= await Users.findOne({email})
+    if(userExist){
+        throw new Error("este email ja foi usado")
+    }
+    const password= crypto.randomBytes(4).toString('hex')+"comecaaqui"+ Date.now()
+    const salt = await bcrypt.genSalt(12)
+    const passwordHash= await bcrypt.hash(password, salt)
+    const newUser= await Users.create({
+        nome,
+        email,
+        password:passwordHash
+    })
+    return newUser
+}
