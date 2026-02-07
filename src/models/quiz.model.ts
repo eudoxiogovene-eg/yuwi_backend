@@ -32,7 +32,7 @@ const quizSchema= new mongoose.Schema({
         },
         done:{
             type:String,
-            enum: ['true','false'],
+            enum: ["true","false"],
             default:"false"
         },
  
