@@ -13,6 +13,14 @@ interface User{
     password:string,
 }
 
+interface UserUpdateData{
+    id:string
+    como_conheceu:string
+    objectivo :string
+    meta_diaria:string
+    nivel:string
+    pais:string
+}
 
 export const createNewUser= async ({nome,email,password}:Omit<User,"id">) => {
     
@@ -48,10 +56,14 @@ export const getUser= async (id:string)=>{
     return user
 } 
 
-export const updateUser= async ({nome,id}:Omit<User,"email"|"password">)=>{
-  
-    const userUpdate= await Users.findByIdAndUpdate(id,{
-        nome
+export const updateUser= async (data:UserUpdateData)=>{
+
+    const userUpdate= await Users.findByIdAndUpdate(data.id,{
+        como_conheceu:data.como_conheceu,
+        objectivo :data.objectivo,
+        meta_diaria:data.meta_diaria,
+        nivel:data.nivel,
+        pais:data.pais
     },{
         new :true
     })

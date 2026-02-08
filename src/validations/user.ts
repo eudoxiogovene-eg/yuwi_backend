@@ -10,9 +10,14 @@ export const userValidacao=yup.object().shape({
     password:yup.string().required('o campo password e obrigatorio'),
     confirmPassword:yup.string().required('o campo confirm password e obrigatorio'),
 })
-
+  
+          
 export const userUpdateValidacao=yup.object().shape({
-    nome:yup.string().required('o campo nome e obrigatorio'),
+    como_conheceu:yup.string().required('o campo como_conheceu e obrigatorio'),
+    objectivo:yup.string().required('o campo objectivo e obrigatorio'),
+    meta_diaria:yup.string().required('o campo meta_diaria e obrigatorio'),
+    nivel:yup.string().required('o campo nivel e obrigatorio'),
+    pais:yup.string().required('o campo pais e obrigatorio'),
 })
 
 export const userValidacaoLogin=yup.object().shape({

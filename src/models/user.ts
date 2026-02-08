@@ -20,6 +20,26 @@ const userSchema= new mongoose.Schema({
             required:true,
             select:false 
         }, 
+        como_conheceu:{
+            type:String,
+            required:false
+        }, 
+         objectivo:{
+            type:String,
+            required:false
+        }, 
+         meta_diaria:{
+            type:String,
+            required:false
+        }, 
+         nivel:{
+            type:String,
+            required:false
+        }, 
+         pais:{
+            type:String,
+            required:false
+        }, 
  
     },{
         timestamps:true

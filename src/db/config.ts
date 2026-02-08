@@ -7,8 +7,8 @@ dotenv.config()
 
 
 
-const {MONGO_URL}:any=process.env 
+const {MONGO_URL,MONGO_URL_PRODUCTION}:any=process.env 
 
 
-export const db_connection=  mongoose.connect(MONGO_URL)  
+export const db_connection=  mongoose.connect(MONGO_URL_PRODUCTION)  
    

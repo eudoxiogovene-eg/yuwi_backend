@@ -60,14 +60,24 @@ export const Users__Controlers ={
     const {userId} = req.params
     const id:string=userId.toString()
 
-    const {nome}=req.body
+    const {
+        como_conheceu,objectivo ,
+        meta_diaria,nivel,pais,
+    }=req.body
+
+    const data={
+        id,
+        como_conheceu,objectivo ,
+        meta_diaria,nivel,pais
+    }
+    
     try {
         await userUpdateValidacao.validate(req.body)
         await getUser(id)
-        const userUpdate= await updateUser({nome,id})
+        const userUpdate= await updateUser(data)
         return res.status(200).json({message:"dado encontrado com sucesso",dado:userUpdate})
-    } catch (error) {
-        return res.status(400).json({message:error})
+    } catch (error:any) {
+        return res.status(400).json({message:error.message})
     }
    },
  
