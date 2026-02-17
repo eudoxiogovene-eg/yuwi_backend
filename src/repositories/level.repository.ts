@@ -2,7 +2,7 @@
 import {Levels} from "../models/level.model"
 
 
-interface LevelData{
+interface LevelData{ 
     name:string,
     id:string
 }
@@ -56,4 +56,12 @@ export const updateLevel= async({id,name}:LevelData)=>{
     }
 
     return levelUpdated
+}
+
+export const findLevelByName=async(name:string)=>{
+     const levelExist= await Levels.findOne({name})
+    if(!levelExist){
+        throw new Error("nivel nao encontrado")
+    }
+    return levelExist
 }

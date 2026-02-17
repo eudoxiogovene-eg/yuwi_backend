@@ -32,6 +32,7 @@ export const getCategory= async({id}:Omit<CategoryData,"name">)=>{
 }
 
 export const getCategories= async()=>{
+    //await Categories.deleteMany()
     const categories= await Categories.find()
     if(!categories.length){
         throw new Error("ainda nao ha categorias cadastradas")
@@ -56,4 +57,13 @@ export const UpdateCategory= async({id,name}:CategoryData)=>{
     }
 
     return categoryUpdated
+}
+
+
+export const findCategoryByName= async(name:string)=>{
+    const categoryExist= await Categories.findOne({name})
+    if(!categoryExist){
+        throw new Error("categoria nao encontrada")
+    }
+    return categoryExist
 }

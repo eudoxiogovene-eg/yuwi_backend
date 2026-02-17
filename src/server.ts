@@ -14,7 +14,7 @@ import {Levels__routes} from "./routes/level.route"
 import {Quiz__routes} from "./routes/quiz.route"
 import {Exercise__routes} from "./routes/exercicio.route"
 import {PickQuiz__routes} from "./routes/pickQuiz.route"
-
+import {DadosApagados__routes} from "./routes/deleteAll.route"
 
 
 
@@ -45,6 +45,8 @@ app.use(Levels__routes)
 app.use(Quiz__routes)
 app.use(Exercise__routes)
 app.use(PickQuiz__routes)
+//app.use(DadosApagados__routes)
+
 
 
  db_connection.then(()=>{  

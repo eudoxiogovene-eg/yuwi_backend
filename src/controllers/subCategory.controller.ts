@@ -5,6 +5,9 @@ import {Request,Response,} from "express"
 
 import {createSubCategory,getSubCategories,getSubCategory,UpdateSubCategory} from "../repositories/subCategory.repository"
 import { subcategorySchema} from "../validations/subcategory.schema.validation"
+import {findCategoryByName} from "../repositories/category.repository"
+
+
 
 
 export const SubCategories__Controlers ={
@@ -13,7 +16,9 @@ export const SubCategories__Controlers ={
      const {name,category}=req.body
         try {
             await subcategorySchema.validate(req.body)
-            const newSubCategory= await createSubCategory({name,category})      
+            const categoryExist= await findCategoryByName(category)
+            const category_id=categoryExist._id.toString()
+            const newSubCategory= await createSubCategory({name,category:category_id})      
             return res.status(200).json({
                 message:"categoria criada com sucesso",
                 data:newSubCategory   

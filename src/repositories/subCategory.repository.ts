@@ -40,7 +40,6 @@ export const getSubCategories= async()=>{
     }
     return subCategories
 }
- 
 
 export const UpdateSubCategory= async({id,name,category}:SubSubCategoryData)=>{
     const subCategoryExist= await SubCategories.findOne({name,category})
@@ -58,4 +57,12 @@ export const UpdateSubCategory= async({id,name,category}:SubSubCategoryData)=>{
     }
 
     return subCategoryUpdated
+}
+
+export const findSubCategoryByNameAndCategory= async({name,category}:Omit<SubSubCategoryData,"id">)=>{
+    const subCategoryExist= await SubCategories.findOne({name,category})
+    if(!subCategoryExist){
+        throw new Error("subcategoria nao encontrada")
+    }
+    return subCategoryExist
 }

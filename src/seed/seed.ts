@@ -9,14 +9,14 @@ import {SubCategories} from "../models/subCategory.model"
 import {Areas} from "../models/area.model"
 import {Levels} from "../models/level.model"
 import {Quiz} from "../models/quiz.model"
-import { quizInfo,quiz1} from "../conteudo/vocabulario/substantivos/casa_familia/casa_familia"
+import { quizInfo,quiz1,quiz2,quiz3,quiz4,quiz5,quiz6,quiz7,quiz8,quiz9,quiz10} from "../conteudo/vocabulario/substantivos/casa_familia/casa_familia"
 import {exerciseSchema} from "../validations/exercise.schema.validation"
 import {QuizData,createQuiz, getQuiz} from "../repositories/quiz.repository"
 import {quizSchema} from "../validations/quiz.schema.validation"
 import {ExerciseData} from "../repositories/exercise.repository"
 import {createQuizSeed} from "./quizSeed"
 
-const quiz=quiz1
+const quiz=quiz10
 
 
 
@@ -24,37 +24,37 @@ const quiz=quiz1
 
 
 async function seed(){
-    const category= await Categories.findOne({name:quizInfo.category})
-    if(!category){
-        throw new Error("categoria nao encontrada")
-    }
-    const subCategory= await SubCategories.findOne({name:quizInfo.subCategory})
-    if(!subCategory){
-        throw new Error("subcategoria nao encontrada")
-    }
-    const area= await Areas.findOne({name:quizInfo.area})
-    if(!area){
-        throw new Error("area nao encontrada")
-    }
-    const level = await Levels.findOne({name:quizInfo.level})
-    if(!level){
-        throw new Error("nivel nao encontrado")
-    }
+    // const category= await Categories.findOne({name:quizInfo.category})
+    // if(!category){
+    //     throw new Error("categoria nao encontrada")
+    // }
+    // const subCategory= await SubCategories.findOne({name:quizInfo.subCategory})
+    // if(!subCategory){
+    //     throw new Error("subcategoria nao encontrada")
+    // }
+    // const area= await Areas.findOne({name:quizInfo.area})
+    // if(!area){
+    //     throw new Error("area nao encontrada")
+    // }
+    // const level = await Levels.findOne({name:quizInfo.level})
+    // if(!level){
+    //     throw new Error("nivel nao encontrado")
+    // }
   
 
      
-        const dadosQuiz:Omit<QuizData,"id">={
-            numeroQuiz:quizInfo.quizNUmber,
-            category:category._id.toString(),
-            subCategory:subCategory._id.toString(),
-            area:area._id.toString(),
-            level:level._id.toString()
-    }
+    //     const dadosQuiz:Omit<QuizData,"id">={
+    //         numeroQuiz:quizInfo.quizNUmber,
+    //         category:category._id.toString(),
+    //         subCategory:subCategory._id.toString(),
+    //         area:area._id.toString(),
+    //         level:level._id.toString()
+    // }
     
-    const quizId= await createQuizSeed(dadosQuiz)
+    const quizId= "6991da5e9996280314441f4c"//await createQuizSeed(dadosQuiz)
 
     
-    for(let count=0;quiz.length>count;count++){ 
+    for(let count=0;quiz.length>count;count++){  
 
         const numero=quiz[count].numero
         const alternativa_correcta=quiz[count].resposta_correta

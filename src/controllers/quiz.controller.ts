@@ -5,7 +5,10 @@ import {Request,Response,} from "express"
 
 import {createQuiz,getQuiz,getQuizzes,updateQuiz,createSemAreaQuiz} from "../repositories/quiz.repository"
 import {quizSchema,quizSEmAreaSchema } from "../validations/quiz.schema.validation"
-
+import {findLevelByName} from "../repositories/level.repository"
+import {findCategoryByName} from "../repositories/category.repository"
+import {findSubCategoryByNameAndCategory} from "../repositories/subCategory.repository"
+import {findAreaByNameCategoryAndSubCategory} from "../repositories/area.repository"
 
 export const Quiz__Controlers ={
     
@@ -13,7 +16,29 @@ export const Quiz__Controlers ={
      const {numeroQuiz,category,subCategory,area,level}=req.body
         try {
             await quizSchema.validate(req.body)
-            const newQuiz= await createQuiz({numeroQuiz,category,subCategory,area,level})      
+            const categoryExist= await findCategoryByName(category)
+            const category_id=categoryExist._id.toString()
+            const subCategoryExist= await findSubCategoryByNameAndCategory({
+                name:subCategory,
+                category:category_id
+            })
+            const subCategory_id=subCategoryExist._id.toString()
+            const levelExist= await findLevelByName(level)
+            const level_id=levelExist._id.toString()
+           
+            const areaExist= await findAreaByNameCategoryAndSubCategory({
+                name:area,
+                category:category_id,
+                subCategory:subCategory_id
+            })
+            const area_id=areaExist._id.toString()
+            const newQuiz= await createQuiz({
+                numeroQuiz,
+                category:category_id,
+                subCategory:subCategory_id,
+                area:area_id,
+                level:level_id
+            })      
             return res.status(200).json({
                 message:" quiz criado com sucesso",
                 data:newQuiz   
@@ -74,5 +99,4 @@ export const Quiz__Controlers ={
        }
    },
 
- 
 }

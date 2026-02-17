@@ -31,3 +31,14 @@ export const pickQuiz= async (data:PickQuizData)=>{
      return data2
      
 }
+
+export const pickQuizByQuiz= async (data:string[])=>{
+
+    const quizzes= await Exercises.find({quiz:{ $in: data }})
+    if(!quizzes.length){
+      throw new Error("exercicios nao encontrados")      
+    }
+     
+     return quizzes
+     
+}
