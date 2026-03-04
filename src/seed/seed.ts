@@ -3,20 +3,27 @@
 import {db_connection} from "../db/config"
 
 
-import {createExercise} from "../repositories/exercise.repository"
-import {Categories} from "../models/category.model"
-import {SubCategories} from "../models/subCategory.model"
-import {Areas} from "../models/area.model"
-import {Levels} from "../models/level.model"
-import {Quiz} from "../models/quiz.model"
-import { quizInfo,quiz1,quiz2,quiz3,quiz4,quiz5,quiz6,quiz7,quiz8,quiz9,quiz10} from "../conteudo/vocabulario/substantivos/casa_familia/casa_familia"
+import {createExercise,findQuizExercise} from "../repositories/exercise.repository"
+import {findQuizExerciseTranslation} from "../repositories/exerciseTranslation.repository"
+
+
+import { 
+    quizInfo,quiz1,quiz2,quiz3,
+    quiz4,quiz5,quiz6,quiz7,quiz8,
+    quiz9,quiz10,quiz11,quiz12
+} from "../conteudo/vocabulario/substantivos/casa_familia"
+
+import { 
+    quizBasico1,quizBasico2,
+    quizBasico3,quizBasico4
+} from "../conteudo/vocabulario/substantivos/casa_familia"
 import {exerciseSchema} from "../validations/exercise.schema.validation"
 import {QuizData,createQuiz, getQuiz} from "../repositories/quiz.repository"
 import {quizSchema} from "../validations/quiz.schema.validation"
 import {ExerciseData} from "../repositories/exercise.repository"
 import {createQuizSeed} from "./quizSeed"
 
-const quiz=quiz10
+const quiz=quiz4
 
 
 
@@ -24,35 +31,15 @@ const quiz=quiz10
 
 
 async function seed(){
-    // const category= await Categories.findOne({name:quizInfo.category})
-    // if(!category){
-    //     throw new Error("categoria nao encontrada")
-    // }
-    // const subCategory= await SubCategories.findOne({name:quizInfo.subCategory})
-    // if(!subCategory){
-    //     throw new Error("subcategoria nao encontrada")
-    // }
-    // const area= await Areas.findOne({name:quizInfo.area})
-    // if(!area){
-    //     throw new Error("area nao encontrada")
-    // }
-    // const level = await Levels.findOne({name:quizInfo.level})
-    // if(!level){
-    //     throw new Error("nivel nao encontrado")
-    // }
-  
+   
+    const quizId= "69a84a551ee90adc61749b7c"//await createQuizSeed(dadosQuiz)
 
-     
-    //     const dadosQuiz:Omit<QuizData,"id">={
-    //         numeroQuiz:quizInfo.quizNUmber,
-    //         category:category._id.toString(),
-    //         subCategory:subCategory._id.toString(),
-    //         area:area._id.toString(),
-    //         level:level._id.toString()
-    // }
+    const quizExerciseTranslationExist= await findQuizExerciseTranslation(quizId) 
+    const quizExerciseExist= await findQuizExercise(quizId)
     
-    const quizId= "6991da5e9996280314441f4c"//await createQuizSeed(dadosQuiz)
-
+    if(quizExerciseTranslationExist ||quizExerciseExist){
+        return console.log("este quiz ja foi usado")
+    }
     
     for(let count=0;quiz.length>count;count++){  
 

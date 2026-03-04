@@ -54,7 +54,7 @@ export const getExercise= async(id:string)=>{
 }
 
 export const getExercises= async()=>{
-    //await Exercises.deleteMany()
+    
     const exercices= await Exercises.find()
     if(!exercices.length){
         throw new Error("ainda nao ha exercicios cadastrados")
@@ -82,7 +82,7 @@ export const updateExercise= async(exercise:ExerciseData,id:string)=>{
             throw new Error("este exercicio ja foi cadastrado")
         }
     }
-    const  numberEqual= await Exercises.findOne({
+    const numberEqual= await Exercises.findOne({
          numero:exercise.numeroNovo,
          quiz:exercise.quiz
         
@@ -110,11 +110,18 @@ export const updateExercise= async(exercise:ExerciseData,id:string)=>{
     },{
         new:true
     })
-    console.log(updateExercise)
 
     if(!exerciseUpdated){
         throw new Error("houve um erro ao tentar actualizar exercicio")
     }
 
     return exerciseUpdated
+}
+
+export const findQuizExercise= async(quiz:string)=>{
+ 
+    const quizExerciseExist= await Exercises.findOne({
+        quiz
+    })
+    return quizExerciseExist
 }

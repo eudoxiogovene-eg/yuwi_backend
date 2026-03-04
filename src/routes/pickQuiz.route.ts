@@ -9,5 +9,6 @@ const routes=Router()
 
 routes.post('/pickQuiz',PickQuiz__Controlers.pickQuizController)
 routes.post('/pickExerciseByQuiz',PickQuiz__Controlers.pickExerciseByQuizController)
+routes.post('/pickExerciseTranslationByQuiz',PickQuiz__Controlers.pickExerciseTranslationByQuizController)
 
 export const PickQuiz__routes=routes   

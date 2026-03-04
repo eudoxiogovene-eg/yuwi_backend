@@ -1700,7 +1700,7 @@ export const quiz12 = [
 
 
 /*-----------------------basico--------------------------------*/
-const quizBasico1 = [
+export const quizBasico1 = [
 
   {
     "pergunta": "Traduza: This is my house.",
@@ -1943,7 +1943,7 @@ const quizBasico1 = [
   }
 
 ];
-const quizBasico2 = [
+export const quizBasico2 = [
 
   {
     "pergunta": "Traduza: My mother is happy.",
@@ -2186,7 +2186,7 @@ const quizBasico2 = [
   }
 
 ];
-const quizBasico3 = [
+export const quizBasico3 = [
 
   {
     "pergunta": "Traduza: This is my grandmother.",
@@ -2430,7 +2430,7 @@ const quizBasico3 = [
 
 ];
 
-const quizBasico4 = [
+export const quizBasico4 = [
 
   {
     "pergunta": "Traduza: This is my nephew.",
@@ -6804,4 +6804,73 @@ const quizBasico20 = [
     "resposta_correta": "D"
   }
 
+];
+
+
+
+
+
+
+/*---------------------------avancado----------------------------------*/
+export const quizTranslation1 = [
+  {
+    "pergunta": "traduza a frase 'I am studying at home'?",
+    "opcoes": ["trabalhando", "em", "escola", "estuda", "eu", "nos", "estudando", "ontem", "no", "estou", "amanha", "casa", "ela", "na", "cidade", "estudar"],
+    "numero": "1",
+    "resposta_correta": "eu estou estudando em casa"
+  },
+  {
+    "pergunta": "traduza a frase 'nos estamos aprendendo ingles'?",
+    "opcoes": ["studying", "is", "learning", "home", "are", "am", "today", "school", "we", "study", "language", "at", "english", "teach", "they", "teacher"],
+    "numero": "2",
+    "resposta_correta": "we are learning english"
+  },
+  {
+    "pergunta": "traduza a frase 'She is not at school today'?",
+    "opcoes": ["amanha", "ela", "aqui", "na", "somos", "estao", "ontem", "esta", "nao", "casa", "escola", "trabalho", "eles", "hoje", "em", "no", "cidade"],
+    "numero": "3",
+    "resposta_correta": "ela nao esta na escola hoje"
+  },
+  {
+    "pergunta": "traduza a frase 'meu amigo quer comprar um carro'?",
+    "opcoes": ["his", "car", "sell", "to", "are", "friend", "new", "buy", "old", "wants", "a", "house", "my", "is", "food", "big", "they", "her", "small"],
+    "numero": "4",
+    "resposta_correta": "my friend wants to buy a car"
+  },
+  {
+    "pergunta": "traduza a frase 'They are working in the city'?",
+    "opcoes": ["campo", "na", "amanha", "estao", "trabalhando", "nos", "cidade", "eu", "escola", "empresa", "eles", "no", "hoje", "somos", "em", "ela", "hospital"],
+    "numero": "5",
+    "resposta_correta": "eles estao trabalhando na cidade"
+  },
+  {
+    "pergunta": "traduza a frase 'eu preciso falar com voce agora'?",
+    "opcoes": ["talking", "speak", "yesterday", "i", "are", "now", "need", "she", "you", "him", "to", "call", "with", "later", "they", "me", "is", "us", "her"],
+    "numero": "6",
+    "resposta_correta": "i need to speak with you now"
+  },
+  {
+    "pergunta": "traduza a frase 'The children are playing in the park'?",
+    "opcoes": ["brincando", "escola", "campo", "no", "ela", "parque", "estao", "criancas", "as", "na", "hoje", "cidade", "praia", "em", "andando", "eles", "nos", "correndo"],
+    "numero": "7",
+    "resposta_correta": "as criancas estao brincando no parque"
+  },
+  {
+    "pergunta": "traduza a frase 'ela gosta de estudar matematica'?",
+    "opcoes": ["english", "math", "is", "she", "class", "are", "learn", "study", "likes", "to", "science", "am", "hate", "school", "they", "book", "teach"],
+    "numero": "8",
+    "resposta_correta": "she likes to study math"
+  },
+  {
+    "pergunta": "traduza a frase 'We are not ready for the test'?",
+    "opcoes": ["prova", "nos", "esta", "trabalho", "para", "amanha", "sao", "estamos", "a", "nao", "exame", "prontos", "em", "ontem", "no", "aula", "ela", "eles"],
+    "numero": "9",
+    "resposta_correta": "nos nao estamos prontos para a prova"
+  },
+  {
+    "pergunta": "traduza a frase 'eu quero viajar para outro pais'?",
+    "opcoes": ["is", "country", "live", "to", "move", "want", "another", "they", "travel", "city", "i", "are", "his", "my", "your", "she", "state", "now", "her"],
+    "numero": "10",
+    "resposta_correta": "i want to travel to another country"
+  }
 ];

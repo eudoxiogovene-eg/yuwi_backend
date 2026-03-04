@@ -15,7 +15,7 @@ import {Quiz__routes} from "./routes/quiz.route"
 import {Exercise__routes} from "./routes/exercicio.route"
 import {PickQuiz__routes} from "./routes/pickQuiz.route"
 import {DadosApagados__routes} from "./routes/deleteAll.route"
-
+import {ExerciseTranslation__routes} from "./routes/exercicioTranslation.route"
 
 
 
@@ -46,6 +46,7 @@ app.use(Quiz__routes)
 app.use(Exercise__routes)
 app.use(PickQuiz__routes)
 //app.use(DadosApagados__routes)
+app.use(ExerciseTranslation__routes)
 
 
 

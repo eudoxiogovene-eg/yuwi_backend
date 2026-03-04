@@ -3,27 +3,22 @@
 import {Request,Response,} from "express"
 
 
-import {ExerciseData,createExercise,getExercises,getExercise,updateExercise} from "../repositories/exercise.repository"
-import {exerciseSchema,exerciseUpdateSchema} from "../validations/exercise.schema.validation"
+import {createExerciseTranslation,ExerciseTranslationData,getExerciseTranslation,getExercisesTranslation,updateExerciseTranslation} from "../repositories/exerciseTranslation.repository"
+import {exerciseTranslationSchema,exerciseTranslationUpdateSchema} from "../validations/exerciseTranslation.schema.validation"
 
 
-export const Exercise__Controlers ={
-    
-    
-   
-   
+export const ExerciseTranslation__Controlers ={
     
    async store(req:Request,res:Response){
      const {
-        numero,alternativa_a,alternativa_b,
-        alternativa_c, alternativa_d,alternativa_correcta,
-        pergunta,quiz
+        numero,resposta_correcta,
+        pergunta,quiz,opcoes
      }=req.body
-     const exercicio:ExerciseData=req.body
+     const exercicio:ExerciseTranslationData=req.body
      
         try {
-            await exerciseSchema.validate(req.body)
-            const novoExercicio= await createExercise(exercicio)      
+            await exerciseTranslationSchema.validate(req.body)
+            const novoExercicio= await createExerciseTranslation(exercicio)      
             return res.status(200).json({
                 message:"exercicio criado com sucesso",
                 data:novoExercicio   
@@ -36,7 +31,7 @@ export const Exercise__Controlers ={
 
    async index(req:Request,res:Response){
        try {
-           const exercicios= await getExercises()
+           const exercicios= await getExercisesTranslation()
            return res.status(200).json({message:"exercicios encontrados com sucesso",dados:exercicios})
        } catch (error:any) {
            return res.status(400).json({message:error.message})
@@ -47,7 +42,7 @@ export const Exercise__Controlers ={
        const id=exercicioId.toString()
       
        try {
-           const exercicio= await getExercise(id)
+           const exercicio= await getExerciseTranslation(id)
            return res.status(200).json({message:"exercicio encontrado com sucesso",dado:exercicio})
        } catch (error:any) {
            return res.status(400).json({message:error.message})
@@ -59,16 +54,15 @@ export const Exercise__Controlers ={
         const id:string=exercicioId.toString()
    
          const {
-            numero,alternativa_a,alternativa_b,
-            alternativa_c, alternativa_d,alternativa_correcta,
-            pergunta,quiz
+           numero,resposta_correcta,
+           pergunta,quiz,opcoes
         }=req.body
 
-     const exercicio:ExerciseData=req.body
+     const exercicio:ExerciseTranslationData=req.body
         try {
-            await exerciseUpdateSchema.validate(req.body)
-            await getExercise(id)
-            const exerciseUpdated= await updateExercise(exercicio,id)
+            await exerciseTranslationUpdateSchema.validate(req.body)
+            await getExerciseTranslation(id)
+            const exerciseUpdated= await updateExerciseTranslation(exercicio,id)
             return res.status(200).json({message:"nivel actualizado com sucesso",dado:exerciseUpdated})
         } catch (error:any) {
             return res.status(400).json({message:error.message})

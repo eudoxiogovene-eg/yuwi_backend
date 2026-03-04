@@ -2,7 +2,7 @@
 import {Quiz} from "../models/quiz.model"
 import {Exercises} from "../models/exercise.model"
 import { getQuizzes } from "./quiz.repository"
-
+import {ExercisesTranslation} from "../models/exerciseTranslation.model"
 
 
 
@@ -35,6 +35,17 @@ export const pickQuiz= async (data:PickQuizData)=>{
 export const pickQuizByQuiz= async (data:string[])=>{
 
     const quizzes= await Exercises.find({quiz:{ $in: data }})
+    if(!quizzes.length){
+      throw new Error("exercicios nao encontrados")      
+    }
+     
+     return quizzes
+     
+}
+
+export const pickExerciseTranslationQuizByQuiz= async (data:string[])=>{
+
+    const quizzes= await ExercisesTranslation.find({quiz:{ $in: data }})
     if(!quizzes.length){
       throw new Error("exercicios nao encontrados")      
     }

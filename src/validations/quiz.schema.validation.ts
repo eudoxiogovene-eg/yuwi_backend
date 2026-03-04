@@ -16,3 +16,10 @@ export const quizSEmAreaSchema=yup.object().shape({
     subCategory:yup.string().required('o campo subCategoria  obrigatorio'),
     level:yup.string().required('o campo nivel obrigatorio'),
 })
+
+export const filterQuizSchema=yup.object().shape({
+    category:yup.string().required('o campo  categoria e obrigatorio e obrigatorio'),
+    subCategory:yup.string().required('o campo subCategoria  obrigatorio'),
+    area:yup.string().required('o campo area obrigatorio'),
+    level:yup.string().required('o campo nivel obrigatorio'),
+})
