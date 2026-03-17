@@ -11,6 +11,6 @@ routes.post('/createExerciseTranslation',ExerciseTranslation__Controlers.store)
 routes.get('/getExercisesTranslation',ExerciseTranslation__Controlers.index)
 routes.get('/getExerciseTranslation/:exercicioId',ExerciseTranslation__Controlers.show)
 routes.put('/updateExerciseTranslation/:exercicioId',ExerciseTranslation__Controlers.update)
-
+routes.get('/getExerciseTranslationsByQuiz/:quiz',ExerciseTranslation__Controlers.findExerciseTranslationsByQuizController)
 
 export const ExerciseTranslation__routes=routes

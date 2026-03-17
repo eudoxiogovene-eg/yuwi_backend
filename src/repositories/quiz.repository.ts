@@ -17,6 +17,11 @@ interface FilterQuizData{
     area:string,
     level:string
 }
+interface FilterQuizSemAreaData{
+    category:string
+    subCategory:string
+    level:string
+}
 
 export const createQuiz= async({numeroQuiz,category,subCategory,area,level}:Omit<QuizData,"id">)=>{
     const quizExist= await Quiz.findOne({numeroQuiz,category,subCategory,area,level})
@@ -88,6 +93,18 @@ export const filterQuiz=async(data:FilterQuizData)=>{
         category:data.category,
         subCategory:data.subCategory,
         area:data.area,
+        level:data.level
+    })
+    if(quizzes.length==0){
+        throw new Error("quizzes nao encontrados")
+    }
+    return quizzes
+}
+
+export const filterQuizSemArea=async(data:FilterQuizSemAreaData)=>{
+    const quizzes= await Quiz.find({
+        category:data.category,
+        subCategory:data.subCategory,
         level:data.level
     })
     if(quizzes.length==0){

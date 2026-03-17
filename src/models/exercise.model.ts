@@ -49,6 +49,6 @@ const exerciseSchema= new mongoose.Schema({
     },{
         timestamps:true
     })  
-
+    exerciseSchema.index({ quiz: 1, numero: 1 }, { unique: true })
 export const Exercises=mongoose.model('Exercise', exerciseSchema) 
 

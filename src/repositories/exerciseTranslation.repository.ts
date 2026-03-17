@@ -113,3 +113,23 @@ export const findQuizExerciseTranslation= async(quiz:string)=>{
     })
     return quizExerciseExist
 }
+export const findExerciseTranslationsByQuiz= async(quiz:string)=>{
+ 
+    const quizExerciseExist= await ExercisesTranslation.find({
+        quiz
+    })
+    return quizExerciseExist
+}
+
+export const createManyExercisesTranslations= async(exercises:Omit<ExerciseTranslationData,"id"|"numeroNovo">[])=>{
+    try {
+        const result = await ExercisesTranslation.insertMany(exercises, {
+        ordered: false
+        })
+        return result
+  } catch (error: any) {
+    if (error.code === 11000) {
+      console.log("alguns exercícios já existiam")
+    }
+  }
+}

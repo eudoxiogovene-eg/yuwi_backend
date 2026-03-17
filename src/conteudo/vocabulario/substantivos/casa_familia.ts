@@ -232,1472 +232,2230 @@ export const quiz1 = [
   }
 ];
 */
+
+
+
+
 export const quiz1 = [
   {
-    "pergunta": "Qual é a tradução de 'Mother'?",
-    "opcoes": { "A": "Mãe", "B": "Tia", "C": "Avó", "D": "Prima" },
+    "pergunta": "Qual é a tradução de 'Nephew'?",
+    "opcoes": {
+      "A": "Neto",
+      "B": "Sobrinho",
+      "C": "Afilhado",
+      "D": "Primo"
+    },
     "numero": "1",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Living room'?",
-    "opcoes": { "A": "Cozinha", "B": "Sala de estar", "C": "Quarto", "D": "Banheiro" },
-    "numero": "2",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Father'?",
-    "opcoes": { "A": "Filho", "B": "Avô", "C": "Pai", "D": "Tio" },
+    "pergunta": "Como se diz 'Cunhado' em inglês?",
+    "opcoes": {
+      "A": "Brother-in-law",
+      "B": "Step-brother",
+      "C": "Cousin",
+      "D": "Son-in-law"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Pantry'?",
+    "opcoes": {
+      "A": "Cozinha",
+      "B": "Sótão",
+      "C": "Despensa",
+      "D": "Lavanderia"
+    },
     "numero": "3",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Kitchen'?",
-    "opcoes": { "A": "Garagem", "B": "Sala", "C": "Quarto", "D": "Cozinha" },
+    "pergunta": "Como se diz 'Telhado' em inglês?",
+    "opcoes": {
+      "A": "Wall",
+      "B": "Floor",
+      "C": "Ceiling",
+      "D": "Roof"
+    },
     "numero": "4",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Sister'?",
-    "opcoes": { "A": "Prima", "B": "Irmã", "C": "Mãe", "D": "Filha" },
+    "pergunta": "Qual é a tradução de 'Daughter-in-law'?",
+    "opcoes": {
+      "A": "Nora",
+      "B": "Enteada",
+      "C": "Sogra",
+      "D": "Cunhada"
+    },
     "numero": "5",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Bedroom'?",
-    "opcoes": { "A": "Quarto", "B": "Sala", "C": "Cozinha", "D": "Jardim" },
-    "numero": "6",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Brother'?",
-    "opcoes": { "A": "Pai", "B": "Primo", "C": "Irmão", "D": "Tio" },
+    "pergunta": "Como se diz 'Corredor' (dentro de casa) em inglês?",
+    "opcoes": {
+      "A": "Basement",
+      "B": "Hallway",
+      "C": "Balcony",
+      "D": "Attic"
+    },
+    "numero": "6",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Stepsister'?",
+    "opcoes": {
+      "A": "Madrasta",
+      "B": "Afilhada",
+      "C": "Meia-irmã (por consideração/casamento)",
+      "D": "Irmã caçula"
+    },
     "numero": "7",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Bathroom'?",
-    "opcoes": { "A": "Sala", "B": "Banheiro", "C": "Quarto", "D": "Cozinha" },
+    "pergunta": "Como se diz 'Prateleira' em inglês?",
+    "opcoes": {
+      "A": "Drawer",
+      "B": "Closet",
+      "C": "Wardrobe",
+      "D": "Shelf"
+    },
     "numero": "8",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Grandmother'?",
-    "opcoes": { "A": "Tia", "B": "Prima", "C": "Avó", "D": "Mãe" },
-    "numero": "9",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Roof'?",
-    "opcoes": { "A": "Parede", "B": "Chão", "C": "Porta", "D": "Telhado" },
-    "numero": "10",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Son'?",
-    "opcoes": { "A": "Filho", "B": "Neto", "C": "Irmão", "D": "Sobrinho" },
+    "pergunta": "Qual é a tradução de 'Faucet' (ou Tap)?",
+    "opcoes": {
+      "A": "Torneira",
+      "B": "Ralo",
+      "C": "Cano",
+      "D": "Pia"
+    },
+    "numero": "9",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Tia' em inglês?",
+    "opcoes": {
+      "A": "Uncle",
+      "B": "Aunt",
+      "C": "Niece",
+      "D": "Stepmother"
+    },
+    "numero": "10",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Basement'?",
+    "opcoes": {
+      "A": "Sótão",
+      "B": "Varanda",
+      "C": "Porão",
+      "D": "Garagem"
+    },
     "numero": "11",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Window'?",
-    "opcoes": { "A": "Janela", "B": "Porta", "C": "Parede", "D": "Teto" },
+    "pergunta": "Como se diz 'Lareira' em inglês?",
+    "opcoes": {
+      "A": "Kitchen",
+      "B": "Chimney",
+      "C": "Stove",
+      "D": "Fireplace"
+    },
     "numero": "12",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Daughter'?",
-    "opcoes": { "A": "Prima", "B": "Filha", "C": "Mãe", "D": "Avó" },
+    "pergunta": "Qual é a tradução de 'Great-grandfather'?",
+    "opcoes": {
+      "A": "Bisavô",
+      "B": "Avô",
+      "C": "Padrasto",
+      "D": "Tio-avô"
+    },
     "numero": "13",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Door'?",
-    "opcoes": { "A": "Janela", "B": "Parede", "C": "Porta", "D": "Chão" },
-    "numero": "14",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Uncle'?",
-    "opcoes": { "A": "Avô", "B": "Tio", "C": "Pai", "D": "Primo" },
-    "numero": "15",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Floor'?",
-    "opcoes": { "A": "Chão", "B": "Teto", "C": "Parede", "D": "Porta" },
-    "numero": "16",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Cousin'?",
-    "opcoes": { "A": "Sobrinho", "B": "Prima(o)", "C": "Tia", "D": "Irmã" },
-    "numero": "17",
+    "pergunta": "Como se diz 'Janela' em inglês?",
+    "opcoes": {
+      "A": "Door",
+      "B": "Window",
+      "C": "Curtain",
+      "D": "Gate"
+    },
+    "numero": "14",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Garage'?",
-    "opcoes": { "A": "Sala", "B": "Jardim", "C": "Garagem", "D": "Quarto" },
-    "numero": "18",
+    "pergunta": "Qual é a tradução de 'Countertop'?",
+    "opcoes": {
+      "A": "Mesa",
+      "B": "Gaveta",
+      "C": "Bancada",
+      "D": "Armário"
+    },
+    "numero": "15",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Parents'?",
-    "opcoes": { "A": "Filhos", "B": "Avós", "C": "Pais", "D": "Tios" },
+    "pergunta": "Como se diz 'Cerca' em inglês?",
+    "opcoes": {
+      "A": "Wall",
+      "B": "Backyard",
+      "C": "Fence",
+      "D": "Lawn"
+    },
+    "numero": "16",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Wardrobe'?",
+    "opcoes": {
+      "A": "Guarda-roupa",
+      "B": "Cômoda",
+      "C": "Cabide",
+      "D": "Lençol"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Padrinho' em inglês?",
+    "opcoes": {
+      "A": "Grandfather",
+      "B": "Godfather",
+      "C": "Stepfather",
+      "D": "Father-in-law"
+    },
+    "numero": "18",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Niece'?",
+    "opcoes": {
+      "A": "Neta",
+      "B": "Noiva",
+      "C": "Sobrinha",
+      "D": "Prima"
+    },
     "numero": "19",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Garden'?",
-    "opcoes": { "A": "Quintal/Jardim", "B": "Garagem", "C": "Sala", "D": "Cozinha" },
+    "pergunta": "Como se diz 'Teto' (parte interna) em inglês?",
+    "opcoes": {
+      "A": "Floor",
+      "B": "Roof",
+      "C": "Wall",
+      "D": "Ceiling"
+    },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   }
 ];
 export const quiz2 = [
   {
-    "pergunta": "Qual é a tradução de 'Aunt'?",
-    "opcoes": { "A": "Prima", "B": "Avó", "C": "Tia", "D": "Mãe" },
+    "pergunta": "Como se diz 'Sogro' em inglês?",
+    "opcoes": {
+      "A": "Stepfather",
+      "B": "Godfather",
+      "C": "Brother-in-law",
+      "D": "Father-in-law"
+    },
     "numero": "1",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Ceiling'?",
-    "opcoes": { "A": "Teto", "B": "Chão", "C": "Parede", "D": "Porta" },
-    "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Nephew'?",
-    "opcoes": { "A": "Neto", "B": "Sobrinho", "C": "Primo", "D": "Filho" },
-    "numero": "3",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Wall'?",
-    "opcoes": { "A": "Chão", "B": "Janela", "C": "Teto", "D": "Parede" },
-    "numero": "4",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Niece'?",
-    "opcoes": { "A": "Sobrinha", "B": "Filha", "C": "Prima", "D": "Irmã" },
-    "numero": "5",
+    "pergunta": "Qual é a tradução de 'Attic'?",
+    "opcoes": {
+      "A": "Porão",
+      "B": "Sótão",
+      "C": "Sacada",
+      "D": "Quintal"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Gaveta' em inglês?",
+    "opcoes": {
+      "A": "Drawer",
+      "B": "Closet",
+      "C": "Shelf",
+      "D": "Cabinet"
+    },
+    "numero": "3",
     "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Godmother'?",
+    "opcoes": {
+      "A": "Madrasta",
+      "B": "Sogra",
+      "C": "Madrinha",
+      "D": "Afilhada"
+    },
+    "numero": "4",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Almofada' em inglês?",
+    "opcoes": {
+      "A": "Blanket",
+      "B": "Cushion",
+      "C": "Curtain",
+      "D": "Rug"
+    },
+    "numero": "5",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Backyard'?",
-    "opcoes": { "A": "Garagem", "B": "Quintal", "C": "Sala", "D": "Varanda" },
+    "opcoes": {
+      "A": "Entrada",
+      "B": "Jardim",
+      "C": "Corredor",
+      "D": "Quintal"
+    },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Grandfather'?",
-    "opcoes": { "A": "Pai", "B": "Avô", "C": "Tio", "D": "Sogro" },
+    "pergunta": "Como se diz 'Genro' em inglês?",
+    "opcoes": {
+      "A": "Son-in-law",
+      "B": "Stepson",
+      "C": "Grandson",
+      "D": "Nephew"
+    },
     "numero": "7",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stairs'?",
-    "opcoes": { "A": "Porta", "B": "Escadas", "C": "Corredor", "D": "Parede" },
-    "numero": "8",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Parents-in-law'?",
-    "opcoes": { "A": "Avós", "B": "Tios", "C": "Sogros", "D": "Primos" },
-    "numero": "9",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Balcony'?",
-    "opcoes": { "A": "Varanda", "B": "Jardim", "C": "Quarto", "D": "Sala" },
-    "numero": "10",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Husband'?",
-    "opcoes": { "A": "Pai", "B": "Irmão", "C": "Marido", "D": "Primo" },
-    "numero": "11",
+    "pergunta": "Qual é a tradução de 'Chimney'?",
+    "opcoes": {
+      "A": "Telhado",
+      "B": "Lareira",
+      "C": "Chaminé",
+      "D": "Muro"
+    },
+    "numero": "8",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Hallway'?",
-    "opcoes": { "A": "Sala", "B": "Corredor", "C": "Quarto", "D": "Cozinha" },
-    "numero": "12",
+    "pergunta": "Como se diz 'Padrasto' em inglês?",
+    "opcoes": {
+      "A": "Uncle",
+      "B": "Father-in-law",
+      "C": "Godfather",
+      "D": "Stepfather"
+    },
+    "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Curtains'?",
+    "opcoes": {
+      "A": "Tapetes",
+      "B": "Cortinas",
+      "C": "Venezianas",
+      "D": "Lençóis"
+    },
+    "numero": "10",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Wife'?",
-    "opcoes": { "A": "Filha", "B": "Mãe", "C": "Esposa", "D": "Tia" },
-    "numero": "13",
-    "resposta_correta": "C"
+    "pergunta": "Como se diz 'Enteada' em inglês?",
+    "opcoes": {
+      "A": "Stepdaughter",
+      "B": "Daughter-in-law",
+      "C": "Goddaughter",
+      "D": "Niece"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Basement'?",
-    "opcoes": { "A": "Sótão", "B": "Porão", "C": "Garagem", "D": "Quintal" },
-    "numero": "14",
+    "opcoes": {
+      "A": "Garagem",
+      "B": "Sótão",
+      "C": "Porão",
+      "D": "Dispensa"
+    },
+    "numero": "12",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Tapete' em inglês?",
+    "opcoes": {
+      "A": "Tile",
+      "B": "Rug",
+      "C": "Floor",
+      "D": "Wall"
+    },
+    "numero": "13",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Stepbrother'?",
-    "opcoes": { "A": "Meio-irmão", "B": "Primo", "C": "Sobrinho", "D": "Filho" },
+    "pergunta": "Qual é a tradução de 'Sister-in-law'?",
+    "opcoes": {
+      "A": "Sogra",
+      "B": "Enteada",
+      "C": "Nora",
+      "D": "Cunhada"
+    },
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Lençol' em inglês?",
+    "opcoes": {
+      "A": "Sheet",
+      "B": "Blanket",
+      "C": "Pillow",
+      "D": "Towel"
+    },
     "numero": "15",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Attic'?",
-    "opcoes": { "A": "Porão", "B": "Garagem", "C": "Sótão", "D": "Varanda" },
+    "pergunta": "Qual é a tradução de 'Granddaughter'?",
+    "opcoes": {
+      "A": "Afilhada",
+      "B": "Sobrinha",
+      "C": "Neta",
+      "D": "Bisneta"
+    },
     "numero": "16",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Stepdaughter'?",
-    "opcoes": { "A": "Enteada", "B": "Sobrinha", "C": "Neta", "D": "Prima" },
+    "pergunta": "Como se diz 'Madrasta' em inglês?",
+    "opcoes": {
+      "A": "Mother-in-law",
+      "B": "Stepmother",
+      "C": "Godmother",
+      "D": "Aunt"
+    },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Fence'?",
-    "opcoes": { "A": "Parede", "B": "Portão", "C": "Telhado", "D": "Cerca" },
+    "pergunta": "Qual é a tradução de 'Ceiling'?",
+    "opcoes": {
+      "A": "Telhado",
+      "B": "Parede",
+      "C": "Chão",
+      "D": "Teto"
+    },
     "numero": "18",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Relatives'?",
-    "opcoes": { "A": "Pais", "B": "Amigos", "C": "Vizinhos", "D": "Parentes" },
+    "pergunta": "Como se diz 'Sogra' em inglês?",
+    "opcoes": {
+      "A": "Mother-in-law",
+      "B": "Stepmother",
+      "C": "Daughter-in-law",
+      "D": "Aunt"
+    },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Mailbox'?",
-    "opcoes": { "A": "Campainha", "B": "Porta", "C": "Garagem", "D": "Caixa de correio" },
+    "pergunta": "Qual é a tradução de 'Foyer'?",
+    "opcoes": {
+      "A": "Cozinha",
+      "B": "Sacada",
+      "C": "Hall de entrada",
+      "D": "Escritório"
+    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
 export const quiz3 = [
   {
-    "pergunta": "Qual é a tradução de 'Stepmother'?",
-    "opcoes": { "A": "Avó", "B": "Madrasta", "C": "Tia", "D": "Sogra" },
+    "pergunta": "Como se diz 'Afilhado' em inglês?",
+    "opcoes": {
+      "A": "Step-son",
+      "B": "Nephew",
+      "C": "Godson",
+      "D": "Grandson"
+    },
     "numero": "1",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Laundry room'?",
-    "opcoes": { "A": "Sala de jantar", "B": "Cozinha", "C": "Despensa", "D": "Lavanderia" },
-    "numero": "2",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stepfather'?",
-    "opcoes": { "A": "Padrasto", "B": "Avô", "C": "Tio", "D": "Pai" },
-    "numero": "3",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Dining room'?",
-    "opcoes": { "A": "Cozinha", "B": "Sala", "C": "Sala de jantar", "D": "Quarto" },
-    "numero": "4",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Twins'?",
-    "opcoes": { "A": "Primos", "B": "Irmãos", "C": "Netos", "D": "Gêmeos" },
-    "numero": "5",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Pantry'?",
-    "opcoes": { "A": "Despensa", "B": "Garagem", "C": "Porão", "D": "Varanda" },
-    "numero": "6",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Only child'?",
-    "opcoes": { "A": "Filho mais velho", "B": "Caçula", "C": "Gêmeo", "D": "Filho único" },
-    "numero": "7",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Closet'?",
-    "opcoes": { "A": "Guarda-roupa", "B": "Quarto", "C": "Despensa", "D": "Banheiro" },
-    "numero": "8",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Single parent'?",
-    "opcoes": { "A": "Pai adotivo", "B": "Pai solteiro", "C": "Avô", "D": "Tio" },
-    "numero": "9",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Guest room'?",
-    "opcoes": { "A": "Escritório", "B": "Quarto principal", "C": "Quarto de hóspedes", "D": "Sala" },
-    "numero": "10",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'In-laws'?",
-    "opcoes": { "A": "Sogros/Família do cônjuge", "B": "Parentes", "C": "Avós", "D": "Tios" },
-    "numero": "11",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Home office'?",
-    "opcoes": { "A": "Sala de estar", "B": "Escritório em casa", "C": "Quarto", "D": "Biblioteca" },
-    "numero": "12",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Newborn'?",
-    "opcoes": { "A": "Criança", "B": "Adolescente", "C": "Bebê recém-nascido", "D": "Neto" },
-    "numero": "13",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Crib'?",
-    "opcoes": { "A": "Cama", "B": "Beliche", "C": "Sofá", "D": "Berço" },
-    "numero": "14",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Extended family'?",
-    "opcoes": { "A": "Família nuclear", "B": "Família extensa", "C": "Família pequena", "D": "Família distante" },
-    "numero": "15",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Bookshelf'?",
-    "opcoes": { "A": "Mesa", "B": "Armário", "C": "Estante de livros", "D": "Gaveta" },
-    "numero": "16",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Caregiver'?",
-    "opcoes": { "A": "Cuidador", "B": "Professor", "C": "Médico", "D": "Vizinho" },
-    "numero": "17",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Curtains'?",
-    "opcoes": { "A": "Tapetes", "B": "Persianas", "C": "Lençóis", "D": "Cortinas" },
-    "numero": "18",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Household'?",
-    "opcoes": { "A": "Prédio", "B": "Família doméstica", "C": "Bairro", "D": "Rua" },
-    "numero": "19",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Light switch'?",
-    "opcoes": { "A": "Tomada", "B": "Lâmpada", "C": "Interruptor", "D": "Abajur" },
-    "numero": "20",
-    "resposta_correta": "C"
-  }
-];
-export const quiz4 = [
-  {
-    "pergunta": "Qual é a tradução de 'Stepbrother'?",
-    "opcoes": { "A": "Meio-irmão", "B": "Primo", "C": "Filho", "D": "Sobrinho" },
-    "numero": "1",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stepsister'?",
-    "opcoes": { "A": "Prima", "B": "Meia-irmã", "C": "Filha", "D": "Sobrinha" },
-    "numero": "2",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Fireplace'?",
-    "opcoes": { "A": "Chaminé", "B": "Fogão", "C": "Lareira", "D": "Aquecedor" },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Porch'?",
-    "opcoes": { "A": "Jardim", "B": "Garagem", "C": "Quarto", "D": "Varanda" },
-    "numero": "4",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Nursery'?",
-    "opcoes": { "A": "Escola", "B": "Creche", "C": "Quarto do bebê", "D": "Quarto" },
-    "numero": "5",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'High chair'?",
-    "opcoes": { "A": "Mesa alta", "B": "Cadeira de bebê", "C": "Banco", "D": "Cadeira" },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Cradle'?",
-    "opcoes": { "A": "Colchão", "B": "Sofá", "C": "Cama", "D": "Berço" },
-    "numero": "7",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stepchild'?",
-    "opcoes": { "A": "Enteado(a)", "B": "Filho(a)", "C": "Primo(a)", "D": "Sobrinho(a)" },
-    "numero": "8",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Dining table'?",
-    "opcoes": { "A": "Mesa de cozinha", "B": "Mesa de escritório", "C": "Mesa de centro", "D": "Mesa de jantar" },
-    "numero": "9",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Candle'?",
-    "opcoes": { "A": "Vela", "B": "Luminária", "C": "Lampião", "D": "Candelabro" },
-    "numero": "10",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Wardrobe'?",
-    "opcoes": { "A": "Cômoda", "B": "Prateleira", "C": "Guarda-roupa", "D": "Cama" },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stroller'?",
-    "opcoes": { "A": "Berço", "B": "Cadeira alta", "C": "Sofá", "D": "Carrinho de bebê" },
-    "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Apartment'?",
-    "opcoes": { "A": "Casa", "B": "Apartamento", "C": "Prédio", "D": "Quarto" },
-    "numero": "13",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Cousin-in-law'?",
-    "opcoes": { "A": "Sobrinho(a)", "B": "Parente", "C": "Primo(a) por casamento", "D": "Primo(a)" },
-    "numero": "14",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Refrigerator'?",
-    "opcoes": { "A": "Fogão", "B": "Geladeira", "C": "Armário", "D": "Cozinha" },
-    "numero": "15",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Living space'?",
-    "opcoes": { "A": "Sala de estar", "B": "Espaço habitável", "C": "Quarto", "D": "Garagem" },
-    "numero": "16",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Foster parent'?",
-    "opcoes": { "A": "Tio", "B": "Avô", "C": "Madrasta", "D": "Pai adotivo" },
-    "numero": "17",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Lamp'?",
-    "opcoes": { "A": "Vela", "B": "Abajur", "C": "Lâmpada", "D": "Luminária" },
-    "numero": "18",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Loft'?",
-    "opcoes": { "A": "Sótão", "B": "Porão", "C": "Garagem", "D": "Varanda" },
-    "numero": "19",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Twin bedroom'?",
-    "opcoes": { "A": "Quarto de gêmeos", "B": "Quarto com beliches", "C": "Quarto de solteiro", "D": "Quarto principal" },
-    "numero": "20",
-    "resposta_correta": "A"
-  }
-];
-export const quiz5 = [
-  {
-    "pergunta": "Qual é a tradução de 'Pantry shelf'?",
-    "opcoes": { "A": "Armário", "B": "Estante", "C": "Prateleira da despensa", "D": "Cômoda" },
-    "numero": "1",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby monitor'?",
-    "opcoes": { "A": "Telefone", "B": "Monitor de bebê", "C": "Câmera de segurança", "D": "Radio" },
-    "numero": "2",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Grandchild'?",
-    "opcoes": { "A": "Filho do primo", "B": "Sobrinho(a)", "C": "Irmão", "D": "Neto(a)" },
-    "numero": "3",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Guest bathroom'?",
-    "opcoes": { "A": "Banheiro de hóspedes", "B": "Lavabo", "C": "Banheiro principal", "D": "Banheiro externo" },
-    "numero": "4",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Loft bed'?",
-    "opcoes": { "A": "Cama baixa", "B": "Beliche", "C": "Cama elevada", "D": "Cama de solteiro" },
-    "numero": "5",
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Dishwasher'?",
-    "opcoes": { "A": "Geladeira", "B": "Lava-roupas", "C": "Fogão", "D": "Máquina de lavar louça" },
-    "numero": "6",
+    "opcoes": {
+      "A": "Lava-louças",
+      "B": "Geladeira",
+      "C": "Micro-ondas",
+      "D": "Fogão"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Puxador' (de porta/gaveta) em inglês?",
+    "opcoes": {
+      "A": "Hinge",
+      "B": "Key",
+      "C": "Lock",
+      "D": "Handle"
+    },
+    "numero": "3",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Playroom'?",
-    "opcoes": { "A": "Quarto de brinquedos", "B": "Sala de estudo", "C": "Sala de jantar", "D": "Escritório" },
+    "pergunta": "Qual é a tradução de 'Cousin'?",
+    "opcoes": {
+      "A": "Irmão",
+      "B": "Primo",
+      "C": "Sobrinho",
+      "D": "Tio"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Cobertor' em inglês?",
+    "opcoes": {
+      "A": "Sheet",
+      "B": "Blanket",
+      "C": "Pillow",
+      "D": "Towel"
+    },
+    "numero": "5",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Lawn'?",
+    "opcoes": {
+      "A": "Cerca",
+      "B": "Muro",
+      "C": "Gramado",
+      "D": "Calçada"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Sobrinha' em inglês?",
+    "opcoes": {
+      "A": "Niece",
+      "B": "Aunt",
+      "C": "Cousin",
+      "D": "Granddaughter"
+    },
     "numero": "7",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Foster child'?",
-    "opcoes": { "A": "Enteado(a)", "B": "Filho adotivo", "C": "Filho biológico", "D": "Primo(a)" },
+    "pergunta": "Qual é a tradução de 'Staircase'?",
+    "opcoes": {
+      "A": "Elevador",
+      "B": "Degrau",
+      "C": "Corrimão",
+      "D": "Escadaria"
+    },
     "numero": "8",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Hall table'?",
-    "opcoes": { "A": "Mesa de jantar", "B": "Mesa lateral", "C": "Mesa de corredor", "D": "Cômoda" },
-    "numero": "9",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby crib mobile'?",
-    "opcoes": { "A": "Móbile do berço", "B": "Colchão do bebê", "C": "Berço", "D": "Cadeira de bebê" },
-    "numero": "10",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stepgrandparent'?",
-    "opcoes": { "A": "Avô/madrasta por casamento", "B": "Avós adotivos", "C": "Tio-avô", "D": "Avô/madrasta" },
-    "numero": "11",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Pantry door'?",
-    "opcoes": { "A": "Porta da cozinha", "B": "Porta da despensa", "C": "Porta do armário", "D": "Porta do porão" },
-    "numero": "12",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Study room'?",
-    "opcoes": { "A": "Sala de estar", "B": "Escritório", "C": "Biblioteca", "D": "Quarto de estudo" },
-    "numero": "13",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby swing'?",
-    "opcoes": { "A": "Cadeira alta", "B": "Cadeirinha", "C": "Cadeirinha de balanço", "D": "Berço" },
-    "numero": "14",
-    "resposta_correta": "C"
+    "pergunta": "Como se diz 'Berço' em inglês?",
+    "opcoes": {
+      "A": "Crib",
+      "B": "Bed",
+      "C": "Sofa",
+      "D": "Stroller"
+    },
+    "numero": "9",
+    "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Playpen'?",
-    "opcoes": { "A": "Berço", "B": "Cercadinho de bebê", "C": "Cama", "D": "Cadeira alta" },
-    "numero": "15",
+    "pergunta": "Qual é a tradução de 'Daughter'?",
+    "opcoes": {
+      "A": "Esposa",
+      "B": "Filha",
+      "C": "Irmã",
+      "D": "Mãe"
+    },
+    "numero": "10",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Fire extinguisher'?",
-    "opcoes": { "A": "Fogão", "B": "Chaminé", "C": "Lareira", "D": "Extintor de incêndio" },
+    "pergunta": "Como se diz 'Travesseiro' em inglês?",
+    "opcoes": {
+      "A": "Cushion",
+      "B": "Matress",
+      "C": "Pillow",
+      "D": "Rug"
+    },
+    "numero": "11",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Stepson'?",
+    "opcoes": {
+      "A": "Genro",
+      "B": "Afilhado",
+      "C": "Sobrinho",
+      "D": "Enteado"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Vizinhança' em inglês?",
+    "opcoes": {
+      "A": "Village",
+      "B": "Neighborhood",
+      "C": "Street",
+      "D": "Town"
+    },
+    "numero": "13",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Faucet'?",
+    "opcoes": {
+      "A": "Torneira",
+      "B": "Pia",
+      "C": "Ralo",
+      "D": "Cano"
+    },
+    "numero": "14",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Relatives' em inglês?",
+    "opcoes": {
+      "A": "Pais",
+      "B": "Amigos",
+      "C": "Parentes",
+      "D": "Relacionamentos"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Hinges'?",
+    "opcoes": {
+      "A": "Trincos",
+      "B": "Parafusos",
+      "C": "Fechaduras",
+      "D": "Dobradiças"
+    },
     "numero": "16",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Toy chest'?",
-    "opcoes": { "A": "Prateleira de brinquedos", "B": "Armário de brinquedos", "C": "Caixa de brinquedos", "D": "Cesto de brinquedos" },
+    "pergunta": "Como se diz 'Sótão' em inglês?",
+    "opcoes": {
+      "A": "Basement",
+      "B": "Attic",
+      "C": "Balcony",
+      "D": "Hallway"
+    },
     "numero": "17",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Guest bedroom'?",
-    "opcoes": { "A": "Quarto de casal", "B": "Quarto de hóspedes", "C": "Quarto principal", "D": "Quarto infantil" },
-    "numero": "18",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Bunk bed ladder'?",
-    "opcoes": { "A": "Escada do beliche", "B": "Cama alta", "C": "Escada da garagem", "D": "Escada da varanda" },
-    "numero": "19",
+    "pergunta": "Qual é a tradução de 'Sibling'?",
+    "opcoes": {
+      "A": "Irmão ou irmã",
+      "B": "Primo ou prima",
+      "C": "Parente",
+      "D": "Cônjuge"
+    },
+    "numero": "18",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Family tree'?",
-    "opcoes": { "A": "Árvore do quintal", "B": "Árvore da casa", "C": "Árvore de natal", "D": "Árvore genealógica" },
+    "pergunta": "Como se diz 'Lata de lixo' em inglês?",
+    "opcoes": {
+      "A": "Bag",
+      "B": "Box",
+      "C": "Dustbin",
+      "D": "Can"
+    },
+    "numero": "19",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Driveway'?",
+    "opcoes": {
+      "A": "Estrada",
+      "B": "Garagem",
+      "C": "Calçada",
+      "D": "Caminho de entrada para carros"
+    },
+    "numero": "20",
+    "resposta_correta": "D"
+  }
+];
+export const quiz4 = [
+  {
+    "pergunta": "Como se diz 'Padrinho' em inglês?",
+    "opcoes": {
+      "A": "Grandfather",
+      "B": "Stepfather",
+      "C": "Godfather",
+      "D": "Brother-in-law"
+    },
+    "numero": "1",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Laundry room'?",
+    "opcoes": {
+      "A": "Banheiro",
+      "B": "Lavanderia",
+      "C": "Despensa",
+      "D": "Garagem"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Maçaneta' em inglês?",
+    "opcoes": {
+      "A": "Hinge",
+      "B": "Keyhole",
+      "C": "Lock",
+      "D": "Doorknob"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Stepdaughter'?",
+    "opcoes": {
+      "A": "Nora",
+      "B": "Enteada",
+      "C": "Sobrinha",
+      "D": "Afilhada"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Corrimão' em inglês?",
+    "opcoes": {
+      "A": "Banister",
+      "B": "Step",
+      "C": "Staircase",
+      "D": "Floor"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Great-grandmother'?",
+    "opcoes": {
+      "A": "Avó",
+      "B": "Madrasta",
+      "C": "Bisvó",
+      "D": "Tia-avó"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Ralo' em inglês?",
+    "opcoes": {
+      "A": "Pipe",
+      "B": "Drain",
+      "C": "Sink",
+      "D": "Faucet"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Son-in-law'?",
+    "opcoes": {
+      "A": "Genro",
+      "B": "Neto",
+      "C": "Padrasto",
+      "D": "Cunhado"
+    },
+    "numero": "8",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Quintal' em inglês?",
+    "opcoes": {
+      "A": "Garden",
+      "B": "Garage",
+      "C": "Balcony",
+      "D": "Backyard"
+    },
+    "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Rug'?",
+    "opcoes": {
+      "A": "Cortina",
+      "B": "Cobertor",
+      "C": "Tapete",
+      "D": "Almofada"
+    },
+    "numero": "10",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Cunhada' em inglês?",
+    "opcoes": {
+      "A": "Sister-in-law",
+      "B": "Daughter-in-law",
+      "C": "Mother-in-law",
+      "D": "Stepsister"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Basement'?",
+    "opcoes": {
+      "A": "Sótão",
+      "B": "Porão",
+      "C": "Quarto",
+      "D": "Escritório"
+    },
+    "numero": "12",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Calha' em inglês?",
+    "opcoes": {
+      "A": "Chimney",
+      "B": "Attic",
+      "C": "Fence",
+      "D": "Gutter"
+    },
+    "numero": "13",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Godmother'?",
+    "opcoes": {
+      "A": "Madrinha",
+      "B": "Madrasta",
+      "C": "Sogra",
+      "D": "Afilhada"
+    },
+    "numero": "14",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Afilhada' em inglês?",
+    "opcoes": {
+      "A": "Granddaughter",
+      "B": "Niece",
+      "C": "Goddaughter",
+      "D": "Godchild"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Wardrobe'?",
+    "opcoes": {
+      "A": "Cômoda",
+      "B": "Guarda-roupa",
+      "C": "Cama",
+      "D": "Espelho"
+    },
+    "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Meio-irmão' (de sangue) em inglês?",
+    "opcoes": {
+      "A": "Step-brother",
+      "B": "Brother-in-law",
+      "C": "Sibling",
+      "D": "Half-brother"
+    },
+    "numero": "17",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Dresser'?",
+    "opcoes": {
+      "A": "Cômoda",
+      "B": "Cabide",
+      "C": "Mesa",
+      "D": "Armário"
+    },
+    "numero": "18",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Hall de entrada' em inglês?",
+    "opcoes": {
+      "A": "Dining room",
+      "B": "Balcony",
+      "C": "Foyer",
+      "D": "Hallway"
+    },
+    "numero": "19",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Hinges'?",
+    "opcoes": {
+      "A": "Parafusos",
+      "B": "Trincos",
+      "C": "Fechaduras",
+      "D": "Dobradiças"
+    },
+    "numero": "20",
+    "resposta_correta": "D"
+  }
+];
+export const quiz5 = [
+  {
+    "pergunta": "Como se diz 'Padrinho' em inglês?",
+    "opcoes": {
+      "A": "Grandfather",
+      "B": "Stepfather",
+      "C": "Godfather",
+      "D": "Brother-in-law"
+    },
+    "numero": "1",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Laundry room'?",
+    "opcoes": {
+      "A": "Banheiro",
+      "B": "Lavanderia",
+      "C": "Despensa",
+      "D": "Garagem"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Maçaneta' em inglês?",
+    "opcoes": {
+      "A": "Hinge",
+      "B": "Keyhole",
+      "C": "Lock",
+      "D": "Doorknob"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Stepdaughter'?",
+    "opcoes": {
+      "A": "Nora",
+      "B": "Enteada",
+      "C": "Sobrinha",
+      "D": "Afilhada"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Corrimão' em inglês?",
+    "opcoes": {
+      "A": "Banister",
+      "B": "Step",
+      "C": "Staircase",
+      "D": "Floor"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Great-grandmother'?",
+    "opcoes": {
+      "A": "Avó",
+      "B": "Madrasta",
+      "C": "Bisvó",
+      "D": "Tia-avó"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Ralo' em inglês?",
+    "opcoes": {
+      "A": "Pipe",
+      "B": "Drain",
+      "C": "Sink",
+      "D": "Faucet"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Son-in-law'?",
+    "opcoes": {
+      "A": "Genro",
+      "B": "Neto",
+      "C": "Padrasto",
+      "D": "Cunhado"
+    },
+    "numero": "8",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Quintal' em inglês?",
+    "opcoes": {
+      "A": "Garden",
+      "B": "Garage",
+      "C": "Balcony",
+      "D": "Backyard"
+    },
+    "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Rug'?",
+    "opcoes": {
+      "A": "Cortina",
+      "B": "Cobertor",
+      "C": "Tapete",
+      "D": "Almofada"
+    },
+    "numero": "10",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Cunhada' em inglês?",
+    "opcoes": {
+      "A": "Sister-in-law",
+      "B": "Daughter-in-law",
+      "C": "Mother-in-law",
+      "D": "Stepsister"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Basement'?",
+    "opcoes": {
+      "A": "Sótão",
+      "B": "Porão",
+      "C": "Quarto",
+      "D": "Escritório"
+    },
+    "numero": "12",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Calha' em inglês?",
+    "opcoes": {
+      "A": "Chimney",
+      "B": "Attic",
+      "C": "Fence",
+      "D": "Gutter"
+    },
+    "numero": "13",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Godmother'?",
+    "opcoes": {
+      "A": "Madrinha",
+      "B": "Madrasta",
+      "C": "Sogra",
+      "D": "Afilhada"
+    },
+    "numero": "14",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Afilhada' em inglês?",
+    "opcoes": {
+      "A": "Granddaughter",
+      "B": "Niece",
+      "C": "Goddaughter",
+      "D": "Godchild"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Wardrobe'?",
+    "opcoes": {
+      "A": "Cômoda",
+      "B": "Guarda-roupa",
+      "C": "Cama",
+      "D": "Espelho"
+    },
+    "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Meio-irmão' (de sangue) em inglês?",
+    "opcoes": {
+      "A": "Step-brother",
+      "B": "Brother-in-law",
+      "C": "Sibling",
+      "D": "Half-brother"
+    },
+    "numero": "17",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Dresser'?",
+    "opcoes": {
+      "A": "Cômoda",
+      "B": "Cabide",
+      "C": "Mesa",
+      "D": "Armário"
+    },
+    "numero": "18",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Hall de entrada' em inglês?",
+    "opcoes": {
+      "A": "Dining room",
+      "B": "Balcony",
+      "C": "Foyer",
+      "D": "Hallway"
+    },
+    "numero": "19",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Hinges'?",
+    "opcoes": {
+      "A": "Parafusos",
+      "B": "Trincos",
+      "C": "Fechaduras",
+      "D": "Dobradiças"
+    },
     "numero": "20",
     "resposta_correta": "D"
   }
 ];
 export const quiz6 = [
   {
-    "pergunta": "Qual é a tradução de 'Baby bottle'?",
-    "opcoes": { "A": "Copo", "B": "Chávena", "C": "Mamadeira", "D": "Cantil" },
+    "pergunta": "Como se diz 'Sogra' em inglês?",
+    "opcoes": {
+      "A": "Sister-in-law",
+      "B": "Step-mother",
+      "C": "Godmother",
+      "D": "Mother-in-law"
+    },
     "numero": "1",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Foster home'?",
-    "opcoes": { "A": "Lar temporário", "B": "Casa de avós", "C": "Casa de parentes", "D": "Casa de adoção" },
-    "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Play mat'?",
-    "opcoes": { "A": "Cama infantil", "B": "Tapete de brincadeira", "C": "Tapete de quarto", "D": "Tapete de sala" },
-    "numero": "3",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Changing table'?",
-    "opcoes": { "A": "Mesa de jantar", "B": "Mesa de estudo", "C": "Mesa lateral", "D": "Mesa de troca de fraldas" },
-    "numero": "4",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Carpet'?",
-    "opcoes": { "A": "Tapete", "B": "Chão", "C": "Cortina", "D": "Colchão" },
+    "pergunta": "Qual é a tradução de 'Attic'?",
+    "opcoes": {
+      "A": "Porão",
+      "B": "Sótão",
+      "C": "Garagem",
+      "D": "Sacada"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Neto' em inglês?",
+    "opcoes": {
+      "A": "Grandson",
+      "B": "Nephew",
+      "C": "Cousin",
+      "D": "Step-son"
+    },
+    "numero": "3",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Dishwasher'?",
+    "opcoes": {
+      "A": "Geladeira",
+      "B": "Fogão",
+      "C": "Lava-louças",
+      "D": "Micro-ondas"
+    },
+    "numero": "4",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Cerca' em inglês?",
+    "opcoes": {
+      "A": "Fence",
+      "B": "Wall",
+      "C": "Gate",
+      "D": "Lawn"
+    },
     "numero": "5",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Lamp shade'?",
-    "opcoes": { "A": "Luminária", "B": "Abajur", "C": "Cúpula de lâmpada", "D": "Lâmpada" },
+    "pergunta": "Qual é a tradução de 'Stepfather'?",
+    "opcoes": {
+      "A": "Padrinho",
+      "B": "Sogro",
+      "C": "Tio",
+      "D": "Padrasto"
+    },
     "numero": "6",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby gate'?",
-    "opcoes": { "A": "Cerca de jardim", "B": "Portão de segurança para bebê", "C": "Portão da casa", "D": "Cerca de varanda" },
+    "pergunta": "Como se diz 'Toalheiro' em inglês?",
+    "opcoes": {
+      "A": "Shelf",
+      "B": "Towel rack",
+      "C": "Cabinet",
+      "D": "Drawer"
+    },
     "numero": "7",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Chest of drawers'?",
-    "opcoes": { "A": "Guarda-roupa", "B": "Estante", "C": "Armário", "D": "Cômoda" },
+    "pergunta": "Qual é a tradução de 'Niece'?",
+    "opcoes": {
+      "A": "Neta",
+      "B": "Prima",
+      "C": "Sobrinha",
+      "D": "Afilhada"
+    },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Play kitchen'?",
-    "opcoes": { "A": "Cozinha de brinquedo", "B": "Cozinha infantil", "C": "Cozinha real", "D": "Cozinha de escola" },
+    "pergunta": "Como se diz 'Cortinas' em inglês?",
+    "opcoes": {
+      "A": "Blinds",
+      "B": "Curtains",
+      "C": "Rugs",
+      "D": "Sheets"
+    },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby walker'?",
-    "opcoes": { "A": "Carrinho de bebê", "B": "Cadeira alta", "C": "Andador de bebê", "D": "Berço" },
+    "pergunta": "Qual é a tradução de 'Great-grandfather'?",
+    "opcoes": {
+      "A": "Bisavô",
+      "B": "Avô",
+      "C": "Tataravô",
+      "D": "Tio-avô"
+    },
     "numero": "10",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Curtain rod'?",
-    "opcoes": { "A": "Varão de cortina", "B": "Cortina", "C": "Persiana", "D": "Tapete" },
+    "pergunta": "Como se diz 'Chaminé' em inglês?",
+    "opcoes": {
+      "A": "Roof",
+      "B": "Gutter",
+      "C": "Vent",
+      "D": "Chimney"
+    },
     "numero": "11",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stepfamily'?",
-    "opcoes": { "A": "Família adotiva", "B": "Família com padrastos/madrastras", "C": "Família biológica", "D": "Família extensa" },
-    "numero": "12",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Toy shelf'?",
-    "opcoes": { "A": "Mesa de brinquedos", "B": "Armário de brinquedos", "C": "Cesto de brinquedos", "D": "Prateleira de brinquedos" },
-    "numero": "13",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Changing pad'?",
-    "opcoes": { "A": "Colchão", "B": "Berço", "C": "Trocador de fraldas", "D": "Cama" },
-    "numero": "14",
+    "pergunta": "Qual é a tradução de 'Pillowcase'?",
+    "opcoes": {
+      "A": "Lençol",
+      "B": "Cobertor",
+      "C": "Fronha",
+      "D": "Almofada"
+    },
+    "numero": "12",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Family room'?",
-    "opcoes": { "A": "Sala de família", "B": "Sala de estar", "C": "Quarto", "D": "Escritório" },
-    "numero": "15",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Laundry basket'?",
-    "opcoes": { "A": "Cesto de brinquedos", "B": "Cesto de roupas sujas", "C": "Cesto de cozinha", "D": "Cesto de sala" },
-    "numero": "16",
+    "pergunta": "Como se diz 'Sobrinho' em inglês?",
+    "opcoes": {
+      "A": "Cousin",
+      "B": "Nephew",
+      "C": "Godson",
+      "D": "Grandson"
+    },
+    "numero": "13",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby formula'?",
-    "opcoes": { "A": "Comida de bebê", "B": "Mamadeira", "C": "Suco", "D": "Leite de bebê" },
-    "numero": "17",
+    "pergunta": "Qual é a tradução de 'Doormat'?",
+    "opcoes": {
+      "A": "Capacho",
+      "B": "Tapete",
+      "C": "Piso",
+      "D": "Batente"
+    },
+    "numero": "14",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Enteada' em inglês?",
+    "opcoes": {
+      "A": "Step-sister",
+      "B": "Daughter-in-law",
+      "C": "Step-daughter",
+      "D": "Goddaughter"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Mailbox'?",
+    "opcoes": {
+      "A": "Portão",
+      "B": "Campainha",
+      "C": "Entrada",
+      "D": "Caixa de correio"
+    },
+    "numero": "16",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Nightstand'?",
-    "opcoes": { "A": "Cômoda", "B": "Criado-mudo", "C": "Mesa de jantar", "D": "Mesa de centro" },
+    "pergunta": "Como se diz 'Pia de cozinha' em inglês?",
+    "opcoes": {
+      "A": "Sink",
+      "B": "Faucet",
+      "C": "Drain",
+      "D": "Countertop"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Sibling'?",
+    "opcoes": {
+      "A": "Parente",
+      "B": "Irmão ou irmã",
+      "C": "Cônjuge",
+      "D": "Primo"
+    },
     "numero": "18",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby monitor camera'?",
-    "opcoes": { "A": "Câmera de segurança", "B": "Câmera de vídeo", "C": "Câmera de bebê", "D": "Câmera de televisão" },
+    "pergunta": "Como se diz 'Despensa' em inglês?",
+    "opcoes": {
+      "A": "Laundry",
+      "B": "Basement",
+      "C": "Pantry",
+      "D": "Attic"
+    },
     "numero": "19",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Family dinner'?",
-    "opcoes": { "A": "Jantar sozinho", "B": "Almoço em família", "C": "Reunião", "D": "Jantar em família" },
+    "pergunta": "Qual é a tradução de 'Nightstand'?",
+    "opcoes": {
+      "A": "Cama",
+      "B": "Abajur",
+      "C": "Guarda-roupa",
+      "D": "Criado-mudo"
+    },
     "numero": "20",
     "resposta_correta": "D"
   }
 ];
 export const quiz7 = [
   {
-    "pergunta": "Qual é a tradução de 'Baby'?",
-    "opcoes": { "A": "Criança", "B": "Bebê", "C": "Adulto", "D": "Avô" },
+    "pergunta": "Como se diz 'Sogro' em inglês?",
+    "opcoes": {
+      "A": "Step-father",
+      "B": "Uncle",
+      "C": "Father-in-law",
+      "D": "Godfather"
+    },
     "numero": "1",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Toddler'?",
-    "opcoes": { "A": "Bebê", "B": "Adolescente", "C": "Adulto", "D": "Criança pequena" },
-    "numero": "2",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Playroom'?",
-    "opcoes": { "A": "Sala de estar", "B": "Cozinha", "C": "Quarto de brincar", "D": "Banheiro" },
-    "numero": "3",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Balcony'?",
-    "opcoes": { "A": "Varanda", "B": "Terraço", "C": "Jardim", "D": "Corredor" },
+    "pergunta": "Qual é a tradução de 'Driveway'?",
+    "opcoes": {
+      "A": "Garagem fechada",
+      "B": "Entrada de carros (acesso)",
+      "C": "Calçada",
+      "D": "Rodovia"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Prateleira' em inglês?",
+    "opcoes": {
+      "A": "Drawer",
+      "B": "Countertop",
+      "C": "Cabinet",
+      "D": "Shelf"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Son-in-law'?",
+    "opcoes": {
+      "A": "Genro",
+      "B": "Enteado",
+      "C": "Sobrinho",
+      "D": "Afilhado"
+    },
     "numero": "4",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Garage'?",
-    "opcoes": { "A": "Quarto", "B": "Cozinha", "C": "Sala", "D": "Garagem" },
+    "pergunta": "Como se diz 'Claraboia' em inglês?",
+    "opcoes": {
+      "A": "Window",
+      "B": "Ceiling",
+      "C": "Skylight",
+      "D": "Flashlight"
+    },
     "numero": "5",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Pantry'?",
-    "opcoes": { "A": "Armário", "B": "Prateleira", "C": "Despensa", "D": "Cômoda" },
+    "opcoes": {
+      "A": "Cozinha",
+      "B": "Lavanderia",
+      "C": "Sótão",
+      "D": "Despensa"
+    },
     "numero": "6",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Hall'?",
-    "opcoes": { "A": "Corredor", "B": "Quarto", "C": "Sala", "D": "Banheiro" },
+    "pergunta": "Como se diz 'Bisavó' em inglês?",
+    "opcoes": {
+      "A": "Grandmother",
+      "B": "Great-grandmother",
+      "C": "Godmother",
+      "D": "Step-mother"
+    },
     "numero": "7",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Bookshelf'?",
-    "opcoes": { "A": "Prateleira", "B": "Estante de livros", "C": "Mesa", "D": "Cômoda" },
+    "pergunta": "Qual é a tradução de 'Hedge'?",
+    "opcoes": {
+      "A": "Cerca viva",
+      "B": "Gramado",
+      "C": "Portão",
+      "D": "Muro"
+    },
     "numero": "8",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Crib'?",
-    "opcoes": { "A": "Cama", "B": "Cadeira", "C": "Sofá", "D": "Berço" },
-    "numero": "9",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Stroller'?",
-    "opcoes": { "A": "Carrinho de bebê", "B": "Cadeira", "C": "Berço", "D": "Cama" },
-    "numero": "10",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'High chair'?",
-    "opcoes": { "A": "Cadeira comum", "B": "Cadeira alta", "C": "Sofá", "D": "Mesa" },
-    "numero": "11",
+    "pergunta": "Como se diz 'Lava-louças' em inglês?",
+    "opcoes": {
+      "A": "Washing machine",
+      "B": "Dishwasher",
+      "C": "Dryer",
+      "D": "Sink"
+    },
+    "numero": "9",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Rattle'?",
-    "opcoes": { "A": "Brinquedo", "B": "Boneca", "C": "Chocalho", "D": "Copo" },
-    "numero": "12",
+    "pergunta": "Qual é a tradução de 'Basement'?",
+    "opcoes": {
+      "A": "Sótão",
+      "B": "Escritório",
+      "C": "Porão",
+      "D": "Corredor"
+    },
+    "numero": "10",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Bib'?",
-    "opcoes": { "A": "Fralda", "B": "Toalha", "C": "Cobertor", "D": "Babador" },
-    "numero": "13",
+    "pergunta": "Como se diz 'Cunhado' em inglês?",
+    "opcoes": {
+      "A": "Brother-in-law",
+      "B": "Step-brother",
+      "C": "Sibling",
+      "D": "Son-in-law"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Faucet'?",
+    "opcoes": {
+      "A": "Ralo",
+      "B": "Cano",
+      "C": "Pia",
+      "D": "Torneira"
+    },
+    "numero": "12",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Pacifier'?",
-    "opcoes": { "A": "Chupeta", "B": "Brinquedo", "C": "Mamadeira", "D": "Boneca" },
+    "pergunta": "Como se diz 'Madrasta' em inglês?",
+    "opcoes": {
+      "A": "Mother-in-law",
+      "B": "Step-mother",
+      "C": "Godmother",
+      "D": "Aunt"
+    },
+    "numero": "13",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Shutter'?",
+    "opcoes": {
+      "A": "Persiana/Obturador",
+      "B": "Vidro",
+      "C": "Cortina",
+      "D": "Trinco"
+    },
     "numero": "14",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Diaper'?",
-    "opcoes": { "A": "Cobertor", "B": "Fralda", "C": "Roupinha", "D": "Lenço" },
+    "pergunta": "Como se diz 'Portão' em inglês?",
+    "opcoes": {
+      "A": "Fence",
+      "B": "Wall",
+      "C": "Gate",
+      "D": "Entrance"
+    },
     "numero": "15",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Bottle'?",
-    "opcoes": { "A": "Copo", "B": "Garrafa", "C": "Mamadeira", "D": "Prato" },
-    "numero": "16",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Playpen'?",
-    "opcoes": { "A": "Cercadinho", "B": "Berço", "C": "Cama", "D": "Cadeira" },
+    "pergunta": "Qual é a tradução de 'Niece'?",
+    "opcoes": {
+      "A": "Neta",
+      "B": "Noiva",
+      "C": "Prima",
+      "D": "Sobrinha"
+    },
+    "numero": "16",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Gaveta' em inglês?",
+    "opcoes": {
+      "A": "Drawer",
+      "B": "Closet",
+      "C": "Cabinet",
+      "D": "Shelf"
+    },
     "numero": "17",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Mobile'?",
-    "opcoes": { "A": "Carrinho", "B": "Móbile", "C": "Boneca", "D": "Chocalho" },
+    "pergunta": "Qual é a tradução de 'Great-uncle'?",
+    "opcoes": {
+      "A": "Padrasto",
+      "B": "Tio-avô",
+      "C": "Bisavô",
+      "D": "Primo"
+    },
     "numero": "18",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Teether'?",
-    "opcoes": { "A": "Brinquedo", "B": "Boneca", "C": "Cobertor", "D": "Mordedor" },
+    "pergunta": "Como se diz 'Muro' em inglês?",
+    "opcoes": {
+      "A": "Fence",
+      "B": "Gate",
+      "C": "Wall",
+      "D": "Brick"
+    },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Swing'?",
-    "opcoes": { "A": "Cadeira", "B": "Balanço", "C": "Berço", "D": "Cama" },
+    "pergunta": "Qual é a tradução de 'Doormat'?",
+    "opcoes": {
+      "A": "Tapete de sala",
+      "B": "Carpete",
+      "C": "Almofada",
+      "D": "Capacho"
+    },
     "numero": "20",
-    "resposta_correta": "B"
-  },
- 
+    "resposta_correta": "D"
+  }
 ];
 export const quiz8 = [
   {
-    "pergunta": "Qual é a tradução de 'Mattress'?",
-    "opcoes": { "A": "Travesseiro", "B": "Colchão", "C": "Cobertor", "D": "Cama" },
+    "pergunta": "Qual é a tradução de 'Great-uncle'?",
+    "opcoes": {
+      "A": "Bisavô",
+      "B": "Padrasto",
+      "C": "Tio-avô",
+      "D": "Primo"
+    },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Pillow'?",
-    "opcoes": { "A": "Colchão", "B": "Cobertor", "C": "Toalha", "D": "Travesseiro" },
+    "pergunta": "Como se diz 'Soleira' em inglês?",
+    "opcoes": {
+      "A": "Threshold",
+      "B": "Ceiling",
+      "C": "Wall",
+      "D": "Floorboard"
+    },
     "numero": "2",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Blanket'?",
-    "opcoes": { "A": "Cobertor", "B": "Travesseiro", "C": "Colchão", "D": "Tapete" },
-    "numero": "3",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Lamp'?",
-    "opcoes": { "A": "Candeeiro", "B": "Vela", "C": "Lâmpada", "D": "Lanterna" },
-    "numero": "4",
-    "resposta_correta": "C"
+    "pergunta": "Qual é a tradução de 'Godson'?",
+    "opcoes": {
+      "A": "Neto",
+      "B": "Sobrinho",
+      "C": "Enteado",
+      "D": "Afilhado"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Curtain'?",
-    "opcoes": { "A": "Persiana", "B": "Cortina", "C": "Toldo", "D": "Tapete" },
-    "numero": "5",
+    "pergunta": "Como se diz 'Aquecedor' em inglês?",
+    "opcoes": {
+      "A": "Fan",
+      "B": "Heater",
+      "C": "Cooler",
+      "D": "Air conditioning"
+    },
+    "numero": "4",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Vase'?",
-    "opcoes": { "A": "Copo", "B": "Prato", "C": "Frasco", "D": "Vaso" },
-    "numero": "6",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Clock'?",
-    "opcoes": { "A": "Calendário", "B": "Despertador", "C": "Relógio", "D": "Ampulheta" },
-    "numero": "7",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Picture'?",
-    "opcoes": { "A": "Quadro", "B": "Fotografia", "C": "Pôster", "D": "Tela" },
-    "numero": "8",
+    "pergunta": "Qual é a tradução de 'Hedge'?",
+    "opcoes": {
+      "A": "Cerca viva",
+      "B": "Muro",
+      "C": "Portão",
+      "D": "Gramado"
+    },
+    "numero": "5",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Candle'?",
-    "opcoes": { "A": "Lanterna", "B": "Luz", "C": "Candelabro", "D": "Vela" },
+    "pergunta": "Como se diz 'Ventilador de teto' em inglês?",
+    "opcoes": {
+      "A": "Exhaust fan",
+      "B": "Table fan",
+      "C": "Ceiling fan",
+      "D": "Chandelier"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Relative'?",
+    "opcoes": {
+      "A": "Pais",
+      "B": "Parente",
+      "C": "Irmãos",
+      "D": "Cônjuge"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Corredor' em inglês?",
+    "opcoes": {
+      "A": "Lobby",
+      "B": "Foyer",
+      "C": "Porch",
+      "D": "Hallway"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Nursery'?",
+    "opcoes": {
+      "A": "Enfermaria",
+      "B": "Sótão",
+      "C": "Despensa",
+      "D": "Quarto de bebê"
+    },
     "numero": "9",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Shelf'?",
-    "opcoes": { "A": "Estante", "B": "Prateleira", "C": "Armário", "D": "Cômoda" },
+    "pergunta": "Como se diz 'Estante de livros' em inglês?",
+    "opcoes": {
+      "A": "Bookcase",
+      "B": "Library",
+      "C": "Wardrobe",
+      "D": "Desk"
+    },
     "numero": "10",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Basket'?",
-    "opcoes": { "A": "Caixa", "B": "Pote", "C": "Cesto", "D": "Saco" },
+    "pergunta": "Qual é a tradução de 'Plumbing'?",
+    "opcoes": {
+      "A": "Fiação",
+      "B": "Pintura",
+      "C": "Encanamento",
+      "D": "Telhado"
+    },
     "numero": "11",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Carpet'?",
-    "opcoes": { "A": "Cortina", "B": "Cobertor", "C": "Colchão", "D": "Tapete" },
+    "pergunta": "Como se diz 'Meia-irmã' em inglês?",
+    "opcoes": {
+      "A": "Stepsister",
+      "B": "Half-sister",
+      "C": "Sister-in-law",
+      "D": "Sibling"
+    },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Cushion'?",
-    "opcoes": { "A": "Almofada", "B": "Travesseiro", "C": "Cobertor", "D": "Colchão" },
+    "pergunta": "Qual é a tradução de 'Skylight'?",
+    "opcoes": {
+      "A": "Claraboia",
+      "B": "Lanterna",
+      "C": "Abajur",
+      "D": "Luminária"
+    },
     "numero": "13",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Lamp shade'?",
-    "opcoes": { "A": "Lâmpada", "B": "Abajur", "C": "Candeeiro", "D": "Lanterna" },
+    "pergunta": "Como se diz 'Portão' em inglês?",
+    "opcoes": {
+      "A": "Fence",
+      "B": "Wall",
+      "C": "Door",
+      "D": "Gate"
+    },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Painting'?",
-    "opcoes": { "A": "Quadro", "B": "Pintura", "C": "Fotografia", "D": "Tela" },
+    "pergunta": "Qual é a tradução de 'Floorboard'?",
+    "opcoes": {
+      "A": "Rodapé",
+      "B": "Carpete",
+      "C": "Tábua de assoalho",
+      "D": "Azulejo"
+    },
     "numero": "15",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Poster'?",
-    "opcoes": { "A": "Quadro", "B": "Tela", "C": "Pôster", "D": "Cartaz" },
-    "numero": "16",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Drawer'?",
-    "opcoes": { "A": "Cômoda", "B": "Armário", "C": "Prateleira", "D": "Gaveta" },
+    "pergunta": "Como se diz 'Tataraneto' em inglês?",
+    "opcoes": {
+      "A": "Grandson",
+      "B": "Great-great-grandson",
+      "C": "Great-grandson",
+      "D": "Step-son"
+    },
+    "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Back porch'?",
+    "opcoes": {
+      "A": "Varanda frontal",
+      "B": "Garagem",
+      "C": "Área de serviço",
+      "D": "Varanda dos fundos"
+    },
     "numero": "17",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Plant'?",
-    "opcoes": { "A": "Planta", "B": "Vaso", "C": "Flor", "D": "Folha" },
+    "pergunta": "Como se diz 'Sótão' em inglês?",
+    "opcoes": {
+      "A": "Attic",
+      "B": "Basement",
+      "C": "Cellar",
+      "D": "Storage"
+    },
     "numero": "18",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Nightstand'?",
-    "opcoes": { "A": "Mesa de cabeceira", "B": "Cômoda", "C": "Criado-mudo", "D": "Estante" },
+    "pergunta": "Qual é a tradução de 'Doorbell'?",
+    "opcoes": {
+      "A": "Maçaneta",
+      "B": "Campainha",
+      "C": "Trinco",
+      "D": "Dobradiça"
+    },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Dresser'?",
-    "opcoes": { "A": "Cômoda", "B": "Armário", "C": "Estante", "D": "Gaveta" },
+    "pergunta": "Como se diz 'Pia' em inglês?",
+    "opcoes": {
+      "A": "Shower",
+      "B": "Toilet",
+      "C": "Sink",
+      "D": "Bathtub"
+    },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   }
 ];
 export const quiz9 = [
   {
-    "pergunta": "Qual é a tradução de 'Baby monitor'?",
-    "opcoes": { "A": "Carrinho de bebê", "B": "Berço", "C": "Monitor de bebê", "D": "Brinquedo" },
+    "pergunta": "Como se diz 'Tataravô' em inglês?",
+    "opcoes": {
+      "A": "Great-grandfather",
+      "B": "Grand-ancestor",
+      "C": "Great-great-grandfather",
+      "D": "Step-grandfather"
+    },
     "numero": "1",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Changing mat'?",
-    "opcoes": { "A": "Berço", "B": "Cama", "C": "Tapete", "D": "Trocador" },
+    "pergunta": "Qual é a tradução de 'Staircase'?",
+    "opcoes": {
+      "A": "Escadaria",
+      "B": "Degrau",
+      "C": "Corrimão",
+      "D": "Sótão"
+    },
     "numero": "2",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Walker'?",
-    "opcoes": { "A": "Andador", "B": "Carrinho", "C": "Berço", "D": "Cadeira alta" },
-    "numero": "3",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Play mat'?",
-    "opcoes": { "A": "Tapete comum", "B": "Tapete de clicar", "C": "Tapete de brincar", "D": "Cama" },
+    "pergunta": "Como se diz 'Cunhado' em inglês?",
+    "opcoes": {
+      "A": "Sibling-in-law",
+      "B": "Step-brother",
+      "C": "Cousin",
+      "D": "Brother-in-law"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Pantry'?",
+    "opcoes": {
+      "A": "Cozinha",
+      "B": "Despensa",
+      "C": "Armário",
+      "D": "Porão"
+    },
     "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Fronha' em inglês?",
+    "opcoes": {
+      "A": "Pillowcase",
+      "B": "Blanket",
+      "C": "Sheet",
+      "D": "Curtain"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Step-mother'?",
+    "opcoes": {
+      "A": "Sogra",
+      "B": "Madrinha",
+      "C": "Madrasta",
+      "D": "Tia"
+    },
+    "numero": "6",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby lotion'?",
-    "opcoes": { "A": "Creme", "B": "Loção para bebê", "C": "Óleo", "D": "Sabonete" },
-    "numero": "5",
+    "pergunta": "Como se diz 'Lixeira' em inglês?",
+    "opcoes": {
+      "A": "Basket",
+      "B": "Trash can",
+      "C": "Box",
+      "D": "Drain"
+    },
+    "numero": "7",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Toddler bed'?",
-    "opcoes": { "A": "Berço", "B": "Cama de casal", "C": "Cama alta", "D": "Cama infantil" },
-    "numero": "6",
+    "pergunta": "Qual é a tradução de 'Great-granddaughter'?",
+    "opcoes": {
+      "A": "Neta",
+      "B": "Sobrinha",
+      "C": "Afilhada",
+      "D": "Bisneta"
+    },
+    "numero": "8",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Safety gate'?",
-    "opcoes": { "A": "Portão de segurança", "B": "Cerca", "C": "Porta", "D": "Grade" },
-    "numero": "7",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Night light'?",
-    "opcoes": { "A": "Lâmpada", "B": "Luz noturna", "C": "Lanterna", "D": "Abajur" },
-    "numero": "8",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Toy box'?",
-    "opcoes": { "A": "Cofre", "B": "Armário", "C": "Estante", "D": "Caixa de brinquedos" },
+    "pergunta": "Como se diz 'Tapete (pequeno/capacho)' em inglês?",
+    "opcoes": {
+      "A": "Carpet",
+      "B": "Sheet",
+      "C": "Curtain",
+      "D": "Mat"
+    },
     "numero": "9",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Drawer knob'?",
-    "opcoes": { "A": "Puxador de gaveta", "B": "Gaveta", "C": "Armário", "D": "Porta" },
+    "pergunta": "Qual é a tradução de 'Gutter'?",
+    "opcoes": {
+      "A": "Calha",
+      "B": "Telhado",
+      "C": "Chaminé",
+      "D": "Cano"
+    },
     "numero": "10",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Bean bag'?",
-    "opcoes": { "A": "Sofá", "B": "Cadeira", "C": "Puff", "D": "Poltrona" },
+    "pergunta": "Como se diz 'Genro' em inglês?",
+    "opcoes": {
+      "A": "Step-son",
+      "B": "Nephew",
+      "C": "Son-in-law",
+      "D": "Grandson"
+    },
     "numero": "11",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Chest of drawers'?",
-    "opcoes": { "A": "Armário", "B": "Cômoda", "C": "Estante", "D": "Prateleira" },
+    "pergunta": "Qual é a tradução de 'Basement'?",
+    "opcoes": {
+      "A": "Sótão",
+      "B": "Porão",
+      "C": "Garagem",
+      "D": "Escritório"
+    },
     "numero": "12",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Changing table'?",
-    "opcoes": { "A": "Mesa", "B": "Cômoda", "C": "Berço", "D": "Trocador" },
+    "pergunta": "Como se diz 'Neta' em inglês?",
+    "opcoes": {
+      "A": "Granddaughter",
+      "B": "Niece",
+      "C": "Goddaughter",
+      "D": "Cousin"
+    },
     "numero": "13",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Rocker'?",
-    "opcoes": { "A": "Cadeira de balanço", "B": "Poltrona", "C": "Sofá", "D": "Cadeira comum" },
-    "numero": "14",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Toy car'?",
-    "opcoes": { "A": "Carrinho de bebê", "B": "Carrinho de brinquedo", "C": "Carro", "D": "Triciclo" },
-    "numero": "15",
-    "resposta_correta": "B"
+    "pergunta": "Qual é a tradução de 'Fireplace'?",
+    "opcoes": {
+      "A": "Fogão",
+      "B": "Aquecedor",
+      "C": "Churrasqueira",
+      "D": "Lareira"
+    },
+    "numero": "14",
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby swing'?",
-    "opcoes": { "A": "Cadeira de balanço", "B": "Balanço de bebê", "C": "Berço", "D": "Cama" },
+    "pergunta": "Como se diz 'Cerca' em inglês?",
+    "opcoes": {
+      "A": "Wall",
+      "B": "Gate",
+      "C": "Fence",
+      "D": "Hedge"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'First cousin'?",
+    "opcoes": {
+      "A": "Irmão",
+      "B": "Primo de primeiro grau",
+      "C": "Sobrinho",
+      "D": "Tio"
+    },
     "numero": "16",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Changing pad'?",
-    "opcoes": { "A": "Cobertor", "B": "Colchão", "C": "Trocador", "D": "Cama" },
+    "pergunta": "Como se diz 'Lavanderia' em inglês?",
+    "opcoes": {
+      "A": "Bathroom",
+      "B": "Kitchen",
+      "C": "Garage",
+      "D": "Laundry room"
+    },
     "numero": "17",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Diaper bag'?",
-    "opcoes": { "A": "Mochila", "B": "Bolsa", "C": "Saco", "D": "Bolsa de fraldas" },
-    "numero": "18",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby crib mobile'?",
-    "opcoes": { "A": "Berço", "B": "Brinquedo", "C": "Móbile de berço", "D": "Carrinho" },
-    "numero": "19",
-    "resposta_correta": "C"
+    "pergunta": "Qual é a tradução de 'Attic'?",
+    "opcoes": {
+      "A": "Sótão",
+      "B": "Porão",
+      "C": "Telhado",
+      "D": "Quarto"
+    },
+    "numero": "18",
+    "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby blanket'?",
-    "opcoes": { "A": "Cobertor de bebê", "B": "Cobertor", "C": "Toalha", "D": "Lençol" },
+    "pergunta": "Como se diz 'Sobrinha' em inglês?",
+    "opcoes": {
+      "A": "Nephew",
+      "B": "Niece",
+      "C": "Cousin",
+      "D": "Aunt"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Driveway'?",
+    "opcoes": {
+      "A": "Rodovia",
+      "B": "Calçada",
+      "C": "Entrada de carros",
+      "D": "Garagem"
+    },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   }
 ];
 export const quiz10 = [
   {
-    "pergunta": "Qual é a tradução de 'Cradle'?",
-    "opcoes": { "A": "Cama", "B": "Berço balançante", "C": "Carrinho", "D": "Cômoda" },
+    "pergunta": "Como se diz 'Enteada' em inglês?",
+    "opcoes": {
+      "A": "Daughter-in-law",
+      "B": "Step-daughter",
+      "C": "God-daughter",
+      "D": "Half-sister"
+    },
     "numero": "1",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Changing basket'?",
-    "opcoes": { "A": "Cesto de roupas", "B": "Cesto de brinquedos", "C": "Cesto de cama", "D": "Cesto de fraldas" },
-    "numero": "2",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby chair'?",
-    "opcoes": { "A": "Cadeira comum", "B": "Cadeira alta", "C": "Cadeira infantil", "D": "Cadeira de balanço" },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Diaper pail'?",
-    "opcoes": { "A": "Lixeira de fraldas", "B": "Cesto de roupas", "C": "Lixeira comum", "D": "Cesto de brinquedos" },
-    "numero": "4",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby gate'?",
-    "opcoes": { "A": "Porta pequena", "B": "Portão de bebê", "C": "Portão de segurança", "D": "Grade" },
-    "numero": "5",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bassinet'?",
-    "opcoes": { "A": "Berço grande", "B": "Cama infantil", "C": "Berço portátil", "D": "Berço balançante" },
-    "numero": "6",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Nursery'?",
-    "opcoes": { "A": "Quarto de bebê", "B": "Sala de brincar", "C": "Quarto infantil", "D": "Berçário" },
-    "numero": "7",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby mobile'?",
-    "opcoes": { "A": "Brinquedo de bebê", "B": "Móbile de quarto", "C": "Berço", "D": "Móbile de bebê" },
-    "numero": "8",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby toy'?",
-    "opcoes": { "A": "Brinquedo comum", "B": "Boneca", "C": "Brinquedo de bebê", "D": "Carrinho" },
-    "numero": "9",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Changing table pad'?",
-    "opcoes": { "A": "Trocador simples", "B": "Colchão", "C": "Cama de bebê", "D": "Trocador acolchoado" },
-    "numero": "10",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby rocker'?",
-    "opcoes": { "A": "Cadeirinha de balanço", "B": "Cadeira infantil", "C": "Sofá", "D": "Berço" },
-    "numero": "11",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bouncer'?",
-    "opcoes": { "A": "Berço", "B": "Cadeira alta", "C": "Cama infantil", "D": "Assento saltitante" },
-    "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Changing kit'?",
-    "opcoes": { "A": "Kit de banho", "B": "Kit de troca", "C": "Kit de brinquedo", "D": "Kit de bebê" },
-    "numero": "13",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bath'?",
-    "opcoes": { "A": "Banheira de bebê", "B": "Banheira comum", "C": "Piscina", "D": "Chuveiro" },
-    "numero": "14",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby carrier'?",
-    "opcoes": { "A": "Mochila", "B": "Canguru de bebê", "C": "Carrinho", "D": "Berço" },
-    "numero": "15",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby swing seat'?",
-    "opcoes": { "A": "Assento de balanço", "B": "Cadeira de balanço", "C": "Berço", "D": "Cadeira comum" },
-    "numero": "16",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Nursery chair'?",
-    "opcoes": { "A": "Cadeira comum", "B": "Poltrona", "C": "Cadeira alta", "D": "Cadeira do quarto de bebê" },
-    "numero": "17",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby sleeping bag'?",
-    "opcoes": { "A": "Cobertor", "B": "Saco de dormir de bebê", "C": "Colchão", "D": "Lençol" },
-    "numero": "18",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby mittens'?",
-    "opcoes": { "A": "Meias", "B": "Luvas comuns", "C": "Luvas de bebê", "D": "Sapatinhos" },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby hooded towel'?",
-    "opcoes": { "A": "Toalha comum", "B": "Cobertor", "C": "Toalha com capuz", "D": "Fralda" },
-    "numero": "20",
-    "resposta_correta": "C"
-  }
-];
-export const quiz11 = [
-  {
-    "pergunta": "Qual é a tradução de 'Baby socks'?",
-    "opcoes": { "A": "Luvas de bebê", "B": "Meias de bebê", "C": "Sapatos", "D": "Chinelos" },
-    "numero": "1",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby shoes'?",
-    "opcoes": { "A": "Sapatos de bebê", "B": "Meias", "C": "Tênis", "D": "Sandálias" },
+    "pergunta": "Qual é a tradução de 'Ceiling'?",
+    "opcoes": {
+      "A": "Teto",
+      "B": "Telhado",
+      "C": "Chão",
+      "D": "Parede"
+    },
     "numero": "2",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Changing station'?",
-    "opcoes": { "A": "Trocador", "B": "Mesa", "C": "Cômoda", "D": "Estação de troca" },
+    "pergunta": "Como se diz 'Campainha' em inglês?",
+    "opcoes": {
+      "A": "Knocker",
+      "B": "Alarm",
+      "C": "Lock",
+      "D": "Doorbell"
+    },
     "numero": "3",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby bib holder'?",
-    "opcoes": { "A": "Babador", "B": "Cesta", "C": "Suporte para babador", "D": "Gancho" },
+    "pergunta": "Qual é a tradução de 'Spouse'?",
+    "opcoes": {
+      "A": "Primo",
+      "B": "Cônjuge",
+      "C": "Parente",
+      "D": "Noivo"
+    },
     "numero": "4",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby bath mat'?",
-    "opcoes": { "A": "Tapete de banho para bebê", "B": "Tapete comum", "C": "Cobertor", "D": "Colchão" },
+    "pergunta": "Como se diz 'Corrimão' em inglês?",
+    "opcoes": {
+      "A": "Banister",
+      "B": "Step",
+      "C": "Landing",
+      "D": "Railing"
+    },
     "numero": "5",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Nursery rug'?",
-    "opcoes": { "A": "Tapete comum", "B": "Tapete do quarto de bebê", "C": "Colchão", "D": "Cobertor" },
+    "pergunta": "Qual é a tradução de 'Niece'?",
+    "opcoes": {
+      "A": "Neta",
+      "B": "Noiva",
+      "C": "Sobrinha",
+      "D": "Madrinha"
+    },
     "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Diaper cream'?",
-    "opcoes": { "A": "Loção", "B": "Óleo", "C": "Creme para assaduras", "D": "Sabonete" },
-    "numero": "7",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby lotion bottle'?",
-    "opcoes": { "A": "Mamadeira", "B": "Sabonete", "C": "Óleo", "D": "Frasco de loção para bebê" },
+    "pergunta": "Como se diz 'Maçaneta' em inglês?",
+    "opcoes": {
+      "A": "Keyhole",
+      "B": "Doorknob",
+      "C": "Hinge",
+      "D": "Bolt"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Dresser'?",
+    "opcoes": {
+      "A": "Guarda-roupa",
+      "B": "Espelho",
+      "C": "Cama",
+      "D": "Cômoda"
+    },
     "numero": "8",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby food jar'?",
-    "opcoes": { "A": "Pote de comida para bebê", "B": "Pote de frutas", "C": "Frasco de vidro", "D": "Pote de sopa" },
+    "pergunta": "Como se diz 'Padrinho' em inglês?",
+    "opcoes": {
+      "A": "Step-father",
+      "B": "Uncle-in-law",
+      "C": "Relative",
+      "D": "Godfather"
+    },
     "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Basement'?",
+    "opcoes": {
+      "A": "Porão",
+      "B": "Sótão",
+      "C": "Garagem",
+      "D": "Despensa"
+    },
+    "numero": "10",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby bottle warmer'?",
-    "opcoes": { "A": "Micro-ondas", "B": "Aquecedor de mamadeira", "C": "Chaleira", "D": "Fogão" },
-    "numero": "10",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Pacifier clip'?",
-    "opcoes": { "A": "Chupeta", "B": "Babador", "C": "Prendedor de chupeta", "D": "Brinquedo" },
+    "pergunta": "Como se diz 'Gêmeos' em inglês?",
+    "opcoes": {
+      "A": "Couples",
+      "B": "Siblings",
+      "C": "Twins",
+      "D": "Pairs"
+    },
     "numero": "11",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby socks set'?",
-    "opcoes": { "A": "Conjunto de luvas", "B": "Conjunto de sapatos", "C": "Conjunto de roupas", "D": "Conjunto de meias de bebê" },
-    "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby headband'?",
-    "opcoes": { "A": "Faixa de cabelo de bebê", "B": "Chapéu", "C": "Boné", "D": "Touca" },
-    "numero": "13",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby mitts'?",
-    "opcoes": { "A": "Meias", "B": "Luvas de bebê", "C": "Sapatinhos", "D": "Luvas comuns" },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby teething ring'?",
-    "opcoes": { "A": "Brinquedo", "B": "Mordedor", "C": "Anel de dentição", "D": "Chocalho" },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Nursery organizer'?",
-    "opcoes": { "A": "Prateleira", "B": "Estante", "C": "Cômoda", "D": "Organizador de quarto de bebê" },
-    "numero": "16",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bib set'?",
-    "opcoes": { "A": "Babador único", "B": "Conjunto de babadores", "C": "Toalha", "D": "Fralda" },
-    "numero": "17",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby changing kit'?",
-    "opcoes": { "A": "Kit de banho", "B": "Kit de alimentação", "C": "Kit de troca de bebê", "D": "Kit de brinquedo" },
-    "numero": "18",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby nursery set'?",
-    "opcoes": { "A": "Conjunto para quarto de bebê", "B": "Conjunto de brinquedo", "C": "Conjunto de roupas", "D": "Conjunto de cama" },
-    "numero": "19",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby pacifier set'?",
-    "opcoes": { "A": "Chupeta única", "B": "Brinquedos", "C": "Mamadeira", "D": "Conjunto de chupetas" },
-    "numero": "20",
-    "resposta_correta": "D"
-  }
-];
-export const quiz12 = [
-  {
-    "pergunta": "Qual é a tradução de 'Baby monitor camera'?",
-    "opcoes": { "A": "Câmera de segurança", "B": "Câmera de monitor de bebê", "C": "Webcam", "D": "Câmera de quarto" },
-    "numero": "1",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby feeding chair'?",
-    "opcoes": { "A": "Cadeira comum", "B": "Cadeira alta", "C": "Cadeira de balanço", "D": "Cadeira de alimentação" },
-    "numero": "2",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby changing bag organizer'?",
-    "opcoes": { "A": "Bolsa de brinquedos", "B": "Bolsa comum", "C": "Organizador de bolsa de fraldas", "D": "Cesto de fraldas" },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bottle sterilizer'?",
-    "opcoes": { "A": "Esterilizador de mamadeira", "B": "Aquecedor de mamadeira", "C": "Fogão", "D": "Micro-ondas" },
-    "numero": "4",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby teething toy'?",
-    "opcoes": { "A": "Mordedor", "B": "Chocalho", "C": "Brinquedo de dentição", "D": "Boneca" },
-    "numero": "5",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby sleep sack'?",
-    "opcoes": { "A": "Cobertor", "B": "Colchão", "C": "Cama", "D": "Saco de dormir de bebê" },
-    "numero": "6",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby crib sheet'?",
-    "opcoes": { "A": "Lençol de berço", "B": "Cobertor", "C": "Colchão", "D": "Fralda" },
-    "numero": "7",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby diaper stacker'?",
-    "opcoes": { "A": "Cesto de fraldas", "B": "Organizador de fraldas", "C": "Prateleira", "D": "Gaveta" },
-    "numero": "8",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bath thermometer'?",
-    "opcoes": { "A": "Termômetro comum", "B": "Termômetro de cozinha", "C": "Termômetro de banho para bebê", "D": "Termômetro digital" },
-    "numero": "9",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby humidifier'?",
-    "opcoes": { "A": "Purificador de ar", "B": "Aquecedor", "C": "Ventilador", "D": "Umidificador de bebê" },
-    "numero": "10",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby nursery lamp'?",
-    "opcoes": { "A": "Lâmpada do quarto de bebê", "B": "Luz comum", "C": "Lanterna", "D": "Candeeiro" },
-    "numero": "11",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby music mobile'?",
-    "opcoes": { "A": "Móbile simples", "B": "Móbile musical", "C": "Chocalho", "D": "Brinquedo" },
+    "pergunta": "Qual é a tradução de 'Curtains'?",
+    "opcoes": {
+      "A": "Tapetes",
+      "B": "Cortinas",
+      "C": "Almofadas",
+      "D": "Persianas"
+    },
     "numero": "12",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby nightlight projector'?",
-    "opcoes": { "A": "Lanterna", "B": "Abajur", "C": "Lâmpada comum", "D": "Projetor de luz noturna" },
+    "pergunta": "Como se diz 'Sogra' em inglês?",
+    "opcoes": {
+      "A": "Mother-in-law",
+      "B": "Step-mother",
+      "C": "Godmother",
+      "D": "Grandmother"
+    },
     "numero": "13",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby crib bumper'?",
-    "opcoes": { "A": "Cobertor", "B": "Protetor de berço", "C": "Colchão", "D": "Lençol" },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby bath seat'?",
-    "opcoes": { "A": "Assento de banho para bebê", "B": "Banheira", "C": "Tapete de banho", "D": "Banheira comum" },
-    "numero": "15",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby laundry hamper'?",
-    "opcoes": { "A": "Cesto comum", "B": "Armário", "C": "Cesto de roupas de bebê", "D": "Prateleira" },
-    "numero": "16",
+    "pergunta": "Qual é a tradução de 'Cupboard'?",
+    "opcoes": {
+      "A": "Mesa",
+      "B": "Cadeira",
+      "C": "Gaveta",
+      "D": "Armário de cozinha"
+    },
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Genro' em inglês?",
+    "opcoes": {
+      "A": "Brother-in-law",
+      "B": "Nephew",
+      "C": "Son-in-law",
+      "D": "Grandson"
+    },
+    "numero": "15",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby feeding set'?",
-    "opcoes": { "A": "Conjunto de brinquedo", "B": "Conjunto de roupas", "C": "Conjunto de mamadeiras", "D": "Conjunto de alimentação" },
+    "pergunta": "Qual é a tradução de 'Attic'?",
+    "opcoes": {
+      "A": "Telhado",
+      "B": "Sótão",
+      "C": "Porão",
+      "D": "Quarto"
+    },
+    "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Afilhado' em inglês?",
+    "opcoes": {
+      "A": "Step-son",
+      "B": "Grandson",
+      "C": "Nephew",
+      "D": "Godson"
+    },
     "numero": "17",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby bib set'?",
-    "opcoes": { "A": "Babador único", "B": "Conjunto de babadores", "C": "Toalha", "D": "Cobertor" },
+    "pergunta": "Qual é a tradução de 'Fence'?",
+    "opcoes": {
+      "A": "Cerca",
+      "B": "Muro",
+      "C": "Portão",
+      "D": "Calha"
+    },
     "numero": "18",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual é a tradução de 'Baby stroller organizer'?",
-    "opcoes": { "A": "Organizador de carrinho de bebê", "B": "Cesto de carrinho", "C": "Bolsa de carrinho", "D": "Cadeira de bebê" },
-    "numero": "19",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual é a tradução de 'Baby sleep monitor'?",
-    "opcoes": { "A": "Relógio", "B": "Alarme", "C": "Monitor de sono do bebê", "D": "Monitor comum" },
+    "pergunta": "Como se diz 'Sobrinho' em inglês?",
+    "opcoes": {
+      "A": "Cousin",
+      "B": "Nephew",
+      "C": "Niece",
+      "D": "Sibling"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é a tradução de 'Blanket'?",
+    "opcoes": {
+      "A": "Lençol",
+      "B": "Travesseiro",
+      "C": "Cobertor",
+      "D": "Toalha"
+    },
     "numero": "20",
     "resposta_correta": "C"
   }
 ];
-
 
 /*-----------------------basico--------------------------------*/
 export const quizBasico1 = [
@@ -2429,7 +3187,6 @@ export const quizBasico3 = [
   }
 
 ];
-
 export const quizBasico4 = [
 
   {
@@ -2673,7 +3430,7 @@ export const quizBasico4 = [
   }
 
 ];
-const quizBasico5 = [
+export const quizBasico5 = [
 
   {
     "pergunta": "Traduza: My father is reading a book.",
@@ -2916,7 +3673,7 @@ const quizBasico5 = [
   }
 
 ];
-const quizBasico6 = [
+export const quizBasico6 = [
 
   {
     "pergunta": "Traduza: My father is cooking.",
@@ -3159,7 +3916,7 @@ const quizBasico6 = [
   }
 
 ];
-const quizBasico7 = [
+export const quizBasico7 = [
 
   {
     "pergunta": "Traduza: My father is washing the car.",
@@ -3402,7 +4159,7 @@ const quizBasico7 = [
   }
 
 ];
-const quizBasico8 = [
+export const quizBasico8 = [
 
   {
     "pergunta": "Traduza: My father is drinking tea.",
@@ -3645,7 +4402,7 @@ const quizBasico8 = [
   }
 
 ];
-const quizBasico9 = [
+export const quizBasico9 = [
 
   {
     "pergunta": "Traduza: My father is cooking.",
@@ -3888,7 +4645,7 @@ const quizBasico9 = [
   }
 
 ];
-const quizBasico10 = [
+export const quizBasico10 = [
 
   {
     "pergunta": "Traduza: My father is reading the newspaper.",
@@ -4131,7 +4888,7 @@ const quizBasico10 = [
   }
 
 ];
-const quizBasico1010 = [
+export const quizBasico1010 = [
 
   {
     "pergunta": "Traduza: My father is reading the newspaper.",
@@ -4374,7 +5131,7 @@ const quizBasico1010 = [
   }
 
 ];
-const quizBasico11 = [
+export const quizBasico11 = [
 
   {
     "pergunta": "Traduza: My father is watching TV.",
@@ -4617,7 +5374,7 @@ const quizBasico11 = [
   }
 
 ];
-const quizBasico12 = [
+export const quizBasico12 = [
 
   {
     "pergunta": "Traduza: My father is drinking coffee.",
@@ -4860,7 +5617,7 @@ const quizBasico12 = [
   }
 
 ];
-const quizBasico13 = [
+export const quizBasico13 = [
 
   {
     "pergunta": "Traduza: My father is fixing the chair.",
@@ -5103,7 +5860,7 @@ const quizBasico13 = [
   }
 
 ];
-const quizBasico14 = [
+export const quizBasico14 = [
 
   {
     "pergunta": "Traduza: My father is cleaning the table.",
@@ -5346,7 +6103,7 @@ const quizBasico14 = [
   }
 
 ];
-const quizBasico15 = [
+export const quizBasico15 = [
 
   {
     "pergunta": "Traduza: My father is reading a newspaper.",
@@ -5589,7 +6346,7 @@ const quizBasico15 = [
   }
 
 ];
-const quizBasico16 = [
+export const quizBasico16 = [
 
   {
     "pergunta": "Traduza: My father is reading a book.",
@@ -5833,7 +6590,7 @@ const quizBasico16 = [
 
 ];
 
-const quizBasico17 = [
+export const quizBasico17 = [
 
   {
     "pergunta": "Traduza: My father is fixing the window.",
@@ -6076,7 +6833,7 @@ const quizBasico17 = [
   }
 
 ];
-const quizBasico18 = [
+export const quizBasico18 = [
 
   {
     "pergunta": "Traduza: My father is painting the wall.",
@@ -6319,7 +7076,7 @@ const quizBasico18 = [
   }
 
 ];
-const quizBasico19 = [
+export const quizBasico19 = [
 
   {
     "pergunta": "Traduza: My father is cleaning the car.",
@@ -6562,7 +7319,7 @@ const quizBasico19 = [
   }
 
 ];
-const quizBasico20 = [
+export const quizBasico20 = [
 
   {
     "pergunta": "Traduza: My father is reading a newspaper.",
@@ -6806,71 +7563,2950 @@ const quizBasico20 = [
 
 ];
 
+/*-----------------------intermediario--------------------------------*/
+export const quizIntermediario1 = [
+  {
+    "pergunta": "Como se diz 'Minha madrasta cozinha muito bem'?",
+    "opcoes": {
+      "A": "My mother-in-law cooks well",
+      "B": "My stepmother cooks very well",
+      "C": "My stepmother is cooking well",
+      "D": "My godmother cooks very well"
+    },
+    "numero": "1",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The mortgage is quite expensive'?",
+    "opcoes": {
+      "A": "A hipoteca é bastante cara",
+      "B": "O aluguel é meio caro",
+      "C": "A hipoteca é muito barata",
+      "D": "A casa é bastante cara"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Nós herdamos este móvel antigo'?",
+    "opcoes": {
+      "A": "We bought this old furniture",
+      "B": "We have old furniture here",
+      "C": "We inherited this antique furniture",
+      "D": "We inherited that old house"
+    },
+    "numero": "3",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My siblings are very supportive'?",
+    "opcoes": {
+      "A": "Meus parentes são muito prestativos",
+      "B": "Meus irmãos são muito compreensivos",
+      "C": "Meus filhos são muito prestativos",
+      "D": "Meus irmãos são muito solidários"
+    },
+    "numero": "4",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A despensa está quase vazia'?",
+    "opcoes": {
+      "A": "The pantry is almost empty",
+      "B": "The kitchen is nearly empty",
+      "C": "The fridge is almost empty",
+      "D": "The pantry is already empty"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my great-grandfather'?",
+    "opcoes": {
+      "A": "Ele é meu tataravô",
+      "B": "Ele é meu avô querido",
+      "C": "Ele é meu bisavô",
+      "D": "Ele é meu sogro"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'O sótão precisa de limpeza'?",
+    "opcoes": {
+      "A": "The basement needs cleaning",
+      "B": "The attic needs cleaning",
+      "C": "The attic needs to clean",
+      "D": "Clean the attic now"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My niece is very talented'?",
+    "opcoes": {
+      "A": "Minha neta é muito talentosa",
+      "B": "Minha sobrinha é bastante talentosa",
+      "C": "Minha noiva é muito talentosa",
+      "D": "Minha sobrinha é muito talentosa"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A fiação parece estar velha'?",
+    "opcoes": {
+      "A": "The walls seem very old",
+      "B": "The lights seem old",
+      "C": "The wiring seems old",
+      "D": "The cables are getting old"
+    },
+    "numero": "9",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Our nephew lives abroad'?",
+    "opcoes": {
+      "A": "Nosso sobrinho mora no exterior",
+      "B": "Nosso neto mora longe",
+      "C": "Seu sobrinho mora fora",
+      "D": "Nosso sobrinho viajou hoje"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O encanamento está vazando'?",
+    "opcoes": {
+      "A": "The floor is wet",
+      "B": "The plumbing is leaking",
+      "C": "The plumbing is broken",
+      "D": "The water is running"
+    },
+    "numero": "11",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My son-in-law is helpful'?",
+    "opcoes": {
+      "A": "Meu cunhado é prestativo",
+      "B": "Meu sogro é prestativo",
+      "C": "Meu genro é inteligente",
+      "D": "Meu genro é muito prestativo"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A lareira está acesa'?",
+    "opcoes": {
+      "A": "The chimney is smoking",
+      "B": "The heater is on",
+      "C": "The fireplace is lit",
+      "D": "The fire is big"
+    },
+    "numero": "13",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'They are my relatives'?",
+    "opcoes": {
+      "A": "Eles são meus pais",
+      "B": "Eles são meus parentes",
+      "C": "Eles são meus irmãos",
+      "D": "Eles são meus conhecidos"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Minha nora viajou ontem'?",
+    "opcoes": {
+      "A": "My niece traveled yesterday",
+      "B": "My sister-in-law traveled yesterday",
+      "C": "My daughter traveled yesterday",
+      "D": "My daughter-in-law traveled yesterday"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The hallway is narrow'?",
+    "opcoes": {
+      "A": "O corredor é estreito",
+      "B": "A entrada é larga",
+      "C": "O quarto é estreito",
+      "D": "O corredor é comprido"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Meus sogros são gentis'?",
+    "opcoes": {
+      "A": "My parents are kind",
+      "B": "My parents-in-law are kind",
+      "C": "My step-parents are kind",
+      "D": "My relatives are kind"
+    },
+    "numero": "17",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This neighborhood is quiet'?",
+    "opcoes": {
+      "A": "Esta vizinha é silenciosa",
+      "B": "Este bairro é perigoso",
+      "C": "Esta casa é silenciosa",
+      "D": "Este bairro é silencioso"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A campainha está quebrada'?",
+    "opcoes": {
+      "A": "The doorbell is broken",
+      "B": "The clock is broken",
+      "C": "The door is broken",
+      "D": "The phone is broken"
+    },
+    "numero": "19",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My grandson is growing'?",
+    "opcoes": {
+      "A": "Meu filho está crescendo",
+      "B": "Meu sobrinho está crescendo",
+      "C": "Meu neto está crescendo",
+      "D": "Meu neto nasceu hoje"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
 
+export const quizIntermediario2 = [
+  {
+    "pergunta": "Como se diz 'O teto está rachado'?",
+    "opcoes": {
+      "A": "The floor is cracked",
+      "B": "The wall is cracked",
+      "C": "The ceiling is cracked",
+      "D": "The roof is broken"
+    },
+    "numero": "1",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My godfather lives nearby'?",
+    "opcoes": {
+      "A": "Meu padrinho mora perto",
+      "B": "Meu pai mora perto",
+      "C": "Meu enteado mora perto",
+      "D": "Meu padrinho mora longe"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A fechadura está emperrada'?",
+    "opcoes": {
+      "A": "The door is closed",
+      "B": "The key is lost",
+      "C": "The lock is broken",
+      "D": "The lock is stuck"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'She is my sister-in-law'?",
+    "opcoes": {
+      "A": "Ela é minha sogra",
+      "B": "Ela é minha cunhada",
+      "C": "Ela é minha enteada",
+      "D": "Ela é minha madrasta"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O porão está úmido'?",
+    "opcoes": {
+      "A": "The basement is damp",
+      "B": "The attic is damp",
+      "C": "The room is wet",
+      "D": "The basement is dark"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepson is studyng'?",
+    "opcoes": {
+      "A": "Meu filho está estudando",
+      "B": "Meu sobrinho está estudando",
+      "C": "Meu enteado está estudando",
+      "D": "Meu neto está estudando"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A vidraça está suja'?",
+    "opcoes": {
+      "A": "The window is broken",
+      "B": "The windowpane is dirty",
+      "C": "The glass is clean",
+      "D": "Clean the window now"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my godfather'?",
+    "opcoes": {
+      "A": "Ele é meu avô",
+      "B": "Ele é meu enteado",
+      "C": "Ele é meu sogro",
+      "D": "Ele é meu padrinho"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O corrimão está solto'?",
+    "opcoes": {
+      "A": "The stairs are broken",
+      "B": "The wall is loose",
+      "C": "The handrail is loose",
+      "D": "Fix the stairs now"
+    },
+    "numero": "9",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My goddaughter is cute'?",
+    "opcoes": {
+      "A": "Minha afilhada é fofa",
+      "B": "Minha neta é fofa",
+      "C": "Minha sobrinha é fofa",
+      "D": "Minha filha é fofa"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O quintal é espaçoso'?",
+    "opcoes": {
+      "A": "The garden is big",
+      "B": "The backyard is spacious",
+      "C": "The house is spacious",
+      "D": "The yard is messy"
+    },
+    "numero": "11",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My brother-in-law arrived'?",
+    "opcoes": {
+      "A": "Meu genro chegou",
+      "B": "Meu sogro chegou",
+      "C": "Meu marido chegou",
+      "D": "Meu cunhado chegou"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A banheira está cheia'?",
+    "opcoes": {
+      "A": "The sink is full",
+      "B": "The shower is on",
+      "C": "The bathtub is full",
+      "D": "The bathroom is clean"
+    },
+    "numero": "13",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepmother is nice'?",
+    "opcoes": {
+      "A": "Minha sogra é legal",
+      "B": "Minha madrasta é legal",
+      "C": "Minha tia é legal",
+      "D": "Minha madrinha é legal"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O tapete é macio'?",
+    "opcoes": {
+      "A": "The floor is soft",
+      "B": "The curtain is soft",
+      "C": "The cushion is soft",
+      "D": "The rug is soft"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The cabinets are wooden'?",
+    "opcoes": {
+      "A": "Os armários são de madeira",
+      "B": "As mesas são velhas",
+      "C": "Os armários são novos",
+      "D": "A madeira é boa"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Minha enteada é inteligente'?",
+    "opcoes": {
+      "A": "My stepdaughter is smart",
+      "B": "My daughter is smart",
+      "C": "My niece is smart",
+      "D": "My granddaughter is smart"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The laundry is ready'?",
+    "opcoes": {
+      "A": "A cozinha está pronta",
+      "B": "A roupa está limpa",
+      "C": "O almoço está pronto",
+      "D": "A lavanderia está pronta"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A cortina é pesada'?",
+    "opcoes": {
+      "A": "The window is heavy",
+      "B": "The curtain is heavy",
+      "C": "The wall is heavy",
+      "D": "The blind is heavy"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My step-parents are traveling'?",
+    "opcoes": {
+      "A": "Meus pais estão viajando",
+      "B": "Meus sogros estão viajando",
+      "C": "Meus padrastos estão viajando",
+      "D": "Meus parentes estão viajando"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
+export const quizIntermediario3 = [
+  {
+    "pergunta": "Como se diz 'A dobradiça está enferrujada'?",
+    "opcoes": {
+      "A": "The door is rusty",
+      "B": "The lock is rusty",
+      "C": "The hinge is rusty",
+      "D": "Fix the rusty hinge"
+    },
+    "numero": "1",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My daughter-in-law is kind'?",
+    "opcoes": {
+      "A": "Minha nora é gentil",
+      "B": "Minha neta é gentil",
+      "C": "Minha sobrinha é gentil",
+      "D": "Minha sogra é gentil"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O ralo está entupido'?",
+    "opcoes": {
+      "A": "The sink is full",
+      "B": "The pipe is broken",
+      "C": "Clean the drain now",
+      "D": "The drain is clogged"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My great-grandmother is healthy'?",
+    "opcoes": {
+      "A": "Minha avó é saudável",
+      "B": "Minha bisavó é saudável",
+      "C": "Minha tia é saudável",
+      "D": "Minha madrinha é saudável"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A garagem é estreita'?",
+    "opcoes": {
+      "A": "The garage is narrow",
+      "B": "The driveway is narrow",
+      "C": "The garage is small",
+      "D": "Our garage is narrow"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The countertop is marble'?",
+    "opcoes": {
+      "A": "A mesa é mármore",
+      "B": "O balcão é novo",
+      "C": "A bancada é mármore",
+      "D": "O chão é mármore"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Meu tataravô era marinheiro'?",
+    "opcoes": {
+      "A": "My grandfather was sailor",
+      "B": "My great-great-grandfather was sailor",
+      "C": "He was a sailor",
+      "D": "My ancestor was sailor"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The attic is dusty'?",
+    "opcoes": {
+      "A": "O porão está empoeirado",
+      "B": "O sótão está sujo",
+      "C": "O quarto está empoeirado",
+      "D": "O sótão está empoeirado"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A prateleira está torta'?",
+    "opcoes": {
+      "A": "The wall is crooked",
+      "B": "The table is crooked",
+      "C": "The shelf is crooked",
+      "D": "Fix the crooked shelf"
+    },
+    "numero": "9",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My sister-in-law is pregnant'?",
+    "opcoes": {
+      "A": "Minha cunhada está grávida",
+      "B": "Minha irmã está grávida",
+      "C": "Minha nora está grávida",
+      "D": "Sua cunhada está grávida"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O exaustor está barulhento'?",
+    "opcoes": {
+      "A": "The fan is loud",
+      "B": "The exhaust fan is loud",
+      "C": "The kitchen is loud",
+      "D": "Turn off the fan"
+    },
+    "numero": "11",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My nephew is energetic'?",
+    "opcoes": {
+      "A": "Meu neto é enérgico",
+      "B": "Meu filho é enérgico",
+      "C": "Meu primo é enérgico",
+      "D": "Meu sobrinho é enérgico"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A despensa está organizada'?",
+    "opcoes": {
+      "A": "The kitchen is organized",
+      "B": "The closet is organized",
+      "C": "The pantry is organized",
+      "D": "Organize the pantry now"
+    },
+    "numero": "13",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My godfather is retired'?",
+    "opcoes": {
+      "A": "Meu pai está aposentado",
+      "B": "Meu padrinho está aposentado",
+      "C": "Meu tio está aposentado",
+      "D": "Meu sogro está aposentado"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O corrimão é firme'?",
+    "opcoes": {
+      "A": "The stairs are firm",
+      "B": "The wall is firm",
+      "C": "The handle is firm",
+      "D": "The handrail is firm"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The tiles are slippery'?",
+    "opcoes": {
+      "A": "Os azulejos estão escorregadios",
+      "B": "O chão está molhado",
+      "C": "As telhas estão escorregadias",
+      "D": "Limpe os azulejos agora"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Minha afilhada estuda medicina'?",
+    "opcoes": {
+      "A": "My goddaughter studies medicine",
+      "B": "My daughter studies medicine",
+      "C": "My niece studies medicine",
+      "D": "She studies medicine now"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The faucet is leaking'?",
+    "opcoes": {
+      "A": "O cano está vazando",
+      "B": "A pia está cheia",
+      "C": "O ralo está vazando",
+      "D": "A torneira está vazando"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Meus sogros são generosos'?",
+    "opcoes": {
+      "A": "My parents are generous",
+      "B": "My parents-in-law are generous",
+      "C": "My relatives are generous",
+      "D": "The in-laws are nice"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The basement is flooded'?",
+    "opcoes": {
+      "A": "O sótão está alagado",
+      "B": "A casa está alagada",
+      "C": "O porão está alagado",
+      "D": "O porão está úmido"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
+export const quizIntermediario4 = [
+  {
+    "pergunta": "Como se diz 'A fechadura está enferrujada'?",
+    "opcoes": {
+      "A": "The lock is rusty",
+      "B": "The key is rusty",
+      "C": "The door is rusty",
+      "D": "Fix the rusty lock"
+    },
+    "numero": "1",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My son-in-law arrived early'?",
+    "opcoes": {
+      "A": "Meu sogro chegou cedo",
+      "B": "Meu genro chegou cedo",
+      "C": "Meu cunhado chegou cedo",
+      "D": "Meu genro chegou tarde"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O teto está vazando'?",
+    "opcoes": {
+      "A": "The roof is leaking",
+      "B": "The wall is leaking",
+      "C": "The floor is leaking",
+      "D": "The ceiling is leaking"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepmother is traveling'?",
+    "opcoes": {
+      "A": "Minha madrasta está viajando",
+      "B": "Minha sogra está viajando",
+      "C": "Minha tia está viajando",
+      "D": "Minha madrinha está viajando"
+    },
+    "numero": "4",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A prateleira está torta'?",
+    "opcoes": {
+      "A": "The table is crooked",
+      "B": "The shelf is crooked",
+      "C": "The wall is crooked",
+      "D": "The shelf is broken"
+    },
+    "numero": "5",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my great-uncle'?",
+    "opcoes": {
+      "A": "Ele é meu tio",
+      "B": "Ele é meu avô",
+      "C": "Ele é meu tio-avô",
+      "D": "Ele é meu bisavô"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'O corrimão está solto'?",
+    "opcoes": {
+      "A": "The stairs are loose",
+      "B": "The handrail is loose",
+      "C": "The wall is loose",
+      "D": "Fix the handrail now"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My goddaughter is young'?",
+    "opcoes": {
+      "A": "Minha neta é jovem",
+      "B": "Minha filha é jovem",
+      "C": "Minha sobrinha é jovem",
+      "D": "Minha afilhada é jovem"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A despensa está organizada'?",
+    "opcoes": {
+      "A": "The kitchen is organized",
+      "B": "The closet is organized",
+      "C": "The pantry is organized",
+      "D": "Organize the pantry now"
+    },
+    "numero": "9",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The mortgage is paid'?",
+    "opcoes": {
+      "A": "A hipoteca está paga",
+      "B": "O aluguel está pago",
+      "C": "A casa está paga",
+      "D": "A dívida está paga"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Meu tataravô era médico'?",
+    "opcoes": {
+      "A": "My grandfather was doctor",
+      "B": "My great-great-grandfather was doctor",
+      "C": "He was a doctor",
+      "D": "My ancestor was doctor"
+    },
+    "numero": "11",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The hallway is narrow'?",
+    "opcoes": {
+      "A": "A sala é estreita",
+      "B": "A entrada é estreita",
+      "C": "O quarto é estreito",
+      "D": "O corredor é estreito"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Lave o pano de prato'?",
+    "opcoes": {
+      "A": "Wash the towel now",
+      "B": "Clean the kitchen cloth",
+      "C": "Wash the dish towel",
+      "D": "Dry the dish towel"
+    },
+    "numero": "13",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My relatives are coming'?",
+    "opcoes": {
+      "A": "Meus pais estão vindo",
+      "B": "Meus parentes estão vindo",
+      "C": "Meus irmãos estão vindo",
+      "D": "Meus amigos estão vindo"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A fiação é perigosa'?",
+    "opcoes": {
+      "A": "The lights are dangerous",
+      "B": "The cables are dangerous",
+      "C": "The walls are dangerous",
+      "D": "The wiring is dangerous"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Is the basement flooded?'",
+    "opcoes": {
+      "A": "O porão está alagado?",
+      "B": "O sótão está alagado?",
+      "C": "A casa está alagada?",
+      "D": "O porão está úmido?"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Sua nora é gentil'?",
+    "opcoes": {
+      "A": "Your daughter-in-law is kind",
+      "B": "Your niece is kind",
+      "C": "Your sister is kind",
+      "D": "Your mother is kind"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The doorbell is ringing'?",
+    "opcoes": {
+      "A": "O telefone está tocando",
+      "B": "A porta está aberta",
+      "C": "O alarme está tocando",
+      "D": "A campainha está tocando"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Nossos sogros moram longe'?",
+    "opcoes": {
+      "A": "Our parents live far",
+      "B": "Our parents-in-law live far",
+      "C": "Our relatives live far",
+      "D": "They live very far"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The attic is dusty'?",
+    "opcoes": {
+      "A": "O porão está sujo",
+      "B": "O quarto está empoeirado",
+      "C": "O sótão está empoeirado",
+      "D": "O sótão está limpo"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
+export const quizIntermediario5 = [
+  {
+    "pergunta": "Como se diz 'O corrimão está instável'?",
+    "opcoes": {
+      "A": "The stairs are broken",
+      "B": "The handrail is shaky",
+      "C": "The wall is loose",
+      "D": "The handle is unstable"
+    },
+    "numero": "1",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My sister-in-law is helpful'?",
+    "opcoes": {
+      "A": "Minha cunhada é prestativa",
+      "B": "Minha irmã é prestativa",
+      "C": "Minha sogra é prestativa",
+      "D": "Minha nora é prestativa"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A fiação precisa reparo'?",
+    "opcoes": {
+      "A": "The lights need repair",
+      "B": "The cables need repair",
+      "C": "The wiring needs repair",
+      "D": "Fix the wiring now"
+    },
+    "numero": "3",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My nephew is gifted'?",
+    "opcoes": {
+      "A": "Meu neto é talentoso",
+      "B": "Meu filho é talentoso",
+      "C": "Meu primo é talentoso",
+      "D": "Meu sobrinho é talentoso"
+    },
+    "numero": "4",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O porão está mofado'?",
+    "opcoes": {
+      "A": "The basement is moldy",
+      "B": "The attic is moldy",
+      "C": "The room is dirty",
+      "D": "The basement is wet"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The mortgage is high'?",
+    "opcoes": {
+      "A": "O aluguel é alto",
+      "B": "O condomínio é alto",
+      "C": "A hipoteca é alta",
+      "D": "A casa é cara"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Minha madrasta viajou sozinha'?",
+    "opcoes": {
+      "A": "My mother traveled alone",
+      "B": "My stepmother traveled alone",
+      "C": "My godmother traveled alone",
+      "D": "She is traveling alone"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The countertop is granite'?",
+    "opcoes": {
+      "A": "A mesa é granito",
+      "B": "O balcão é granito",
+      "C": "O chão é granito",
+      "D": "A bancada é granito"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A dobradiça faz barulho'?",
+    "opcoes": {
+      "A": "The door is loud",
+      "B": "The hinge is squeaky",
+      "C": "The lock is noisy",
+      "D": "Fix the noisy door"
+    },
+    "numero": "9",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My goddaughter is cute'?",
+    "opcoes": {
+      "A": "Minha afilhada é fofa",
+      "B": "Minha neta é fofa",
+      "C": "Minha sobrinha é fofa",
+      "D": "Minha filha é fofa"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O teto está rachado'?",
+    "opcoes": {
+      "A": "The floor is cracked",
+      "B": "The wall is cracked",
+      "C": "The ceiling is cracked",
+      "D": "The roof is cracked"
+    },
+    "numero": "11",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my stepson'?",
+    "opcoes": {
+      "A": "Ele é meu filho",
+      "B": "Ele é meu sobrinho",
+      "C": "Ele é meu neto",
+      "D": "Ele é meu enteado"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O ralo está limpo'?",
+    "opcoes": {
+      "A": "The sink is clean",
+      "B": "The pipe is clean",
+      "C": "The drain is clean",
+      "D": "Clean the drain now"
+    },
+    "numero": "13",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Our neighborhood is safe'?",
+    "opcoes": {
+      "A": "Nossa casa é segura",
+      "B": "Nosso bairro é seguro",
+      "C": "Nossa rua é segura",
+      "D": "A vizinhança é calma"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Minha nora estuda muito'?",
+    "opcoes": {
+      "A": "My niece studies hard",
+      "B": "My sister studies hard",
+      "C": "My daughter studies hard",
+      "D": "My daughter-in-law studies hard"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The attic is messy'?",
+    "opcoes": {
+      "A": "O sótão está bagunçado",
+      "B": "O porão está bagunçado",
+      "C": "O quarto está bagunçado",
+      "D": "A casa está bagunçada"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A campainha é alta'?",
+    "opcoes": {
+      "A": "The doorbell is loud",
+      "B": "The alarm is loud",
+      "C": "The phone is loud",
+      "D": "The door is loud"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'They are my relatives'?",
+    "opcoes": {
+      "A": "Eles são meus pais",
+      "B": "Eles são meus parentes",
+      "C": "Eles são meus irmãos",
+      "D": "Eles são meus tios"
+    },
+    "numero": "18",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O encanamento é novo'?",
+    "opcoes": {
+      "A": "The water is new",
+      "B": "The sink is new",
+      "C": "The bathroom is new",
+      "D": "The plumbing is new"
+    },
+    "numero": "19",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My great-grandfather is old'?",
+    "opcoes": {
+      "A": "Meu avô é velho",
+      "B": "Meu bisavô é velho",
+      "C": "Meu tio é velho",
+      "D": "Meu pai é velho"
+    },
+    "numero": "20",
+    "resposta_correta": "B"
+  }
+];
+export const quizIntermediario6 = [
+  {
+    "pergunta": "Como se diz 'O corrimão está instável'?",
+    "opcoes": {
+      "A": "The stairs are broken",
+      "B": "The handrail is shaky",
+      "C": "The wall is loose",
+      "D": "The handle is unstable"
+    },
+    "numero": "1",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My sister-in-law is helpful'?",
+    "opcoes": {
+      "A": "Minha cunhada é prestativa",
+      "B": "Minha irmã é prestativa",
+      "C": "Minha sogra é prestativa",
+      "D": "Minha nora é prestativa"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A fiação precisa reparo'?",
+    "opcoes": {
+      "A": "The lights need repair",
+      "B": "The cables need repair",
+      "C": "The wiring needs repair",
+      "D": "Fix the wiring now"
+    },
+    "numero": "3",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My nephew is gifted'?",
+    "opcoes": {
+      "A": "Meu neto é talentoso",
+      "B": "Meu filho é talentoso",
+      "C": "Meu primo é talentoso",
+      "D": "Meu sobrinho é talentoso"
+    },
+    "numero": "4",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O porão está mofado'?",
+    "opcoes": {
+      "A": "The basement is moldy",
+      "B": "The attic is moldy",
+      "C": "The room is dirty",
+      "D": "The basement is wet"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The mortgage is high'?",
+    "opcoes": {
+      "A": "O aluguel é alto",
+      "B": "O condomínio é alto",
+      "C": "A hipoteca é alta",
+      "D": "A casa é cara"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Minha madrasta viajou sozinha'?",
+    "opcoes": {
+      "A": "My mother traveled alone",
+      "B": "My stepmother traveled alone",
+      "C": "My godmother traveled alone",
+      "D": "She is traveling alone"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The countertop is granite'?",
+    "opcoes": {
+      "A": "A mesa é granito",
+      "B": "O balcão é granito",
+      "C": "O chão é granito",
+      "D": "A bancada é granito"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A dobradiça faz barulho'?",
+    "opcoes": {
+      "A": "The door is loud",
+      "B": "The hinge is squeaky",
+      "C": "The lock is noisy",
+      "D": "Fix the noisy door"
+    },
+    "numero": "9",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My goddaughter is cute'?",
+    "opcoes": {
+      "A": "Minha afilhada é fofa",
+      "B": "Minha neta é fofa",
+      "C": "Minha sobrinha é fofa",
+      "D": "Minha filha é fofa"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O teto está rachado'?",
+    "opcoes": {
+      "A": "The floor is cracked",
+      "B": "The wall is cracked",
+      "C": "The ceiling is cracked",
+      "D": "The roof is cracked"
+    },
+    "numero": "11",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my stepson'?",
+    "opcoes": {
+      "A": "Ele é meu filho",
+      "B": "Ele é meu sobrinho",
+      "C": "Ele é meu neto",
+      "D": "Ele é meu enteado"
+    },
+    "numero": "12",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O ralo está limpo'?",
+    "opcoes": {
+      "A": "The sink is clean",
+      "B": "The pipe is clean",
+      "C": "The drain is clean",
+      "D": "Clean the drain now"
+    },
+    "numero": "13",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Our neighborhood is safe'?",
+    "opcoes": {
+      "A": "Nossa casa é segura",
+      "B": "Nosso bairro é seguro",
+      "C": "Nossa rua é segura",
+      "D": "A vizinhança é calma"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Minha nora estuda muito'?",
+    "opcoes": {
+      "A": "My niece studies hard",
+      "B": "My sister studies hard",
+      "C": "My daughter studies hard",
+      "D": "My daughter-in-law studies hard"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The attic is messy'?",
+    "opcoes": {
+      "A": "O sótão está bagunçado",
+      "B": "O porão está bagunçado",
+      "C": "O quarto está bagunçado",
+      "D": "A casa está bagunçada"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A campainha é alta'?",
+    "opcoes": {
+      "A": "The doorbell is loud",
+      "B": "The alarm is loud",
+      "C": "The phone is loud",
+      "D": "The door is loud"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'They are my relatives'?",
+    "opcoes": {
+      "A": "Eles são meus pais",
+      "B": "Eles são meus parentes",
+      "C": "Eles são meus irmãos",
+      "D": "Eles são meus tios"
+    },
+    "numero": "18",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O encanamento é novo'?",
+    "opcoes": {
+      "A": "The water is new",
+      "B": "The sink is new",
+      "C": "The bathroom is new",
+      "D": "The plumbing is new"
+    },
+    "numero": "19",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The hallway is long'?",
+    "opcoes": {
+      "A": "A sala é longa",
+      "B": "A entrada é longa",
+      "C": "O corredor é longo",
+      "D": "O quarto é longo"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
+export const quizIntermediario7 = [
+  {
+    "pergunta": "Como se diz 'O teto está vazando'?",
+    "opcoes": {
+      "A": "The wall is leaking",
+      "B": "The floor is leaking",
+      "C": "The ceiling is leaking",
+      "D": "The roof is leaking"
+    },
+    "numero": "1",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My nephew is very lazy'?",
+    "opcoes": {
+      "A": "Meu sobrinho é muito preguiçoso",
+      "B": "Meu neto é muito preguiçoso",
+      "C": "Meu filho é muito preguiçoso",
+      "D": "Meu primo é muito preguiçoso"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A fechadura está emperrada'?",
+    "opcoes": {
+      "A": "The door is broken",
+      "B": "The key is stuck",
+      "C": "The handle is stuck",
+      "D": "The lock is stuck"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'She is my sister-in-law'?",
+    "opcoes": {
+      "A": "Ela é minha nora",
+      "B": "Ela é minha cunhada",
+      "C": "Ela é minha sogra",
+      "D": "Ela é minha madrasta"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A lareira está fria'?",
+    "opcoes": {
+      "A": "The fireplace is cold",
+      "B": "The heater is cold",
+      "C": "The chimney is cold",
+      "D": "The stove is cold"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The mortgage is quite high'?",
+    "opcoes": {
+      "A": "O aluguel é bem alto",
+      "B": "A casa é bem cara",
+      "C": "A hipoteca é bem alta",
+      "D": "O condomínio é bem alto"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'O porão está úmido'?",
+    "opcoes": {
+      "A": "The attic is damp",
+      "B": "The basement is damp",
+      "C": "The room is wet",
+      "D": "The kitchen is damp"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepson is studyng'?",
+    "opcoes": {
+      "A": "Meu neto está estudando",
+      "B": "Meu filho está estudando",
+      "C": "Meu primo está estudando",
+      "D": "Meu enteado está estudando"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O corrimão é seguro'?",
+    "opcoes": {
+      "A": "The stairs are safe",
+      "B": "The wall is safe",
+      "C": "The handrail is safe",
+      "D": "The handle is safe"
+    },
+    "numero": "9",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My godmother is coming'?",
+    "opcoes": {
+      "A": "Minha madrinha está vindo",
+      "B": "Minha tia está vindo",
+      "C": "Minha avó está vindo",
+      "D": "Minha mãe está vindo"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A despensa está cheia'?",
+    "opcoes": {
+      "A": "The kitchen is full",
+      "B": "The fridge is full",
+      "C": "The pantry is full",
+      "D": "The closet is full"
+    },
+    "numero": "11",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Is your father-in-law here?'",
+    "opcoes": {
+      "A": "Seu tio está aqui?",
+      "B": "Seu sogro está aqui?",
+      "C": "Seu avô está aqui?",
+      "D": "Seu cunhado está aqui?"
+    },
+    "numero": "12",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O encanamento é velho'?",
+    "opcoes": {
+      "A": "The plumbing is old",
+      "B": "The water is old",
+      "C": "The sink is old",
+      "D": "The bathroom is old"
+    },
+    "numero": "13",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Our neighborhood is noisy'?",
+    "opcoes": {
+      "A": "Nossa rua é barulhenta",
+      "B": "Nosso bairro é barulhento",
+      "C": "Nossa casa é barulhenta",
+      "D": "Sua vizinhança é barulhenta"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'Minha afilhada é inteligente'?",
+    "opcoes": {
+      "A": "My niece is smart",
+      "B": "My daughter is smart",
+      "C": "My granddaughter is smart",
+      "D": "My goddaughter is smart"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The hallway is narrow'?",
+    "opcoes": {
+      "A": "O corredor é estreito",
+      "B": "A sala é estreita",
+      "C": "O quarto é estreito",
+      "D": "A entrada é estreita"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A vidraça está suja'?",
+    "opcoes": {
+      "A": "The window is dirty",
+      "B": "The glass is dirty",
+      "C": "The mirror is dirty",
+      "D": "The windowpane is dirty"
+    },
+    "numero": "17",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My relatives live abroad'?",
+    "opcoes": {
+      "A": "Meus pais moram fora",
+      "B": "Meus parentes moram fora",
+      "C": "Meus irmãos moram fora",
+      "D": "Meus tios moram fora"
+    },
+    "numero": "18",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O exaustor está ligado'?",
+    "opcoes": {
+      "A": "The fan is on",
+      "B": "The light is on",
+      "C": "The stove is on",
+      "D": "The exhaust fan is on"
+    },
+    "numero": "19",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Is the attic dusty?'",
+    "opcoes": {
+      "A": "O porão está sujo?",
+      "B": "O quarto está sujo?",
+      "C": "O sótão está empoeirado?",
+      "D": "O sótão está limpo?"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
 
+export const quizIntermediario8 = [
+  {
+    "pergunta": "Como se diz 'A fiação é muito antiga'?",
+    "opcoes": {
+      "A": "The cables are very old",
+      "B": "The wiring is very old",
+      "C": "The lights are very old",
+      "D": "The wall is very old"
+    },
+    "numero": "1",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My sister-in-law is helpful'?",
+    "opcoes": {
+      "A": "Minha cunhada é prestativa",
+      "B": "Minha sogra é prestativa",
+      "C": "Minha nora é prestativa",
+      "D": "Minha irmã é prestativa"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O ralo está entupido'?",
+    "opcoes": {
+      "A": "The sink is broken",
+      "B": "The pipe is full",
+      "C": "The drain is clogged",
+      "D": "The water is stuck"
+    },
+    "numero": "3",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This mortgage is quite expensive'?",
+    "opcoes": {
+      "A": "Este aluguel é caro",
+      "B": "Esta casa é bem cara",
+      "C": "Esta dívida é bem cara",
+      "D": "Esta hipoteca é bastante cara"
+    },
+    "numero": "4",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A despensa está organizada'?",
+    "opcoes": {
+      "A": "The kitchen is organized",
+      "B": "The pantry is organized",
+      "C": "The closet is organized",
+      "D": "The shelf is organized"
+    },
+    "numero": "5",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my great-grandfather'?",
+    "opcoes": {
+      "A": "Ele é meu tataravô",
+      "B": "Ele é meu avô",
+      "C": "Ele é meu bisavô",
+      "D": "Ele é meu sogro"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A vidraça está empoeirada'?",
+    "opcoes": {
+      "A": "The window is dusty",
+      "B": "The glass is dusty",
+      "C": "The mirror is dusty",
+      "D": "The windowpane is dusty"
+    },
+    "numero": "7",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My nephew is talented'?",
+    "opcoes": {
+      "A": "Meu neto é talentoso",
+      "B": "Meu sobrinho é talentoso",
+      "C": "Meu primo é talentoso",
+      "D": "Meu filho é talentoso"
+    },
+    "numero": "8",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A dobradiça faz barulho'?",
+    "opcoes": {
+      "A": "The hinge is squeaky",
+      "B": "The door is loud",
+      "C": "The handle is noisy",
+      "D": "The lock is squeaky"
+    },
+    "numero": "9",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Our neighborhood is quiet'?",
+    "opcoes": {
+      "A": "Nossa vizinha é silenciosa",
+      "B": "Nossa casa é silenciosa",
+      "C": "Nosso bairro é silencioso",
+      "D": "Sua vizinhança é silenciosa"
+    },
+    "numero": "10",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'O corrimão está solto'?",
+    "opcoes": {
+      "A": "The stairs are loose",
+      "B": "The wall is loose",
+      "C": "The handle is loose",
+      "D": "The handrail is loose"
+    },
+    "numero": "11",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Is your niece here?'",
+    "opcoes": {
+      "A": "Sua neta está aqui?",
+      "B": "Sua sobrinha está aqui?",
+      "C": "Sua noiva está aqui?",
+      "D": "Sua filha está aqui?"
+    },
+    "numero": "12",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A lareira está apagada'?",
+    "opcoes": {
+      "A": "The fireplace is out",
+      "B": "The fire is off",
+      "C": "The chimney is cold",
+      "D": "The stove is out"
+    },
+    "numero": "13",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My son-in-law is helpful'?",
+    "opcoes": {
+      "A": "Meu sogro é prestativo",
+      "B": "Meu genro é prestativo",
+      "C": "Meu cunhado é prestativo",
+      "D": "Meu neto é prestativo"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O teto está rachado'?",
+    "opcoes": {
+      "A": "The roof is cracked",
+      "B": "The floor is cracked",
+      "C": "The wall is cracked",
+      "D": "The ceiling is cracked"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My godfather lives abroad'?",
+    "opcoes": {
+      "A": "Meu padrinho mora fora",
+      "B": "Meu avô mora fora",
+      "C": "Meu enteado mora fora",
+      "D": "Meu padrinho viajou hoje"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A campainha está quebrada'?",
+    "opcoes": {
+      "A": "The clock is broken",
+      "B": "The alarm is broken",
+      "C": "The door is broken",
+      "D": "The doorbell is broken"
+    },
+    "numero": "17",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My goddaughter is young'?",
+    "opcoes": {
+      "A": "Minha neta é jovem",
+      "B": "Minha afilhada é jovem",
+      "C": "Minha sobrinha é jovem",
+      "D": "Minha filha é jovem"
+    },
+    "numero": "18",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O corredor é estreito'?",
+    "opcoes": {
+      "A": "The room is narrow",
+      "B": "The entrance is narrow",
+      "C": "The hallway is narrow",
+      "D": "The hallway is long"
+    },
+    "numero": "19",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepmother is nice'?",
+    "opcoes": {
+      "A": "Minha sogra é legal",
+      "B": "Minha madrinha é legal",
+      "C": "Minha madrasta é legal",
+      "D": "Minha tia é legal"
+    },
+    "numero": "20",
+    "resposta_correta": "C"
+  }
+];
+export const quizIntermediario9 = [
+  {
+    "pergunta": "Como se diz 'O porão está mofado'?",
+    "opcoes": {
+      "A": "The basement is moldy",
+      "B": "The attic is moldy",
+      "C": "The cellar is dirty",
+      "D": "The basement is clean"
+    },
+    "numero": "1",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepdaughter studies here'?",
+    "opcoes": {
+      "A": "Minha filha estuda aqui",
+      "B": "Minha neta estuda aqui",
+      "C": "Minha enteada estuda aqui",
+      "D": "Minha sobrinha estuda aqui"
+    },
+    "numero": "2",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A maçaneta está solta'?",
+    "opcoes": {
+      "A": "The door is loose",
+      "B": "The doorknob is loose",
+      "C": "The lock is loose",
+      "D": "The key is loose"
+    },
+    "numero": "3",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Is your father-in-law working?'",
+    "opcoes": {
+      "A": "Seu tio está trabalhando?",
+      "B": "Seu genro está trabalhando?",
+      "C": "Seu sogro está trabalhando?",
+      "D": "Seu avô está trabalhando?"
+    },
+    "numero": "4",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'O sótão está empoeirado'?",
+    "opcoes": {
+      "A": "The attic is dusty",
+      "B": "The basement is dusty",
+      "C": "The room is dusty",
+      "D": "The ceiling is dusty"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'They are my relatives'?",
+    "opcoes": {
+      "A": "Eles são meus pais",
+      "B": "Eles são meus parentes",
+      "C": "Eles são meus irmãos",
+      "D": "Eles são meus vizinhos"
+    },
+    "numero": "6",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O exaustor é barulhento'?",
+    "opcoes": {
+      "A": "The fan is noisy",
+      "B": "The light is noisy",
+      "C": "The kitchen is noisy",
+      "D": "The exhaust fan is noisy"
+    },
+    "numero": "7",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My grandson is newborn'?",
+    "opcoes": {
+      "A": "Meu filho é recém-nascido",
+      "B": "Meu neto é recém-nascido",
+      "C": "Meu sobrinho é recém-nascido",
+      "D": "Meu neto nasceu hoje"
+    },
+    "numero": "8",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O encanamento está vazando'?",
+    "opcoes": {
+      "A": "The plumbing is leaking",
+      "B": "The sink is leaking",
+      "C": "The water is leaking",
+      "D": "The pipe is leaking"
+    },
+    "numero": "9",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My great-grandmother is healthy'?",
+    "opcoes": {
+      "A": "Minha avó é saudável",
+      "B": "Minha bisavó é saudável",
+      "C": "Minha tia é saudável",
+      "D": "Minha sogra é saudável"
+    },
+    "numero": "10",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A calçada está molhada'?",
+    "opcoes": {
+      "A": "The street is wet",
+      "B": "The yard is wet",
+      "C": "The floor is wet",
+      "D": "The sidewalk is wet"
+    },
+    "numero": "11",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My sister-in-law is coming'?",
+    "opcoes": {
+      "A": "Minha nora está vindo",
+      "B": "Minha cunhada está vindo",
+      "C": "Minha sogra está vindo",
+      "D": "Sua cunhada está vindo"
+    },
+    "numero": "12",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O quintal é espaçoso'?",
+    "opcoes": {
+      "A": "The garden is spacious",
+      "B": "The backyard is spacious",
+      "C": "The house is spacious",
+      "D": "The park is spacious"
+    },
+    "numero": "13",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The cabinets are wooden'?",
+    "opcoes": {
+      "A": "Os armários são de madeira",
+      "B": "As mesas são velhas",
+      "C": "Os armários são novos",
+      "D": "As cadeiras são madeira"
+    },
+    "numero": "14",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Minha nora viajou ontem'?",
+    "opcoes": {
+      "A": "My niece traveled yesterday",
+      "B": "My daughter traveled yesterday",
+      "C": "My daughter-in-law traveled yesterday",
+      "D": "My sister traveled yesterday"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The ceiling is high'?",
+    "opcoes": {
+      "A": "O teto é alto",
+      "B": "O telhado é alto",
+      "C": "A casa é alta",
+      "D": "O muro é alto"
+    },
+    "numero": "16",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O pano de prato'?",
+    "opcoes": {
+      "A": "The table cloth",
+      "B": "The kitchen towel",
+      "C": "The dish towel",
+      "D": "The hand towel"
+    },
+    "numero": "17",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My stepmother is kind'?",
+    "opcoes": {
+      "A": "Minha sogra é gentil",
+      "B": "Minha tia é gentil",
+      "C": "Minha vizinha é gentil",
+      "D": "Minha madrasta é gentil"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A dobradiça está enferrujada'?",
+    "opcoes": {
+      "A": "The door is rusty",
+      "B": "The lock is rusty",
+      "C": "The hinge is rusty",
+      "D": "The key is rusty"
+    },
+    "numero": "19",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Our neighborhood is quiet'?",
+    "opcoes": {
+      "A": "Nossa vizinhança é caluniosa",
+      "B": "Sua vizinhança é calma",
+      "C": "Nossa vizinhança é barulhenta",
+      "D": "Nossa vizinhança é silenciosa"
+    },
+    "numero": "20",
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario10 = [
+  {
+    "pergunta": "Como se diz 'A hipoteca foi aprovada'?",
+    "opcoes": {
+      "A": "The rent was approved",
+      "B": "The mortgage was approved",
+      "C": "The house was approved",
+      "D": "The loan was approved"
+    },
+    "numero": "1",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My sister-in-law is helpful'?",
+    "opcoes": {
+      "A": "Minha cunhada é prestativa",
+      "B": "Minha sogra é prestativa",
+      "C": "Minha nora é prestativa",
+      "D": "Minha tia é prestativa"
+    },
+    "numero": "2",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O corrimão está instável'?",
+    "opcoes": {
+      "A": "The stairs are unstable",
+      "B": "The wall is unstable",
+      "C": "The handle is unstable",
+      "D": "The handrail is unstable"
+    },
+    "numero": "3",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He is my great-uncle'?",
+    "opcoes": {
+      "A": "Ele é meu tio-avô",
+      "B": "Ele é meu bisavô",
+      "C": "Ele é meu tataravô",
+      "D": "Ele é meu padrinho"
+    },
+    "numero": "4",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A fiação é perigosa'?",
+    "opcoes": {
+      "A": "The cables are dangerous",
+      "B": "The lights are dangerous",
+      "C": "The wiring is dangerous",
+      "D": "The walls are dangerous"
+    },
+    "numero": "5",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My goddaughter is newborn'?",
+    "opcoes": {
+      "A": "Minha neta é recém-nascida",
+      "B": "Minha afilhada é recém-nascida",
+      "C": "Minha sobrinha é recém-nascida",
+      "D": "Minha filha é recém-nascida"
+    },
+    "numero": "6",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O sótão está trancado'?",
+    "opcoes": {
+      "A": "The basement is locked",
+      "B": "The room is locked",
+      "C": "The attic is locked",
+      "D": "The garage is locked"
+    },
+    "numero": "7",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The cabinets are dusty'?",
+    "opcoes": {
+      "A": "As gavetas estão empoeiradas",
+      "B": "As mesas estão empoeiradas",
+      "C": "As prateleiras estão empoeiradas",
+      "D": "Os armários estão empoeirados"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Minha madrasta cozinha'?",
+    "opcoes": {
+      "A": "My godmother is cooking",
+      "B": "My stepmother is cooking",
+      "C": "My mother-in-law is cooking",
+      "D": "My aunt is cooking"
+    },
+    "numero": "9",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The plumbing is noisy'?",
+    "opcoes": {
+      "A": "O encanamento é barulhento",
+      "B": "A torneira é barulhenta",
+      "C": "O ralo é barulhento",
+      "D": "A pia é barulhenta"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O teto está rachado'?",
+    "opcoes": {
+      "A": "The floor is cracked",
+      "B": "The wall is cracked",
+      "C": "The roof is cracked",
+      "D": "The ceiling is cracked"
+    },
+    "numero": "11",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My son-in-law arrived'?",
+    "opcoes": {
+      "A": "Meu sogro chegou",
+      "B": "Meu neto chegou",
+      "C": "Meu genro chegou",
+      "D": "Meu cunhado chegou"
+    },
+    "numero": "12",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A despensa está vazia'?",
+    "opcoes": {
+      "A": "The pantry is empty",
+      "B": "The kitchen is empty",
+      "C": "The closet is empty",
+      "D": "The fridge is empty"
+    },
+    "numero": "13",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My niece is talented'?",
+    "opcoes": {
+      "A": "Minha neta é talentosa",
+      "B": "Minha sobrinha é talentosa",
+      "C": "Minha prima é talentosa",
+      "D": "Minha enteada é talentosa"
+    },
+    "numero": "14",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O ralo está entupido'?",
+    "opcoes": {
+      "A": "The sink is clogged",
+      "B": "The pipe is clogged",
+      "C": "The drain is clogged",
+      "D": "The toilet is clogged"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The hallway is narrow'?",
+    "opcoes": {
+      "A": "A sala é estreita",
+      "B": "A entrada é estreita",
+      "C": "O corredor é estreito",
+      "D": "O quarto é estreito"
+    },
+    "numero": "16",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A campainha tocou'?",
+    "opcoes": {
+      "A": "The phone rang",
+      "B": "The alarm rang",
+      "C": "The door rang",
+      "D": "The doorbell rang"
+    },
+    "numero": "17",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My relatives live here'?",
+    "opcoes": {
+      "A": "Meus pais moram aqui",
+      "B": "Meus parentes moram aqui",
+      "C": "Meus irmãos moram aqui",
+      "D": "Meus tios moram aqui"
+    },
+    "numero": "18",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O porão está úmido'?",
+    "opcoes": {
+      "A": "The basement is damp",
+      "Pos": "The attic is damp",
+      "C": "The room is damp",
+      "D": "The cellar is damp"
+    },
+    "numero": "19",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'My daughter-in-law traveled'?",
+    "opcoes": {
+      "A": "Minha neta viajou",
+      "B": "Minha sobrinha viajou",
+      "C": "Minha cunhada viajou",
+      "D": "Minha nora viajou"
+    },
+    "numero": "20",
+    "resposta_correta": "D"
+  }
+];
 
 
 
 /*---------------------------avancado----------------------------------*/
-export const quizTranslation1 = [
+export const quizAvancado1 = [
   {
-    "pergunta": "traduza a frase 'I am studying at home'?",
-    "opcoes": ["trabalhando", "em", "escola", "estuda", "eu", "nos", "estudando", "ontem", "no", "estou", "amanha", "casa", "ela", "na", "cidade", "estudar"],
+    "questionType": "traduza a frase",
+    "pergunta": "Minha bisavó é muito lúcida",
+    "opcoes": ["lucid", "great-grandmother", "grandfather", "my", "very", "is", "healthy", "stay", "was", "extremely"],
     "numero": "1",
-    "resposta_correta": "eu estou estudando em casa"
+    "resposta_correta": "my great-grandmother is very lucid"
   },
   {
-    "pergunta": "traduza a frase 'nos estamos aprendendo ingles'?",
-    "opcoes": ["studying", "is", "learning", "home", "are", "am", "today", "school", "we", "study", "language", "at", "english", "teach", "they", "teacher"],
+    "questionType": "traduza a frase",
+    "pergunta": "Our inheritance belongs to everyone",
+    "opcoes": ["herança", "todos", "pertence", "nossa", "a", "família", "propriedade", "é", "de", "divisão"],
     "numero": "2",
-    "resposta_correta": "we are learning english"
+    "resposta_correta": "nossa herança pertence a todos"
   },
   {
-    "pergunta": "traduza a frase 'She is not at school today'?",
-    "opcoes": ["amanha", "ela", "aqui", "na", "somos", "estao", "ontem", "esta", "nao", "casa", "escola", "trabalho", "eles", "hoje", "em", "no", "cidade"],
+    "pergunta": "O encanamento requer manutenção constante",
+    "opcoes": ["constant", "needs", "plumbing", "maintenance", "the", "requires", "repair", "house", "system", "urgent"],
     "numero": "3",
-    "resposta_correta": "ela nao esta na escola hoje"
+    "resposta_correta": "the plumbing requires constant maintenance"
   },
   {
-    "pergunta": "traduza a frase 'meu amigo quer comprar um carro'?",
-    "opcoes": ["his", "car", "sell", "to", "are", "friend", "new", "buy", "old", "wants", "a", "house", "my", "is", "food", "big", "they", "her", "small"],
+    "questionType": "traduza a frase",
+    "pergunta": "My sister-in-law is quite sophisticated",
+    "opcoes": ["bastante", "cunhada", "sofisticada", "minha", "é", "inteligente", "ela", "muito", "educada", "irmã"],
     "numero": "4",
-    "resposta_correta": "my friend wants to buy a car"
+    "resposta_correta": "minha cunhada é bastante sofisticada"
   },
   {
-    "pergunta": "traduza a frase 'They are working in the city'?",
-    "opcoes": ["campo", "na", "amanha", "estao", "trabalhando", "nos", "cidade", "eu", "escola", "empresa", "eles", "no", "hoje", "somos", "em", "ela", "hospital"],
+    "questionType": "traduza a frase",
+    "pergunta": "A fiação elétrica parece obsoleta",
+    "opcoes": ["seems", "obsolete", "electrical", "wiring", "the", "old", "dangerous", "system", "appears", "broken"],
     "numero": "5",
-    "resposta_correta": "eles estao trabalhando na cidade"
+    "resposta_correta": "the electrical wiring seems obsolete"
   },
   {
-    "pergunta": "traduza a frase 'eu preciso falar com voce agora'?",
-    "opcoes": ["talking", "speak", "yesterday", "i", "are", "now", "need", "she", "you", "him", "to", "call", "with", "later", "they", "me", "is", "us", "her"],
+    "questionType": "traduza a frase",
+    "pergunta": "Her stepson is exceptionally bright",
+    "opcoes": ["excepcionalmente", "enteado", "inteligente", "dela", "é", "seu", "brilhante", "muito", "talentoso", "filho"],
     "numero": "6",
-    "resposta_correta": "i need to speak with you now"
+    "resposta_correta": "seu enteado é excepcionalmente inteligente"
   },
   {
-    "pergunta": "traduza a frase 'The children are playing in the park'?",
-    "opcoes": ["brincando", "escola", "campo", "no", "ela", "parque", "estao", "criancas", "as", "na", "hoje", "cidade", "praia", "em", "andando", "eles", "nos", "correndo"],
+    "questionType": "traduza a frase",
+    "pergunta": "Sua hipoteca foi finalmente quitada",
+    "opcoes": ["finally", "mortgage", "paid", "your", "was", "off", "house", "loan", "cleared", "completely"],
     "numero": "7",
-    "resposta_correta": "as criancas estao brincando no parque"
+    "resposta_correta": "your mortgage was finally paid off"
   },
   {
-    "pergunta": "traduza a frase 'ela gosta de estudar matematica'?",
-    "opcoes": ["english", "math", "is", "she", "class", "are", "learn", "study", "likes", "to", "science", "am", "hate", "school", "they", "book", "teach"],
+    "questionType": "traduza a frase",
+    "pergunta": "The basement walls are damp",
+    "opcoes": ["porão", "paredes", "úmidas", "as", "do", "estão", "mofadas", "chão", "frio", "casa"],
     "numero": "8",
-    "resposta_correta": "she likes to study math"
+    "resposta_correta": "as paredes do porão estão úmidas"
   },
   {
-    "pergunta": "traduza a frase 'We are not ready for the test'?",
-    "opcoes": ["prova", "nos", "esta", "trabalho", "para", "amanha", "sao", "estamos", "a", "nao", "exame", "prontos", "em", "ontem", "no", "aula", "ela", "eles"],
+    "questionType": "traduza a frase",
+    "pergunta": "Minha nora é médica obstetra",
+    "opcoes": ["daughter-in-law", "obstetrician", "doctor", "my", "is", "a", "wife", "surgeon", "she", "practitioner"],
     "numero": "9",
-    "resposta_correta": "nos nao estamos prontos para a prova"
+    "resposta_correta": "my daughter-in-law is a doctor"
   },
   {
-    "pergunta": "traduza a frase 'eu quero viajar para outro pais'?",
-    "opcoes": ["is", "country", "live", "to", "move", "want", "another", "they", "travel", "city", "i", "are", "his", "my", "your", "she", "state", "now", "her"],
+    "questionType": "traduza a frase",
+    "pergunta": "The attic storage is overcrowded",
+    "opcoes": ["depósito", "sótão", "lotado", "o", "do", "está", "cheio", "espaço", "casa", "bagunçado"],
     "numero": "10",
-    "resposta_correta": "i want to travel to another country"
+    "resposta_correta": "o depósito do sótão está lotado"
+  }
+];
+export const quizAvancado2 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The foundation has structural cracks",
+    "opcoes": ["rachaduras", "telhado", "fundação", "casa", "possui", "a", "estruturais", "muro", "problemas", "tem", "antiga"],
+    "numero": "1",
+    "resposta_correta": "a fundação possui rachaduras estruturais"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha madrinha é muito benevolente",
+    "opcoes": ["benevolent", "godmother", "aunt", "my", "is", "very", "kind", "always", "extremely", "she", "so"],
+    "numero": "2",
+    "resposta_correta": "my godmother is very benevolent"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Inheritance disputes tear families apart",
+    "opcoes": ["disputas", "famílias", "herança", "de", "destroem", "as", "brigas", "dinheiro", "unidas", "dividem", "paterna"],
+    "numero": "3",
+    "resposta_correta": "disputas de herança destroem famílias"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O tataravô era um aristocrata",
+    "opcoes": ["great-great-grandfather", "was", "aristocrat", "an", "the", "noble", "ancestor", "rich", "century", "born"],
+    "numero": "4",
+    "resposta_correta": "the great-great-grandfather was an aristocrat"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Domestic chores require immense patience",
+    "opcoes": ["exigem", "domésticas", "paciência", "tarefas", "imensa", "limpeza", "casa", "muita", "rotina", "cansativas"],
+    "numero": "5",
+    "resposta_correta": "tarefas domésticas exigem imensa paciência"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Seu enteado demonstra grande resiliência",
+    "opcoes": ["resilience", "demonstrates", "stepson", "great", "his", "shows", "strong", "bravery", "boy", "huge"],
+    "numero": "6",
+    "resposta_correta": "his stepson demonstrates great resilience"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "A despensa está totalmente desorganizada",
+    "opcoes": ["totally", "disorganized", "pantry", "the", "is", "kitchen", "messy", "cabinet", "completely", "full"],
+    "numero": "7",
+    "resposta_correta": "the pantry is totally disorganized"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Our neighborhood promotes social integration",
+    "opcoes": ["integração", "social", "nosso", "bairro", "promove", "vizinhança", "segurança", "a", "comunidade", "ajuda"],
+    "numero": "8",
+    "resposta_correta": "nosso bairro promove integração social"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "A fiação elétrica exige cautela",
+    "opcoes": ["electrical", "requires", "caution", "the", "wiring", "danger", "needs", "system", "repairs", "care"],
+    "numero": "9",
+    "resposta_correta": "the electrical wiring requires caution"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Family bonds provide emotional security",
+    "opcoes": ["emocional", "familiares", "segurança", "laços", "proporcionam", "unidos", "amor", "estabilidade", "trazem", "fortes"],
+    "numero": "10",
+    "resposta_correta": "laços familiares proporcionam segurança emocional"
+  }
+];
+export const quizAvancado3 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Sua nora é arquiteta renomada",
+    "opcoes": ["renowned", "architect", "daughter-in-law", "his", "is", "a", "famous", "works", "very", "talented"],
+    "numero": "1",
+    "resposta_correta": "his daughter-in-law is a renowned architect"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The mortgage rates are fluctuating",
+    "opcoes": ["taxas", "hipoteca", "oscilando", "as", "da", "estão", "juros", "casa", "altas", "variando", "valor"],
+    "numero": "2",
+    "resposta_correta": "as taxas da hipoteca estão oscilando"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O porão exala cheiro forte",
+    "opcoes": ["strong", "smell", "basement", "the", "exudes", "cellar", "stink", "old", "bad", "wet", "emits"],
+    "numero": "3",
+    "resposta_correta": "the basement exudes strong smell"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "My nephew inherited vast properties",
+    "opcoes": ["propriedades", "vastas", "meu", "herdou", "sobrinho", "casas", "muitas", "riqueza", "terras", "posses"],
+    "numero": "4",
+    "resposta_correta": "meu sobrinho herdou vastas propriedades"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O encanamento antigo está vazando",
+    "opcoes": ["old", "leaking", "plumbing", "the", "is", "pipes", "broken", "wet", "system", "needs", "water"],
+    "numero": "5",
+    "resposta_correta": "the old plumbing is leaking"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Grandparents offer unconditional love always",
+    "opcoes": ["incondicional", "avós", "sempre", "amor", "oferecem", "pais", "carinho", "muito", "eterno", "paz"],
+    "numero": "6",
+    "resposta_correta": "avós oferecem amor incondicional sempre"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The staircase design is innovative",
+    "opcoes": ["escada", "inovador", "design", "o", "da", "é", "moderno", "estilo", "bonito", "arquitetura"],
+    "numero": "7",
+    "resposta_correta": "o design da escada é inovador"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha bisavó preserva memórias valiosas",
+    "opcoes": ["preserves", "valuable", "memories", "my", "great-grandmother", "keeps", "old", "history", "stories", "ancient"],
+    "numero": "8",
+    "resposta_correta": "my great-grandmother preserves valuable memories"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "A vizinhança exige silêncio absoluto",
+    "opcoes": ["absolute", "silence", "neighborhood", "the", "demands", "requires", "quiet", "total", "area", "peace"],
+    "numero": "9",
+    "resposta_correta": "the neighborhood demands absolute silence"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "My brother-in-law manages large estates",
+    "opcoes": ["grandes", "propriedades", "meu", "gerencia", "cunhado", "fazendas", "terras", "administra", "negócios", "luxo"],
+    "numero": "10",
+    "resposta_correta": "meu cunhado gerencia grandes propriedades"
+  }
+];
+export const quizAvancado4 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Our household expenses are increasing",
+    "opcoes": ["casa", "aumentando", "despesas", "estão", "nossas", "da", "limpeza", "fixas", "valor", "familiares"],
+    "numero": "1",
+    "resposta_correta": "nossas despesas da casa estão aumentando"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Meu enteado é muito proativo",
+    "pergunta_traducao": "My stepson is very proactive",
+    "opcoes": ["proactive", "stepson", "my", "is", "very", "son", "active", "always", "extremely", "smart"],
+    "numero": "2",
+    "resposta_correta": "my stepson is very proactive"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The property requires urgent renovation",
+    "opcoes": ["reforma", "propriedade", "urgente", "requer", "a", "manutenção", "casa", "precisa", "geral", "pintura"],
+    "numero": "3",
+    "resposta_correta": "a propriedade requer reforma urgente"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Sua afilhada estuda biologia marinha",
+    "opcoes": ["biology", "goddaughter", "marine", "his", "studies", "niece", "science", "is", "at", "college"],
+    "numero": "4",
+    "resposta_correta": "his goddaughter studies marine biology"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The fireplace provides cozy warmth",
+    "opcoes": ["aconchegante", "lareira", "calor", "proporciona", "a", "fogo", "sala", "conforto", "traz", "muito"],
+    "numero": "5",
+    "resposta_correta": "a lareira proporciona calor aconchegante"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Ancestry research reveals surprising facts",
+    "opcoes": ["research", "ancestry", "reveals", "surprising", "facts", "history", "shows", "family", "past", "data"],
+    "numero": "6",
+    "resposta_correta": "ancestry research reveals surprising facts"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O telhado protege contra intempéries",
+    "opcoes": ["weather", "protects", "against", "roof", "the", "harsh", "rain", "house", "from", "storms"],
+    "numero": "7",
+    "resposta_correta": "the roof protects against weather"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Family heritage defines our identity",
+    "opcoes": ["identidade", "familiar", "define", "nossa", "herança", "história", "passado", "cultura", "a", "valor"],
+    "numero": "8",
+    "resposta_correta": "herança familiar define nossa identidade"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha cunhada comprou mobília rústica",
+    "opcoes": ["rustic", "sister-in-law", "furniture", "bought", "my", "house", "new", "table", "wood", "purchased"],
+    "numero": "9",
+    "resposta_correta": "my sister-in-law bought rustic furniture"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The kitchen island is multifunctional",
+    "opcoes": ["cozinha", "multifuncional", "ilha", "da", "é", "balcão", "espaço", "nova", "a", "prática"],
+    "numero": "10",
+    "resposta_correta": "a ilha da cozinha é multifuncional"
+  }
+];
+export const quizAvancado5 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Foster families provide crucial support",
+    "opcoes": ["apoio", "crucial", "oferecem", "famílias", "acolhedoras", "ajuda", "crianças", "trazem", "muito", "essencial"],
+    "numero": "1",
+    "resposta_correta": "famílias acolhedoras oferecem apoio crucial"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O porão serve como estúdio",
+    "opcoes": ["basement", "serves", "studio", "as", "the", "a", "cellar", "used", "room", "is"],
+    "numero": "2",
+    "resposta_correta": "the basement serves as studio"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "His great-grandfather was remarkably resilient",
+    "opcoes": ["resiliente", "bisavô", "notavelmente", "seu", "era", "avô", "muito", "homem", "forte", "sempre"],
+    "numero": "3",
+    "resposta_correta": "seu bisavô era notavelmente resiliente"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The garden needs landscape design",
+    "opcoes": ["landscape", "garden", "design", "the", "needs", "yard", "new", "plants", "requires", "beautiful"],
+    "numero": "4",
+    "resposta_correta": "the garden needs landscape design"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha sogra aprecia antiguidades raras",
+    "opcoes": ["mother-in-law", "appreciates", "rare", "antiques", "my", "likes", "old", "objects", "buys", "valuable"],
+    "numero": "5",
+    "resposta_correta": "my mother-in-law appreciates rare antiques"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Household maintenance ensures safety always",
+    "opcoes": ["segurança", "manutenção", "garante", "doméstica", "sempre", "limpeza", "casa", "traz", "a", "total"],
+    "numero": "6",
+    "resposta_correta": "manutenção doméstica garante segurança sempre"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The hallway lighting is dim",
+    "opcoes": ["hallway", "lighting", "is", "dim", "the", "corridor", "dark", "lamps", "very", "room"],
+    "numero": "7",
+    "resposta_correta": "the hallway lighting is dim"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Nossos parentes moram no exterior",
+    "opcoes": ["relatives", "abroad", "live", "our", "stay", "family", "far", "parents", "country", "work"],
+    "numero": "8",
+    "resposta_correta": "our relatives live abroad"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Domestic tranquility promotes mental health",
+    "opcoes": ["mental", "tranquilidade", "saúde", "doméstica", "promove", "paz", "casa", "ajuda", "bem-estar", "a"],
+    "numero": "9",
+    "resposta_correta": "tranquilidade doméstica promove saúde mental"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The staircase has oak banisters",
+    "opcoes": ["oak", "banisters", "the", "has", "staircase", "wood", "railing", "new", "made", "steps"],
+    "numero": "10",
+    "resposta_correta": "the staircase has oak banisters"
+  }
+];
+export const quizAvancado6 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Our genealogy reveals noble origins",
+    "opcoes": ["origens", "nobre", "revela", "genealogia", "nossa", "história", "família", "tem", "passado", "antigas", "nobres"],
+    "numero": "1",
+    "resposta_correta": "nossa genealogia revela origens nobres"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O telhado requer reparos estruturais",
+    "opcoes": ["structural", "roof", "repairs", "requires", "the", "needs", "urgent", "house", "fixing", "major"],
+    "numero": "2",
+    "resposta_correta": "the roof requires structural repairs"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Step-siblings share deep emotional bonds",
+    "opcoes": ["emocionais", "laços", "meio-irmãos", "compartilham", "profundos", "irmãos", "família", "têm", "muito", "fortes", "amizade"],
+    "numero": "3",
+    "resposta_correta": "meio-irmãos compartilham profundos laços emocionais"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The attic ventilation is inadequate",
+    "opcoes": ["inadequate", "ventilation", "the", "attic", "is", "poor", "room", "air", "bad", "hot"],
+    "numero": "4",
+    "resposta_correta": "the attic ventilation is inadequate"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha madrasta possui joias ancestrais",
+    "opcoes": ["ancestral", "jewelry", "stepmother", "possesses", "my", "has", "old", "gems", "expensive", "valuable"],
+    "numero": "5",
+    "resposta_correta": "my stepmother possesses ancestral jewelry"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Interior decoration reflects personal style",
+    "opcoes": ["estilo", "pessoal", "reflete", "decoração", "interior", "casa", "a", "gosto", "moderno", "mostra"],
+    "numero": "6",
+    "resposta_correta": "decoração interior reflete estilo pessoal"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The doorbell chime sounds melodic",
+    "opcoes": ["melodic", "sounds", "doorbell", "chime", "the", "bell", "nice", "rings", "music", "loud"],
+    "numero": "7",
+    "resposta_correta": "the doorbell chime sounds melodic"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Sua afilhada demonstra imenso talento",
+    "opcoes": ["talent", "demonstrates", "goddaughter", "immense", "his", "shows", "great", "gift", "very", "girl"],
+    "numero": "8",
+    "resposta_correta": "his goddaughter demonstrates immense talent"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O condomínio proíbe animais exóticos",
+    "opcoes": ["exotic", "prohibits", "animals", "condo", "the", "pets", "rules", "ban", "large", "allowed"],
+    "numero": "9",
+    "resposta_correta": "the condo prohibits exotic animals"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Domestic conflicts require mediation often",
+    "opcoes": ["mediação", "conflitos", "frequentemente", "domésticos", "exigem", "ajuda", "casa", "sempre", "pedem", "paz"],
+    "numero": "10",
+    "resposta_correta": "conflitos domésticos exigem mediação frequentemente"
+  }
+];
+export const quizAvancado7 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Modern architecture emphasizes open spaces",
+    "opcoes": ["espaços", "abertos", "enfatiza", "arquitetura", "moderna", "casa", "grandes", "estilo", "valoriza", "a"],
+    "numero": "1",
+    "resposta_correta": "arquitetura moderna enfatiza espaços abertos"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "My great-uncle collects vintage clocks",
+    "opcoes": ["vintage", "great-uncle", "clocks", "collects", "my", "old", "watches", "time", "has", "keeps"],
+    "numero": "2",
+    "resposta_correta": "my great-uncle collects vintage clocks"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O encanamento mestre está obstruído",
+    "opcoes": ["obstructed", "plumbing", "master", "the", "is", "blocked", "clogged", "broken", "water", "pipe"],
+    "numero": "3",
+    "resposta_correta": "the master plumbing is obstructed"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Extended families celebrate together annually",
+    "opcoes": ["anualmente", "comemoram", "famílias", "juntas", "extensas", "parentes", "grandes", "festas", "sempre", "reunidos"],
+    "numero": "4",
+    "resposta_correta": "famílias extensas comemoram juntas anualmente"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The pantry shelves are cluttered",
+    "opcoes": ["cluttered", "shelves", "pantry", "the", "are", "full", "messy", "cabinet", "items", "kitchen"],
+    "numero": "5",
+    "resposta_correta": "the pantry shelves are cluttered"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Her daughter-in-law is highly efficient",
+    "opcoes": ["altamente", "eficiente", "nora", "dela", "é", "muito", "mulher", "trabalha", "bastante", "inteligente"],
+    "numero": "6",
+    "resposta_correta": "sua nora é altamente eficiente"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The basement provides extra storage",
+    "opcoes": ["storage", "provides", "basement", "the", "extra", "cellar", "room", "space", "house", "adds"],
+    "numero": "7",
+    "resposta_correta": "the basement provides extra storage"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Nossos antepassados construíram esta mansão",
+    "opcoes": ["mansion", "built", "ancestors", "our", "this", "house", "home", "family", "made", "history"],
+    "numero": "8",
+    "resposta_correta": "our ancestors built this mansion"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The hallway carpet is antique",
+    "opcoes": ["antigo", "corredor", "tapete", "o", "do", "é", "velho", "chão", "casa", "raro"],
+    "numero": "9",
+    "resposta_correta": "o tapete do corredor é antigo"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Foster parents need specific training",
+    "opcoes": ["training", "parents", "need", "foster", "specific", "care", "kids", "help", "require", "skills"],
+    "numero": "10",
+    "resposta_correta": "foster parents need specific training"
+  }
+];
+export const quizAvancado8 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O corrimão da escada é instável",
+    "opcoes": ["unstable", "handrail", "staircase", "the", "is", "stairs", "broken", "loose", "safety", "wood"],
+    "numero": "1",
+    "resposta_correta": "the staircase handrail is unstable"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Domestic stability fosters child development",
+    "opcoes": ["desenvolvimento", "estabilidade", "promove", "doméstica", "infantil", "crescimento", "ajuda", "casa", "a", "paz"],
+    "numero": "2",
+    "resposta_correta": "estabilidade doméstica promove desenvolvimento infantil"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "My godson is remarkably polite",
+    "opcoes": ["polite", "remarkably", "godson", "my", "is", "very", "boy", "good", "extremely", "always"],
+    "numero": "3",
+    "resposta_correta": "my godson is remarkably polite"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "A fiação elétrica precisa reparo",
+    "opcoes": ["repair", "wiring", "needs", "electrical", "the", "system", "urgent", "fix", "cables", "safety"],
+    "numero": "4",
+    "resposta_correta": "the electrical wiring needs repair"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Household appliances are increasingly smart",
+    "opcoes": ["inteligentes", "domésticos", "cada", "eletrodomésticos", "estão", "mais", "casa", "novos", "tecnologia", "vez"],
+    "numero": "5",
+    "resposta_correta": "eletrodomésticos estão cada vez mais inteligentes"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The attic stairs are squeaky",
+    "opcoes": ["squeaky", "stairs", "attic", "the", "are", "noisy", "old", "steps", "broken", "wood"],
+    "numero": "6",
+    "resposta_correta": "the attic stairs are squeaky"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha cunhada gerencia propriedades imobiliárias",
+    "opcoes": ["real", "sister-in-law", "estate", "manages", "my", "houses", "business", "works", "is", "selling"],
+    "numero": "7",
+    "resposta_correta": "my sister-in-law manages real estate"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The kitchen countertop is marble",
+    "opcoes": ["mármore", "cozinha", "bancada", "a", "de", "é", "pedra", "pia", "balcão", "da"],
+    "numero": "8",
+    "resposta_correta": "a bancada da cozinha é de mármore"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Your nephew studies nuclear physics",
+    "opcoes": ["physics", "nuclear", "nephew", "your", "studies", "science", "college", "at", "is", "boy"],
+    "numero": "9",
+    "resposta_correta": "your nephew studies nuclear physics"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "A fundação da casa cedeu",
+    "opcoes": ["subsided", "foundation", "house", "the", "has", "broken", "cracked", "ground", "fell", "structure"],
+    "numero": "10",
+    "resposta_correta": "the house foundation has subsided"
+  }
+];
+export const quizAvancado9 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Estate planning ensures family wealth",
+    "opcoes": ["riqueza", "planejamento", "garante", "sucessório", "familiar", "herança", "dinheiro", "futuro", "a", "estudo"],
+    "numero": "1",
+    "resposta_correta": "planejamento sucessório garante riqueza familiar"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The garage serves as workshop",
+    "opcoes": ["workshop", "garage", "serves", "the", "as", "studio", "area", "used", "place", "is"],
+    "numero": "2",
+    "resposta_correta": "the garage serves as workshop"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Meu bisavô foi um pioneiro",
+    "opcoes": ["pioneer", "great-grandfather", "was", "my", "a", "man", "brave", "history", "born", "ancestor"],
+    "numero": "3",
+    "resposta_correta": "my great-grandfather was a pioneer"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The chimney requires annual cleaning",
+    "opcoes": ["limpeza", "chaminé", "anual", "exige", "a", "reparo", "fogo", "casa", "precisa", "geral"],
+    "numero": "4",
+    "resposta_correta": "a chaminé exige limpeza anual"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Domestic labor laws protect workers",
+    "opcoes": ["workers", "domestic", "laws", "labor", "protect", "rights", "house", "help", "legal", "people"],
+    "numero": "5",
+    "resposta_correta": "domestic labor laws protect workers"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Sua afilhada é extremamente dedicada",
+    "opcoes": ["dedicated", "goddaughter", "extremely", "his", "is", "girl", "very", "smart", "always", "student"],
+    "numero": "6",
+    "resposta_correta": "his goddaughter is extremely dedicated"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The ceiling has ornate patterns",
+    "opcoes": ["ornamentados", "teto", "padrões", "o", "possui", "desenhos", "bonitos", "gesso", "casa", "tem"],
+    "numero": "7",
+    "resposta_correta": "o teto possui padrões ornamentados"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Family disputes often involve inheritance",
+    "opcoes": ["inheritance", "disputes", "often", "family", "involve", "money", "problems", "fights", "usually", "laws"],
+    "numero": "8",
+    "resposta_correta": "family disputes often involve inheritance"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha sogra viaja bastante agora",
+    "opcoes": ["travels", "mother-in-law", "now", "my", "frequently", "trips", "goes", "always", "lot", "she"],
+    "numero": "9",
+    "resposta_correta": "my mother-in-law travels frequently now"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The staircase lighting is solar",
+    "opcoes": ["solar", "iluminação", "escada", "da", "é", "luz", "painel", "sol", "a", "moderna"],
+    "numero": "10",
+    "resposta_correta": "a iluminação da escada é solar"
+  }
+];
+export const quizAvancado10 = [
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Sustainable homes use renewable energy",
+    "opcoes": ["renovável", "casas", "utilizam", "sustentáveis", "energia", "solar", "ecológicas", "meio", "ambiente", "a"],
+    "numero": "1",
+    "resposta_correta": "casas sustentáveis utilizam energia renovável"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "My nephew won academic awards",
+    "opcoes": ["awards", "nephew", "won", "academic", "my", "school", "prizes", "boy", "got", "scholarship"],
+    "numero": "2",
+    "resposta_correta": "my nephew won academic awards"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "O encanamento está emitindo ruídos",
+    "opcoes": ["noises", "plumbing", "is", "making", "the", "pipes", "sound", "water", "loud", "strange"],
+    "numero": "3",
+    "resposta_correta": "the plumbing is making noises"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Ancestral traditions unite current generations",
+    "opcoes": ["gerações", "ancestrais", "unem", "tradições", "atuais", "passado", "família", "povo", "histórias", "as"],
+    "numero": "4",
+    "resposta_correta": "tradições ancestrais unem gerações atuais"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The backyard landscape is breathtaking",
+    "opcoes": ["breathtaking", "landscape", "backyard", "the", "is", "beautiful", "garden", "view", "amazing", "yard"],
+    "numero": "5",
+    "resposta_correta": "the backyard landscape is breathtaking"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Seu enteado fala fluentemente chinês",
+    "opcoes": ["fluently", "stepson", "Chinese", "speaks", "his", "language", "talks", "very", "boy", "well"],
+    "numero": "6",
+    "resposta_correta": "his stepson speaks Chinese fluently"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The basement air is stale",
+    "opcoes": ["viciado", "ar", "porão", "o", "do", "está", "ruim", "cheiro", "casa", "velho"],
+    "numero": "7",
+    "resposta_correta": "o ar do porão está viciado"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Property taxes are quite high",
+    "opcoes": ["taxes", "property", "quite", "are", "high", "house", "tax", "cost", "very", "expensive"],
+    "numero": "8",
+    "resposta_correta": "property taxes are quite high"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "Minha bisavó adora contar histórias",
+    "opcoes": ["loves", "great-grandmother", "telling", "stories", "my", "likes", "tales", "old", "speaks", "family"],
+    "numero": "9",
+    "resposta_correta": "my great-grandmother loves telling stories"
+  },
+  {
+    "questionType": "traduza a frase",
+    "pergunta": "The kitchen renovation cost thousands",
+    "opcoes": ["milhares", "reforma", "custou", "cozinha", "da", "dinheiro", "valor", "nova", "a", "caro"],
+    "numero": "10",
+    "resposta_correta": "a reforma da cozinha custou milhares"
   }
 ];

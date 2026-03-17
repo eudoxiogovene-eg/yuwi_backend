@@ -66,3 +66,13 @@ export const findSubCategoryByNameAndCategory= async({name,category}:Omit<SubSub
     }
     return subCategoryExist
 }
+
+export const getSubCategoryByCategory= async(category_id:string)=>{
+    const subCategoryes= await SubCategories.find({
+        category:category_id
+    })
+    if(!subCategoryes){
+        throw new Error("subcategorias nao encontrada")
+    }
+    return subCategoryes
+}

@@ -13,5 +13,6 @@ routes.get('/getQuiz/:quizId',Quiz__Controlers.show)
 routes.put('/updateQuiz/:quizId',Quiz__Controlers.update)
 routes.post('/createQuizSemArea',Quiz__Controlers.createQuizSemArea)
 routes.post('/filterQuiz',Quiz__Controlers.filterQuizController)
+routes.post('/filterQuizSemArea',Quiz__Controlers.filterQuizSemAreaController)
 
 export const Quiz__routes=routes   

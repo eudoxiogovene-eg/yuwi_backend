@@ -125,3 +125,17 @@ export const findQuizExercise= async(quiz:string)=>{
     })
     return quizExerciseExist
 }
+
+export const createManyExercise= async(exercises:Omit<ExerciseData,"id"|"numeroNovo">[])=>{
+    try {
+        const result = await Exercises.insertMany(exercises, {
+        ordered: false
+        })
+        return result
+  } catch (error: any) {
+    if (error.code === 11000) {
+      console.log("alguns exercícios já existiam")
+    }
+  }
+}
+

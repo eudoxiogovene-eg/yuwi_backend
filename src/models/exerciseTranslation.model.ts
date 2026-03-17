@@ -36,6 +36,6 @@ const exerciseTranslationSchema= new mongoose.Schema({
     },{
         timestamps:true
     })  
-
+exerciseTranslationSchema.index({ quiz: 1, numero: 1 }, { unique: true })
 export const ExercisesTranslation=mongoose.model('ExerciseTranslation', exerciseTranslationSchema) 
 

@@ -3,7 +3,11 @@
 import {Request,Response,} from "express"
 
 
-import {createExerciseTranslation,ExerciseTranslationData,getExerciseTranslation,getExercisesTranslation,updateExerciseTranslation} from "../repositories/exerciseTranslation.repository"
+import {
+    createExerciseTranslation,ExerciseTranslationData,
+    getExerciseTranslation,getExercisesTranslation,
+    updateExerciseTranslation,findExerciseTranslationsByQuiz
+} from "../repositories/exerciseTranslation.repository"
 import {exerciseTranslationSchema,exerciseTranslationUpdateSchema} from "../validations/exerciseTranslation.schema.validation"
 
 
@@ -68,6 +72,17 @@ export const ExerciseTranslation__Controlers ={
             return res.status(400).json({message:error.message})
         }
     },
+    async findExerciseTranslationsByQuizController(req:Request,res:Response){
+       const {quiz} = req.params 
+       
+      
+       try {
+           const exercicios= await findExerciseTranslationsByQuiz(quiz.toString())
+           return res.status(200).json({message:"exercicios encontrado com sucesso",dado:exercicios})
+       } catch (error:any) {
+           return res.status(400).json({message:error.message})
+       }
+   },
 
  
 }

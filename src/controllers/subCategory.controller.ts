@@ -3,7 +3,7 @@
 import {Request,Response,} from "express"
 
 
-import {createSubCategory,getSubCategories,getSubCategory,UpdateSubCategory} from "../repositories/subCategory.repository"
+import {createSubCategory,getSubCategories,getSubCategory,UpdateSubCategory,getSubCategoryByCategory} from "../repositories/subCategory.repository"
 import { subcategorySchema} from "../validations/subcategory.schema.validation"
 import {findCategoryByName} from "../repositories/category.repository"
 
@@ -65,5 +65,19 @@ export const SubCategories__Controlers ={
        }
    },
 
+   async getSubcategoryByCategory(req:Request,res:Response){
+       const {category} = req.body 
+      
+      
+       try {
+        const categoryExist= await findCategoryByName(category)
+        const category_id=categoryExist._id.toString()
+
+           const subcategorias= await getSubCategoryByCategory(category_id)
+           return res.status(200).json({message:"categoria encontrada com sucesso",dado:subcategorias})
+       } catch (error:any) {
+           return res.status(400).json({message:error.message})
+       }
+   },
  
 }
