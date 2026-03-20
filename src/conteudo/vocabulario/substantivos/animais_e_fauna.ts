@@ -1,5 +1,5 @@
 
-export const quizBasico18 = [
+export const quiz01 = [
   {
     "pergunta": "Como se diz 'Cachorro' em inglês?",
     "opcoes": {
@@ -109,7 +109,10 @@ export const quizBasico18 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz02 = [
+ 
   {
     "pergunta": "Como se diz 'Coelho' em inglês?",
     "opcoes": {
@@ -221,7 +224,7 @@ export const quizBasico18 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Qual é a tradução de 'Frog'?",
     "opcoes": {
@@ -331,7 +334,10 @@ export const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz04 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Chicken'?",
     "opcoes": {
@@ -443,7 +449,7 @@ export const quiz2 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Qual é a tradução de 'Shark'?",
     "opcoes": {
@@ -553,7 +559,10 @@ export const quiz3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz06 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Turkey'?",
     "opcoes": {
@@ -665,7 +674,7 @@ export const quiz3 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Como se diz 'Abelha' em inglês?",
     "opcoes": {
@@ -775,7 +784,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz08 = [
+ 
   {
     "pergunta": "Como se diz 'Sapo' em inglês?",
     "opcoes": {
@@ -887,7 +899,7 @@ export const quiz4 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Qual é a tradução de 'Deer'?",
     "opcoes": {
@@ -997,7 +1009,10 @@ export const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz010 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Fox'?",
     "opcoes": {
@@ -1109,7 +1124,7 @@ export const quiz5 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Qual é a tradução de 'Eagle'?",
     "opcoes": {
@@ -1219,7 +1234,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz012 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Ant'?",
     "opcoes": {
@@ -1331,7 +1349,7 @@ export const quiz6 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Qual é a tradução de 'Shark'?",
     "opcoes": {
@@ -1441,7 +1459,10 @@ export const quiz7 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz014 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Turtle'?",
     "opcoes": {
@@ -1553,7 +1574,7 @@ export const quiz7 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Qual é a tradução de 'Giraffe'?",
     "opcoes": {
@@ -1628,7 +1649,7 @@ export const quiz8 = [
       "C": "Ovelha",
       "D": "Bode"
     },
-    "numero": "1",
+    "numero": "7",
     "resposta_correta": "B"
   },
   {
@@ -1663,7 +1684,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz016 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Butterfly'?",
     "opcoes": {
@@ -1775,7 +1799,7 @@ export const quiz8 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Qual é a tradução de 'Butterfly'?",
     "opcoes": {
@@ -1885,7 +1909,10 @@ export const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz018 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Whale'?",
     "opcoes": {
@@ -1997,7 +2024,7 @@ export const quiz9 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Qual é a tradução de 'Owl'?",
     "opcoes": {
@@ -2107,7 +2134,10 @@ export const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz020 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Sheep'?",
     "opcoes": {
@@ -2223,7 +2253,7 @@ export const quiz10 = [
 /*-----------------------basico--------------------------------*/
 
 
-export const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'O leão está caçando'?",
     "opcoes": {
@@ -2333,7 +2363,10 @@ export const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico02 = [
+ 
   {
     "pergunta": "Como se diz 'A girafa come folhas'?",
     "opcoes": {
@@ -2445,7 +2478,7 @@ export const quizBasico1 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'O urso come peixe'?",
     "opcoes": {
@@ -2555,7 +2588,10 @@ export const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico04 = [
+ 
   {
     "pergunta": "Como se diz 'Ovelhas produzem lã macia'?",
     "opcoes": {
@@ -2667,7 +2703,7 @@ export const quizBasico2 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico3 = [
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'O peixe nada rápido'?",
     "opcoes": {
@@ -2777,7 +2813,10 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico06 = [
+  
   {
     "pergunta": "Como se diz 'O pato caminha devagar'?",
     "opcoes": {
@@ -2889,7 +2928,7 @@ export const quizBasico3 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Como se diz 'A raposa corre rápido'?",
     "opcoes": {
@@ -2999,7 +3038,10 @@ export const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico08 = [
+ 
   {
     "pergunta": "Como se diz 'Peixes vivem em lagos'?",
     "opcoes": {
@@ -3111,7 +3153,7 @@ export const quizBasico4 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'O urso gosta de peixe'?",
     "opcoes": {
@@ -3221,7 +3263,10 @@ export const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico010 = [
+  
   {
     "pergunta": "Como se diz 'O pato gosta de água'?",
     "opcoes": {
@@ -3333,7 +3378,7 @@ export const quizBasico5 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'O esquilo guarda nozes'?",
     "opcoes": {
@@ -3443,7 +3488,10 @@ export const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico012 = [
+  
   {
     "pergunta": "Como se diz 'O polvo tem tinta'?",
     "opcoes": {
@@ -3555,7 +3603,7 @@ export const quizBasico6 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'O esquilo sobe árvores'?",
     "opcoes": {
@@ -3665,7 +3713,10 @@ export const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico014 = [
+  
   {
     "pergunta": "Como se diz 'O rato foge rápido'?",
     "opcoes": {
@@ -3777,7 +3828,7 @@ export const quizBasico7 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'O urso escala árvores'?",
     "opcoes": {
@@ -3887,7 +3938,10 @@ export const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico016 = [
+  
   {
     "pergunta": "Como se diz 'O pato tem penas'?",
     "opcoes": {
@@ -3999,7 +4053,7 @@ export const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'O tigre caça sozinho'?",
     "opcoes": {
@@ -4109,7 +4163,10 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico018 = [
+ 
   {
     "pergunta": "Como se diz 'O pato nada rápido'?",
     "opcoes": {
@@ -4221,7 +4278,7 @@ export const quizBasico9 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'O leão ruge alto'?",
     "opcoes": {
@@ -4331,7 +4388,10 @@ export const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico020 = [
+  
   {
     "pergunta": "Como se diz 'O macaco escala árvores'?",
     "opcoes": {
@@ -4450,7 +4510,7 @@ export const quizBasico10 = [
 
 
 
-export const quizIntermediario1 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'Endangered species require urgent protection'",
     "opcoes": {
@@ -4560,7 +4620,10 @@ export const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario02 = [
+  
   {
     "pergunta": "Traduza: 'Domesticated animals obey humans'",
     "opcoes": {
@@ -4672,7 +4735,7 @@ export const quizIntermediario1 = [
     "resposta_correta": "A"
   }
 ];
-export const quizIntermediario2 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Aves de rapina possuem visão aguçada'?",
     "opcoes": {
@@ -4782,7 +4845,10 @@ export const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario04 = [
+  
   {
     "pergunta": "Como se diz 'Alguns animais hibernam profundamente'?",
     "opcoes": {
@@ -4894,7 +4960,7 @@ export const quizIntermediario2 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Espécimes raros habitam arquipélagos'?",
     "opcoes": {
@@ -5004,7 +5070,10 @@ export const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario06 = [
+  
   {
     "pergunta": "Como se diz 'Presas evitam detecção visual'?",
     "opcoes": {
@@ -5116,7 +5185,7 @@ export const quizIntermediario3 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Traduza: 'Venomous snakes inhabit tropical jungles'",
     "opcoes": {
@@ -5226,7 +5295,10 @@ export const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizIntermediario08 = [
+ 
   {
     "pergunta": "Traduza: 'Pollination ensures floral diversity'",
     "opcoes": {
@@ -5338,7 +5410,7 @@ export const quizIntermediario4 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario5 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Recifes sustentam vida marinha'?",
     "opcoes": {
@@ -5448,7 +5520,10 @@ export const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario010 = [
+ 
   {
     "pergunta": "Como se diz 'O bando migra anualmente'?",
     "opcoes": {
@@ -5560,7 +5635,7 @@ export const quizIntermediario5 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario6 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Recifes protegem a costa'?",
     "opcoes": {
@@ -5670,7 +5745,10 @@ export const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario012 = [
+  
   {
     "pergunta": "Como se diz 'A prole segue o líder'?",
     "opcoes": {
@@ -5782,7 +5860,7 @@ export const quizIntermediario6 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Predadores caçam durante a noite'?",
     "opcoes": {
@@ -5813,7 +5891,7 @@ export const quizIntermediario7 = [
       "C": "Species live in forest",
       "D": "The forest shelters species"
     },
-    "numero": "11",
+    "numero": "3",
     "resposta_correta": "D"
   },
   {
@@ -5892,7 +5970,10 @@ export const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario014 = [
+  
   {
     "pergunta": "Como se diz 'Acasalamento garante a prole'?",
     "opcoes": {
@@ -6004,7 +6085,7 @@ export const quizIntermediario7 = [
     "resposta_correta": "B"
   }
 ];
-export const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'Tubarões detectam batimentos cardíacos'?",
     "opcoes": {
@@ -6114,7 +6195,10 @@ export const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizIntermediario016 = [
+ 
   {
     "pergunta": "Como se diz 'Esquilos enterram nozes'?",
     "opcoes": {
@@ -6226,7 +6310,7 @@ export const quizIntermediario8 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'Camaleões mudam de cor'?",
     "opcoes": {
@@ -6336,7 +6420,10 @@ export const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario018 = [
+  
   {
     "pergunta": "Como se diz 'A águia tem garras'?",
     "opcoes": {
@@ -6448,7 +6535,7 @@ export const quizIntermediario9 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'A presa tenta escapar'?",
     "opcoes": {
@@ -6558,7 +6645,10 @@ export const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario020 = [
+ 
   {
     "pergunta": "Como se diz 'Herbívoros preferem plantas verdes'?",
     "opcoes": {
@@ -6675,719 +6765,720 @@ export const quizIntermediario10 = [
 export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Apex predators hunt large prey",
-    "opcoes": ["grandes", "topo", "caçam", "animais", "de", "floresta", "presas", "velozes", "Predadores", "comem"],
     "numero": "1",
-    "resposta_correta": "Predadores de topo caçam presas grandes"
+    "pergunta": "Apex predators hunt large prey",
+    "opcoes": ["topo", "de", "caçam", "presas", "grandes", "Predadores", "animais", "comem", "selva", "alimento"],
+    "resposta_correta": "predadores de topo caçam presas grandes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias filtram oxigênio vital",
-    "opcoes": ["vital", "filter", "water", "oxygen", "lungs", "Gills", "sea", "fish", "vital", "breathe"],
     "numero": "2",
-    "resposta_correta": "Gills filter vital oxygen"
+    "pergunta": "As brânquias filtram oxigênio vital",
+    "opcoes": ["oxygen", "filter", "vital", "Gills", "breathe", "water", "lungs", "fish"],
+    "resposta_correta": "gills filter vital oxygen"
   },
   {
-    "pergunta": "Nocturnal animals possess keen senses",
-    "opcoes": ["aguçados", "possuem", "noite", "sentidos", "Animais", "visão", "noturnos", "floresta", "caçadores", "fortes"],
+    "questionType": "traduza a frase",
     "numero": "3",
-    "resposta_correta": "Animais noturnos possuem sentidos aguçados"
+    "pergunta": "Nocturnal animals possess keen senses",
+    "opcoes": ["sentidos", "possuem", "noturnos", "aguçados", "Animais", "visão", "noite", "caçadores", "fortes"],
+    "resposta_correta": "animais noturnos possuem sentidos aguçados"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A camuflagem garante proteção constante",
-    "opcoes": ["protection", "constant", "hiding", "ensures", "safety", "always", "Camouflage", "animal", "forest", "nature"],
     "numero": "4",
-    "resposta_correta": "Camouflage ensures constant protection"
+    "pergunta": "A camuflagem garante proteção constante",
+    "opcoes": ["constant", "ensures", "protection", "Camouflage", "hiding", "safety", "always", "nature"],
+    "resposta_correta": "camouflage ensures constant protection"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Reptiles exhibit cold-blooded metabolism",
-    "opcoes": ["sangue", "exibem", "quente", "frio", "Répteis", "corpo", "metabolismo", "de", "lento", "pele"],
     "numero": "5",
-    "resposta_correta": "Répteis exibem metabolismo de sangue frio"
+    "pergunta": "Reptiles exhibit cold-blooded metabolism",
+    "opcoes": ["frio", "de", "Répteis", "metabolismo", "sangue", "exibem", "pele", "quente", "lento", "corpo"],
+    "resposta_correta": "répteis exibem metabolismo de sangue frio"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A biodiversidade sustenta ecossistemas globais",
-    "opcoes": ["ecosystems", "global", "nature", "sustains", "world", "Biodiversity", "life", "support", "balance", "planet"],
     "numero": "6",
-    "resposta_correta": "Biodiversity sustains global ecosystems"
+    "pergunta": "A biodiversidade sustenta ecossistemas globais",
+    "opcoes": ["sustains", "global", "ecosystems", "Biodiversity", "nature", "world", "life", "support"],
+    "resposta_correta": "biodiversity sustains global ecosystems"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mammals nurse their fragile young",
-    "opcoes": ["amamentam", "filhotes", "seus", "Mamíferos", "frágeis", "pequenos", "cuidam", "leite", "mãe", "vida"],
     "numero": "7",
-    "resposta_correta": "Mamíferos amamentam seus frágeis filhotes"
+    "pergunta": "Mammals nurse their fragile young",
+    "opcoes": ["frágeis", "seus", "Mamíferos", "amamentam", "filhotes", "leite", "cuidam", "pequenos", "mãe"],
+    "resposta_correta": "mamíferos amamentam seus frágeis filhotes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pássaros migratórios atravessam oceanos vastos",
-    "opcoes": ["oceans", "cross", "vast", "fly", "birds", "Migratory", "travel", "south", "wings", "sky"],
     "numero": "8",
-    "resposta_correta": "Migratory birds cross vast oceans"
+    "pergunta": "Pássaros migratórios atravessam oceanos vastos",
+    "opcoes": ["cross", "vast", "oceans", "birds", "Migratory", "fly", "south", "wings", "sky"],
+    "resposta_correta": "migratory birds cross vast oceans"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Insects undergo complete metamorphosis",
-    "opcoes": ["completa", "sofrem", "Insetos", "metamorfose", "mudança", "forma", "vida", "ciclo", "natural", "fase"],
     "numero": "9",
-    "resposta_correta": "Insetos sofrem metamorfose completa"
+    "pergunta": "Insects undergo complete metamorphosis",
+    "opcoes": ["sofrem", "completa", "metamorfose", "Insetos", "vida", "ciclo", "mudança", "forma"],
+    "resposta_correta": "insetos sofrem metamorfose completa"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As carapaças protegem tartarugas marinhas",
-    "opcoes": ["turtles", "shells", "sea", "protect", "hard", "Ocean", "water", "marine", "safe", "animal"],
     "numero": "10",
-    "resposta_correta": "Shells protect sea turtles"
+    "pergunta": "As carapaças protegem tartarugas marinhas",
+    "opcoes": ["protect", "sea", "turtles", "Shells", "hard", "safe", "water", "marine"],
+    "resposta_correta": "shells protect sea turtles"
   }
 ];
 export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Scavengers clean the natural environment",
-    "opcoes": ["limpam", "natureza", "o", "ambiente", "Necrófagos", "floresta", "animal", "natural", "comem", "terra"],
     "numero": "1",
-    "resposta_correta": "Necrófagos limpam o ambiente natural"
+    "pergunta": "Scavengers clean the natural environment",
+    "opcoes": ["natural", "o", "ambiente", "Necrófagos", "limpam", "floresta", "comem", "animal", "lixo"],
+    "resposta_correta": "necrófagos limpam o ambiente natural"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Espécies solitárias caçam sozinhas",
-    "opcoes": ["Solitary", "hunt", "alone", "species", "forest", "animals", "together", "live", "brave", "only"],
     "numero": "2",
-    "resposta_correta": "Solitary species hunt alone"
+    "pergunta": "Espécies solitárias caçam sozinhas",
+    "opcoes": ["hunt", "Solitary", "alone", "species", "together", "forest", "animals", "live"],
+    "resposta_correta": "solitary species hunt alone"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Corals are complex living organisms",
-    "opcoes": ["organismos", "vivos", "Corais", "complexos", "são", "mar", "pedras", "água", "recifes", "pequenos"],
     "numero": "3",
-    "resposta_correta": "Corals são organismos vivos complexos"
+    "pergunta": "Corals are complex living organisms",
+    "opcoes": ["são", "vivos", "complexos", "Corais", "organismos", "mar", "pedras", "água", "recifes"],
+    "resposta_correta": "corais são organismos vivos complexos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Anfíbios necessitam de habitats úmidos",
-    "opcoes": ["habitats", "Amphibians", "moist", "need", "water", "require", "dry", "places", "swamp", "live"],
     "numero": "4",
-    "resposta_correta": "Amphibians require moist habitats"
+    "pergunta": "Anfíbios necessitam de habitats úmidos",
+    "opcoes": ["Amphibians", "moist", "require", "habitats", "water", "dry", "swamp", "place"],
+    "resposta_correta": "amphibians require moist habitats"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Venomous snakes possess lethal fangs",
-    "opcoes": ["venenosas", "letais", "possuem", "presas", "Cobras", "perigo", "ataque", "dentes", "fortes", "pele"],
     "numero": "5",
-    "resposta_correta": "Cobras venenosas possuem presas letais"
+    "pergunta": "Venomous snakes possess lethal fangs",
+    "opcoes": ["presas", "possuem", "Cobras", "letais", "venenosas", "perigo", "ataque", "dentes", "veneno"],
+    "resposta_correta": "cobras venenosas possuem presas letais"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Os polinizadores visitam flores diversas",
-    "opcoes": ["flowers", "visit", "diverse", "Pollinators", "bees", "insects", "garden", "many", "plants", "color"],
     "numero": "6",
-    "resposta_correta": "Pollinators visit diverse flowers"
+    "pergunta": "Os polinizadores visitam flores diversas",
+    "opcoes": ["Pollinators", "flowers", "visit", "diverse", "bees", "garden", "insects", "many"],
+    "resposta_correta": "pollinators visit diverse flowers"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Herbivores consume only organic plants",
-    "opcoes": ["plantas", "Herbívoros", "apenas", "orgânicas", "consomem", "folhas", "verdes", "comem", "terra", "mato"],
     "numero": "7",
-    "resposta_correta": "Herbívoros consomem apenas plantas orgânicas"
+    "pergunta": "Herbivores consume only organic plants",
+    "opcoes": ["plantas", "orgânicas", "Herbívoros", "apenas", "consomem", "folhas", "verdes", "comem", "terra"],
+    "resposta_correta": "herbívoros consomem apenas plantas orgânicas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A hiena é uma necrófaga",
-    "opcoes": ["scavenger", "is", "a", "hyena", "The", "animal", "wild", "fast", "brave", "hunter"],
     "numero": "8",
-    "resposta_correta": "The hyena is a scavenger"
+    "pergunta": "A hiena é uma necrófaga",
+    "opcoes": ["hyena", "scavenger", "The", "a", "is", "animal", "wild", "fast", "brave"],
+    "resposta_correta": "the hyena is a scavenger"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Primates share complex social structures",
-    "opcoes": ["sociais", "estruturas", "Primatas", "complexas", "compartilham", "grupos", "vida", "macacos", "fortes", "unidos"],
     "numero": "9",
-    "resposta_correta": "Primatas compartilham estruturas sociais complexas"
+    "pergunta": "Primates share complex social structures",
+    "opcoes": ["estruturas", "complexas", "compartilham", "sociais", "Primatas", "grupos", "vida", "macacos", "unidos"],
+    "resposta_correta": "primatas compartilham estruturas sociais complexas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Ecolocalização guia morcegos na escuridão",
-    "opcoes": ["Echolocation", "bats", "darkness", "guides", "in", "sound", "night", "fly", "caves", "wings"],
     "numero": "10",
-    "resposta_correta": "Echolocation guides bats in darkness"
+    "pergunta": "Ecolocalização guia morcegos na escuridão",
+    "opcoes": ["darkness", "bats", "in", "guides", "Echolocation", "sound", "night", "fly", "wings"],
+    "resposta_correta": "echolocation guides bats in darkness"
   }
 ];
 export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Sharks detect electrical heart signals",
-    "opcoes": ["coração", "elétricos", "Tubarões", "detectam", "sinais", "água", "presença", "de", "sangue", "mar", "fortes"],
     "numero": "1",
-    "resposta_correta": "Tubarões detectam sinais elétricos"
+    "pergunta": "Sharks detect electrical heart signals",
+    "opcoes": ["detectam", "Tubarões", "sinais", "elétricos", "do", "coração", "água", "presença", "de", "sangue"],
+    "resposta_correta": "tubarões detectam sinais elétricos do coração"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O bico quebra sementes duras",
-    "opcoes": ["The", "beak", "breaks", "hard", "seeds", "bird", "small", "food", "crush", "nuts"],
     "numero": "2",
-    "resposta_correta": "The beak breaks hard seeds"
+    "pergunta": "O bico quebra sementes duras",
+    "opcoes": ["seeds", "breaks", "The", "hard", "beak", "bird", "small", "food", "crush"],
+    "resposta_correta": "the beak breaks hard seeds"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Parasites exploit their living hosts",
-    "opcoes": ["exploram", "vivos", "hospedeiros", "seus", "Parasitas", "natureza", "corpo", "dentro", "comem", "pequenos"],
     "numero": "3",
-    "resposta_correta": "Parasitas exploram seus hospedeiros vivos"
+    "pergunta": "Parasites exploit their living hosts",
+    "opcoes": ["vivos", "exploram", "Parasitas", "hospedeiros", "seus", "natureza", "corpo", "dentro", "comem"],
+    "resposta_correta": "parasitas exploram seus hospedeiros vivos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Garrões agarram a presa veloz",
-    "opcoes": ["Talons", "grab", "the", "fast", "prey", "claws", "eagle", "strong", "catch", "meat"],
     "numero": "4",
-    "resposta_correta": "Talons grab the fast prey"
+    "pergunta": "Garrões agarram a presa veloz",
+    "opcoes": ["grab", "the", "fast", "prey", "Talons", "claws", "eagle", "strong", "catch"],
+    "resposta_correta": "talons grab the fast prey"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Camels endure extreme desert heat",
-    "opcoes": ["extremo", "deserto", "suportam", "calor", "Camelos", "do", "sol", "água", "areia", "seco"],
     "numero": "5",
-    "resposta_correta": "Camelos suportam calor extremo deserto"
+    "pergunta": "Camels endure extreme desert heat",
+    "opcoes": ["suportam", "extremo", "do", "deserto", "calor", "Camelos", "sol", "água", "areia", "seco"],
+    "resposta_correta": "camelos suportam calor extremo do deserto"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A matilha caça em grupo",
-    "opcoes": ["The", "pack", "hunts", "in", "group", "wolves", "together", "wild", "forest", "dogs"],
     "numero": "6",
-    "resposta_correta": "The pack hunts in group"
+    "pergunta": "A matilha caça em grupo",
+    "opcoes": ["pack", "hunts", "The", "in", "a", "group", "wolves", "together", "wild", "forest"],
+    "resposta_correta": "the pack hunts in a group"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Metamorphosis transforms larval insect stages",
-    "opcoes": ["estágios", "larvais", "insetos", "Metamorfose", "transforma", "dos", "vida", "ciclo", "muda", "corpo"],
     "numero": "7",
-    "resposta_correta": "Metamorfose transforma estágios larvais insetos"
+    "pergunta": "Metamorphosis transforms larval insect stages",
+    "opcoes": ["dos", "insetos", "transforma", "larvais", "Metamorfose", "estágios", "vida", "ciclo", "muda", "corpo"],
+    "resposta_correta": "metamorfose transforma estágios larvais dos insetos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Recifes protegem a costa marinha",
-    "opcoes": ["Reefs", "protect", "the", "marine", "coast", "sea", "ocean", "water", "safe", "beach"],
     "numero": "8",
-    "resposta_correta": "Reefs protect the marine coast"
+    "pergunta": "Recifes protegem a costa marinha",
+    "opcoes": ["the", "Reefs", "protect", "coast", "marine", "sea", "ocean", "water", "safe"],
+    "resposta_correta": "reefs protect the marine coast"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Eagles possess exceptional long-range vision",
-    "opcoes": ["longo", "visão", "Águias", "possuem", "excepcional", "alcance", "de", "olhos", "céu", "caça"],
     "numero": "9",
-    "resposta_correta": "Águias possuem excepcional visão alcance"
+    "pergunta": "Eagles possess exceptional long-range vision",
+    "opcoes": ["visão", "de", "Águias", "possuem", "longo", "alcance", "excepcional", "olhos", "céu", "caça", "de"],
+    "resposta_correta": "águias possuem excepcional visão de longo alcance"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias absorvem oxigênio dissolvido",
-    "opcoes": ["Gills", "absorb", "dissolved", "oxygen", "water", "fish", "breathe", "liquid", "sea", "pure"],
     "numero": "10",
-    "resposta_correta": "Gills absorb dissolved oxygen"
+    "pergunta": "As brânquias absorvem oxigênio dissolvido",
+    "opcoes": ["dissolved", "absorb", "Gills", "oxygen", "water", "fish", "breathe", "liquid"],
+    "resposta_correta": "gills absorb dissolved oxygen"
   }
 ];
 export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Hibernation conserves vital animal energy",
-    "opcoes": ["animal", "vital", "energia", "Hibernação", "conserva", "sono", "inverno", "urso", "corpo", "poupa", "frio"],
     "numero": "1",
-    "resposta_correta": "Hibernação conserva energia animal vital"
+    "pergunta": "Hibernation conserves vital animal energy",
+    "opcoes": ["Hibernação", "conserva", "energia", "animal", "vital", "inverno", "urso", "corpo", "poupa"],
+    "resposta_correta": "hibernação conserva energia animal vital"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O ecossistema mantém equilíbrio natural",
-    "opcoes": ["Ecosystem", "maintains", "natural", "balance", "nature", "life", "world", "keeps", "stable", "forest"],
     "numero": "2",
-    "resposta_correta": "Ecosystem maintains natural balance"
+    "pergunta": "O ecossistema mantém o equilíbrio natural",
+    "opcoes": ["Ecosystem", "maintains", "the", "natural", "balance", "nature", "life", "world", "stable"],
+    "resposta_correta": "ecosystem maintains the natural balance"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pollinators transfer pollen between flowers",
-    "opcoes": ["pólen", "flores", "entre", "Polinizadores", "transferem", "abelhas", "jardim", "levam", "plantas", "mel"],
     "numero": "3",
-    "resposta_correta": "Polinizadores transferem pólen entre flores"
+    "pergunta": "Pollinators transfer pollen between flowers",
+    "opcoes": ["Polinizadores", "transferem", "pólen", "entre", "flores", "abelhas", "jardim", "levam", "plantas"],
+    "resposta_correta": "polinizadores transferem pólen entre flores"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A camuflagem engana predadores famintos",
-    "opcoes": ["Camouflage", "deceives", "hungry", "predators", "hides", "animals", "eyes", "tricks", "forest", "wild"],
     "numero": "4",
-    "resposta_correta": "Camouflage deceives hungry predators"
+    "pergunta": "A camuflagem engana predadores famintos",
+    "opcoes": ["Camouflage", "deceives", "hungry", "predators", "hides", "animals", "eyes", "tricks"],
+    "resposta_correta": "camouflage deceives hungry predators"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Migration requires immense physical endurance",
-    "opcoes": ["física", "requer", "resistência", "imensa", "Migração", "longa", "esforço", "viagem", "corpo", "aves"],
     "numero": "5",
-    "resposta_correta": "Migração requer imensa resistência física"
+    "pergunta": "Migration requires immense physical endurance",
+    "opcoes": ["Migração", "requer", "imensa", "resistência", "física", "longa", "esforço", "viagem", "corpo"],
+    "resposta_correta": "migração requer imensa resistência física"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Répteis possuem escamas protetoras duras",
-    "opcoes": ["Reptiles", "possess", "hard", "protective", "scales", "skin", "body", "snakes", "strong", "cover"],
     "numero": "6",
-    "resposta_correta": "Reptiles possess hard protective scales"
+    "pergunta": "Répteis possuem escamas protetoras duras",
+    "opcoes": ["Reptiles", "possess", "hard", "protective", "scales", "skin", "body", "snakes", "strong"],
+    "resposta_correta": "reptiles possess hard protective scales"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Whales communicate using ultrasonic frequencies",
-    "opcoes": ["frequências", "ultrassônicas", "usando", "comunicam", "Baleias", "mar", "som", "água", "cantam", "se"],
     "numero": "7",
-    "resposta_correta": "Baleias se comunicam usando frequências"
+    "pergunta": "Whales communicate using ultrasonic frequencies",
+    "opcoes": ["Baleias", "se", "comunicam", "usando", "frequências", "ultrassônicas", "mar", "som", "água", "cantam"],
+    "resposta_correta": "baleias se comunicam usando frequências ultrassônicas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias extraem oxigênio aquático",
-    "opcoes": ["Gills", "extract", "aquatic", "oxygen", "water", "fish", "breathe", "from", "liquid", "pure"],
     "numero": "8",
-    "resposta_correta": "Gills extract aquatic oxygen"
+    "pergunta": "As brânquias extraem oxigênio aquático",
+    "opcoes": ["Gills", "extract", "aquatic", "oxygen", "water", "fish", "breathe", "from", "liquid"],
+    "resposta_correta": "gills extract aquatic oxygen"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Scavengers eliminate decaying organic matter",
-    "opcoes": ["orgânica", "eliminam", "matéria", "Necrófagos", "decomposição", "em", "limpam", "natureza", "corpo", "terra"],
     "numero": "9",
-    "resposta_correta": "Necrófagos eliminam matéria orgânica decomposição"
+    "pergunta": "Scavengers eliminate decaying organic matter",
+    "opcoes": ["Necrófagos", "eliminam", "matéria", "orgânica", "em", "decomposição", "limpam", "natureza", "corpo", "terra"],
+    "resposta_correta": "necrófagos eliminam matéria orgânica em decomposição"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Filhotes aprendem técnicas caça essenciais",
-    "opcoes": ["Cubs", "learn", "essential", "hunting", "techniques", "young", "skills", "survival", "food", "wild"],
     "numero": "10",
-    "resposta_correta": "Cubs learn essential hunting techniques"
+    "pergunta": "Filhotes aprendem técnicas de caça essenciais",
+    "opcoes": ["Cubs", "learn", "essential", "hunting", "techniques", "young", "skills", "survival", "food"],
+    "resposta_correta": "cubs learn essential hunting techniques"
   }
 ];
 export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Insects navigate using polarized sunlight",
-    "opcoes": ["luz", "solar", "usam", "polarizada", "Insetos", "para", "navegam", "voam", "sentido", "bússola", "dia"],
     "numero": "1",
-    "resposta_correta": "Insetos navegam usam luz solar polarizada"
+    "pergunta": "Insects navigate using polarized sunlight",
+    "opcoes": ["navegam", "usando", "luz", "solar", "polarizada", "Insetos", "para", "voam", "sentido", "bússola"],
+    "resposta_correta": "insetos navegam usando luz solar polarizada"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O veneno paralisa o sistema nervoso",
-    "opcoes": ["Venom", "paralyzes", "the", "nervous", "system", "poison", "kills", "body", "muscle", "nerve"],
     "numero": "2",
-    "resposta_correta": "Venom paralyzes the nervous system"
+    "pergunta": "O veneno paralisa o sistema nervoso",
+    "opcoes": ["Venom", "paralyzes", "the", "nervous", "system", "poison", "kills", "body", "muscle"],
+    "resposta_correta": "venom paralyzes the nervous system"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Marsupials carry underdeveloped offspring in pouches",
-    "opcoes": ["bolsas", "carregam", "em", "Marsupiais", "filhotes", "desenvolvidos", "pouco", "mães", "natureza", "leite", "vida"],
     "numero": "3",
-    "resposta_correta": "Marsupiais carregam filhotes pouco desenvolvidos bolsas"
+    "pergunta": "Marsupials carry underdeveloped offspring in pouches",
+    "opcoes": ["pouco", "desenvolvidos", "em", "bolsas", "Marsupiais", "carregam", "filhotes", "mães", "natureza", "leite", "vida"],
+    "resposta_correta": "marsupiais carregam filhotes pouco desenvolvidos em bolsas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias permitem respiração debaixo d'água",
-    "opcoes": ["Gills", "allow", "breathing", "underwater", "fish", "water", "breathe", "ocean", "liquid", "pure"],
     "numero": "4",
-    "resposta_correta": "Gills allow breathing underwater"
+    "pergunta": "As brânquias permitem respiração debaixo d'água",
+    "opcoes": ["Gills", "allow", "breathing", "underwater", "fish", "water", "breathe", "ocean"],
+    "resposta_correta": "gills allow breathing underwater"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Camouflage masks predators from unaware prey",
-    "opcoes": ["mascara", "predadores", "presas", "desatentas", "Camuflagem", "esconde", "caça", "visão", "animal", "mata"],
     "numero": "5",
-    "resposta_correta": "Camuflagem mascara predadores presas desatentas"
+    "pergunta": "Camouflage masks predators from unaware prey",
+    "opcoes": ["mascara", "predadores", "de", "presas", "desatentas", "Camuflagem", "esconde", "caça", "visão"],
+    "resposta_correta": "camuflagem mascara predadores de presas desatentas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Aves migratórias possuem bússolas internas",
-    "opcoes": ["Migratory", "birds", "possess", "internal", "compasses", "wings", "fly", "map", "magnetic", "travel"],
     "numero": "6",
-    "resposta_correta": "Migratory birds possess internal compasses"
+    "pergunta": "Aves migratórias possuem bússolas internas",
+    "opcoes": ["Migratory", "birds", "possess", "internal", "compasses", "wings", "fly", "map", "magnetic"],
+    "resposta_correta": "migratory birds possess internal compasses"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Herbivores maintain healthy forest undergrowth",
-    "opcoes": ["florestal", "mantêm", "sub-bosque", "Herbívoros", "saudável", "plantas", "comem", "verde", "natureza", "terra"],
     "numero": "7",
-    "resposta_correta": "Herbívoros mantêm sub-bosque florestal saudável"
+    "pergunta": "Herbivores maintain healthy forest undergrowth",
+    "opcoes": ["Herbívoros", "mantêm", "o", "sub-bosque", "florestal", "saudável", "plantas", "comem", "verde", "terra"],
+    "resposta_correta": "herbívoros mantêm o sub-bosque florestal saudável"
   },
   {
     "questionType": "traduza a frase",
+    "numero": "8",
     "pergunta": "Tubarões brancos são predadores solitários",
     "opcoes": ["Great", "white", "sharks", "are", "solitary", "predators", "ocean", "scary", "hunters", "fish"],
-    "numero": "8",
-    "resposta_correta": "Great white sharks are solitary predators"
+    "resposta_correta": "great white sharks are solitary predators"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Symbiosis benefits diverse marine species",
-    "opcoes": ["diversas", "beneficia", "espécies", "marinhas", "Simbiose", "ajuda", "vida", "oceano", "união", "peixes"],
     "numero": "9",
-    "resposta_correta": "Simbiose beneficia diversas espécies marinhas"
+    "pergunta": "Symbiosis benefits diverse marine species",
+    "opcoes": ["Simbiose", "beneficia", "diversas", "espécies", "marinhas", "ajuda", "vida", "oceano", "união"],
+    "resposta_correta": "simbiose beneficia diversas espécies marinhas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O bico serve como ferramenta",
-    "opcoes": ["The", "beak", "serves", "as", "a", "tool", "bird", "use", "hard", "food"],
     "numero": "10",
-    "resposta_correta": "The beak serves as a tool"
+    "pergunta": "O bico serve como uma ferramenta",
+    "opcoes": ["The", "beak", "serves", "as", "a", "tool", "bird", "use", "hard", "food"],
+    "resposta_correta": "the beak serves as a tool"
   }
 ];
 export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Apex predators regulate population density",
-    "opcoes": ["Predadores", "de", "topo", "regulam", "a", "densidade", "populacional", "floresta", "caçam", "muitos", "animais"],
     "numero": "1",
-    "resposta_correta": "Predadores de topo regulam a densidade populacional"
+    "pergunta": "Apex predators regulate population density",
+    "opcoes": ["regulam", "a", "densidade", "populacional", "Predadores", "de", "topo", "floresta", "caçam", "muitos", "animais"],
+    "resposta_correta": "predadores de topo regulam a densidade populacional"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As escamas reduzem o atrito",
-    "opcoes": ["Scales", "reduce", "friction", "water", "skin", "fast", "fish", "ocean", "body", "smooth"],
     "numero": "2",
-    "resposta_correta": "Scales reduce friction"
+    "pergunta": "As escamas reduzem o atrito",
+    "opcoes": ["friction", "reduce", "Scales", "water", "skin", "fast", "fish"],
+    "resposta_correta": "scales reduce friction"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Marsupials possess unique reproductive traits",
-    "opcoes": ["Marsupiais", "possuem", "características", "reprodutivas", "únicas", "bolsa", "filhotes", "vida", "grandes", "espécie"],
     "numero": "3",
-    "resposta_correta": "Marsupiais possuem características reprodutivas únicas"
+    "pergunta": "Marsupials possess unique reproductive traits",
+    "opcoes": ["possuem", "características", "reprodutivas", "únicas", "Marsupiais", "bolsa", "filhotes", "vida", "espécie"],
+    "resposta_correta": "marsupiais possuem características reprodutivas únicas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O veneno contém toxinas fatais",
-    "opcoes": ["Venom", "contains", "fatal", "toxins", "poison", "dangerous", "snakes", "lethal", "blood", "kill"],
     "numero": "4",
-    "resposta_correta": "Venom contains fatal toxins"
+    "pergunta": "O veneno contém toxinas fatais",
+    "opcoes": ["contains", "fatal", "toxins", "Venom", "poison", "dangerous", "snakes", "lethal"],
+    "resposta_correta": "venom contains fatal toxins"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Migratory species navigate long distances",
-    "opcoes": ["Espécies", "migratórias", "navegam", "longas", "distâncias", "voam", "mares", "clima", "inverno", "mapa"],
     "numero": "5",
-    "resposta_correta": "Espécies migratórias navegam longas distâncias"
+    "pergunta": "Migratory species navigate long distances",
+    "opcoes": ["migratórias", "navegam", "longas", "distâncias", "Espécies", "voam", "mares", "clima", "inverno"],
+    "resposta_correta": "espécies migratórias navegam longas distâncias"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias oxigenam o sangue",
-    "opcoes": ["Gills", "oxygenate", "the", "blood", "breathe", "water", "lungs", "heart", "fish", "liquid"],
     "numero": "6",
-    "resposta_correta": "Gills oxygenate the blood"
+    "pergunta": "As brânquias oxigenam o sangue",
+    "opcoes": ["oxygenate", "the", "blood", "Gills", "breathe", "water", "lungs", "heart"],
+    "resposta_correta": "gills oxygenate the blood"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Biodiversity maintains vital ecological balance",
-    "opcoes": ["Biodiversidade", "mantém", "equilíbrio", "ecológico", "vital", "natureza", "floresta", "animais", "limpa", "mundo"],
     "numero": "7",
-    "resposta_correta": "Biodiversidade mantém equilíbrio ecológico vital"
+    "pergunta": "Biodiversity maintains vital ecological balance",
+    "opcoes": ["mantém", "equilíbrio", "ecológico", "vital", "Biodiversidade", "natureza", "floresta", "animais", "mundo"],
+    "resposta_correta": "biodiversidade mantém equilíbrio ecológico vital"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O bico perfura frutos secos",
-    "opcoes": ["The", "beak", "pierces", "nuts", "mouth", "hard", "eats", "seeds", "bird", "small"],
     "numero": "8",
-    "resposta_correta": "The beak pierces nuts"
+    "pergunta": "O bico perfura frutos secos",
+    "opcoes": ["beak", "pierces", "nuts", "The", "mouth", "hard", "eats", "bird"],
+    "resposta_correta": "the beak pierces nuts"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Insects undergo complex life cycles",
-    "opcoes": ["Insetos", "passam", "por", "ciclos", "de", "vida", "complexos", "ovo", "fases", "natureza", "corpo"],
     "numero": "9",
-    "resposta_correta": "Insetos passam por ciclos de vida complexos"
+    "pergunta": "Insects undergo complex life cycles",
+    "opcoes": ["passam", "por", "ciclos", "de", "vida", "complexos", "Insetos", "ovo", "fases", "natureza", "corpo"],
+    "resposta_correta": "insetos passam por ciclos de vida complexos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Corals form vast reefs",
-    "opcoes": ["Corais", "formam", "recifes", "imensos", "mar", "azul", "peixes", "água", "pedras", "vida"],
     "numero": "10",
-    "resposta_correta": "Corais formam recifes imensos"
+    "pergunta": "Corals form vast reefs",
+    "opcoes": ["formam", "recifes", "imensos", "Corais", "mar", "azul", "peixes", "água"],
+    "resposta_correta": "corais formam recifes imensos"
   }
 ];
 export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Amphibians absorb moisture through skin",
-    "opcoes": ["pele", "umidade", "através", "Anfíbios", "absorvem", "da", "água", "corpo", "respiram", "seco", "muito"],
     "numero": "1",
-    "resposta_correta": "Anfíbios absorvem umidade através da pele"
+    "pergunta": "Amphibians absorb moisture through skin",
+    "opcoes": ["Anfíbios", "absorvem", "umidade", "através", "da", "pele", "água", "corpo", "respiram", "seco"],
+    "resposta_correta": "anfíbios absorvem umidade através da pele"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O bando migra para o sul",
-    "opcoes": ["The", "flock", "migrates", "to", "the", "south", "birds", "fly", "winter", "warm", "sky"],
     "numero": "2",
-    "resposta_correta": "The flock migrates to the south"
+    "pergunta": "O bando migra para o sul",
+    "opcoes": ["The", "flock", "migrates", "to", "the", "south", "birds", "fly", "winter", "warm"],
+    "resposta_correta": "the flock migrates to the south"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Nocturnal hunters utilize infrared heat",
-    "opcoes": ["infravermelho", "utilizam", "noturnos", "calor", "Caçadores", "noite", "visão", "presença", "frio", "de", "animais"],
     "numero": "3",
-    "resposta_correta": "Caçadores noturnos utilizam calor infravermelho"
+    "pergunta": "Nocturnal hunters utilize infrared heat",
+    "opcoes": ["Caçadores", "noturnos", "utilizam", "calor", "infravermelho", "noite", "visão", "frio", "de"],
+    "resposta_correta": "caçadores noturnos utilizam calor infravermelho"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Camouflage protects the vulnerable nest",
-    "opcoes": ["The", "camouflage", "protects", "vulnerable", "nest", "eggs", "bird", "hidden", "safe", "tree"],
     "numero": "4",
-    "resposta_correta": "Camouflage protects the vulnerable nest"
+    "pergunta": "Camouflage protects the vulnerable nest",
+    "opcoes": ["Camouflage", "protects", "the", "vulnerable", "nest", "eggs", "bird", "hidden", "safe"],
+    "resposta_correta": "camouflage protects the vulnerable nest"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Whales filter plankton with baleen",
-    "opcoes": ["barbas", "filtram", "Baleias", "plâncton", "com", "água", "comem", "pequenos", "mar", "grandes", "peixes"],
     "numero": "5",
-    "resposta_correta": "Baleias filtram plâncton com barbas"
+    "pergunta": "Whales filter plankton with baleen",
+    "opcoes": ["Baleias", "filtram", "plâncton", "com", "barbas", "água", "comem", "pequenos", "mar"],
+    "resposta_correta": "baleias filtram plâncton com barbas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Scavengers eat decaying animal carcasses",
-    "opcoes": ["animal", "eat", "decaying", "carcasses", "Scavengers", "dead", "nature", "meat", "wild", "food"],
     "numero": "6",
-    "resposta_correta": "Scavengers eat decaying animal carcasses"
+    "pergunta": "Scavengers eat decaying animal carcasses",
+    "opcoes": ["Scavengers", "eat", "decaying", "animal", "carcasses", "dead", "nature", "meat", "wild"],
+    "resposta_correta": "scavengers eat decaying animal carcasses"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A metamorfose altera formas biológicas",
-    "opcoes": ["Metamorphosis", "alters", "biological", "forms", "life", "changes", "nature", "body", "cycles", "growth"],
     "numero": "7",
-    "resposta_correta": "Metamorphosis alters biological forms"
+    "pergunta": "A metamorfose altera formas biológicas",
+    "opcoes": ["Metamorphosis", "alters", "biological", "forms", "life", "changes", "nature", "body"],
+    "resposta_correta": "metamorphosis alters biological forms"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Venomous spiders weave strong webs",
-    "opcoes": ["tecem", "fortes", "teias", "Aranhas", "venenosas", "veneno", "perigo", "caça", "insetos", "matam", "mato"],
     "numero": "8",
-    "resposta_correta": "Aranhas venenosas tecem teias fortes"
+    "pergunta": "Venomous spiders weave strong webs",
+    "opcoes": ["Aranhas", "venenosas", "tecem", "teias", "fortes", "veneno", "perigo", "caça", "insetos"],
+    "resposta_correta": "aranhas venenosas tecem teias fortes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Ecosystems support varied life forms",
-    "opcoes": ["variadas", "formas", "Ecossistemas", "suportam", "vida", "de", "mundo", "terra", "natureza", "animais", "plantas"],
     "numero": "9",
-    "resposta_correta": "Ecossistemas suportam variadas formas de vida"
+    "pergunta": "Ecosystems support varied life forms",
+    "opcoes": ["Ecossistemas", "suportam", "variadas", "formas", "de", "vida", "mundo", "terra", "natureza", "animais"],
+    "resposta_correta": "ecossistemas suportam variadas formas de vida"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Os mamíferos protegem seus filhotes",
-    "opcoes": ["Mammals", "protect", "their", "young", "babies", "safe", "animal", "wild", "care", "family"],
     "numero": "10",
-    "resposta_correta": "Mammals protect their young"
+    "pergunta": "Os mamíferos protegem seus filhotes",
+    "opcoes": ["Mammals", "protect", "their", "young", "babies", "safe", "animal", "wild"],
+    "resposta_correta": "mammals protect their young"
   }
 ];
 export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deep-sea creatures endure immense pressure",
-    "opcoes": ["Criaturas", "de", "profundezas", "suportam", "pressão", "imensa", "mar", "peixes", "água", "frio", "escuridão"],
     "numero": "1",
-    "resposta_correta": "Criaturas de profundezas suportam imensa pressão"
+    "pergunta": "Deep-sea creatures endure immense pressure",
+    "opcoes": ["Criaturas", "de", "profundezas", "suportam", "imensa", "pressão", "mar", "peixes", "água", "frio"],
+    "resposta_correta": "criaturas de profundezas suportam imensa pressão"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O exoesqueleto protege insetos pequenos",
-    "opcoes": ["The", "exoskeleton", "protects", "small", "insects", "hard", "body", "ants", "bugs", "safe", "outer"],
     "numero": "2",
-    "resposta_correta": "The exoskeleton protects small insects"
+    "pergunta": "O exoesqueleto protege insetos pequenos",
+    "opcoes": ["The", "exoskeleton", "protects", "small", "insects", "hard", "body", "ants", "bugs"],
+    "resposta_correta": "the exoskeleton protects small insects"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pollinators ensure plant genetic diversity",
-    "opcoes": ["garantem", "diversidade", "genética", "vegetal", "Polinizadores", "pólen", "flores", "vida", "natureza", "abelhas", "mata"],
     "numero": "3",
-    "resposta_correta": "Polinizadores garantem diversidade genética vegetal"
+    "pergunta": "Pollinators ensure plant genetic diversity",
+    "opcoes": ["Polinizadores", "garantem", "diversidade", "genética", "vegetal", "pólen", "flores", "vida", "natureza"],
+    "resposta_correta": "polinizadores garantem diversidade genética vegetal"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias filtram microrganismos aquáticos",
-    "opcoes": ["Gills", "filter", "aquatic", "microorganisms", "water", "fish", "small", "food", "sea", "ocean"],
     "numero": "4",
-    "resposta_correta": "Gills filter aquatic microorganisms"
+    "pergunta": "As brânquias filtram microrganismos aquáticos",
+    "opcoes": ["Gills", "filter", "aquatic", "microorganisms", "water", "fish", "small", "food"],
+    "resposta_correta": "gills filter aquatic microorganisms"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Invertebrates lack a bony skeleton",
-    "opcoes": ["carecem", "de", "um", "esqueleto", "ósseo", "Invertebrados", "corpo", "mole", "não", "têm", "animais"],
     "numero": "5",
-    "resposta_correta": "Invertebrados carecem de um esqueleto ósseo"
+    "pergunta": "Invertebrates lack a bony skeleton",
+    "opcoes": ["Invertebrados", "carecem", "de", "um", "esqueleto", "ósseo", "corpo", "mole", "não", "têm"],
+    "resposta_correta": "invertebrados carecem de um esqueleto ósseo"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A matilha protege território selvagem",
-    "opcoes": ["The", "pack", "protects", "wild", "territory", "wolves", "land", "home", "forest", "brave"],
     "numero": "6",
-    "resposta_correta": "The pack protects wild territory"
+    "pergunta": "A matilha protege território selvagem",
+    "opcoes": ["The", "pack", "protects", "wild", "territory", "wolves", "land", "home", "forest"],
+    "resposta_correta": "the pack protects wild territory"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Echolocation enables precise nocturnal navigation",
-    "opcoes": ["permite", "navegação", "noturna", "precisa", "Ecolocalização", "som", "morcegos", "noite", "guia", "vôo", "escuro"],
     "numero": "7",
-    "resposta_correta": "Ecolocalização permite navegação noturna precisa"
+    "pergunta": "Echolocation enables precise nocturnal navigation",
+    "opcoes": ["Ecolocalização", "permite", "navegação", "noturna", "precisa", "som", "morcegos", "noite", "guia"],
+    "resposta_correta": "ecolocalização permite navegação noturna precisa"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Os predadores rastreiam trilhas térmicas",
-    "opcoes": ["Predators", "track", "thermal", "trails", "heat", "hunt", "follow", "smell", "scent", "wild"],
     "numero": "8",
-    "resposta_correta": "Predators track thermal trails"
+    "pergunta": "Os predadores rastreiam trilhas térmicas",
+    "opcoes": ["Predators", "track", "thermal", "trails", "heat", "hunt", "follow", "smell"],
+    "resposta_correta": "predators track thermal trails"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Symbiotic bacteria aid animal digestion",
-    "opcoes": ["ajudam", "digestão", "animal", "Bactérias", "simbióticas", "estômago", "saúde", "corpo", "vida", "comida", "na"],
     "numero": "9",
-    "resposta_correta": "Bactérias simbióticas ajudam na digestão animal"
+    "pergunta": "Symbiotic bacteria aid animal digestion",
+    "opcoes": ["Bactérias", "simbióticas", "ajudam", "na", "digestão", "animal", "estômago", "saúde", "corpo", "vida"],
+    "resposta_correta": "bactérias simbióticas ajudam na digestão animal"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Camuflagem esconde presas de predadores",
-    "opcoes": ["Camouflage", "hides", "prey", "from", "predators", "animals", "forest", "safe", "vision", "eyes"],
     "numero": "10",
-    "resposta_correta": "Camouflage hides prey from predators"
+    "pergunta": "Camuflagem esconde presas de predadores",
+    "opcoes": ["Camouflage", "hides", "prey", "from", "predators", "animals", "forest", "safe", "vision"],
+    "resposta_correta": "camouflage hides prey from predators"
   }
 ];
 export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Endangered species require urgent conservation",
-    "opcoes": ["espécies", "urgente", "conservação", "ameaçadas", "requerem", "animais", "extinção", "ajuda", "natureza", "mata", "proteção"],
     "numero": "1",
-    "resposta_correta": "Espécies ameaçadas requerem conservação urgente"
+    "pergunta": "Endangered species require urgent conservation",
+    "opcoes": ["Espécies", "ameaçadas", "requerem", "conservação", "urgente", "animais", "extinção", "ajuda", "natureza"],
+    "resposta_correta": "espécies ameaçadas requerem conservação urgente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O polvo possui camuflagem adaptativa",
-    "opcoes": ["The", "octopus", "possesses", "adaptive", "camouflage", "sea", "skin", "changes", "color", "animal", "hidden"],
     "numero": "2",
-    "resposta_correta": "The octopus possesses adaptive camouflage"
+    "pergunta": "O polvo possui camuflagem adaptativa",
+    "opcoes": ["The", "octopus", "possesses", "adaptive", "camouflage", "sea", "skin", "changes", "color"],
+    "resposta_correta": "the octopus possesses adaptive camouflage"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Migration ensures seasonal food access",
-    "opcoes": ["garante", "acesso", "sazonal", "alimento", "Migração", "a", "viagem", "aves", "inverno", "natureza", "busca"],
     "numero": "3",
-    "resposta_correta": "Migração garante acesso a alimento sazonal"
+    "pergunta": "Migration ensures seasonal food access",
+    "opcoes": ["Migração", "garante", "acesso", "a", "alimento", "sazonal", "viagem", "aves", "inverno", "busca"],
+    "resposta_correta": "migração garante acesso a alimento sazonal"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As abelhas detectam campos magnéticos",
-    "opcoes": ["Bees", "detect", "magnetic", "fields", "honey", "pollen", "fly", "nature", "sense", "small", "earth"],
     "numero": "4",
-    "resposta_correta": "Bees detect magnetic fields"
+    "pergunta": "As abelhas detectam campos magnéticos",
+    "opcoes": ["Bees", "detect", "magnetic", "fields", "honey", "pollen", "fly", "nature"],
+    "照顾_correta": "bees detect magnetic fields"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Predators target weak or sick animals",
-    "opcoes": ["alvos", "doentes", "fracos", "Predadores", "atacam", "ou", "animais", "caça", "natureza", "mata", "comem"],
     "numero": "5",
-    "resposta_correta": "Predadores atacam animais fracos ou doentes"
+    "pergunta": "Predators target weak or sick animals",
+    "opcoes": ["Predadores", "atacam", "animais", "fracos", "ou", "doentes", "caça", "natureza", "mata", "comem"],
+    "resposta_correta": "predadores atacam animais fracos ou doentes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A biodiversidade protege cadeias alimentares",
-    "opcoes": ["Biodiversity", "protects", "food", "chains", "nature", "life", "world", "animals", "plants", "balance"],
     "numero": "6",
-    "resposta_correta": "Biodiversity protects food chains"
+    "pergunta": "A biodiversidade protege cadeias alimentares",
+    "opcoes": ["Biodiversity", "protects", "food", "chains", "nature", "life", "world", "animals"],
+    "resposta_correta": "biodiversity protects food chains"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Territorial animals defend specific boundaries",
-    "opcoes": ["limites", "específicos", "defendem", "Territoriais", "animais", "casa", "luta", "terra", "mata", "espaço", "seus"],
     "numero": "7",
-    "resposta_correta": "Animais territoriais defendem limites específicos"
+    "pergunta": "Territorial animals defend specific boundaries",
+    "opcoes": ["Animais", "territoriais", "defendem", "limites", "específicos", "casa", "luta", "terra", "espaço"],
+    "resposta_correta": "animais territoriais defendem limites específicos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As garras rasgam carne dura",
-    "opcoes": ["Claws", "tear", "tough", "meat", "sharp", "animal", "hunt", "strong", "food", "eat"],
     "numero": "8",
-    "resposta_correta": "Claws tear tough meat"
+    "pergunta": "As garras rasgam carne dura",
+    "opcoes": ["Claws", "tear", "tough", "meat", "sharp", "animal", "hunt", "strong"],
+    "resposta_correta": "claws tear tough meat"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Metabolic rates drop during hibernation",
-    "opcoes": ["metabólicas", "caem", "durante", "Taxas", "hibernação", "corpo", "sono", "inverno", "energia", "baixa", "vida"],
     "numero": "9",
-    "resposta_correta": "Taxas metabólicas caem durante hibernação"
+    "pergunta": "Metabolic rates drop during hibernation",
+    "opcoes": ["Taxas", "metabólicas", "caem", "durante", "hibernação", "corpo", "sono", "inverno", "energia"],
+    "resposta_correta": "taxas metabólicas caem durante hibernação"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O ecossistema recicla nutrientes vitais",
-    "opcoes": ["The", "ecosystem", "recycles", "vital", "nutrients", "nature", "earth", "life", "balance", "cycle"],
     "numero": "10",
-    "resposta_correta": "The ecosystem recycles vital nutrients"
+    "pergunta": "O ecossistema recicla nutrientes vitais",
+    "opcoes": ["The", "ecosystem", "recycles", "vital", "nutrients", "nature", "earth", "life", "balance"],
+    "resposta_correta": "the ecosystem recycles vital nutrients"
   }
 ];
 export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Keystone species maintain habitat integrity",
-    "opcoes": ["integridade", "do", "habitat", "mantêm", "Espécies-chave", "natureza", "floresta", "vida", "importantes", "ecossistema", "viva"],
     "numero": "1",
-    "resposta_correta": "Espécies-chave mantêm integridade do habitat"
+    "pergunta": "Keystone species maintain habitat integrity",
+    "opcoes": ["Espécies-chave", "mantêm", "a", "integridade", "do", "habitat", "natureza", "floresta", "vida", "importantes"],
+    "resposta_correta": "espécies-chave mantêm a integridade do habitat"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O camaleão muda cores rapidamente",
-    "opcoes": ["The", "chameleon", "changes", "colors", "rapidly", "fast", "skin", "green", "animal", "nature", "quickly"],
     "numero": "2",
-    "resposta_correta": "The chameleon changes colors rapidly"
+    "pergunta": "O camaleão muda cores rapidamente",
+    "opcoes": ["The", "chameleon", "changes", "colors", "rapidly", "fast", "skin", "green", "animal"],
+    "resposta_correta": "the chameleon changes colors rapidly"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Invertebrates lack a centralized brain",
-    "opcoes": ["cérebro", "Invertebrados", "carecem", "de", "centralizado", "um", "não", "têm", "corpo", "sistema", "nervoso"],
     "numero": "3",
-    "resposta_correta": "Invertebrados carecem de um cérebro centralizado"
+    "pergunta": "Invertebrates lack a centralized brain",
+    "opcoes": ["Invertebrados", "carecem", "de", "um", "cérebro", "centralizado", "não", "têm", "corpo", "sistema"],
+    "resposta_correta": "invertebrados carecem de um cérebro centralizado"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As brânquias oxigenam tecidos musculares",
-    "opcoes": ["Gills", "oxygenate", "muscular", "tissues", "fish", "blood", "body", "water", "breathe", "cells"],
     "numero": "4",
-    "resposta_correta": "Gills oxygenate muscular tissues"
+    "pergunta": "As brânquias oxigenam tecidos musculares",
+    "opcoes": ["Gills", "oxygenate", "muscular", "tissues", "fish", "blood", "body", "water"],
+    "resposta_correta": "gills oxygenate muscular tissues"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Poikilothermic animals follow external temperatures",
-    "opcoes": ["externas", "seguem", "temperaturas", "Animais", "pecilotérmicos", "corpo", "calor", "frio", "ambiente", "clima", "do"],
     "numero": "5",
-    "resposta_correta": "Animais pecilotérmicos seguem temperaturas externas"
+    "pergunta": "Poikilothermic animals follow external temperatures",
+    "opcoes": ["Animais", "pecilotérmicos", "seguem", "temperaturas", "externas", "corpo", "calor", "frio", "ambiente"],
+    "resposta_correta": "animais pecilotérmicos seguem temperaturas externas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A polinização cruzada aumenta sementes",
-    "opcoes": ["Cross-pollination", "increases", "seeds", "flowers", "bees", "pollen", "plants", "nature", "more", "growth"],
     "numero": "6",
-    "resposta_correta": "Cross-pollination increases seeds"
+    "pergunta": "A polinização cruzada aumenta sementes",
+    "opcoes": ["Cross-pollination", "increases", "seeds", "flowers", "bees", "pollen", "plants"],
+    "resposta_correta": "cross-pollination increases seeds"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Predators possess highly specialized dentition",
-    "opcoes": ["dentição", "altamente", "especializada", "Predadores", "possuem", "dentes", "boca", "caça", "fortes", "comer", "carne"],
     "numero": "7",
-    "resposta_correta": "Predadores possuem dentição altamente especializada"
+    "pergunta": "Predators possess highly specialized dentition",
+    "opcoes": ["Predadores", "possuem", "dentição", "altamente", "especializada", "dentes", "boca", "caça", "fortes"],
+    "resposta_correta": "predadores possuem dentição altamente especializada"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As penas repelem água gelada",
-    "opcoes": ["Feathers", "repel", "icy", "water", "birds", "cold", "duck", "wet", "keep", "dry"],
     "numero": "8",
-    "resposta_correta": "Feathers repel icy water"
+    "pergunta": "As penas repelem água gelada",
+    "opcoes": ["Feathers", "repel", "icy", "water", "birds", "cold", "duck", "wet"],
+    "resposta_correta": "feathers repel icy water"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Microscopic plankton fuels marine life",
-    "opcoes": ["vida", "marinha", "sustenta", "Plâncton", "microscópico", "a", "mar", "oceano", "peixes", "comida", "pequeno"],
     "numero": "9",
-    "resposta_correta": "Plâncton microscópico sustenta a vida marinha"
+    "pergunta": "Microscopic plankton fuels marine life",
+    "opcoes": ["Plâncton", "microscópico", "sustenta", "a", "vida", "marinha", "mar", "oceano", "peixes", "comida"],
+    "resposta_correta": "plâncton microscópico sustenta a vida marinha"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O exoesqueleto limita crescimento corporal",
-    "opcoes": ["Exoskeleton", "limits", "body", "growth", "insects", "hard", "size", "shell", "animal", "small"],
     "numero": "10",
-    "resposta_correta": "Exoskeleton limits body growth"
+    "pergunta": "O exoesqueleto limita crescimento corporal",
+    "opcoes": ["Exoskeleton", "limits", "body", "growth", "insects", "hard", "size", "shell"],
+    "resposta_correta": "exoskeleton limits body growth"
   }
 ];

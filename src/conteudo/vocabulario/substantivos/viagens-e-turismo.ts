@@ -1,9 +1,5 @@
 
-
-
-
-
-export const quiz1 = [
+export const quiz01 = [
   {
     "pergunta": "Qual é a tradução de 'Passport'?",
     "opcoes": {
@@ -113,7 +109,10 @@ export const quiz1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz02 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Island'?",
     "opcoes": {
@@ -225,7 +224,7 @@ export const quiz1 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Qual é a tradução de 'Airport'?",
     "opcoes": {
@@ -273,13 +272,13 @@ export const quiz2 = [
   {
     "pergunta": "Qual é a tradução de 'Currency'?",
     "opcoes": {
-      "A": "Moeda",
-      "B": "Troco",
-      "C": "Preço",
-      "D": "Custo"
+      "A": "Troco",
+      "B": "Preço",
+      "C": "Custo",
+      "D": "Moeda"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'País' em inglês?",
@@ -295,47 +294,50 @@ export const quiz2 = [
   {
     "pergunta": "Qual é a tradução de 'Visa'?",
     "opcoes": {
-      "A": "Cartão",
-      "B": "Visto",
+      "A": "Visto",
+      "B": "Cartão",
       "C": "Papel",
       "D": "Foto"
     },
     "numero": "7",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Estação' em inglês?",
     "opcoes": {
       "A": "Stop",
-      "B": "Place",
+      "B": "Station",
       "C": "Way",
-      "D": "Station"
+      "D": "Place"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Souvenir'?",
     "opcoes": {
-      "A": "Lembrança",
-      "B": "Presente",
-      "C": "Comida",
-      "D": "Roupa"
+      "A": "Presente",
+      "B": "Comida",
+      "C": "Roupa",
+      "D": "Lembrança"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Reserva' em inglês?",
     "opcoes": {
-      "A": "Booking",
-      "B": "Reservation",
+      "A": "Reservation",
+      "B": "Booking",
       "C": "Check-in",
       "D": "Key"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz04 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Ocean'?",
     "opcoes": {
@@ -351,12 +353,12 @@ export const quiz2 = [
     "pergunta": "Como se diz 'Passeio turístico' em inglês?",
     "opcoes": {
       "A": "Travel",
-      "B": "Trip",
+      "B": "Sightseeing",
       "C": "Walk",
-      "D": "Sightseeing"
+      "D": "Trip"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Waitress'?",
@@ -373,12 +375,12 @@ export const quiz2 = [
     "pergunta": "Como se diz 'Embarque' em inglês?",
     "opcoes": {
       "A": "Exit",
-      "B": "Boarding",
-      "C": "Landing",
-      "D": "Flight"
+      "B": "Landing",
+      "C": "Flight",
+      "D": "Boarding"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Mountains'?",
@@ -395,23 +397,23 @@ export const quiz2 = [
     "pergunta": "Como se diz 'Vizinhança' em inglês?",
     "opcoes": {
       "A": "Block",
-      "B": "Street",
+      "B": "Neighborhood",
       "C": "House",
-      "D": "Neighborhood"
+      "D": "Street"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Castle'?",
     "opcoes": {
-      "A": "Castelo",
-      "B": "Igreja",
-      "C": "Museu",
+      "A": "Igreja",
+      "B": "Museu",
+      "C": "Castelo",
       "D": "Palácio"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Check-out' em português?",
@@ -427,13 +429,13 @@ export const quiz2 = [
   {
     "pergunta": "Qual é a tradução de 'Subway'?",
     "opcoes": {
-      "A": "Ônibus",
-      "B": "Táxi",
-      "C": "Metrô",
+      "A": "Metrô",
+      "B": "Ônibus",
+      "C": "Táxi",
       "D": "Bonde"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Alojamento' em inglês?",
@@ -447,7 +449,7 @@ export const quiz2 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Qual é a tradução de 'Airplane'?",
     "opcoes": {
@@ -462,24 +464,24 @@ export const quiz3 = [
   {
     "pergunta": "Como se diz 'Roteiro' em inglês?",
     "opcoes": {
-      "A": "Itinerary",
-      "B": "Map",
-      "C": "Guide",
-      "D": "Road"
+      "A": "Map",
+      "B": "Guide",
+      "C": "Road",
+      "D": "Itinerary"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Village'?",
     "opcoes": {
-      "A": "Cidade",
-      "B": "Estado",
-      "C": "Vila",
+      "A": "Vila",
+      "B": "Cidade",
+      "C": "Estado",
       "D": "País"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Partida' em inglês?",
@@ -495,13 +497,13 @@ export const quiz3 = [
   {
     "pergunta": "Qual é a tradução de 'Bridge'?",
     "opcoes": {
-      "A": "Ponte",
-      "B": "Rua",
-      "C": "Estrada",
+      "A": "Rua",
+      "B": "Estrada",
+      "C": "Ponte",
       "D": "Túnel"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Chegada' em inglês?",
@@ -517,47 +519,49 @@ export const quiz3 = [
   {
     "pergunta": "Qual é a tradução de 'Bus station'?",
     "opcoes": {
-      "A": "Aeroporto",
-      "B": "Rodoviária",
+      "A": "Rodoviária",
+      "B": "Aeroporto",
       "C": "Porto",
       "D": "Metrô"
     },
     "numero": "7",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Moeda estrangeira' em inglês?",
     "opcoes": {
       "A": "Price",
-      "B": "Cash",
-      "C": "Change",
-      "D": "Foreign currency"
+      "B": "Foreign currency",
+      "C": "Cash",
+      "D": "Change"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Boat'?",
     "opcoes": {
-      "A": "Barco",
-      "B": "Bicicleta",
-      "C": "Patins",
-      "D": "Ônibus"
+      "A": "Bicicleta",
+      "B": "Patins",
+      "C": "Ônibus",
+      "D": "Barco"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Ponto turístico' em inglês?",
     "opcoes": {
-      "A": "City park",
-      "B": "Landmark",
+      "A": "Landmark",
+      "B": "City park",
       "C": "Street view",
       "D": "Local shop"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz06 = [
   {
     "pergunta": "Qual é a tradução de 'Museum'?",
     "opcoes": {
@@ -573,34 +577,34 @@ export const quiz3 = [
     "pergunta": "Como se diz 'Câmbio' em inglês?",
     "opcoes": {
       "A": "Bill",
-      "B": "Credit",
+      "B": "Exchange",
       "C": "Money",
-      "D": "Exchange"
+      "D": "Credit"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Lake'?",
     "opcoes": {
-      "A": "Lago",
-      "B": "Mar",
-      "C": "Rio",
-      "D": "Oceano"
+      "A": "Mar",
+      "B": "Rio",
+      "C": "Oceano",
+      "D": "Lago"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Bilhete de ida e volta' em inglês?",
     "opcoes": {
-      "A": "One way ticket",
-      "B": "Round trip ticket",
+      "A": "Round trip ticket",
+      "B": "One way ticket",
       "C": "First class ticket",
       "D": "Free ticket"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Park'?",
@@ -617,12 +621,12 @@ export const quiz3 = [
     "pergunta": "Como se diz 'Seguro viagem' em inglês?",
     "opcoes": {
       "A": "Travel card",
-      "B": "Travel bag",
-      "C": "Travel guide",
-      "D": "Travel insurance"
+      "B": "Travel insurance",
+      "C": "Travel bag",
+      "D": "Travel guide"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Traffic'?",
@@ -639,23 +643,23 @@ export const quiz3 = [
     "pergunta": "Como se diz 'Recepcionista' em inglês?",
     "opcoes": {
       "A": "Manager",
-      "B": "Receptionist",
-      "C": "Waiter",
+      "B": "Waiter",
+      "C": "Receptionist",
       "D": "Chef"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Ferry'?",
     "opcoes": {
       "A": "Navio",
-      "B": "Iate",
-      "C": "Balsa",
+      "B": "Balsa",
+      "C": "Iate",
       "D": "Canoa"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Rodovia' em inglês?",
@@ -669,7 +673,7 @@ export const quiz3 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Qual é a tradução de 'Coast'?",
     "opcoes": {
@@ -779,7 +783,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz08 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Excursion'?",
     "opcoes": {
@@ -891,7 +898,7 @@ export const quiz4 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Qual é a tradução de 'Mountain'?",
     "opcoes": {
@@ -1001,7 +1008,10 @@ export const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz010 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Check-in'?",
     "opcoes": {
@@ -1113,7 +1123,7 @@ export const quiz5 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Qual é a tradução de 'Round trip'?",
     "opcoes": {
@@ -1223,7 +1233,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz012 = [
+ 
   {
     "pergunta": "Como se diz 'Moeda' em inglês?",
     "opcoes": {
@@ -1335,50 +1348,50 @@ export const quiz6 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Qual é a tradução de 'Souvenir'?",
     "opcoes": {
-      "A": "Lembrança",
+      "A": "Bilhete",
       "B": "Jantar",
-      "C": "Bilhete",
+      "C": "Lembrança",
       "D": "Malas"
     },
     "numero": "1",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
-    "pergunta": "Como se diz 'Atracão' em inglês?",
+    "pergunta": "Como se diz 'Atração' em inglês?",
     "opcoes": {
-      "A": "Travel",
-      "B": "Attraction",
+      "A": "Attraction",
+      "B": "Travel",
       "C": "Flight",
       "D": "Bus"
     },
     "numero": "2",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Backpack'?",
     "opcoes": {
       "A": "Sapato",
       "B": "Chapéu",
-      "C": "Mochila",
-      "D": "Casaco"
+      "C": "Casaco",
+      "D": "Mochila"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Partida' em inglês?",
     "opcoes": {
       "A": "Arrival",
-      "B": "Wait",
+      "B": "Departure",
       "C": "Stay",
-      "D": "Departure"
+      "D": "Wait"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Duty-free'?",
@@ -1396,11 +1409,11 @@ export const quiz7 = [
     "opcoes": {
       "A": "Carro",
       "B": "Avião",
-      "C": "Balsa",
-      "D": "Bicicleta"
+      "C": "Bicicleta",
+      "D": "Balsa"
     },
     "numero": "6",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Moeda' (dinheiro) em inglês?",
@@ -1417,12 +1430,12 @@ export const quiz7 = [
     "pergunta": "Qual é a tradução de 'Shuttle'?",
     "opcoes": {
       "A": "Trem",
-      "B": "Navio",
+      "B": "Translado",
       "C": "Moto",
-      "D": "Translado"
+      "D": "Navio"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Cruzeiro' em inglês?",
@@ -1439,100 +1452,103 @@ export const quiz7 = [
     "pergunta": "Qual é a tradução de 'Statue'?",
     "opcoes": {
       "A": "Estádio",
-      "B": "Estátua",
-      "C": "Estado",
-      "D": "Estação"
+      "B": "Estação",
+      "C": "Estátua",
+      "D": "Estado"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "C"
+  }
+];
+export const quiz014 = [
+ 
   {
     "pergunta": "Como se diz 'Seguro Viagem' em inglês?",
     "opcoes": {
       "A": "Travel bag",
       "B": "Travel guide",
-      "C": "Travel insurance",
-      "D": "Travel plan"
+      "C": "Travel plan",
+      "D": "Travel insurance"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'One-way ticket'?",
     "opcoes": {
-      "A": "Bilhete grátis",
-      "B": "Bilhete perdido",
-      "C": "Bilhete de volta",
-      "D": "Bilhete de ida"
+      "A": "Bilhete de ida",
+      "B": "Bilhete de volta",
+      "C": "Bilhete perdido",
+      "D": "Bilhete grátis"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Fronteira' em inglês?",
     "opcoes": {
-      "A": "Border",
-      "B": "Road",
-      "C": "Street",
+      "A": "Road",
+      "B": "Street",
+      "C": "Border",
       "D": "Way"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Hostel'?",
     "opcoes": {
       "A": "Hospital",
-      "B": "Albergue",
-      "C": "Hotel",
-      "D": "Prédio"
+      "B": "Hotel",
+      "C": "Prédio",
+      "D": "Albergue"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Centro da Cidade' em inglês?",
     "opcoes": {
       "A": "Upstairs",
-      "B": "Outside",
-      "C": "Downtown",
+      "B": "Downtown",
+      "C": "Outside",
       "D": "Backyard"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Island'?",
     "opcoes": {
-      "A": "Areia",
-      "B": "Mar",
-      "C": "Lago",
-      "D": "Ilha"
+      "A": "Ilha",
+      "B": "Areia",
+      "C": "Mar",
+      "D": "Lago"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Itinerário' em inglês?",
     "opcoes": {
-      "A": "Itinerary",
-      "B": "Identity",
-      "C": "Inquiry",
+      "A": "Identity",
+      "B": "Inquiry",
+      "C": "Itinerary",
       "D": "Insurance"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Stopover'?",
     "opcoes": {
       "A": "Voo direto",
-      "B": "Escala / Parada",
-      "C": "Atraso",
-      "D": "Cancelamento"
+      "B": "Atraso",
+      "C": "Cancelamento",
+      "D": "Escala / Parada"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Embarque' em inglês?",
@@ -1549,15 +1565,15 @@ export const quiz7 = [
     "pergunta": "Qual é a tradução de 'Castle'?",
     "opcoes": {
       "A": "Casa",
-      "B": "Loja",
-      "C": "Escola",
-      "D": "Castelo"
+      "B": "Castelo",
+      "C": "Loja",
+      "D": "Escola"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Qual é a tradução de 'Airplane ticket'?",
     "opcoes": {
@@ -1667,7 +1683,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz016 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Subway'?",
     "opcoes": {
@@ -1779,72 +1798,72 @@ export const quiz8 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Qual é a tradução de 'Castle'?",
     "opcoes": {
-      "A": "Castelo",
-      "B": "Catedral",
+      "A": "Catedral",
+      "B": "Castelo",
       "C": "Palácio",
       "D": "Museu"
     },
     "numero": "1",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Aduana' em inglês?",
     "opcoes": {
       "A": "Security",
       "B": "Boarding",
-      "C": "Customs",
-      "D": "Border"
+      "C": "Border",
+      "D": "Customs"
     },
     "numero": "2",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Round trip ticket'?",
     "opcoes": {
-      "A": "Bilhete de ida",
-      "B": "Bilhete de ida e volta",
+      "A": "Bilhete de ida e volta",
+      "B": "Bilhete de ida",
       "C": "Bilhete cancelado",
       "D": "Bilhete de primeira classe"
     },
     "numero": "3",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Lago' em inglês?",
     "opcoes": {
       "A": "River",
       "B": "Ocean",
-      "C": "Beach",
-      "D": "Lake"
+      "C": "Lake",
+      "D": "Beach"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Shuttle'?",
     "opcoes": {
-      "A": "Translado / Traslado",
-      "B": "Navio de carga",
-      "C": "Trem bala",
-      "D": "Voo direto"
+      "A": "Navio de carga",
+      "B": "Trem bala",
+      "C": "Voo direto",
+      "D": "Translado / Traslado"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Visto' em inglês?",
     "opcoes": {
-      "A": "Passport",
-      "B": "Visa",
+      "A": "Visa",
+      "B": "Passport",
       "C": "Ticket",
       "D": "ID card"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Suitcase'?",
@@ -1861,23 +1880,23 @@ export const quiz9 = [
     "pergunta": "Como se diz 'País' em inglês?",
     "opcoes": {
       "A": "City",
-      "B": "Village",
+      "B": "Country",
       "C": "State",
-      "D": "Country"
+      "D": "Village"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Waiting room'?",
     "opcoes": {
-      "A": "Sala de espera",
-      "B": "Quarto de hotel",
-      "C": "Banheiro",
-      "D": "Cozinha"
+      "A": "Quarto de hotel",
+      "B": "Banheiro",
+      "C": "Cozinha",
+      "D": "Sala de espera"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Reserva' em inglês?",
@@ -1889,50 +1908,53 @@ export const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz018 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Harbor'?",
     "opcoes": {
       "A": "Aeroporto",
-      "B": "Rodoviária",
-      "C": "Porto",
+      "B": "Porto",
+      "C": "Rodoviária",
       "D": "Estação"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Moeda' em inglês?",
     "opcoes": {
-      "A": "Cash",
+      "A": "Currency",
       "B": "Bill",
       "C": "Change",
-      "D": "Currency"
+      "D": "Cash"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Guest'?",
     "opcoes": {
-      "A": "Hóspede",
-      "B": "Guia",
-      "C": "Dono",
+      "A": "Guia",
+      "B": "Dono",
+      "C": "Hóspede",
       "D": "Gerente"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Chegada' em inglês?",
     "opcoes": {
-      "A": "Departure",
-      "B": "Arrival",
+      "A": "Arrival",
+      "B": "Departure",
       "C": "Flight",
       "D": "Landing"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Sightseeing'?",
@@ -1950,22 +1972,22 @@ export const quiz9 = [
     "opcoes": {
       "A": "Building",
       "B": "Hotel",
-      "C": "House",
-      "D": "Accommodation"
+      "C": "Accommodation",
+      "D": "House"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Downtown'?",
     "opcoes": {
-      "A": "Centro da cidade",
-      "B": "Subúrbio",
-      "C": "Interior",
-      "D": "Beira-mar"
+      "A": "Subúrbio",
+      "B": "Interior",
+      "C": "Beira-mar",
+      "D": "Centro da cidade"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Bilheteira' em inglês?",
@@ -1981,27 +2003,27 @@ export const quiz9 = [
   {
     "pergunta": "Qual é a tradução de 'Border'?",
     "opcoes": {
-      "A": "Rua",
+      "A": "Fronteira",
       "B": "Ponte",
-      "C": "Fronteira",
+      "C": "Rua",
       "D": "Estrada"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Vizinhança' em inglês?",
     "opcoes": {
       "A": "City",
       "B": "Block",
-      "C": "Street",
-      "D": "Neighborhood"
+      "C": "Neighborhood",
+      "D": "Street"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Qual é a tradução de 'Mainland'?",
     "opcoes": {
@@ -2049,24 +2071,24 @@ export const quiz10 = [
   {
     "pergunta": "Qual é a tradução de 'Life jacket'?",
     "opcoes": {
-      "A": "Colete salva-vidas",
-      "B": "Capa de chuva",
-      "C": "Casaco de frio",
-      "D": "Mala de mão"
+      "A": "Capa de chuva",
+      "B": "Casaco de frio",
+      "C": "Mala de mão",
+      "D": "Colete salva-vidas"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Pousada' em inglês?",
     "opcoes": {
-      "A": "Hotel",
-      "B": "Inn",
+      "A": "Inn",
+      "B": "Hotel",
       "C": "Hostel",
       "D": "Resort"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Travel insurance'?",
@@ -2111,7 +2133,10 @@ export const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz020 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Waterfall'?",
     "opcoes": {
@@ -2168,15 +2193,15 @@ export const quiz10 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Como se diz 'Viagem' (o ato de viajar) em inglês?",
+    "pergunta": "Como se diz 'Viagem' em inglês?",
     "opcoes": {
       "A": "Road",
-      "B": "Bag",
+      "B": "Travel",
       "C": "Way",
-      "D": "Travel"
+      "D": "Bag"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Landmark'?",
@@ -2190,7 +2215,7 @@ export const quiz10 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Dono de hotel' (Anfitrião) em inglês?",
+    "pergunta": "Como se diz 'Anfitrião' em inglês?",
     "opcoes": {
       "A": "Guest",
       "B": "Host",
@@ -2223,11 +2248,10 @@ export const quiz10 = [
     "resposta_correta": "D"
   }
 ];
-
 /*-----------------------basico--------------------------------*/
 
 
-const quizBasico1 = [
+const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Onde fica o aeroporto?' em inglês?",
     "opcoes": {
@@ -2337,7 +2361,10 @@ const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizBasico02 = [
+ 
   {
     "pergunta": "Como se diz 'A que horas partimos?' em inglês?",
     "opcoes": {
@@ -2449,7 +2476,7 @@ const quizBasico1 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico2 = [
+const quizBasico03 = [
   {
     "pergunta": "Como se diz 'A mala está pesada' em inglês?",
     "opcoes": {
@@ -2559,7 +2586,10 @@ const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico04 = [
+ 
   {
     "pergunta": "Como se diz 'Eu quero um café' em inglês?",
     "opcoes": {
@@ -2671,7 +2701,7 @@ const quizBasico2 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico3 = [
+const quizBasico05 = [
   {
     "pergunta": "Como se diz 'Onde fica a estação?' em inglês?",
     "opcoes": {
@@ -2781,7 +2811,10 @@ const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizBasico06 = [
+ 
   {
     "pergunta": "Como se diz 'O elevador está ali' em inglês?",
     "opcoes": {
@@ -2893,7 +2926,7 @@ const quizBasico3 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico4 = [
+const quizBasico07 = [
   {
     "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
     "opcoes": {
@@ -3003,7 +3036,10 @@ const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico08 = [
+  
   {
     "pergunta": "Como se diz 'Eu perdi minha bolsa' em inglês?",
     "opcoes": {
@@ -3115,7 +3151,7 @@ const quizBasico4 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico5 = [
+const quizBasico09 = [
   {
     "pergunta": "Como se diz 'Onde fica o porto?' em inglês?",
     "opcoes": {
@@ -3225,7 +3261,10 @@ const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico010 = [
+ 
   {
     "pergunta": "Como se diz 'Onde está o guia?' em inglês?",
     "opcoes": {
@@ -3337,7 +3376,7 @@ const quizBasico5 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico6 = [
+const quizBasico011 = [
   {
     "pergunta": "Como se diz 'A reserva está confirmada' em inglês?",
     "opcoes": {
@@ -3447,7 +3486,10 @@ const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico012 = [
+  
   {
     "pergunta": "Como se diz 'Onde está o táxi?' em inglês?",
     "opcoes": {
@@ -3559,7 +3601,7 @@ const quizBasico6 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico7 = [
+const quizBasico013 = [
   {
     "pergunta": "Como se diz 'A balsa é rápida' em inglês?",
     "opcoes": {
@@ -3669,7 +3711,10 @@ const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico014 = [
+  
   {
     "pergunta": "Como se diz 'Eu quero um quarto' em inglês?",
     "opcoes": {
@@ -3781,7 +3826,7 @@ const quizBasico7 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico8 = [
+const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Onde fica a embaixada?' em inglês?",
     "opcoes": {
@@ -3891,7 +3936,10 @@ const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico016 = [
+ 
   {
     "pergunta": "Como se diz 'Eu quero água mineral' em inglês?",
     "opcoes": {
@@ -4003,7 +4051,7 @@ const quizBasico8 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico9 = [
+const quizBasico017 = [
   {
     "pergunta": "Como se diz 'Onde fica a bilheteria?' em inglês?",
     "opcoes": {
@@ -4113,7 +4161,10 @@ const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico018 = [
+  
   {
     "pergunta": "Como se diz 'Preciso de um médico' em inglês?",
     "opcoes": {
@@ -4225,7 +4276,7 @@ const quizBasico9 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico10 = [
+const quizBasico019 = [
   {
     "pergunta": "Como se diz 'A balsa chegou agora' em inglês?",
     "opcoes": {
@@ -4335,7 +4386,10 @@ const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico020 = [
+ 
   {
     "pergunta": "Como se diz 'Quanto custa a diária?' em inglês?",
     "opcoes": {
@@ -4450,7 +4504,7 @@ const quizBasico10 = [
 
 /*-----------------------intermediario--------------------------------*/
 
-const quizIntermediario1 = [
+const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Gostaria de solicitar um reembolso' em inglês?",
     "opcoes": {
@@ -4560,7 +4614,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario02 = [
+ 
   {
     "pergunta": "Como se diz 'O café da manhã está incluído?' em inglês?",
     "opcoes": {
@@ -4672,7 +4729,7 @@ const quizIntermediario1 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario2 = [
+const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Gostaria de solicitar serviço de quarto' em inglês?",
     "opcoes": {
@@ -4782,7 +4839,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario04 = [
+ 
   {
     "pergunta": "Como se diz 'Pode recomendar um guia local?' em inglês?",
     "opcoes": {
@@ -4894,7 +4954,7 @@ const quizIntermediario2 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario3 = [
+const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A balsa atravessa o porto' em inglês?",
     "opcoes": {
@@ -5004,7 +5064,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario06 = [
+ 
   {
     "pergunta": "Como se diz 'Pode chamar um carregador?' em inglês?",
     "opcoes": {
@@ -5116,7 +5179,7 @@ const quizIntermediario3 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario4 = [
+const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Gostaria de solicitar um upgrade' em inglês?",
     "opcoes": {
@@ -5215,7 +5278,10 @@ const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizIntermediario08 = [
+ 
   {
     "pergunta": "Traduza para português: 'I need to check my luggage'",
     "opcoes": {
@@ -5338,7 +5404,7 @@ const quizIntermediario4 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario5 = [
+const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Gostaria de solicitar um check-out tardio' em inglês?",
     "opcoes": {
@@ -5448,7 +5514,10 @@ const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario010 = [
+ 
   {
     "pergunta": "Como se diz 'Onde fica o armazenamento de bagagem?' em inglês?",
     "opcoes": {
@@ -5560,7 +5629,7 @@ const quizIntermediario5 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario6 = [
+const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Onde fica a casa de câmbio?' em inglês?",
     "opcoes": {
@@ -5670,7 +5739,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario012 = [
+  
   {
     "pergunta": "Como se diz 'Pode recomendar um guia turístico?' em inglês?",
     "opcoes": {
@@ -5783,7 +5855,7 @@ const quizIntermediario6 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario7 = [
+const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'A balsa está ancorada' em inglês?",
     "opcoes": {
@@ -5893,7 +5965,10 @@ const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario014 = [
+  
   {
     "pergunta": "Como se diz 'A balsa parte do cais' em inglês?",
     "opcoes": {
@@ -6005,7 +6080,7 @@ const quizIntermediario7 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario8 = [
+const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'A balsa está atrasada' em inglês?",
     "opcoes": {
@@ -6115,7 +6190,10 @@ const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario016 = [
+ 
   {
     "pergunta": "Como se diz 'Gostaria de pedir serviço de quarto' em inglês?",
     "opcoes": {
@@ -6227,7 +6305,7 @@ const quizIntermediario8 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario9 = [
+const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'A balsa está prestes a atracar' em inglês?",
     "opcoes": {
@@ -6337,7 +6415,10 @@ const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quizIntermediario018 = [
+  
   {
     "pergunta": "Como se diz 'Pode me dar um recibo, por favor?' em inglês?",
     "opcoes": {
@@ -6449,7 +6530,7 @@ const quizIntermediario9 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario10 = [
+const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'A balsa está lotada hoje' em inglês?",
     "opcoes": {
@@ -6559,7 +6640,10 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario020 = [
+ 
   {
     "pergunta": "Como se diz 'Onde posso carregar meu celular?' em inglês?",
     "opcoes": {
@@ -6671,1027 +6755,726 @@ const quizIntermediario10 = [
     "resposta_correta": "C"
   }
 ];
-
 /*-----------------------avancado--------------------------------*/
 
 
 export const quizAvancado1 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "I'd like to request a full refund.",
-    "opcoes": [
-      "pagamento", "gostaria", "total", "queria", "de", "receber", 
-      "um", "solicitar", "reembolso", "integral", "dinheiro", "eu", "desconto"
-    ],
-    "numero": "1",
+    "opcoes": ["eu", "gostaria", "de", "solicitar", "um", "reembolso", "total", "pagamento", "receber", "integral", "dinheiro"],
     "resposta_correta": "eu gostaria de solicitar um reembolso total"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O voo foi cancelado devido ao mau tempo.",
-    "opcoes": [
-      "bad", "weather", "the", "storm", "was", "cancelled", 
-      "flight", "air", "plane", "due", "because", "to", "heavy"
-    ],
-    "numero": "2",
+    "opcoes": ["the", "flight", "was", "cancelled", "due", "to", "bad", "weather", "storm", "plane", "because", "heavy"],
     "resposta_correta": "the flight was cancelled due to bad weather"
   },
   {
-    "pergunta": "Please present your valid travel documents.",
-    "questionType": "traduza a frase",
-    "opcoes": [
-      "viagem", "mostre", "por", "favor", "seus", "validos", 
-      "apresente", "documentos", "de", "passaporte", "identidade", "vistos", "os"
-    ],
     "numero": "3",
+    "questionType": "traduza a frase",
+    "pergunta": "Please present your valid travel documents.",
+    "opcoes": ["por", "favor", "apresente", "seus", "documentos", "de", "viagem", "válidos", "mostre", "passaporte", "identidade", "os"],
     "resposta_correta": "por favor apresente seus documentos de viagem válidos"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A balsa atravessa o canal diariamente.",
-    "opcoes": [
-      "the", "daily", "ferry", "every", "crosses", "day", 
-      "channel", "river", "ship", "boat", "ocean", "the"
-    ],
-    "numero": "4",
+    "opcoes": ["the", "ferry", "crosses", "the", "channel", "daily", "every", "day", "river", "boat"],
     "resposta_correta": "the ferry crosses the channel daily"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Is there a layover on this flight?",
-    "opcoes": [
-      "uma", "escala", "neste", "existe", "parada", "voo", 
-      "conexão", "avião", "no", "longa", "ha", "tem", "viagem"
-    ],
-    "numero": "5",
+    "opcoes": ["existe", "uma", "escala", "neste", "voo", "parada", "conexão", "avião", "ha"],
     "resposta_correta": "existe uma escala neste voo"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O hotel oferece serviço de quarto 24 horas.",
-    "opcoes": [
-      "hotel", "hours", "the", "service", "offers", "room", 
-      "all", "night", "day", "twenty-four", "twenty-four", "stay", "guest"
-    ],
-    "numero": "6",
+    "opcoes": ["the", "hotel", "offers", "room", "service", "twenty-four", "hours", "night", "day", "stay", "guest"],
     "resposta_correta": "the hotel offers room service twenty-four hours"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The departure gate has been changed.",
-    "opcoes": [
-      "o", "embarque", "portão", "saída", "foi", "de", 
-      "alterado", "entrada", "mudou", "cancelado", "local", "pista", "está"
-    ],
-    "numero": "7",
+    "opcoes": ["o", "portão", "de", "embarque", "foi", "alterado", "saída", "entrada", "mudou", "local"],
     "resposta_correta": "o portão de embarque foi alterado"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "Nós perdemos nossa conexão no aeroporto.",
-    "opcoes": [
-      "connection", "airport", "we", "missed", "our", "lost", 
-      "at", "the", "plane", "flight", "terminal", "gate", "late"
-    ],
-    "numero": "8",
+    "opcoes": ["we", "missed", "our", "connection", "at", "the", "airport", "lost", "plane", "flight", "terminal"],
     "resposta_correta": "we missed our connection at the airport"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Beware of local scams during your stay.",
-    "opcoes": [
-      "cuidado", "golpes", "com", "estadia", "durante", "sua", 
-      "locais", "atenção", "perigo", "roubos", "cidade", "na", "evite"
-    ],
-    "numero": "9",
+    "opcoes": ["cuidado", "com", "golpes", "locais", "durante", "sua", "estadia", "atenção", "perigo", "roubos", "evite"],
     "resposta_correta": "cuidado com golpes locais durante sua estadia"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "As tarifas estão sujeitas a alterações.",
-    "opcoes": [
-      "rates", "subject", "to", "are", "change", "prices", 
-      "may", "taxes", "be", "different", "now", "fixed", "costs"
-    ],
-    "numero": "10",
+    "opcoes": ["the", "rates", "are", "subject", "to", "change", "prices", "taxes", "be", "fixed"],
     "resposta_correta": "the rates are subject to change"
   }
 ];
 export const quizAvancado2 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The shuttle departs every thirty minutes.",
-    "opcoes": [
-      "partida", "o", "cada", "minutos", "translado", "trinta", 
-      "a", "ônibus", "parte", "meia", "hora", "chega", "dez", "segundos"
-    ],
-    "numero": "1",
+    "opcoes": ["o", "translado", "parte", "a", "cada", "trinta", "minutos", "ônibus", "chega", "dez", "segundos"],
     "resposta_correta": "o translado parte a cada trinta minutos"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "Minha bagagem excedeu o limite de peso.",
-    "opcoes": [
-      "weight", "exceeded", "limit", "my", "suitcase", "heavy", 
-      "the", "baggage", "over", "capacity", "excess", "reached", "my"
-    ],
-    "numero": "2",
+    "opcoes": ["my", "baggage", "exceeded", "the", "weight", "limit", "suitcase", "heavy", "over", "capacity"],
     "resposta_correta": "my baggage exceeded the weight limit"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "Is there a currency exchange nearby?",
-    "opcoes": [
-      "câmbio", "uma", "perto", "existe", "por", "casa", 
-      "dinheiro", "de", "banco", "aqui", "próxima", "onde", "tem"
-    ],
-    "numero": "3",
+    "opcoes": ["existe", "uma", "casa", "de", "câmbio", "por", "perto", "banco", "aqui", "próxima", "onde"],
     "resposta_correta": "existe uma casa de câmbio por perto"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "The hotel amenities are truly excellent.",
-    "opcoes": [
-      "excellent", "are", "the", "truly", "amenities", "services", 
-      "hotel", "great", "room", "quality", "very", "facilities", "stay"
-    ],
-    "numero": "4",
+    "opcoes": ["the", "hotel", "amenities", "are", "truly", "excellent", "services", "quality", "facilities", "stay"],
     "resposta_correta": "the hotel amenities are truly excellent"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Por favor, evite os horários de pico.",
-    "opcoes": [
-      "peak", "hours", "avoid", "please", "traffic", "time", 
-      "busy", "crowded", "the", "fast", "slow", "morning", "now"
-    ],
-    "numero": "5",
+    "opcoes": ["please", "avoid", "the", "peak", "hours", "traffic", "time", "busy", "crowded"],
     "resposta_correta": "please avoid the peak hours"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "I lost my digital boarding pass.",
-    "opcoes": [
-      "perdi", "cartão", "digital", "eu", "passagem", "de", 
-      "meu", "embarque", "celular", "bilhete", "mala", "visto", "o"
-    ],
-    "numero": "6",
+    "opcoes": ["eu", "perdi", "meu", "cartão", "de", "embarque", "digital", "celular", "bilhete", "mala", "visto"],
     "resposta_correta": "eu perdi meu cartão de embarque digital"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The ferry is rocking a lot.",
-    "opcoes": [
-      "rocking", "the", "ferry", "moving", "is", "a", 
-      "lot", "boat", "fast", "waves", "sea", "very", "water"
-    ],
-    "numero": "7",
+    "opcoes": ["the", "ferry", "is", "rocking", "a", "lot", "moving", "boat", "fast", "waves"],
     "resposta_correta": "the ferry is rocking a lot"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "Nossa estadia foi de tirar o fôlego.",
-    "opcoes": [
-      "was", "stay", "our", "breathtaking", "amazing", "trip", 
-      "view", "beautiful", "good", "very", "really", "short", "long"
-    ],
-    "numero": "8",
+    "opcoes": ["our", "stay", "was", "breathtaking", "amazing", "trip", "view", "beautiful"],
     "resposta_correta": "our stay was breathtaking"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Could you recommend a local landmark?",
-    "opcoes": [
-      "ponto", "recomendar", "um", "poderia", "turístico", "cidade", 
-      "local", "me", "museu", "conhece", "guia", "visitar", "lugar"
-    ],
-    "numero": "9",
+    "opcoes": ["poderia", "me", "recomendar", "um", "ponto", "turístico", "local", "cidade", "museu", "conhece", "guia"],
     "resposta_correta": "poderia me recomendar um ponto turístico local"
   },
   {
-    "questionType": "traduza a frase",
-    "pergunta": "The sightseeing tour starts at noon.",
-    "opcoes": [
-      "turístico", "agora", "passeio", "meio-dia", "começa", "ao", 
-      "o", "tarde", "guia", "cidade", "visita", "manhã", "ônibus"
-    ],
     "numero": "10",
+    "questionType": "traduza a frase",
+    "pergunta": "O passeio turístico começa ao meio-dia.",
+    "opcoes": ["o", "passeio", "turístico", "começa", "ao", "meio-dia", "tarde", "guia", "visita", "manhã"],
     "resposta_correta": "o passeio turístico começa ao meio-dia"
   }
 ];
 export const quizAvancado3 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The flight was diverted to London.",
-    "opcoes": [
-      "foi", "voo", "desviado", "o", "para", "londres", 
-      "cancelado", "atrasado", "avião", "cidade", "chegou", "na", "porto"
-    ],
-    "numero": "1",
+    "opcoes": ["o", "voo", "foi", "desviado", "para", "londres", "cancelado", "atrasado", "avião", "porto"],
     "resposta_correta": "o voo foi desviado para londres"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "A alfândega apreendeu as mercadorias proibidas.",
-    "opcoes": [
-      "customs", "seized", "goods", "prohibited", "the", "items", 
-      "illegal", "took", "security", "airport", "the", "baggage", "police"
-    ],
-    "numero": "2",
+    "opcoes": ["the", "customs", "seized", "the", "prohibited", "goods", "items", "illegal", "security", "airport"],
     "resposta_correta": "the customs seized the prohibited goods"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "Please keep your valuables in the safe.",
-    "opcoes": [
-      "cofre", "no", "por", "favor", "seus", "itens", "valor", 
-      "mantenha", "de", "guarde", "mala", "quarto", "seguros", "joias"
-    ],
-    "numero": "3",
+    "opcoes": ["por", "favor", "mantenha", "seus", "itens", "de", "valor", "no", "cofre", "mala", "quarto", "seguros", "joias"],
     "resposta_correta": "por favor mantenha seus itens de valor no cofre"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "We have an overnight layover in Dubai.",
-    "opcoes": [
-      "layover", "overnight", "we", "dubai", "have", "an", 
-      "in", "stop", "night", "stay", "flight", "connection", "long"
-    ],
-    "numero": "4",
+    "opcoes": ["we", "have", "an", "overnight", "layover", "in", "dubai", "night", "stay", "flight", "connection"],
     "resposta_correta": "we have an overnight layover in dubai"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Onde posso validar meu passe de transporte?",
-    "opcoes": [
-      "validate", "my", "transit", "where", "pass", "can", "i", 
-      "ticket", "bus", "check", "station", "the", "use", "travel"
-    ],
-    "numero": "5",
+    "opcoes": ["where", "can", "i", "validate", "my", "transit", "pass", "ticket", "bus", "check", "station"],
     "resposta_correta": "where can i validate my transit pass"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "The museum charges an additional entry fee.",
-    "opcoes": [
-      "uma", "adicional", "taxa", "museu", "cobra", "entrada", 
-      "de", "o", "valor", "preço", "pago", "grátis", "visita"
-    ],
-    "numero": "6",
+    "opcoes": ["o", "museu", "cobra", "uma", "taxa", "de", "entrada", "adicional", "valor", "preço", "pago", "visita"],
     "resposta_correta": "o museu cobra uma taxa de entrada adicional"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "Is the breakfast included in the rate?",
-    "opcoes": [
-      "incluso", "café", "na", "manhã", "está", "tarifa", "da", 
-      "o", "preço", "hotel", "quarto", "almoço", "serviço"
-    ],
-    "numero": "7",
+    "opcoes": ["o", "café", "da", "manhã", "está", "incluso", "na", "tarifa", "hotel", "quarto", "almoço", "serviço"],
     "resposta_correta": "o café da manhã está incluso na tarifa"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "A balsa foi cancelada devido à neblina.",
-    "opcoes": [
-      "fog", "ferry", "cancelled", "due", "to", "the", 
-      "was", "storm", "rain", "boat", "weather", "because", "thick"
-    ],
-    "numero": "8",
+    "opcoes": ["the", "ferry", "was", "cancelled", "due", "to", "fog", "storm", "rain", "boat", "weather"],
     "resposta_correta": "the ferry was cancelled due to fog"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Please stand behind the yellow line.",
-    "opcoes": [
-      "atrás", "por", "da", "favor", "linha", "amarela", 
-      "fique", "segurança", "pare", "espera", "zona", "na", "limite"
-    ],
-    "numero": "9",
+    "opcoes": ["por", "favor", "fique", "atrás", "da", "linha", "amarela", "segurança", "pare", "zona", "limite"],
     "resposta_correta": "por favor fique atrás da linha amarela"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "They offered a complimentary city tour.",
-    "opcoes": [
-      "city", "tour", "offered", "a", "complimentary", "they", 
-      "free", "guide", "trip", "local", "visit", "gave", "us"
-    ],
-    "numero": "10",
+    "opcoes": ["they", "offered", "a", "complimentary", "city", "tour", "free", "guide", "trip", "visit", "local"],
     "resposta_correta": "they offered a complimentary city tour"
   }
 ];
 export const quizAvancado4 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The flight attendant requested our attention.",
-    "opcoes": [
-      "nossa", "pediu", "atenção", "comissária", "a", "de", 
-      "bordo", "avião", "piloto", "chamou", "segurança", "aviso", "passagem"
-    ],
-    "numero": "1",
+    "opcoes": ["a", "comissária", "de", "bordo", "pediu", "nossa", "atenção", "piloto", "chamou", "segurança", "aviso"],
     "resposta_correta": "a comissária de bordo pediu nossa atenção"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "Você deve preencher o formulário migratório.",
-    "opcoes": [
-      "fill", "out", "immigration", "form", "you", "must", 
-      "the", "paper", "write", "sign", "border", "card", "complete"
-    ],
-    "numero": "2",
+    "opcoes": ["you", "must", "fill", "out", "the", "immigration", "form", "write", "sign", "border", "card"],
     "resposta_correta": "you must fill out the immigration form"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The hotel provides a complimentary breakfast buffet.",
-    "opcoes": [
-      "um", "hotel", "cortesia", "oferece", "buffet", "o", 
-      "café", "da", "manhã", "de", "grátis", "almoço", "serviço", "refeição"
-    ],
-    "numero": "3",
+    "opcoes": ["o", "hotel", "oferece", "um", "buffet", "de", "café", "da", "manhã", "de", "cortesia", "grátis", "almoço", "serviço"],
     "resposta_correta": "o hotel oferece um buffet de café da manhã de cortesia"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "I lost my luggage during the layover.",
-    "opcoes": [
-      "minha", "perdi", "bagagem", "durante", "escala", "eu", 
-      "a", "mala", "avião", "viagem", "no", "aeroporto", "conexão"
-    ],
-    "numero": "4",
+    "opcoes": ["eu", "perdi", "minha", "bagagem", "durante", "a", "escala", "mala", "avião", "viagem", "conexão"],
     "resposta_correta": "eu perdi minha bagagem durante a escala"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Onde posso encontrar o balcão de informações?",
-    "opcoes": [
-      "information", "where", "can", "i", "find", "the", 
-      "desk", "airport", "help", "lobby", "counter", "ticket", "station"
-    ],
-    "numero": "5",
+    "opcoes": ["where", "can", "i", "find", "the", "information", "desk", "airport", "help", "lobby", "counter"],
     "resposta_correta": "where can i find the information desk"
   },
   {
-    "questionType": "traduza a frase",
-    "pergunta": "The balsa operates only during daylight hours.",
-    "opcoes": [
-      "opera", "balsa", "apenas", "a", "durante", "o", 
-      "dia", "noite", "funciona", "tempo", "mar", "viagem", "horário"
-    ],
     "numero": "6",
+    "questionType": "traduza a frase",
+    "pergunta": "The ferry operates only during daylight hours.",
+    "opcoes": ["a", "balsa", "opera", "apenas", "durante", "o", "dia", "noite", "funciona", "tempo", "mar"],
     "resposta_correta": "a balsa opera apenas durante o dia"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "Is the travel insurance policy comprehensive?",
-    "opcoes": [
-      "seguro", "viagem", "apólice", "abrangente", "é", "de", 
-      "a", "do", "cara", "boa", "vencida", "documento", "saúde"
-    ],
-    "numero": "7",
+    "opcoes": ["a", "apólice", "do", "seguro", "de", "viagem", "é", "abrangente", "cara", "boa", "vencida", "saúde"],
     "resposta_correta": "a apólice do seguro de viagem é abrangente"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O portão de embarque mudou subitamente.",
-    "opcoes": [
-      "boarding", "gate", "suddenly", "the", "changed", "has", 
-      "now", "airport", "flight", "exit", "terminal", "move", "quick"
-    ],
-    "numero": "8",
+    "opcoes": ["the", "boarding", "gate", "has", "changed", "suddenly", "now", "airport", "flight", "exit"],
     "resposta_correta": "the boarding gate has changed suddenly"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The local landmarks are historically significant.",
-    "opcoes": [
-      "pontos", "históricos", "turísticos", "os", "são", "locais", 
-      "importantes", "cidade", "antigos", "famosos", "visita", "muito", "belos"
-    ],
-    "numero": "9",
+    "opcoes": ["os", "pontos", "turísticos", "locais", "são", "históricos", "importantes", "cidade", "antigos", "famosos"],
     "resposta_correta": "os pontos turísticos locais são históricos"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "We missed the ferry due to traffic.",
-    "opcoes": [
-      "the", "missed", "we", "due", "to", "ferry", 
-      "traffic", "late", "car", "boat", "bus", "because", "road"
-    ],
-    "numero": "10",
+    "opcoes": ["we", "missed", "the", "ferry", "due", "to", "traffic", "late", "car", "boat", "road"],
     "resposta_correta": "we missed the ferry due to traffic"
   }
 ];
 export const quizAvancado5 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "I'd like to upgrade to business class.",
-    "opcoes": [
-      "classe", "executiva", "gostaria", "de", "mudar", "para", 
-      "a", "eu", "primeira", "viajar", "passagem", "melhorar", "assento"
-    ],
-    "numero": "1",
+    "opcoes": ["eu", "gostaria", "de", "mudar", "para", "a", "classe", "executiva", "primeira", "viajar", "passagem", "assento"],
     "resposta_correta": "eu gostaria de mudar para a classe executiva"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O voo foi redirecionado por razões de segurança.",
-    "opcoes": [
-      "flight", "was", "diverted", "for", "security", "reasons", 
-      "the", "safety", "cancelled", "plane", "police", "airport", "due"
-    ],
-    "numero": "2",
+    "opcoes": ["the", "flight", "was", "diverted", "for", "security", "reasons", "safety", "cancelled", "plane", "due"],
     "resposta_correta": "the flight was diverted for security reasons"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The ferry is currently undergoing maintenance.",
-    "opcoes": [
-      "balsa", "está", "passando", "por", "manutenção", "atualmente", 
-      "a", "conserto", "parada", "navio", "porto", "trabalho", "serviço"
-    ],
-    "numero": "3",
+    "opcoes": ["a", "balsa", "está", "atualmente", "passando", "por", "manutenção", "conserto", "parada", "navio", "porto"],
     "resposta_correta": "a balsa está atualmente passando por manutenção"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "Please confirm your reservation in advance.",
-    "opcoes": [
-      "confirm", "your", "reservation", "in", "advance", "please", 
-      "hotel", "booking", "before", "time", "check", "now", "stay"
-    ],
-    "numero": "4",
+    "opcoes": ["please", "confirm", "your", "reservation", "in", "advance", "hotel", "booking", "before", "time"],
     "resposta_correta": "please confirm your reservation in advance"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Você deve declarar todos os itens eletrônicos.",
-    "opcoes": [
-      "declare", "all", "electronic", "items", "you", "must", 
-      "the", "goods", "gadgets", "airport", "show", "list", "carry"
-    ],
-    "numero": "5",
+    "opcoes": ["you", "must", "declare", "all", "electronic", "items", "goods", "gadgets", "airport", "show"],
     "resposta_correta": "you must declare all electronic items"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "The baggage claim area is on the lower level.",
-    "opcoes": [
-      "retirada", "de", "bagagem", "fica", "no", "nível", 
-      "inferior", "área", "a", "superior", "andar", "mala", "saída"
-    ],
-    "numero": "6",
+    "opcoes": ["a", "área", "de", "retirada", "de", "bagagem", "fica", "no", "nível", "inferior", "superior", "andar", "mala", "saída"],
     "resposta_correta": "a área de retirada de bagagem fica no nível inferior"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "Is there a frequent flyer program available?",
-    "opcoes": [
-      "um", "programa", "de", "milhagens", "disponível", "existe", 
-      "viagens", "pontos", "frequente", "voo", "empresa", "cartão", "o"
-    ],
-    "numero": "7",
+    "opcoes": ["existe", "um", "programa", "de", "milhagens", "disponível", "viagens", "pontos", "frequente", "voo"],
     "resposta_correta": "existe um programa de milhagens disponível"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "The sightseeing bus stops at the main square.",
-    "opcoes": [
-      "the", "sightseeing", "bus", "stops", "at", "the", 
-      "main", "square", "city", "center", "tourist", "station", "park"
-    ],
-    "numero": "8",
+    "opcoes": ["the", "sightseeing", "bus", "stops", "at", "the", "main", "square", "city", "center", "tourist"],
     "resposta_correta": "the sightseeing bus stops at the main square"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Precisamos de um adaptador para a tomada.",
-    "opcoes": [
-      "we", "need", "an", "adapter", "for", "the", 
-      "socket", "plug", "power", "electricity", "use", "connect", "energy"
-    ],
-    "numero": "9",
+    "opcoes": ["we", "need", "an", "adapter", "for", "the", "socket", "plug", "power", "electricity", "use"],
     "resposta_correta": "we need an adapter for the socket"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "The hotel provides a shuttle to the airport.",
-    "opcoes": [
-      "o", "hotel", "oferece", "um", "translado", "para", 
-      "o", "aeroporto", "ônibus", "viagem", "leva", "centro", "carro"
-    ],
-    "numero": "10",
+    "opcoes": ["o", "hotel", "oferece", "um", "translado", "para", "o", "aeroporto", "ônibus", "viagem", "leva"],
     "resposta_correta": "o hotel oferece um translado para o aeroporto"
   }
 ];
 export const quizAvancado6 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The flight was delayed due to technical issues.",
-    "opcoes": [
-      "o", "voo", "atrasado", "por", "problemas", "técnicos", 
-      "foi", "devido", "a", "cancelado", "motor", "segurança", "clima", "parado"
-    ],
-    "numero": "1",
+    "opcoes": ["o", "voo", "foi", "atrasado", "devido", "a", "problemas", "técnicos", "cancelado", "segurança", "clima", "parado"],
     "resposta_correta": "o voo foi atrasado devido a problemas técnicos"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "Nós solicitamos um check-out tardio no hotel.",
-    "opcoes": [
-      "requested", "a", "late", "check-out", "we", "at", 
-      "the", "hotel", "stay", "room", "leave", "more", "asked", "time"
-    ],
-    "numero": "2",
+    "opcoes": ["we", "requested", "a", "late", "check-out", "at", "the", "hotel", "stay", "leave", "asked", "time"],
     "resposta_correta": "we requested a late check-out at the hotel"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The ferry schedule varies depending on the season.",
-    "opcoes": [
-      "o", "horário", "da", "balsa", "varia", "conforme", 
-      "a", "estação", "época", "ano", "muda", "tempo", "mar", "viagem"
-    ],
-    "numero": "3",
+    "opcoes": ["o", "horário", "da", "balsa", "varia", "conforme", "a", "estação", "época", "ano", "muda", "tempo"],
     "resposta_correta": "o horário da balsa varia conforme a estação"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "I need to renew my passport urgently.",
-    "opcoes": [
-      "eu", "preciso", "renovar", "meu", "passaporte", "com", 
-      "urgência", "urgentemente", "visto", "validar", "novo", "fazer", "rápido", "documento"
-    ],
-    "numero": "4",
+    "opcoes": ["eu", "preciso", "renovar", "meu", "passaporte", "com", "urgência", "visto", "validar", "fazer", "documento"],
     "resposta_correta": "eu preciso renovar meu passaporte com urgência"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The customs officer inspected our carry-on bags.",
-    "opcoes": [
-      "alfândega", "o", "agente", "da", "inspecionou", "nossas", 
-      "malas", "de", "mão", "bagagem", "viu", "segurança", "porto", "pertences"
-    ],
-    "numero": "5",
+    "opcoes": ["o", "agente", "da", "alfândega", "inspecionou", "nossas", "malas", "de", "mão", "segurança", "porto", "pertences"],
     "resposta_correta": "o agente da alfândega inspecionou nossas malas de mão"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "Is there a direct flight to New York?",
-    "opcoes": [
-      "existe", "um", "voo", "direto", "para", "nova", 
-      "york", "tem", "avião", "escala", "cidade", "viagem", "dia", "nesta"
-    ],
-    "numero": "6",
+    "opcoes": ["existe", "um", "voo", "direto", "para", "nova", "york", "avião", "escala", "cidade", "viagem"],
     "resposta_correta": "existe um voo direto para nova york"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "O aluguel do carro inclui quilometragem ilimitada.",
-    "opcoes": [
-      "the", "car", "rental", "includes", "unlimited", "mileage", 
-      "insurance", "free", "drive", "total", "vehicle", "gas", "distance"
-    ],
-    "numero": "7",
+    "opcoes": ["the", "car", "rental", "includes", "unlimited", "mileage", "insurance", "free", "vehicle", "distance"],
     "resposta_correta": "the car rental includes unlimited mileage"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "Please watch your step while boarding the ferry.",
-    "opcoes": [
-      "cuidado", "onde", "pisa", "ao", "embarcar", "na", 
-      "balsa", "por", "favor", "degrau", "olhe", "navio", "entrada", "água"
-    ],
-    "numero": "8",
+    "opcoes": ["por", "favor", "cuidado", "onde", "pisa", "ao", "embarcar", "na", "balsa", "degrau", "olhe", "entrada"],
     "resposta_correta": "por favor cuidado onde pisa ao embarcar na balsa"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The hotel lobby is currently under renovation.",
-    "opcoes": [
-      "lobby", "the", "hotel", "is", "currently", "under", 
-      "renovation", "construction", "new", "hall", "closed", "work", "stay"
-    ],
-    "numero": "9",
+    "opcoes": ["the", "hotel", "lobby", "is", "currently", "under", "renovation", "construction", "hall", "closed", "stay"],
     "resposta_correta": "the hotel lobby is currently under renovation"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "Nós visitamos as ruínas antigas durante a tarde.",
-    "opcoes": [
-      "we", "visited", "the", "ancient", "ruins", "during", 
-      "the", "afternoon", "morning", "tour", "saw", "old", "history", "trip"
-    ],
-    "numero": "10",
+    "opcoes": ["we", "visited", "the", "ancient", "ruins", "during", "the", "afternoon", "morning", "tour", "history", "trip"],
     "resposta_correta": "we visited the ancient ruins during the afternoon"
   }
 ];
 export const quizAvancado7 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The travel advisory warned against non-essential trips.",
-    "opcoes": [
-      "o", "aviso", "de", "viagem", "alertou", "contra", 
-      "passeios", "não", "essenciais", "viagens", "perigo", "evite", "turismo", "locais"
-    ],
-    "numero": "1",
+    "opcoes": ["o", "aviso", "de", "viagem", "alertou", "contra", "viagens", "não", "essenciais", "perigo", "evite", "turismo", "locais"],
     "resposta_correta": "o aviso de viagem alertou contra viagens não essenciais"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O capitão anunciou o horário estimado de chegada.",
-    "opcoes": [
-      "the", "captain", "announced", "the", "estimated", "arrival", 
-      "time", "departure", "hour", "of", "plane", "landing", "flight", "pilot"
-    ],
-    "numero": "2",
+    "opcoes": ["the", "captain", "announced", "the", "estimated", "arrival", "time", "departure", "hour", "landing", "flight"],
     "resposta_correta": "the captain announced the estimated arrival time"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The ferry crossing takes approximately forty minutes.",
-    "opcoes": [
-      "a", "travessia", "de", "balsa", "leva", "aproximadamente", 
-      "quarenta", "minutos", "hora", "navio", "tempo", "dura", "mar", "quase"
-    ],
-    "numero": "3",
+    "opcoes": ["a", "travessia", "de", "balsa", "leva", "aproximadamente", "quarenta", "minutos", "navio", "tempo", "dura", "mar"],
     "resposta_correta": "a travessia de balsa leva aproximadamente quarenta minutos"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "Please declare any currency over ten thousand dollars.",
-    "opcoes": [
-      "por", "favor", "declare", "qualquer", "quantia", "acima", 
-      "de", "dez", "mil", "dólares", "dinheiro", "moeda", "valor", "banco", "limite"
-    ],
-    "numero": "4",
+    "opcoes": ["por", "favor", "declare", "qualquer", "quantia", "acima", "de", "dez", "mil", "dólares", "dinheiro", "moeda", "valor", "limite"],
     "resposta_correta": "por favor declare qualquer quantia acima de dez mil dólares"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Is the hotel within walking distance of the beach?",
-    "opcoes": [
-      "o", "hotel", "fica", "a", "uma", "curta", 
-      "distância", "a", "pé", "da", "praia", "perto", "mar", "longe", "caminho"
-    ],
-    "numero": "5",
+    "opcoes": ["o", "hotel", "fica", "a", "uma", "curta", "distância", "a", "pé", "da", "praia", "perto", "mar", "longe", "caminho"],
     "resposta_correta": "o hotel fica a uma curta distância a pé da praia"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "The local government imposed a new tourist tax.",
-    "opcoes": [
-      "the", "local", "government", "imposed", "a", "new", 
-      "tourist", "tax", "city", "law", "fee", "payment", "money", "added"
-    ],
-    "numero": "6",
-    "resposta_correta": "the local government imposed a new tourist tax"
+    "opcoes": ["the", "local", "government", "imposed", "a", "new", "tourist", "tax", "city", "law", "fee", "payment"],
+    "departure": "the local government imposed a new tourist tax"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "Precisamos desocupar o quarto até o meio-dia.",
-    "opcoes": [
-      "we", "need", "to", "vacate", "the", "room", 
-      "by", "noon", "leave", "hotel", "checkout", "morning", "time", "day"
-    ],
-    "numero": "7",
+    "opcoes": ["we", "need", "to", "vacate", "the", "room", "by", "noon", "leave", "hotel", "morning", "time"],
     "resposta_correta": "we need to vacate the room by noon"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "The boarding process was extremely well organized.",
-    "opcoes": [
-      "o", "processo", "de", "embarque", "foi", "extremamente", 
-      "bem", "organizado", "voo", "avião", "rápido", "limpo", "lento", "saída"
-    ],
-    "numero": "8",
+    "opcoes": ["o", "processo", "de", "embarque", "foi", "extremamente", "bem", "organizado", "voo", "avião", "rápido", "lento"],
     "resposta_correta": "o processo de embarque foi extremamente bem organizado"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Do you offer any guided tours in English?",
-    "opcoes": [
-      "vocês", "oferecem", "algum", "passeio", "guiado", "em", 
-      "inglês", "visita", "guia", "fala", "tem", "cidade", "turismo", "aula"
-    ],
-    "numero": "9",
+    "opcoes": ["vocês", "oferecem", "algum", "passeio", "guiado", "em", "inglês", "visita", "guia", "fala", "cidade"],
     "resposta_correta": "vocês oferecem algum passeio guiado em inglês"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "The rental agreement excludes damage to the tires.",
-    "opcoes": [
-      "the", "rental", "agreement", "excludes", "damage", "to", 
-      "the", "tires", "car", "insurance", "paper", "wheels", "fix", "cost"
-    ],
-    "numero": "10",
+    "opcoes": ["the", "rental", "agreement", "excludes", "damage", "to", "the", "tires", "car", "insurance", "wheels", "fix"],
     "resposta_correta": "the rental agreement excludes damage to the tires"
   }
 ];
 export const quizAvancado8 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The flight was overbooked due to a system error.",
-    "opcoes": [
-      "o", "voo", "estava", "com", "venda", "em", "excesso", 
-      "devido", "a", "um", "erro", "de", "sistema", "computador", "falha", "atrasado", "cancelado"
-    ],
-    "numero": "1",
+    "opcoes": ["o", "voo", "estava", "com", "venda", "em", "excesso", "devido", "a", "um", "erro", "de", "sistema", "atrasado", "cancelado", "falha", "computador"],
     "resposta_correta": "o voo estava com venda em excesso devido a um erro de sistema"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "Poderia me fornecer um extrato detalhado das despesas?",
-    "opcoes": [
-      "could", "you", "provide", "me", "with", "a", 
-      "detailed", "statement", "of", "expenses", "costs", "paper", "give", "the", "bill", "money", "receipt"
-    ],
-    "numero": "2",
+    "opcoes": ["could", "you", "provide", "me", "with", "a", "detailed", "statement", "of", "expenses", "costs", "bill", "money", "receipt"],
     "resposta_correta": "could you provide me with a detailed statement of expenses"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The ferry is equipped with modern safety features.",
-    "opcoes": [
-      "a", "balsa", "está", "equipada", "com", "recursos", 
-      "de", "segurança", "modernos", "navio", "coletes", "barco", "tem", "proteção", "novos", "itens"
-    ],
-    "numero": "3",
+    "opcoes": ["a", "balsa", "está", "equipada", "com", "recursos", "de", "segurança", "modernos", "navio", "coletes", "barco", "proteção"],
     "resposta_correta": "a balsa está equipada com recursos de segurança modernos"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "Is the tap water safe for human consumption?",
-    "opcoes": [
-      "a", "água", "da", "torneira", "é", "segura", 
-      "para", "consumo", "humano", "beber", "garrafa", "limpa", "pode", "saúde", "filtrada", "fria"
-    ],
-    "numero": "4",
+    "opcoes": ["a", "água", "da", "torneira", "é", "segura", "para", "consumo", "humano", "beber", "garrafa", "limpa", "filtrada"],
     "resposta_correta": "a água da torneira é segura para consumo humano"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "We need to check out before eleven o'clock.",
-    "opcoes": [
-      "precisamos", "fazer", "o", "check-out", "antes", "das", 
-      "onze", "horas", "sair", "hotel", "quarto", "manhã", "pagar", "tarde", "cedo", "de"
-    ],
-    "numero": "5",
+    "opcoes": ["precisamos", "fazer", "o", "check-out", "antes", "das", "onze", "horas", "sair", "hotel", "manhã", "pagar"],
     "resposta_correta": "precisamos fazer o check-out antes das onze horas"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "The airline lost my fragile sporting equipment.",
-    "opcoes": [
-      "the", "airline", "lost", "my", "fragile", "sporting", 
-      "equipment", "baggage", "plane", "broken", "items", "took", "missed", "gear", "company"
-    ],
-    "numero": "6",
+    "opcoes": ["the", "airline", "lost", "my", "fragile", "sporting", "equipment", "baggage", "broken", "items", "gear"],
     "resposta_correta": "the airline lost my fragile sporting equipment"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "Onde posso solicitar um cartão de embarque substituto?",
-    "opcoes": [
-      "where", "can", "i", "request", "a", "replacement", 
-      "boarding", "pass", "get", "new", "ticket", "lost", "find", "the", "counter", "paper"
-    ],
-    "numero": "7",
+    "opcoes": ["where", "can", "i", "request", "a", "replacement", "boarding", "pass", "get", "new", "ticket", "lost"],
     "resposta_correta": "where can i request a replacement boarding pass"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "The hotel restaurant serves authentic local cuisine.",
-    "opcoes": [
-      "o", "restaurante", "do", "hotel", "serve", "comida", 
-      "local", "autêntica", "pratos", "regional", "menu", "gostosa", "jantar", "cozinha", "tradicional"
-    ],
-    "numero": "8",
+    "opcoes": ["o", "restaurante", "do", "hotel", "serve", "cozinha", "local", "autêntica", "pratos", "regional", "menu", "jantar"],
     "resposta_correta": "o restaurante do hotel serve cozinha local autêntica"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Beware of pickpockets in crowded tourist areas.",
-    "opcoes": [
-      "cuidado", "com", "batedores", "de", "carteira", "em", 
-      "áreas", "turísticas", "lotadas", "roubos", "perigo", "cidade", "gente", "muita", "evite", "locais"
-    ],
-    "numero": "9",
+    "opcoes": ["cuidado", "com", "batedores", "de", "carteira", "em", "áreas", "turísticas", "lotadas", "roubos", "perigo", "cidade", "evite"],
     "resposta_correta": "cuidado com batedores de carteira em áreas turísticas lotadas"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "You should purchase travel insurance before departure.",
-    "opcoes": [
-      "you", "should", "purchase", "travel", "insurance", "before", 
-      "departure", "buy", "get", "trip", "policy", "leaving", "need", "must", "the", "now"
-    ],
-    "numero": "10",
+    "opcoes": ["you", "should", "purchase", "travel", "insurance", "before", "departure", "buy", "trip", "policy", "leaving"],
     "resposta_correta": "you should purchase travel insurance before departure"
   }
 ];
 export const quizAvancado9 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The flight was diverted to an alternate airport.",
-    "opcoes": [
-      "o", "voo", "foi", "redirecionado", "para", "um", 
-      "aeroporto", "alternativo", "pista", "avião", "cidade", "outro", "mudou", "pouso", "segurança", "local"
-    ],
-    "numero": "1",
+    "opcoes": ["o", "voo", "foi", "redirecionado", "para", "um", "aeroporto", "alternativo", "pista", "mudou", "pouso", "local"],
     "resposta_correta": "o voo foi redirecionado para um aeroporto alternativo"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "Onde posso encontrar o balcão de objetos perdidos?",
-    "opcoes": [
-      "where", "can", "i", "find", "the", "lost", 
-      "and", "found", "desk", "office", "luggage", "search", "bags", "airport", "help", "counter"
-    ],
-    "numero": "2",
+    "opcoes": ["where", "can", "i", "find", "the", "lost", "and", "found", "desk", "office", "luggage", "search", "counter"],
     "resposta_correta": "where can i find the lost and found desk"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The ferry crossing was extremely rough today.",
-    "opcoes": [
-      "a", "travessia", "de", "balsa", "estava", "extremamente", 
-      "agitada", "hoje", "mar", "difícil", "balanço", "muito", "onda", "vento", "tempo", "barco"
-    ],
-    "numero": "3",
+    "opcoes": ["a", "travessia", "de", "balsa", "estava", "extremamente", "agitada", "hoje", "mar", "difícil", "onda", "tempo"],
     "resposta_correta": "a travessia de balsa estava extremamente agitada hoje"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "Does the hotel provide a complimentary newspaper?",
-    "opcoes": [
-      "o", "hotel", "oferece", "um", "jornal", "de", 
-      "cortesia", "grátis", "manhã", "notícia", "quarto", "serviço", "entrega", "papel", "leitura", "diário"
-    ],
-    "numero": "4",
+    "opcoes": ["o", "hotel", "oferece", "um", "jornal", "de", "cortesia", "grátis", "manhã", "quarto", "serviço", "leitura"],
     "resposta_correta": "o hotel oferece um jornal de cortesia"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "Nós precisamos de assistência especial para o embarque.",
-    "opcoes": [
-      "we", "require", "special", "assistance", "for", "the", 
-      "boarding", "process", "need", "help", "plane", "gate", "service", "disabled", "staff", "please"
-    ],
-    "numero": "5",
+    "opcoes": ["we", "require", "special", "assistance", "for", "the", "boarding", "need", "help", "plane", "gate", "staff"],
     "resposta_correta": "we require special assistance for the boarding"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "The local government enforced a strict curfew.",
-    "opcoes": [
-      "o", "governo", "local", "impôs", "um", "toque", 
-      "de", "recolher", "rigoroso", "lei", "cidade", "noite", "ordem", "polícia", "proibição", "rua"
-    ],
-    "numero": "6",
+    "opcoes": ["o", "governo", "local", "impôs", "um", "toque", "de", "recolher", "rigoroso", "lei", "noite", "ordem", "rua"],
     "resposta_correta": "o governo local impôs um toque de recolher rigoroso"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "Is there a safe deposit box in the room?",
-    "opcoes": [
-      "existe", "um", "cofre", "no", "quarto", "seguro", 
-      "dinheiro", "dentro", "armário", "joias", "tem", "disponível", "hotel", "porta", "chave", "para"
-    ],
-    "numero": "7",
+    "opcoes": ["existe", "um", "cofre", "no", "quarto", "dinheiro", "joias", "disponível", "hotel", "porta"],
     "resposta_correta": "existe um cofre no quarto"
   },
   {
-    "questionType": "traduza a frase",
-    "pergunta": "The balsa is currently out of service.",
-    "opcoes": [
-      "the", "ferry", "is", "currently", "out", "of", 
-      "service", "maintenance", "boat", "stopped", "not", "working", "now", "broken", "ship", "repair"
-    ],
     "numero": "8",
+    "questionType": "traduza a frase",
+    "pergunta": "The ferry is currently out of service.",
+    "opcoes": ["the", "ferry", "is", "currently", "out", "of", "service", "maintenance", "stopped", "working", "now"],
     "resposta_correta": "the ferry is currently out of service"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "Por favor, mantenha seus pertences sob vigilância.",
-    "opcoes": [
-      "please", "keep", "your", "belongings", "under", "surveillance", 
-      "watch", "items", "safe", "bags", "guard", "attention", "you", "careful", "look", "near"
-    ],
-    "numero": "9",
+    "opcoes": ["please", "keep", "your", "belongings", "under", "surveillance", "watch", "items", "safe", "bags", "careful"],
     "resposta_correta": "please keep your belongings under surveillance"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "The historical district is very well preserved.",
-    "opcoes": [
-      "o", "bairro", "histórico", "está", "muito", "bem", 
-      "preservado", "cidade", "antigo", "casa", "rua", "turismo", "zona", "conservado", "lugar", "belo"
-    ],
-    "numero": "10",
+    "opcoes": ["o", "bairro", "histórico", "está", "muito", "bem", "preservado", "antigo", "casa", "turismo", "zona"],
     "resposta_correta": "o bairro histórico está muito bem preservado"
   }
 ];
 export const quizAvancado10 = [
   {
+    "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The airline compensated us for the delay.",
-    "opcoes": [
-      "pela", "empresa", "nos", "atraso", "pagou", "a", 
-      "aérea", "compensou", "pelo", "dinheiro", "companhia", "voo", "prejuízo", "voucher", "reclamar"
-    ],
-    "numero": "1",
+    "opcoes": ["a", "companhia", "aérea", "nos", "compensou", "pelo", "atraso", "empresa", "pagou", "prejuízo", "voucher"],
     "resposta_correta": "a companhia aérea nos compensou pelo atraso"
   },
   {
+    "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "Por favor, verifique se a voltagem é compatível.",
-    "opcoes": [
-      "check", "please", "if", "the", "voltage", "is", 
-      "compatible", "power", "plug", "electricity", "socket", "use", "correct", "device", "safe"
-    ],
-    "numero": "2",
+    "opcoes": ["please", "check", "if", "the", "voltage", "is", "compatible", "power", "plug", "electricity", "socket"],
     "resposta_correta": "please check if the voltage is compatible"
   },
   {
+    "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The hotel charges a mandatory resort fee.",
-    "opcoes": [
-      "taxa", "o", "obrigatória", "hotel", "cobra", "uma", 
-      "de", "resort", "serviço", "valor", "preço", "quarto", "custo", "estadia", "adicional"
-    ],
-    "numero": "3",
+    "opcoes": ["o", "hotel", "cobra", "uma", "taxa", "de", "resort", "obrigatória", "serviço", "preço", "quarto", "custo"],
     "resposta_correta": "o hotel cobra uma taxa de resort obrigatória"
   },
   {
+    "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "I need to file a formal complaint.",
-    "opcoes": [
-      "fazer", "uma", "eu", "preciso", "reclamação", "formal", 
-      "registrar", "documento", "queixa", "escrever", "falar", "gerente", "empresa", "processo", "agora"
-    ],
-    "numero": "4",
+    "opcoes": ["eu", "preciso", "registrar", "uma", "reclamação", "formal", "documento", "queixa", "escrever", "gerente"],
     "resposta_correta": "eu preciso registrar uma reclamação formal"
   },
   {
+    "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The ferry departs from the eastern pier.",
-    "opcoes": [
-      "the", "ferry", "departs", "from", "the", "eastern", 
-      "pier", "dock", "boat", "leaves", "east", "water", "side", "station", "terminal", "ship"
-    ],
-    "numero": "5",
+    "opcoes": ["the", "ferry", "departs", "from", "the", "eastern", "pier", "dock", "boat", "leaves", "terminal"],
     "resposta_correta": "the ferry departs from the eastern pier"
   },
   {
+    "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O guia turístico explicou o contexto histórico.",
-    "opcoes": [
-      "the", "tour", "guide", "explained", "the", "historical", 
-      "context", "history", "told", "background", "city", "visit", "trip", "past", "details"
-    ],
-    "numero": "6",
+    "opcoes": ["the", "tour", "guide", "explained", "the", "historical", "context", "history", "background", "city", "details"],
     "resposta_correta": "the tour guide explained the historical context"
   },
   {
+    "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The cabin crew is preparing for landing.",
-    "opcoes": [
-      "preparando", "cabine", "a", "está", "se", "tripulação", 
-      "de", "para", "o", "pouso", "avião", "vôo", "chegada", "descida", "assentos", "cintos"
-    ],
-    "numero": "7",
+    "opcoes": ["a", "tripulação", "de", "cabine", "está", "se", "preparando", "para", "o", "pouso", "avião", "vôo", "descida", "assentos"],
     "resposta_correta": "a tripulação de cabine está se preparando para o pouso"
   },
   {
+    "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "Do you have any dietary restrictions?",
-    "opcoes": [
-      "você", "tem", "alguma", "restrição", "alimentar", "comida", 
-      "alergia", "dieta", "especial", "pode", "comer", "carne", "glúten", "médica", "saúde"
-    ],
-    "numero": "8",
+    "opcoes": ["você", "tem", "alguma", "restrição", "alimentar", "comida", "alergia", "dieta", "especial", "glúten"],
     "resposta_correta": "você tem alguma restrição alimentar"
   },
   {
+    "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The local market sells handmade souvenirs.",
-    "opcoes": [
-      "the", "local", "market", "sells", "handmade", "souvenirs", 
-      "gifts", "shop", "crafts", "city", "buy", "art", "items", "tradition", "store"
-    ],
-    "numero": "9",
+    "opcoes": ["the", "local", "market", "sells", "handmade", "souvenirs", "gifts", "shop", "crafts", "items"],
     "resposta_correta": "the local market sells handmade souvenirs"
   },
   {
+    "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O seguro não cobre atividades extremas.",
-    "opcoes": [
-      "insurance", "does", "not", "cover", "extreme", "activities", 
-      "sports", "danger", "policy", "the", "pay", "accidents", "risk", "exclude", "safety"
-    ],
-    "numero": "10",
+    "opcoes": ["the", "insurance", "does", "not", "cover", "extreme", "activities", "sports", "danger", "policy", "risk"],
     "resposta_correta": "the insurance does not cover extreme activities"
   }
 ];

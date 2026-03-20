@@ -1,4 +1,4 @@
-const quiz1 = [
+const quiz01 = [
   {
     "pergunta": "Como se diz 'Café da manhã' em inglês?",
     "opcoes": {
@@ -108,7 +108,10 @@ const quiz1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quiz02 = [
+ 
   {
     "pergunta": "O que você usa para tomar sopa? (Em inglês)",
     "opcoes": {
@@ -220,7 +223,7 @@ const quiz1 = [
     "resposta_correta": "D"
   }
 ];
-const quiz2 = [
+const quiz03 = [
   {
     "pergunta": "Como se diz 'Azeite de oliva' em inglês?",
     "opcoes": {
@@ -330,7 +333,10 @@ const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quiz04 = [
+  
   {
     "pergunta": "Como se traduz 'Laranja' (a fruta)?",
     "opcoes": {
@@ -442,7 +448,7 @@ const quiz2 = [
     "resposta_correta": "D"
   }
 ];
-const quiz3 = [
+const quiz05 = [
   {
     "pergunta": "Como se diz 'Mel' em inglês?",
     "opcoes": {
@@ -552,7 +558,10 @@ const quiz3 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quiz06 = [
+  
   {
     "pergunta": "O que significa 'Shrimp' em português?",
     "opcoes": {
@@ -664,7 +673,7 @@ const quiz3 = [
     "resposta_correta": "D"
   }
 ];
-const quiz4 = [
+const quiz07 = [
   {
     "pergunta": "Como se diz 'Vinho tinto' em inglês?",
     "opcoes": {
@@ -774,7 +783,10 @@ const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quiz08 = [
+  
   {
     "pergunta": "O que significa a bebida 'Draft beer'?",
     "opcoes": {
@@ -886,7 +898,7 @@ const quiz4 = [
     "resposta_correta": "A"
   }
 ];
-const quiz5 = [
+const quiz09 = [
   {
     "pergunta": "Como se diz 'Chá de ervas' em inglês?",
     "opcoes": {
@@ -996,7 +1008,10 @@ const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quiz010 = [
+ 
   {
     "pergunta": "O termo 'Espresso' refere-se a:",
     "opcoes": {
@@ -1108,7 +1123,7 @@ const quiz5 = [
     "resposta_correta": "D"
   }
 ];
-const quiz6 = [
+const quiz011 = [
   {
     "pergunta": "Como se diz 'Lagosta' em inglês?",
     "opcoes": {
@@ -1218,7 +1233,10 @@ const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quiz012 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Milkshake'?",
     "opcoes": {
@@ -1330,7 +1348,7 @@ const quiz6 = [
     "resposta_correta": "D"
   }
 ];
-const quiz7 = [
+const quiz013 = [
   {
     "pergunta": "Como se diz 'Torta' (geralmente doce) em inglês?",
     "opcoes": {
@@ -1440,7 +1458,10 @@ const quiz7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quiz014 = [
+  
   {
     "pergunta": "O que significa a palavra 'Pancake'?",
     "opcoes": {
@@ -1553,7 +1574,7 @@ const quiz7 = [
     "resposta_correta": "D"
   }
 ];
-const quiz8 = [
+const quiz015 = [
   {
     "pergunta": "Como se diz 'Carne de cordeiro' em inglês?",
     "opcoes": {
@@ -1663,7 +1684,10 @@ const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quiz016 = [
+
   {
     "pergunta": "O que significa 'Whipped cream'?",
     "opcoes": {
@@ -1775,7 +1799,7 @@ const quiz8 = [
     "resposta_correta": "D"
   }
 ];
-const quiz9 = [
+const quiz017 = [
   {
     "pergunta": "Como se diz 'Beterraba' em inglês?",
     "opcoes": {
@@ -1885,7 +1909,11 @@ const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quiz018 = [
+  
+ 
   {
     "pergunta": "Qual é a tradução de 'Espresso'?",
     "opcoes": {
@@ -1997,7 +2025,7 @@ const quiz9 = [
     "resposta_correta": "D"
   }
 ];
-const quiz10 = [
+const quiz019 = [
   {
     "pergunta": "Como se diz 'Carne de porco' em inglês?",
     "opcoes": {
@@ -2107,7 +2135,10 @@ const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quiz020 = [
+  
   {
     "pergunta": "Como se diz 'Lasanha' em inglês?",
     "opcoes": {
@@ -2219,7 +2250,7 @@ const quiz10 = [
     "resposta_correta": "D"
   }
 ];
-const quiz11 = [
+const quiz021 = [
   {
     "pergunta": "Como se diz 'Torrada' em inglês?",
     "opcoes": { "A": "Toast", "B": "Bread", "C": "Cracker", "D": "Biscuit" },
@@ -2279,7 +2310,10 @@ const quiz11 = [
     "opcoes": { "A": "Leite integral", "B": "Leite desnatado", "C": "Leite de soja", "D": "Leite condensado" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quiz022 = [
+ 
   {
     "pergunta": "O termo 'Raw' significa:",
     "opcoes": { "A": "Cozido", "B": "Cru", "C": "Queimado", "D": "Temperado" },
@@ -2341,7 +2375,7 @@ const quiz11 = [
     "resposta_correta": "D"
   }
 ];
-const quiz12 = [
+const quiz023 = [
   {
     "pergunta": "Como se diz 'Gema de ovo' em inglês?",
     "opcoes": { "A": "Egg white", "B": "Egg shell", "C": "Egg yolk", "D": "Boiled egg" },
@@ -2401,7 +2435,10 @@ const quiz12 = [
     "opcoes": { "A": "Vinegar", "B": "Oil", "C": "Olive oil", "D": "Butter" },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quiz024 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Peanut butter'?",
     "opcoes": { "A": "Manteiga de amendoim", "B": "Manteiga de cacau", "C": "Manteiga de leite", "D": "Manteiga de alho" },
@@ -2463,7 +2500,7 @@ const quiz12 = [
     "resposta_correta": "D"
   }
 ];
-const quiz13 = [
+const quiz025 = [
   {
     "pergunta": "Como se diz 'Alho' em inglês?",
     "opcoes": { "A": "Garlic", "B": "Onion", "C": "Ginger", "D": "Pepper" },
@@ -2523,7 +2560,10 @@ const quiz13 = [
     "opcoes": { "A": "Baking powder", "B": "Yeast", "C": "Flour", "D": "Sugar" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quiz026 = [
+ 
   {
     "pergunta": "O que significa 'Shrimp'?",
     "opcoes": { "A": "Lagosta", "0": "Lula", "C": "Camarão", "D": "Ostra" },
@@ -2585,7 +2625,7 @@ const quiz13 = [
     "resposta_correta": "D"
   }
 ];
-const quiz14 = [
+const quiz027 = [
   {
     "pergunta": "Como se diz 'Lasanha' em inglês?",
     "opcoes": { "A": "Spaghetti", "B": "Pasta", "C": "Lasagna", "D": "Noodles" },
@@ -2645,7 +2685,10 @@ const quiz14 = [
     "opcoes": { "A": "Ovo cozido", "B": "Ovo mexido", "C": "Ovo poché", "D": "Ovo frito com gema mole" },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quiz028 = [
+ 
   {
     "pergunta": "Como se diz 'Lagosta' em inglês?",
     "opcoes": { "A": "Shrimp", "B": "Lobster", "C": "Clam", "D": "Squid" },
@@ -2707,7 +2750,7 @@ const quiz14 = [
     "resposta_correta": "D"
   }
 ];
-const quiz15 = [
+const quiz029 = [
   {
     "pergunta": "Como se diz 'Azeite de oliva' em inglês?",
     "opcoes": { "A": "Vinegar", "B": "Butter", "C": "Olive oil", "D": "Sunflower oil" },
@@ -2767,7 +2810,10 @@ const quiz15 = [
     "opcoes": { "A": "Spatula", "B": "Ladle", "C": "Whisk", "D": "Sifter" },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quiz030 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Draft beer'?",
     "opcoes": { "A": "Cerveja artesanal", "B": "Chopp / Cerveja de barril", "C": "Cerveja escura", "D": "Cerveja sem álcool" },
@@ -2831,7 +2877,7 @@ const quiz15 = [
 ];
 
 /*-----------------------basico--------------------------------*/
-const quizBasico1 = [
+const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Onde está o cardápio?' em inglês?",
     "opcoes": {
@@ -2941,7 +2987,10 @@ const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizBasico02 = [
+ 
   {
     "pergunta": "Como se diz 'Eu não tenho uma faca'?",
     "opcoes": {
@@ -3053,7 +3102,7 @@ const quizBasico1 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico2 = [
+const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Eu não bebo álcool' em inglês?",
     "opcoes": {
@@ -3163,7 +3212,10 @@ const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quizBasico04 = [
+  
   {
     "pergunta": "Como se diz 'Passe-me o açúcar, por favor'?",
     "opcoes": {
@@ -3275,7 +3327,7 @@ const quizBasico2 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico3 = [
+const quizBasico05 = [
   {
     "pergunta": "Como se diz 'O chá está muito doce' em inglês?",
     "opcoes": {
@@ -3385,7 +3437,10 @@ const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico06 = [
+  
   {
     "pergunta": "Como se diz 'Eu preciso de um garfo novo'?",
     "opcoes": {
@@ -3497,7 +3552,7 @@ const quizBasico3 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico4 = [
+const quizBasico07 = [
   {
     "pergunta": "Como se diz 'Eu preciso de um guardanapo' em inglês?",
     "opcoes": { "A": "I have a napkin", "B": "I need a napkin", "C": "Where is the napkin?", "D": "The napkin is dirty" },
@@ -3557,7 +3612,10 @@ const quizBasico4 = [
     "opcoes": { "A": "Você quer uma reserva?", "B": "Você tem uma reserva?", "C": "A mesa está reservada?", "D": "Onde é a reserva?" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico08 = [
+  
   {
     "pergunta": "Como se diz 'A colher está suja'?",
     "opcoes": { "A": "The spoon is clean", "B": "The spoon is new", "C": "The spoon is dirty", "D": "I need a spoon" },
@@ -3619,7 +3677,7 @@ const quizBasico4 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico5 = [
+const quizBasico09 = [
   {
     "pergunta": "Como se diz 'Eu preciso comprar leite' em inglês?",
     "opcoes": { "A": "I have to buy milk", "B": "I need to buy milk", "C": "I want to drink milk", "D": "There is no milk" },
@@ -3679,7 +3737,10 @@ const quizBasico5 = [
     "opcoes": { "A": "Eu quero um copo de água", "B": "Eu quero uma garrafa de água", "C": "Eu tenho água", "D": "A água está na garrafa" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico010 = [
+  
   {
     "pergunta": "Como se diz 'A comida está muito apimentada'?",
     "opcoes": { "A": "The food is hot", "B": "The food is salty", "C": "The food is too spicy", "D": "I like spicy food" },
@@ -3741,7 +3802,7 @@ const quizBasico5 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico6 = [
+const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Eu bebo café com leite' em inglês?",
     "opcoes": { "A": "I drink coffee with sugar", "B": "I drink coffee with milk", "C": "I want black coffee", "D": "Coffee and milk is good" },
@@ -3796,6 +3857,15 @@ const quizBasico6 = [
     "numero": "10",
     "resposta_correta": "A"
   },
+  {
+    "pergunta": "Qual é a tradução de 'I prefer black tea'?",
+    "opcoes": { "A": "Eu bebo chá preto", "B": "Eu prefiro chá preto", "C": "O chá é preto", "D": "Eu não gosto de chá" },
+    "numero": "10",
+    "resposta_correta": "B"
+  }
+];
+const quizBasico012 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'I prefer black tea'?",
     "opcoes": { "A": "Eu bebo chá preto", "B": "Eu prefiro chá preto", "C": "O chá é preto", "D": "Eu não gosto de chá" },
@@ -3863,7 +3933,7 @@ const quizBasico6 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico7 = [
+const quizBasico013 = [
   {
     "pergunta": "Como se diz 'Eu quero café sem açúcar' em inglês?",
     "opcoes": { "A": "I want coffee with sugar", "B": "I drink black coffee", "C": "I want coffee without sugar", "D": "There is no sugar" },
@@ -3924,7 +3994,10 @@ const quizBasico7 = [
     "opcoes": { "A": "Eu gosto de comida apimentada", "B": "Eu não como comida apimentada", "C": "A comida está apimentada", "D": "Eu como pouca pimenta" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico014 = [
+
   {
     "pergunta": "Como se diz 'Nós temos uma mesa no jardim'?",
     "opcoes": { "A": "The table is in the garden", "B": "We want a table", "C": "We have a table in the garden", "D": "Is there a table?" },
@@ -3986,7 +4059,7 @@ const quizBasico7 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico8 = [
+const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Eu não quero gelo, obrigado' em inglês?",
     "opcoes": {
@@ -4096,7 +4169,10 @@ const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico016 = [
+  
   {
     "pergunta": "Como se diz 'Onde você janta?'?",
     "opcoes": {
@@ -4208,7 +4284,7 @@ const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico9 = [
+const quizBasico017 = [
   {
     "pergunta": "Como se diz 'Onde você almoça?' em inglês?",
     "opcoes": {
@@ -4318,7 +4394,10 @@ const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico018 = [
+ 
   {
     "pergunta": "Como se diz 'Eu não bebo chá'?",
     "opcoes": {
@@ -4430,7 +4509,7 @@ const quizBasico9 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico10 = [
+const quizBasico019 = [
   {
     "pergunta": "Como se diz 'A faca está limpa' em inglês?",
     "opcoes": {
@@ -4540,7 +4619,10 @@ const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico020 = [
+  
   {
     "pergunta": "Como se diz 'Tem uma colher na mesa'?",
     "opcoes": {
@@ -4652,7 +4734,7 @@ const quizBasico10 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico11 = [
+const quizBasico021 = [
   {
     "pergunta": "Como se diz 'Eu não bebo leite gelado' em inglês?",
     "opcoes": {
@@ -4762,7 +4844,10 @@ const quizBasico11 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizBasico022 = [
+  
   {
     "pergunta": "Como se diz 'O sal não está na mesa'?",
     "opcoes": {
@@ -4874,7 +4959,7 @@ const quizBasico11 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico12 = [
+const quizBasico023 = [
   {
     "pergunta": "Como se diz 'Este copo está vazio' em inglês?",
     "opcoes": {
@@ -4984,7 +5069,10 @@ const quizBasico12 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico024 = [
+ 
   {
     "pergunta": "Como se diz 'Passe-me o sal e a pimenta'?",
     "opcoes": {
@@ -5096,7 +5184,7 @@ const quizBasico12 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico13 = [
+const quizBasico025 = [
   {
     "pergunta": "Como se diz 'Eu quero uma garrafa de cerveja' em inglês?",
     "opcoes": {
@@ -5206,7 +5294,10 @@ const quizBasico13 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico026 = [
+  
   {
     "pergunta": "Como se diz 'Eu não gosto de peixe'?",
     "opcoes": {
@@ -5318,7 +5409,7 @@ const quizBasico13 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico14 = [
+const quizBasico027 = [
   {
     "pergunta": "Como se diz 'Eu não gosto de alho' em inglês?",
     "opcoes": {
@@ -5428,7 +5519,10 @@ const quizBasico14 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico028 = [
+ 
   {
     "pergunta": "Como se diz 'Eu bebo café preto'?",
     "opcoes": {
@@ -5540,7 +5634,7 @@ const quizBasico14 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico17 = [
+const quizBasico029 = [
   {
     "pergunta": "Como se diz 'Eu prefiro ovos fritos' em inglês?",
     "opcoes": {
@@ -5650,7 +5744,10 @@ const quizBasico17 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico030 = [
+ 
   {
     "pergunta": "Como se diz 'A cerveja é artesanal'?",
     "opcoes": {
@@ -5762,7 +5859,7 @@ const quizBasico17 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico19 = [
+const quizBasico031 = [
   {
     "pergunta": "Como se diz 'Eu quero água sem gelo, por favor' em inglês?",
     "opcoes": {
@@ -5872,7 +5969,10 @@ const quizBasico19 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico032 = [
+  
   {
     "pergunta": "Como se diz 'O sal e a pimenta estão aqui'?",
     "opcoes": {
@@ -5984,7 +6084,7 @@ const quizBasico19 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico20 = [
+const quizBasico033 = [
   {
     "pergunta": "Como se diz 'Onde fica o banheiro?' (essencial em restaurantes) em inglês?",
     "opcoes": {
@@ -6094,7 +6194,10 @@ const quizBasico20 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizBasico034 = [
+  
   {
     "pergunta": "Como se diz 'A colher está suja'?",
     "opcoes": {
@@ -6209,7 +6312,7 @@ const quizBasico20 = [
 
 /*-----------------------intermediario--------------------------------*/
 
-const quizIntermediario1 = [
+const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Eu estou cozinhando o jantar porque estou com fome'?",
     "opcoes": {
@@ -6319,7 +6422,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario02 = [
+ 
   {
     "pergunta": "Como se diz 'A comida cheira bem, apesar de parecer estranha'?",
     "opcoes": {
@@ -6431,7 +6537,7 @@ const quizIntermediario1 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario2 = [
+const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Eu costumava comer carne, mas agora sou vegetariano'?",
     "opcoes": {
@@ -6541,7 +6647,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario04 = [
+ 
   {
     "pergunta": "Como se diz 'Apesar do preço, o serviço foi excelente'?",
     "opcoes": {
@@ -6653,7 +6762,7 @@ const quizIntermediario2 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario3 = [
+const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A comida foi servida fria' em inglês?",
     "opcoes": {
@@ -6763,7 +6872,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario06 = [
+ 
   {
     "pergunta": "Como se diz 'A menos que você reserve, não haverá mesas'?",
     "opcoes": {
@@ -6875,7 +6987,7 @@ const quizIntermediario3 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario4 = [
+const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Nós acabamos o leite' (no sentido de 'acabou o estoque')?",
     "opcoes": {
@@ -6985,7 +7097,10 @@ const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario08 = [
+ 
   {
     "pergunta": "Como se diz 'Eu não costumava gostar de comida japonesa'?",
     "opcoes": {
@@ -7097,7 +7212,7 @@ const quizIntermediario4 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario5 = [
+const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'A carne deve estar deliciosa, o cheiro está ótimo'?",
     "opcoes": {
@@ -7207,7 +7322,10 @@ const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario010 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'The soup is a bit bland, it needs more salt'?",
     "opcoes": {
@@ -7319,7 +7437,7 @@ const quizIntermediario5 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario6 = [
+const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Eu gostaria de reclamar sobre o serviço, por favor'?",
     "opcoes": {
@@ -7429,7 +7547,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario012 = [
+  
   {
     "pergunta": "Como se diz 'A massa foi feita à mão pelo chef'?",
     "opcoes": {
@@ -7541,7 +7662,7 @@ const quizIntermediario6 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario7 = [
+const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'O restaurante é extremamente caro, no entanto, a comida vale a pena'?",
     "opcoes": {
@@ -7651,7 +7772,10 @@ const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario014 = [
+  
   {
     "pergunta": "Qual é a tradução de 'I forgot to check the expiration date'?",
     "opcoes": {
@@ -7763,7 +7887,7 @@ const quizIntermediario7 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario8 = [
+const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'O jantar é por minha conta hoje'?",
     "opcoes": {
@@ -7873,7 +7997,10 @@ const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario016 = [
+ 
   {
     "pergunta": "Como se diz 'O serviço deixou a desejar desta vez'?",
     "opcoes": {
@@ -7985,7 +8112,7 @@ const quizIntermediario8 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario9 = [
+const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'A massa deve descansar por meia hora antes de abrir'?",
     "opcoes": {
@@ -8095,7 +8222,10 @@ const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario018 = [
+  
   {
     "pergunta": "O que significa 'The meat is slightly tough'?",
     "opcoes": {
@@ -8207,7 +8337,7 @@ const quizIntermediario9 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario10 = [
+const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'Você poderia bater as claras em neve?'?",
     "opcoes": {
@@ -8317,7 +8447,10 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario020 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Help yourself to some more wine'?",
     "opcoes": {
@@ -8429,7 +8562,7 @@ const quizIntermediario10 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario11 = [
+const quizIntermediario021 = [
   {
     "pergunta": "Qual é a tradução de 'The catering service was hired for the wedding'?",
     "opcoes": {
@@ -8539,7 +8672,10 @@ const quizIntermediario11 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quizIntermediario022 = [
+  
   {
     "pergunta": "Qual é a tradução de 'I'm afraid this milk has gone off'?",
     "opcoes": {
@@ -8651,7 +8787,7 @@ const quizIntermediario11 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario12 = [
+const quizIntermediario023 = [
   {
     "pergunta": "Como se diz 'Contanto que você siga a receita, o bolo sairá perfeito'?",
     "opcoes": {
@@ -8761,7 +8897,10 @@ const quizIntermediario12 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario024 = [
+  
   {
     "pergunta": "Como se diz 'Onde você guarda os abridores de lata?'?",
     "opcoes": {
@@ -8873,7 +9012,7 @@ const quizIntermediario12 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario13 = [
+const quizIntermediario025 = [
   {
     "pergunta": "Como se diz 'A comida está na mesa, vamos atacar!' (expressão informal)?",
     "opcoes": {
@@ -8983,7 +9122,10 @@ const quizIntermediario13 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario026 = [
+ 
   {
     "pergunta": "Como se diz 'Este vinho é muito encorpado para o meu gosto'?",
     "opcoes": {
@@ -9095,7 +9237,7 @@ const quizIntermediario13 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario14 = [
+const quizIntermediario027 = [
   {
     "pergunta": "Qual é a tradução de 'I need to have my kitchen remodeled'?",
     "opcoes": {
@@ -9205,7 +9347,10 @@ const quizIntermediario14 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario028 = [
+  
   {
     "pergunta": "Qual é a tradução de 'The soup is rather bland, it lacks seasoning'?",
     "opcoes": {
@@ -9317,7 +9462,7 @@ const quizIntermediario14 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario15 = [
+const quizIntermediario029 = [
   {
     "pergunta": "Como se diz 'Você deve ralar o queijo por cima da massa'?",
     "opcoes": {
@@ -9427,7 +9572,10 @@ const quizIntermediario15 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizIntermediario030 = [
+  
   {
     "pergunta": "Como se diz 'Não se esqueça de untar a forma'?",
     "opcoes": {
@@ -9539,7 +9687,7 @@ const quizIntermediario15 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario16 = [
+const quizIntermediario031 = [
   {
     "pergunta": "Como se diz 'O molho vai engrossar conforme esfria'?",
     "opcoes": {
@@ -9649,7 +9797,10 @@ const quizIntermediario16 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario032 = [
+ 
   {
     "pergunta": "Como se diz 'A massa deve ser esticada bem fina'?",
     "opcoes": {
@@ -9761,7 +9912,7 @@ const quizIntermediario16 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario17 = [
+const quizIntermediario033 = [
   {
     "pergunta": "Qual é a tradução de 'I prefer to sauté the onions until they are translucent'?",
     "opcoes": {
@@ -9871,7 +10022,10 @@ const quizIntermediario17 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario034 = [
+  
   {
     "pergunta": "Qual é a tradução de 'The soup is a bit too thick for my liking'?",
     "opcoes": {
@@ -9983,7 +10137,7 @@ const quizIntermediario17 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario18 = [
+const quizIntermediario035 = [
   {
     "pergunta": "Como se diz 'A receita pede duas colheres de sopa de mel'?",
     "opcoes": {
@@ -10093,7 +10247,10 @@ const quizIntermediario18 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizIntermediario036 = [
+  
   {
     "pergunta": "Como se diz 'Onde fica a seção de congelados?'?",
     "opcoes": {
@@ -10205,7 +10362,7 @@ const quizIntermediario18 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario19 = [
+const quizIntermediario037 = [
   {
     "pergunta": "Como se diz 'A proporção ideal é de duas partes de água para uma de arroz'?",
     "opcoes": {
@@ -10315,7 +10472,10 @@ const quizIntermediario19 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quizIntermediario038 = [
+  
   {
     "pergunta": "Como se diz 'Eu esqueci o frango no forno e ele ressecou'?",
     "opcoes": {
@@ -10427,7 +10587,7 @@ const quizIntermediario19 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario20 = [
+const quizIntermediario039 = [
   {
     "pergunta": "Como se diz 'Aqueça a frigideira até que o óleo comece a soltar fumaça'?",
     "opcoes": {
@@ -10537,7 +10697,10 @@ const quizIntermediario20 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario040 = [
+ 
   {
     "pergunta": "Como se diz 'Onde fica o ralo da pia?'?",
     "opcoes": {
@@ -10649,77 +10812,76 @@ const quizIntermediario20 = [
     "resposta_correta": "C"
   }
 ];
-
 /*-----------------------avancado--------------------------------*/
 
 export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "I drink hot tea in the morning.",
-    "opcoes": ["noite", "quente", "bebo", "cedo", "café", "manhã", "eu", "de", "chá", "copo", "leite", "tomar", "gelado"],
+    "opcoes": ["quente", "bebo", "manhã", "de", "chá", "eu", "noite", "café", "cedo", "copo"],
     "numero": "1",
     "resposta_correta": "eu bebo chá quente de manhã"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Ela cozinha carne para o jantar.",
-    "opcoes": ["meat", "cooks", "the", "he", "for", "breakfast", "dinner", "she", "cooking", "fish", "soup", "eat"],
+    "opcoes": ["cooks", "the", "for", "dinner", "she", "meat", "breakfast", "he", "fish", "soup"],
     "numero": "2",
     "resposta_correta": "she cooks meat for the dinner"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The orange juice is on the table.",
-    "opcoes": ["mesa", "suco", "está", "copo", "de", "laranja", "prato", "o", "geladeira", "em", "cima", "da", "doce"],
+    "opcoes": ["mesa", "suco", "está", "de", "laranja", "o", "em", "cima", "da", "copo", "prato", "geladeira", "fresco"],
     "numero": "3",
     "resposta_correta": "o suco de laranja está em cima da mesa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nós queremos dois copos de água.",
-    "opcoes": ["cups", "want", "of", "two", "we", "water", "soda", "glasses", "juice", "need", "three", "drink"],
+    "opcoes": ["want", "of", "two", "we", "water", "glasses", "cups", "soda", "need", "drink"],
     "numero": "4",
     "resposta_correta": "we want two glasses of water"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "He eats a green apple.",
-    "opcoes": ["maçã", "vermelha", "uma", "fruta", "ele", "verde", "come", "doce", "banana", "está", "comendo"],
+    "opcoes": ["maçã", "uma", "ele", "verde", "come", "vermelha", "fruta", "doce", "banana"],
     "numero": "5",
     "resposta_correta": "ele come uma maçã verde"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O pão está muito fresco.",
-    "opcoes": ["very", "is", "stale", "fresh", "cake", "the", "bread", "soft", "oven", "hot", "this"],
+    "opcoes": ["very", "is", "fresh", "the", "bread", "stale", "cake", "soft", "oven"],
     "numero": "6",
     "resposta_correta": "the bread is very fresh"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "They prefer coffee with milk.",
-    "opcoes": ["com", "leite", "café", "eles", "preferem", "sem", "chá", "querem", "açúcar", "beber", "muito"],
+    "opcoes": ["com", "leite", "café", "eles", "preferem", "sem", "chá", "querem", "açúcar"],
     "numero": "7",
     "resposta_correta": "eles preferem café com leite"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu preciso de sal e de pimenta.",
-    "opcoes": ["pepper", "need", "oil", "sugar", "salt", "and", "i", "some", "vinegar", "spicy", "taste"],
+    "opcoes": ["pepper", "need", "salt", "and", "i", "oil", "sugar", "some", "vinegar"],
     "numero": "8",
     "resposta_correta": "i need salt and pepper"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The restaurant is near my house.",
-    "opcoes": ["da", "restaurante", "minha", "o", "casa", "escola", "perto", "está", "loja", "fica", "rua", "cidade"],
+    "opcoes": ["da", "restaurante", "minha", "o", "casa", "perto", "está", "escola", "loja", "fica"],
     "numero": "9",
     "resposta_correta": "o restaurante está perto da minha casa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você gosta de peixe grelhado?",
-    "opcoes": ["fried", "you", "do", "fish", "meat", "grilled", "like", "eat", "cook", "chicken", "want"],
+    "opcoes": ["you", "do", "fish", "grilled", "like", "fried", "meat", "eat", "cook"],
     "numero": "10",
     "resposta_correta": "do you like grilled fish"
   }
@@ -10728,71 +10890,70 @@ export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The soup is too salty for me.",
-    "opcoes": ["para", "quente", "salgada", "mim", "está", "a", "sopa", "muito", "fria", "carne", "doce", "tempero", "demais"],
+    "opcoes": ["sopa", "está", "muito", "salgada", "para", "mim", "a", "doce", "quente", "carne", "fria"],
     "numero": "1",
     "resposta_correta": "a sopa está muito salgada para mim"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nós bebemos vinho tinto no jantar.",
-    "opcoes": ["we", "red", "breakfast", "drink", "wine", "at", "white", "dinner", "the", "drinking", "beer", "water", "ate"],
+    "opcoes": ["we", "drink", "red", "wine", "at", "dinner", "the", "white", "drinking", "beer", "ate"],
     "numero": "2",
     "resposta_correta": "we drink red wine at dinner"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "There is a fly in my salad.",
-    "opcoes": ["minha", "salada", "uma", "prato", "mosca", "na", "comer", "comida", "alface", "dentro", "há", "um"],
+    "opcoes": ["há", "uma", "mosca", "na", "minha", "salada", "prato", "inseto", "dentro", "comida"],
     "numero": "3",
     "resposta_correta": "há uma mosca na minha salada"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu quero um copo de leite gelado.",
-    "opcoes": ["hot", "glass", "i", "milk", "of", "want", "tea", "cold", "water", "coffee", "cup", "a", "white"],
+    "opcoes": ["i", "want", "a", "glass", "of", "cold", "milk", "hot", "tea", "cup", "water"],
     "numero": "4",
     "resposta_correta": "i want a glass of cold milk"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Is the chicken cooked or raw?",
-    "opcoes": ["cozido", "o", "cru", "ou", "frango", "está", "frito", "assado", "carne", "bom", "quente", "fresco"],
+    "opcoes": ["o", "frango", "está", "cozido", "ou", "cru", "frito", "assado", "carne", "bom"],
     "numero": "5",
     "resposta_correta": "o frango está cozido ou cru"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você pode me passar o sal?",
-    "opcoes": ["salt", "pass", "sugar", "the", "me", "pepper", "please", "can", "give", "you", "oil", "bottle"],
+    "opcoes": ["can", "you", "pass", "me", "the", "salt", "sugar", "pepper", "give", "hand"],
     "numero": "6",
     "resposta_correta": "can you pass me the salt"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I prefer sparkling water with lemon.",
-    // ADICIONADO: Segundo "com" para permitir a construção da frase correta
-    "opcoes": ["limão", "com", "com", "água", "eu", "suco", "gás", "prefiro", "gelo", "doce", "copo", "fruta", "gelada"],
+    "opcoes": ["eu", "prefiro", "água", "com", "gás", "com", "limão", "gelo", "doce", "suco", "natural"],
     "numero": "7",
-    "resposta_correta": "eu preferiro água com gás com limão"
+    "resposta_correta": "eu prefiro água com gás com limão"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eles não comem carne de porco.",
-    "opcoes": ["they", "pork", "meat", "not", "beef", "do", "chicken", "eat", "food", "never", "like", "fish", "no"],
+    "opcoes": ["they", "do", "not", "eat", "pork", "meat", "beef", "chicken", "steak", "never"],
     "numero": "8",
     "resposta_correta": "they do not eat pork meat"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The chocolate cake is delicious.",
-    "opcoes": ["de", "chocolate", "o", "está", "bolo", "doce", "ruim", "delicioso", "saboroso", "café", "muito", "festa"],
+    "opcoes": ["o", "bolo", "de", "chocolate", "está", "delicioso", "doce", "ruim", "fatia", "muito"],
     "numero": "9",
     "resposta_correta": "o bolo de chocolate está delicioso"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Onde está a colher de prata?",
-    "opcoes": ["spoon", "is", "where", "silver", "fork", "the", "knife", "gold", "plate", "table", "find", "kitchen"],
+    "opcoes": ["where", "is", "the", "silver", "spoon", "fork", "knife", "gold", "plate"],
     "numero": "10",
     "resposta_correta": "where is the silver spoon"
   }
@@ -10801,70 +10962,70 @@ export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The bill is wrong, please check it.",
-    "opcoes": ["por", "conta", "certa", "errada", "favor", "está", "a", "verifique", "mesa", "pagar", "garçom", "confira", "dinheiro"],
+    "opcoes": ["a", "conta", "está", "errada", "por", "favor", "confira", "verifique", "mesa", "pagar", "garçom"],
     "numero": "1",
     "resposta_correta": "a conta está errada por favor confira"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu gostaria de uma xícara de café quente.",
-    "opcoes": ["cup", "tea", "hot", "i", "coffee", "like", "milk", "of", "would", "a", "want", "drink", "cold"],
+    "opcoes": ["i", "would", "like", "a", "cup", "of", "hot", "coffee", "want", "tea", "drink", "mug"],
     "numero": "2",
     "resposta_correta": "i would like a cup of hot coffee"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The vegetables are fresh and organic.",
-    "opcoes": ["frutas", "frescos", "vegetais", "orgânicos", "estão", "e", "os", "comida", "limpos", "cozidos", "horta", "saudáveis"],
+    "opcoes": ["os", "vegetais", "estão", "frescos", "e", "orgânicos", "frutas", "comida", "limpos", "verdes"],
     "numero": "3",
     "resposta_correta": "os vegetais estão frescos e orgânicos"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nós não temos açúcar para o suco.",
-    "opcoes": ["we", "juice", "not", "sugar", "have", "for", "the", "do", "milk", "salt", "want", "any", "no"],
+    "opcoes": ["we", "do", "not", "have", "sugar", "for", "the", "juice", "salt", "want", "any", "water"],
     "numero": "4",
     "resposta_correta": "we do not have sugar for the juice"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I need a napkin to clean the table.",
-    "opcoes": ["um", "mesa", "limpar", "guardanapo", "preciso", "para", "de", "a", "pano", "toalha", "eu", "copo", "comida"],
+    "opcoes": ["eu", "preciso", "de", "um", "guardanapo", "para", "limpar", "a", "mesa", "pano", "toalha", "comida", "papel"],
     "numero": "5",
     "resposta_correta": "eu preciso de um guardanapo para limpar a mesa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Onde fica o restaurante japonês?",
-    "opcoes": ["restaurant", "japanese", "the", "food", "where", "is", "find", "place", "city", "street", "near"],
+    "opcoes": ["where", "is", "the", "japanese", "restaurant", "food", "find", "place", "location"],
     "numero": "6",
     "resposta_correta": "where is the japanese restaurant"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The ice cream is melting very fast.",
-    "opcoes": ["muito", "sorvete", "está", "rápido", "o", "derretendo", "doce", "frio", "gelado", "comendo", "copo"],
+    "opcoes": ["o", "sorvete", "está", "derretendo", "muito", "rápido", "gelado", "doce", "frio", "calor"],
     "numero": "7",
     "resposta_correta": "o sorvete está derretendo muito rápido"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você quer gelo e limão no refrigerante?",
-    "opcoes": ["ice", "you", "lemon", "and", "do", "want", "soda", "in", "the", "with", "water", "juice", "glass", "cold"],
+    "opcoes": ["do", "you", "want", "ice", "and", "lemon", "in", "the", "soda", "with", "water", "juice", "drink"],
     "numero": "8",
     "resposta_correta": "do you want ice and lemon in the soda"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My favorite fruit is the yellow banana.",
-    "opcoes": ["fruta", "minha", "amarela", "favorita", "banana", "é", "a", "maçã", "doce", "gosto", "verde", "comer"],
+    "opcoes": ["minha", "fruta", "favorita", "é", "a", "banana", "amarela", "maçã", "doce", "verde", "laranja"],
     "numero": "9",
     "resposta_correta": "minha fruta favorita é a banana amarela"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Este prato de espaguete é para ela.",
-    "opcoes": ["spaghetti", "plate", "is", "this", "for", "her", "she", "food", "pasta", "meat", "of", "with"],
+    "opcoes": ["this", "plate", "of", "spaghetti", "is", "for", "her", "she", "pasta", "food", "meat"],
     "numero": "10",
     "resposta_correta": "this plate of spaghetti is for her"
   }
@@ -10873,72 +11034,70 @@ export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The honey is too thick to pour.",
-    "opcoes": ["grosso", "derramar", "mel", "para", "está", "o", "doce", "muito", "fino", "melado", "difícil", "pote", "líquido"],
+    "opcoes": ["o", "mel", "está", "muito", "grosso", "para", "derramar", "doce", "fino", "difícil", "líquido"],
     "numero": "1",
     "resposta_correta": "o mel está muito grosso para derramar"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu prefiro cozinhar com azeite de oliva.",
-    "opcoes": ["with", "cook", "i", "oil", "butter", "olive", "prefer", "to", "vinegar", "frying", "using", "salt", "food"],
+    "opcoes": ["i", "prefer", "to", "cook", "with", "olive", "oil", "butter", "using", "salt", "vinegar"],
     "numero": "2",
     "resposta_correta": "i prefer to cook with olive oil"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The red wine stained my white shirt.",
-    "opcoes": ["manchou", "vinho", "tinto", "o", "minha", "camisa", "branca", "sujou", "roupa", "mesa", "copo", "tinta", "derramou"],
+    "opcoes": ["o", "vinho", "tinto", "manchou", "minha", "camisa", "branca", "sujou", "roupa", "mesa", "copo"],
     "numero": "3",
     "resposta_correta": "o vinho tinto manchou minha camisa branca"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Does the salad have garlic in it?",
-    "opcoes": ["salad", "garlic", "have", "onion", "the", "does", "in", "it", "with", "salt", "pepper", "any", "make"],
+    "opcoes": ["does", "the", "salad", "have", "garlic", "in", "it", "onion", "with", "salt", "pepper"],
     "numero": "4",
     "resposta_correta": "does the salad have garlic in it"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O queijo está na gaveta da geladeira.",
-    "opcoes": ["na", "geladeira", "o", "está", "gaveta", "da", "queijo", "frio", "leite", "prato", "porta", "comida", "guardado"],
+    "opcoes": ["o", "queijo", "está", "na", "gaveta", "da", "geladeira", "porta", "prato", "leite", "frio"],
     "numero": "5",
     "resposta_correta": "o queijo está na gaveta da geladeira"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I would like to order a pizza now.",
-    "opcoes": ["order", "would", "a", "now", "i", "like", "pizza", "to", "eat", "want", "delivery", "later", "hot"],
+    "opcoes": ["i", "would", "like", "to", "order", "a", "pizza", "now", "want", "eat", "delivery", "later"],
     "numero": "6",
     "resposta_correta": "i would like to order a pizza now"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Esta carne de boi está muito macia.",
-    "opcoes": ["beef", "this", "is", "very", "tender", "meat", "hard", "tough", "pork", "good", "cooked", "steak", "soft"],
+    "opcoes": ["this", "beef", "meat", "is", "very", "tender", "hard", "tough", "pork", "steak"],
     "numero": "7",
     "resposta_correta": "this beef meat is very tender"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nós precisamos de mais sal na sopa.",
-    "opcoes": ["salt", "soup", "we", "more", "need", "in", "the", "less", "pepper", "water", "add", "hot", "some"],
+    "opcoes": ["we", "need", "more", "salt", "in", "the", "soup", "less", "pepper", "water", "add"],
     "numero": "8",
     "resposta_correta": "we need more salt in the soup"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O garçom trouxe a conta errada.",
-    // ADICIONADO: Segundo "the" para "the waiter" e "the wrong bill"
-    "opcoes": ["waiter", "the", "the", "brought", "wrong", "bill", "check", "right", "food", "table", "money", "gave", "me", "took"],
+    "opcoes": ["the", "waiter", "brought", "the", "wrong", "bill", "check", "right", "food", "table"],
     "numero": "9",
     "resposta_correta": "the waiter brought the wrong bill"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você quer beber suco ou água?",
-    // ADICIONADO: "to" para completar o infinitivo "to drink"
-    "opcoes": ["drink", "water", "juice", "do", "you", "or", "want", "to", "soda", "coffee", "milk", "tea", "iced", "glass"],
+    "opcoes": ["do", "you", "want", "to", "drink", "juice", "or", "water", "soda", "coffee", "tea", "iced"],
     "numero": "10",
     "resposta_correta": "do you want to drink juice or water"
   }
@@ -10947,71 +11106,70 @@ export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "I like my steak medium-rare.",
-    
-    "opcoes": ["carne", "eu", "passado", "meu", "gosto", "bife", "mal", "ao", "ponto", "bem", "grelhado", "do", "para"],
+    "opcoes": ["ao", "ponto", "gosto", "bem", "do", "eu", "para", "bife", "mal", "passado", "meu", "quente", "cru"],
     "numero": "1",
     "resposta_correta": "eu gosto do meu bife ao ponto para mal"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Ela colocou muito açúcar no chá.",
-    "opcoes": ["she", "put", "much", "too", "sugar", "in", "the", "tea", "coffee", "salt", "water", "added", "milk", "sweet"],
+    "opcoes": ["too", "added", "the", "much", "put", "honey", "tea", "she", "in", "sugar", "salt", "sweet"],
     "numero": "2",
     "resposta_correta": "she put too much sugar in the tea"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The kitchen is clean and organized.",
-    "opcoes": ["arrumada", "suja", "cozinha", "está", "a", "limpa", "e", "organizada", "mesa", "casa", "fogão", "grande", "pratos"],
+    "opcoes": ["limpa", "casa", "organizada", "suja", "cozinha", "e", "está", "a", "mesa", "arrumada"],
     "numero": "3",
     "resposta_correta": "a cozinha está limpa e organizada"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Nós não temos refrigerante durante a semana.",
-    "opcoes": ["drink", "we", "not", "soda", "during", "week", "the", "do", "water", "juice", "month", "night", "always", "never"],
+    "pergunta": "Nós não bebemos refrigerante durante a semana.",
+    "opcoes": ["soda", "the", "not", "during", "week", "buy", "drink", "we", "do", "water", "juice", "night"],
     "numero": "4",
     "resposta_correta": "we do not drink soda during the week"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The bread is inside the basket.",
-    "opcoes": ["dentro", "mesa", "pão", "o", "está", "da", "cesta", "prato", "em", "cima", "forno", "do", "caixa"],
+    "opcoes": ["o", "pão", "está", "dentro", "da", "cesta", "mesa", "prato", "do", "caixa"],
     "numero": "5",
     "resposta_correta": "o pão está dentro da cesta"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Can you bring me a napkin, please?",
-    "opcoes": ["me", "bring", "can", "napkin", "a", "please", "you", "fork", "spoon", "give", "water", "bill", "table"],
+    "opcoes": ["please", "bring", "can", "napkin", "a", "you", "me", "fork", "give", "waiter", "glass"],
     "numero": "6",
     "resposta_correta": "can you bring me a napkin please"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O suco de uva é muito doce.",
-    "opcoes": ["juice", "grape", "the", "is", "very", "sweet", "sour", "orange", "drink", "cold", "sugar", "tasty"],
+    "opcoes": ["is", "the", "grape", "juice", "very", "sweet", "sour", "orange", "sugar", "natural"],
     "numero": "7",
     "resposta_correta": "the grape juice is very sweet"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eles estão fritando batatas na cozinha.",
-    "opcoes": ["frying", "they", "potatoes", "are", "in", "kitchen", "the", "cooking", "meat", "oil", "stove", "eating", "chips"],
+    "opcoes": ["are", "kitchen", "frying", "the", "potatoes", "in", "they", "cooking", "meat", "stove", "oil"],
     "numero": "8",
     "resposta_correta": "they are frying potatoes in the kitchen"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu prefiro comer em casa hoje.",
-    "opcoes": ["prefer", "eat", "to", "i", "home", "at", "today", "tonight", "restaurant", "food", "want", "stay", "lunch"],
+    "opcoes": ["eat", "today", "at", "i", "home", "to", "prefer", "want", "stay", "lunch", "restaurant"],
     "numero": "9",
     "resposta_correta": "i prefer to eat at home today"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Onde está a garrafa de água?",
-    "opcoes": ["bottle", "where", "water", "of", "is", "the", "glass", "find", "cup", "fridge", "table", "drink"],
+    "opcoes": ["water", "where", "bottle", "the", "of", "is", "glass", "cup", "fridge", "drink"],
     "numero": "10",
     "resposta_correta": "where is the bottle of water"
   }
@@ -11020,71 +11178,70 @@ export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The coffee is too hot to drink.",
-    "opcoes": ["beber", "muito", "para", "quente", "o", "chá", "está", "café", "gelado", "copo", "doce", "demais", "frio"],
+    "opcoes": ["beber", "muito", "para", "quente", "o", "está", "café", "chá", "gelado", "doce", "frio"],
     "numero": "1",
     "resposta_correta": "o café está muito quente para beber"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você prefere peixe ou frango?",
-    "opcoes": ["prefer", "do", "fish", "meat", "or", "chicken", "you", "beef", "like", "eat", "want", "pork", "lunch"],
+    "opcoes": ["prefer", "do", "fish", "or", "chicken", "you", "meat", "like", "want", "beef"],
     "numero": "2",
     "resposta_correta": "do you prefer fish or chicken"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I need a spoon for my dessert.",
-    "opcoes": ["preciso", "uma", "minha", "sobremesa", "de", "colher", "garfo", "faca", "doce", "para", "eu", "comer", "um"],
+    "opcoes": ["preciso", "uma", "minha", "sobremesa", "de", "colher", "para", "eu", "um", "garfo", "faca", "doce", "prato"],
     "numero": "3",
     "resposta_correta": "eu preciso de uma colher para minha sobremesa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O leite está na porta da geladeira.",
-    "opcoes": ["fridge", "the", "milk", "is", "door", "on", "of", "in", "bottle", "the", "cold", "open", "inside"],
+    "opcoes": ["fridge", "the", "the", "milk", "is", "door", "on", "in", "bottle", "cold", "shelf"],
     "numero": "4",
     "resposta_correta": "the milk is on the fridge door"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "We have fresh eggs for breakfast.",
-    // ADICIONADO: "o" para permitir a construção "para o café da manhã"
-    "opcoes": ["café", "da", "ovos", "manhã", "temos", "frescos", "nós", "no", "pão", "leite", "comemos", "para", "fritos", "o"],
+    "opcoes": ["café", "da", "ovos", "manhã", "temos", "frescos", "nós", "para", "o", "pão", "leite", "no", "fritos"],
     "numero": "5",
     "resposta_correta": "nós temos ovos frescos para o café da manhã"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Ela quer uma fatia de bolo.",
-    "opcoes": ["of", "cake", "slice", "wants", "she", "bread", "a", "piece", "apple", "eat", "some", "chocolate"],
+    "opcoes": ["of", "cake", "slice", "wants", "she", "a", "bread", "piece", "apple", "some"],
     "numero": "6",
     "resposta_correta": "she wants a slice of cake"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The salad is fresh and healthy.",
-    "opcoes": ["saudável", "está", "salada", "fresca", "e", "a", "limpa", "verde", "ruim", "comida", "vegetal", "muito"],
+    "opcoes": ["saudável", "está", "salada", "fresca", "e", "a", "limpa", "verde", "ruim", "muito"],
     "numero": "7",
     "resposta_correta": "a salada está fresca e saudável"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Onde eu posso comprar pão?",
-    "opcoes": ["can", "bread", "buy", "i", "where", "food", "find", "bakery", "shop", "eat", "get", "store"],
+    "opcoes": ["can", "bread", "buy", "i", "where", "food", "find", "bakery", "get"],
     "numero": "8",
     "resposta_correta": "where can i buy bread"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I don't like bitter chocolate.",
-    "opcoes": ["amargo", "gosto", "chocolate", "não", "de", "doce", "eu", "preto", "comer", "muito", "leite", "açúcar"],
+    "opcoes": ["amargo", "gosto", "chocolate", "não", "de", "eu", "doce", "preto", "barra", "ruim"],
     "numero": "9",
     "resposta_correta": "eu não gosto de chocolate amargo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O jantar será servido às oito.",
-    "opcoes": ["served", "dinner", "at", "be", "eight", "will", "seven", "time", "the", "cooking", "night", "ready"],
+    "opcoes": ["served", "dinner", "at", "be", "eight", "will", "the", "time", "night", "ready", "seven"],
     "numero": "10",
     "resposta_correta": "the dinner will be served at eight"
   }
@@ -11093,70 +11250,70 @@ export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The water is boiling in the pot.",
-    "opcoes": ["água", "na", "fervendo", "panela", "a", "está", "fogão", "quente", "chá", "cozinha", "dentro", "da", "fogo"],
+    "opcoes": ["fervendo", "a", "fogão", "panela", "quente", "água", "na", "cozinha", "está", "ferver"],
     "numero": "1",
     "resposta_correta": "a água está fervendo na panela"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu coloquei sal demais na batata.",
-    "opcoes": ["potato", "too", "put", "salt", "i", "much", "in", "the", "pepper", "food", "fries", "added", "oil", "sugar"],
+    "opcoes": ["the", "too", "salt", "potato", "added", "much", "in", "pepper", "i", "put", "oil", "food"],
     "numero": "2",
     "resposta_correta": "i put too much salt in the potato"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "She drinks a glass of juice every morning.",
-    "opcoes": ["suco", "um", "manhã", "ela", "bebe", "de", "copo", "toda", "café", "dia", "leite", "beber", "laranja", "cada"],
+    "opcoes": ["manhã", "suco", "de", "ela", "copo", "bebe", "café", "dia", "um", "leite", "toda", "laranja"],
     "numero": "3",
     "resposta_correta": "ela bebe um copo de suco toda manhã"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nós precisamos de mais gelo para as bebidas.",
-    "opcoes": ["ice", "need", "we", "for", "the", "drinks", "more", "water", "cold", "some", "soda", "juice", "less"],
+    "opcoes": ["ice", "need", "drinks", "water", "more", "the", "less", "we", "for", "soda", "some"],
     "numero": "4",
     "resposta_correta": "we need more ice for the drinks"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The meat is tough and hard to chew.",
-    "opcoes": ["dura", "carne", "a", "está", "mastigar", "de", "e", "difícil", "macia", "boa", "ruim", "comer", "faca", "cozida"],
+    "opcoes": ["carne", "dura", "macia", "está", "a", "mastigar", "e", "difícil", "comer", "ruim", "de", "boa"],
     "numero": "5",
     "resposta_correta": "a carne está dura e difícil de mastigar"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Onde eu coloco as cascas de banana?",
-    "opcoes": ["put", "where", "do", "peels", "banana", "i", "the", "trash", "fruit", "yellow", "skins", "bag", "box", "eat"],
+    "opcoes": ["do", "banana", "the", "i", "trash", "peels", "skins", "where", "fruit", "put", "eat"],
     "numero": "6",
     "resposta_correta": "where do i put the banana peels"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The restaurant opens at seven p.m.",
-    "opcoes": ["abre", "noite", "restaurante", "o", "às", "sete", "da", "casa", "fecha", "comida", "oito", "tarde", "cedo"],
+    "opcoes": ["da", "abre", "o", "noite", "oito", "restaurante", "sete", "às", "cedo", "fecha", "tarde"],
     "numero": "7",
     "resposta_correta": "o restaurante abre às sete da noite"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Do you have any vegetarian options?",
-    "opcoes": ["você", "alguma", "opção", "tem", "vegetariana", "comida", "carne", "quer", "cardápio", "prato", "gosta", "de"],
+    "opcoes": ["tem", "opção", "alguma", "você", "cardápio", "carne", "vegetariana", "prato", "gosta"],
     "numero": "8",
     "resposta_correta": "você tem alguma opção vegetariana"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I like to eat popcorn while watching movies.",
-    "opcoes": ["comer", "pipoca", "filmes", "eu", "gosto", "de", "enquanto", "vejo", "cinema", "doce", "casa", "assistir", "comendo"],
+    "opcoes": ["de", "pipoca", "assistir", "enquanto", "eu", "vejo", "comer", "gosto", "filmes", "cinema", "casa", "noite"],
     "numero": "9",
     "resposta_correta": "eu gosto de comer pipoca enquanto vejo filmes"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O café da manhã está na mesa.",
-    "opcoes": ["breakfast", "is", "table", "the", "on", "the", "ready", "morning", "food", "bread", "kitchen", "coffee", "lunch"],
+    "opcoes": ["the", "breakfast", "table", "the", "ready", "is", "on", "morning", "bread", "food"],
     "numero": "10",
     "resposta_correta": "the breakfast is on the table"
   }
@@ -11165,71 +11322,70 @@ export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The strawberries are sweet and red.",
-    "opcoes": ["vermelhos", "estão", "doces", "morangos", "e", "os", "fruta", "azedos", "maduros", "verdes", "maçã", "são"],
+    "opcoes": ["vermelhos", "estão", "doces", "morangos", "e", "os", "fruta", "azedos", "maduros", "são"],
     "numero": "1",
     "resposta_correta": "os morangos são doces e vermelhos"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu esqueci o açúcar na prateleira.",
-    // Mantido os dois "the" para "the sugar" e "the shelf"
-    "opcoes": ["shelf", "the", "forgot", "i", "sugar", "on", "salt", "kitchen", "the", "box", "put", "table", "milk"],
+    "opcoes": ["shelf", "the", "the", "forgot", "i", "sugar", "on", "salt", "kitchen", "box", "put"],
     "numero": "2",
     "resposta_correta": "i forgot the sugar on the shelf"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "She is baking a chocolate cake.",
-    "opcoes": ["está", "um", "fazendo", "chocolate", "assando", "ela", "bolo", "de", "doce", "pão", "cozinha", "comendo", "massa"],
+    "opcoes": ["está", "um", "fazendo", "chocolate", "assando", "ela", "bolo", "de", "doce", "pão", "cozinha"],
     "numero": "3",
     "resposta_correta": "ela está assando um bolo de chocolate"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "We need a sharp knife for the meat.",
-    "opcoes": ["sharp", "need", "meat", "we", "knife", "for", "the", "a", "fork", "cut", "spoon", "big", "bread", "plate"],
+    "opcoes": ["sharp", "need", "meat", "we", "knife", "for", "the", "a", "fork", "cut", "spoon", "big"],
     "numero": "4",
     "resposta_correta": "we need a sharp knife for the meat"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O suco de abacaxi está bem gelado.",
-    "opcoes": ["very", "is", "pineapple", "juice", "the", "cold", "orange", "sweet", "iced", "drink", "water", "hot", "well"],
+    "opcoes": ["very", "is", "pineapple", "juice", "the", "cold", "orange", "sweet", "iced", "drink"],
     "numero": "5",
     "resposta_correta": "the pineapple juice is very cold"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você quer colocar leite no seu café?",
-    "opcoes": ["coffee", "milk", "put", "your", "do", "want", "in", "to", "you", "sugar", "drink", "tea", "some", "cup"],
+    "opcoes": ["coffee", "milk", "put", "your", "do", "want", "in", "to", "you", "sugar", "drink", "tea", "some"],
     "numero": "6",
     "resposta_correta": "do you want to put milk in your coffee"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I like to eat salad before the main course.",
-    "opcoes": ["comer", "prato", "principal", "gosto", "antes", "eu", "do", "salada", "de", "comida", "jantar", "depois", "fazer"],
+    "opcoes": ["comer", "prato", "principal", "gosto", "antes", "eu", "do", "salada", "de", "comida", "jantar", "depois"],
     "numero": "7",
     "resposta_correta": "eu gosto de comer salada antes do prato principal"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The kitchen smells like fresh bread.",
-    "opcoes": ["cheiro", "pão", "a", "cozinha", "fresco", "tem", "de", "casa", "comida", "bom", "forno", "está", "limpa"],
+    "opcoes": ["cheiro", "pão", "a", "cozinha", "fresco", "tem", "de", "casa", "comida", "bom", "forno"],
     "numero": "8",
     "resposta_correta": "a cozinha tem cheiro de pão fresco"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eles estão bebendo cerveja gelada no bar.",
-    "opcoes": ["drinking", "they", "beer", "at", "cold", "bar", "the", "are", "wine", "soda", "water", "night", "glass", "bottle"],
+    "opcoes": ["drinking", "they", "beer", "at", "cold", "bar", "the", "are", "wine", "soda", "water", "night"],
     "numero": "9",
     "resposta_correta": "they are drinking cold beer at the bar"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Where can I find a napkin?",
-    "opcoes": ["posso", "onde", "um", "eu", "encontrar", "guardanapo", "mesa", "limpar", "pano", "lugar", "ficar", "preciso"],
+    "opcoes": ["posso", "onde", "um", "eu", "encontrar", "guardanapo", "mesa", "limpar", "pano", "lugar"],
     "numero": "10",
     "resposta_correta": "onde eu posso encontrar um guardanapo"
   }
@@ -11238,71 +11394,70 @@ export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The butter is melting on the toast.",
-    "opcoes": ["derretendo", "torrada", "pão", "manteiga", "a", "está", "na", "quente", "fogo", "queijo", "com", "em", "cima"],
+    "opcoes": ["derretendo", "torrada", "pão", "manteiga", "a", "está", "na", "quente", "fogo", "queijo", "com"],
     "numero": "1",
     "resposta_correta": "a manteiga está derretendo na torrada"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu não gosto de cebola na minha comida.",
-    "opcoes": ["onion", "i", "like", "in", "food", "not", "my", "do", "garlic", "salt", "eat", "with", "never", "no"],
+    "opcoes": ["onion", "i", "like", "in", "food", "not", "my", "do", "garlic", "salt", "eat", "with"],
     "numero": "2",
     "resposta_correta": "i do not like onion in my food"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "She is peeling the potatoes for the soup.",
-    "opcoes": ["descascando", "ela", "batatas", "as", "para", "está", "sopa", "a", "cozinhando", "legumes", "cortando", "cebola", "com"],
+    "opcoes": ["descascando", "ela", "batatas", "as", "para", "está", "sopa", "a", "cozinhando", "legumes", "cortando", "cebola"],
     "numero": "3",
     "resposta_correta": "ela está descascando as batatas para a sopa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "We want to book a table for four people.",
-    "opcoes": ["table", "want", "we", "for", "four", "to", "book", "people", "five", "dinner", "restaurant", "a", "reservation"],
+    "opcoes": ["table", "want", "we", "for", "four", "to", "book", "people", "five", "dinner", "restaurant", "a"],
     "numero": "4",
     "resposta_correta": "we want to book a table for four people"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O peixe foi grelhado com ervas finas.",
-    "opcoes": ["grilled", "fish", "the", "with", "herbs", "fine", "was", "meat", "fried", "salt", "lemon", "cooked", "spices"],
+    "opcoes": ["grilled", "fish", "the", "with", "herbs", "fine", "was", "meat", "fried", "salt", "lemon", "cooked"],
     "numero": "5",
     "resposta_correta": "the fish was grilled with fine herbs"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você pode me trazer o cardápio, por favor?",
-    "opcoes": ["bring", "can", "menu", "me", "please", "you", "the", "bill", "waiter", "order", "give", "water", "food"],
+    "opcoes": ["bring", "can", "menu", "me", "please", "you", "the", "bill", "waiter", "order", "give"],
     "numero": "6",
     "resposta_correta": "can you bring me the menu please"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I prefer tea without any sugar.",
-    "opcoes": ["sem", "açúcar", "chá", "eu", "prefiro", "doce", "café", "algum", "leite", "beber", "muito", "nada"],
+    "opcoes": ["sem", "açúcar", "chá", "eu", "prefiro", "doce", "algum", "leite", "beber", "muito"],
     "numero": "7",
     "resposta_correta": "eu prefiro chá sem algum açúcar"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The wine glass is empty.",
-    "opcoes": ["vazio", "vinho", "copo", "de", "o", "está", "cheio", "garrafa", "água", "quebrado", "sujo", "beber"],
+    "opcoes": ["vazio", "vinho", "copo", "de", "o", "está", "cheio", "garrafa", "água", "quebrado"],
     "numero": "8",
     "resposta_correta": "o copo de vinho está vazio"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eles estão fazendo um churrasco no quintal.",
-    "opcoes": ["barbecue", "they", "making", "a", "yard", "in", "the", "are", "cooking", "meat", "party", "outside", "food"],
+    "opcoes": ["barbecue", "they", "making", "a", "yard", "in", "the", "are", "cooking", "meat", "party", "outside"],
     "numero": "9",
     "resposta_correta": "they are making a barbecue in the yard"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The oil is too hot to fry the chicken.",
-    // ADICIONADO: Segundo "o" para "o óleo" e "o frango"
-    "opcoes": ["fritar", "muito", "para", "quente", "o", "o", "frango", "está", "óleo", "fogo", "carne", "azeite", "queimar", "demais"],
+    "pergunta": "O óleo está muito quente para fritar o frango.",
+    "opcoes": ["fritar", "muito", "para", "quente", "o", "o", "frango", "está", "óleo", "fogo", "carne", "azeite", "queimar"],
     "numero": "10",
     "resposta_correta": "o óleo está muito quente para fritar o frango"
   }
@@ -11311,73 +11466,72 @@ export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The cookies are crunchy on the outside.",
-    "opcoes": ["biscoitos", "por", "crocantes", "os", "fora", "estão", "doces", "dentro", "macios", "lado", "comida", "forno", "de"],
+    "opcoes": ["crocantes", "os", "fora", "estão", "biscoitos", "por", "dentro", "macios", "lado", "doces"],
     "numero": "1",
     "resposta_correta": "os biscoitos estão crocantes por fora"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eu preciso de uma faca de serra para o pão.",
-    "opcoes": ["bread", "serrated", "need", "for", "the", "i", "knife", "a", "of", "fork", "cut", "spoon", "slice", "with"],
+    "opcoes": ["serrated", "need", "the", "i", "knife", "a", "for", "bread", "fork", "cut", "spoon", "slice"],
     "numero": "2",
     "resposta_correta": "i need a serrated knife for the bread"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "She is boiling the eggs in the pot.",
-    "opcoes": ["fervendo", "ela", "ovos", "os", "na", "está", "panela", "cozinhando", "água", "fogo", "fritando", "da", "dentro"],
+    "opcoes": ["fervendo", "ela", "os", "na", "está", "panela", "ovos", "cozinhando", "água", "fogo", "fritando"],
     "numero": "3",
     "resposta_correta": "ela está fervendo os ovos na panela"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "We don't have any salt in the kitchen.",
-    "opcoes": ["kitchen", "have", "do", "we", "not", "any", "salt", "in", "the", "sugar", "pepper", "food", "at", "no"],
+    "opcoes": ["have", "do", "we", "not", "any", "salt", "in", "the", "kitchen", "sugar", "pepper", "food", "no"],
     "numero": "4",
     "resposta_correta": "we do not have any salt in the kitchen"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O suco de limão está muito azedo.",
-    "opcoes": ["lemon", "the", "juice", "is", "very", "sour", "sweet", "orange", "water", "cold", "sugar", "bitter", "acid"],
+    "opcoes": ["juice", "is", "very", "sour", "the", "lemon", "sweet", "orange", "water", "cold"],
     "numero": "5",
     "resposta_correta": "the lemon juice is very sour"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Você pode grelhar o frango para mim?",
-    "opcoes": ["chicken", "grill", "can", "you", "for", "me", "the", "meat", "fry", "cook", "beef", "please", "with"],
+    "opcoes": ["grill", "can", "you", "for", "me", "the", "chicken", "meat", "fry", "cook", "roasted"],
     "numero": "6",
     "resposta_correta": "can you grill the chicken for me"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "I like to put honey in my yogurt.",
-    "opcoes": ["mel", "colocar", "eu", "gosto", "de", "meu", "iogurte", "no", "açúcar", "doce", "comer", "com", "fruta", "na"],
+    "opcoes": ["mel", "colocar", "eu", "gosto", "de", "meu", "iogurte", "no", "açúcar", "doce", "comer", "com"],
     "numero": "7",
     "resposta_correta": "eu gosto de colocar mel no meu iogurte"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The restaurant is famous for its pasta.",
-    "opcoes": ["famoso", "restaurante", "o", "está", "por", "sua", "massa", "é", "comida", "conhecido", "pela", "italiana", "melhor"],
+    "opcoes": ["famoso", "restaurante", "o", "por", "sua", "massa", "é", "comida", "conhecido", "pela", "italiana"],
     "numero": "8",
     "resposta_correta": "o restaurante é famoso por sua massa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Eles estão servindo o café agora.",
-    "opcoes": ["serving", "they", "the", "coffee", "now", "are", "drinking", "tea", "milk", "making", "waiter", "hot", "at"],
+    "opcoes": ["serving", "they", "the", "coffee", "now", "are", "drinking", "tea", "milk", "making"],
     "numero": "9",
     "resposta_correta": "they are serving the coffee now"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Is the soup too hot for you?",
-    "opcoes": ["sopa", "quente", "a", "está", "demais", "para", "você", "muito", "fria", "salgada", "comer", "gosta", "de"],
+    "opcoes": ["sopa", "quente", "a", "está", "para", "você", "muito", "fria", "salgada", "comer", "demais"],
     "numero": "10",
     "resposta_correta": "a sopa está muito quente para você"
   }
 ];
-
 

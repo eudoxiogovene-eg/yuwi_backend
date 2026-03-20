@@ -1,7 +1,7 @@
 
 
 
-export const quiz1 = [
+export const quiz01 = [
   {
     "pergunta": "Qual é a tradução de 'Teacher'?",
     "opcoes": {
@@ -16,24 +16,24 @@ export const quiz1 = [
   {
     "pergunta": "Como se diz 'Enfermeira' em inglês?",
     "opcoes": {
-      "A": "Nurse",
-      "B": "Doctor",
-      "C": "Dentist",
-      "D": "Pilot"
+      "A": "Doctor",
+      "B": "Dentist",
+      "C": "Pilot",
+      "D": "Nurse"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Waiter'?",
     "opcoes": {
-      "A": "Cozinheiro",
+      "A": "Garçom",
       "B": "Gerente",
       "C": "Policial",
-      "D": "Garçom"
+      "D": "Cozinheiro"
     },
     "numero": "3",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Bombeiro' em inglês?",
@@ -93,25 +93,28 @@ export const quiz1 = [
   {
     "pergunta": "Qual é a tradução de 'Salesperson'?",
     "opcoes": {
-      "A": "Vendedor",
-      "B": "Comprador",
-      "C": "Gerente",
-      "D": "Caixa"
+      "A": "Comprador",
+      "B": "Gerente",
+      "C": "Caixa",
+      "D": "Vendedor"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Dentista' em inglês?",
     "opcoes": {
-      "A": "Doctor",
-      "B": "Dentist",
+      "A": "Dentist",
+      "B": "Doctor",
       "C": "Pharmacist",
       "D": "Surgeon"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz02 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Farmer'?",
     "opcoes": {
@@ -128,22 +131,22 @@ export const quiz1 = [
     "opcoes": {
       "A": "Barber",
       "B": "Butcher",
-      "C": "Baker",
-      "D": "Hairdresser"
+      "C": "Hairdresser",
+      "D": "Baker"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Accountant'?",
     "opcoes": {
-      "A": "Contador",
-      "B": "Administrador",
-      "C": "Banqueiro",
-      "D": "Economista"
+      "A": "Administrador",
+      "B": "Banqueiro",
+      "C": "Economista",
+      "D": "Contador"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Ator' em inglês?",
@@ -159,13 +162,13 @@ export const quiz1 = [
   {
     "pergunta": "Qual é a tradução de 'Flight attendant'?",
     "opcoes": {
-      "A": "Piloto",
+      "A": "Comissário de bordo",
       "B": "Passageiro",
-      "C": "Comissário de bordo",
+      "C": "Piloto",
       "D": "Mecânico"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Carpinteiro' em inglês?",
@@ -215,15 +218,15 @@ export const quiz1 = [
     "pergunta": "Como se diz 'Arquiteto' em inglês?",
     "opcoes": {
       "A": "Builder",
-      "B": "Designer",
-      "C": "Architect",
+      "B": "Architect",
+      "C": "Designer",
       "D": "Engineer"
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Qual é a tradução de 'Butcher'?",
     "opcoes": {
@@ -333,7 +336,10 @@ export const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz04 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Writer'?",
     "opcoes": {
@@ -445,7 +451,7 @@ export const quiz2 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Qual é a tradução de 'Gardener'?",
     "opcoes": {
@@ -537,25 +543,28 @@ export const quiz3 = [
   {
     "pergunta": "Qual é a tradução de 'Cashier'?",
     "opcoes": {
-      "A": "Caixa",
-      "B": "Gerente",
-      "C": "Contador",
-      "D": "Bancário"
+      "A": "Gerente",
+      "B": "Contador",
+      "C": "Bancário",
+      "D": "Caixa"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Pedreiro' em inglês?",
     "opcoes": {
-      "A": "Carpenter",
-      "B": "Bricklayer",
+      "A": "Bricklayer",
+      "B": "Carpenter",
       "C": "Plumber",
       "D": "Electrician"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz06 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Translator'?",
     "opcoes": {
@@ -571,12 +580,12 @@ export const quiz3 = [
     "pergunta": "Como se diz 'Barbeiro' em inglês?",
     "opcoes": {
       "A": "Hairdresser",
-      "B": "Tailor",
+      "B": "Barber",
       "C": "Cook",
-      "D": "Barber"
+      "D": "Tailor"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Pilot'?",
@@ -648,26 +657,26 @@ export const quiz3 = [
     "pergunta": "Qual é a tradução de 'Designer'?",
     "opcoes": {
       "A": "Pintor",
-      "B": "Artista",
-      "C": "Designer",
+      "B": "Designer",
+      "C": "Artista",
       "D": "Arquiteto"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Mineiro' em inglês?",
     "opcoes": {
       "A": "Farmer",
       "B": "Fisherman",
-      "C": "Miner",
-      "D": "Mason"
+      "C": "Mason",
+      "D": "Miner"
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Qual é a tradução de 'Electrician'?",
     "opcoes": {
@@ -777,7 +786,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz08= [
+  
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
     "opcoes": {
@@ -889,7 +901,7 @@ export const quiz4 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Qual é a tradução de 'Surgeon'?",
     "opcoes": {
@@ -981,25 +993,28 @@ export const quiz5 = [
   {
     "pergunta": "Qual é a tradução de 'Pharmacist'?",
     "opcoes": {
-      "A": "Farmacêutico",
+      "A": "Enfermeiro",
       "B": "Médico",
       "C": "Cientista",
-      "D": "Enfermeiro"
+      "D": "Farmacêutico"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Advogado' em inglês?",
     "opcoes": {
-      "A": "Judge",
-      "B": "Lawyer",
+      "A": "Lawyer",
+      "B": "Judge",
       "C": "Clerk",
       "D": "Police"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz010 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Accountant'?",
     "opcoes": {
@@ -1015,12 +1030,12 @@ export const quiz5 = [
     "pergunta": "Como se diz 'Ator' em inglês?",
     "opcoes": {
       "A": "Singer",
-      "B": "Dancer",
+      "B": "Actor",
       "C": "Director",
-      "D": "Actor"
+      "D": "Dancer"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Hairdresser'?",
@@ -1037,23 +1052,23 @@ export const quiz5 = [
     "pergunta": "Como se diz 'Bibliotecário' em inglês?",
     "opcoes": {
       "A": "Teacher",
-      "B": "Librarian",
-      "C": "Writer",
-      "D": "Editor"
+      "B": "Writer",
+      "C": "Editor",
+      "D": "Librarian"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Pilot'?",
     "opcoes": {
       "A": "Motorista",
-      "B": "Capitão",
-      "C": "Piloto",
+      "B": "Piloto",
+      "C": "Capitão",
       "D": "Viajante"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Faxineiro' em inglês?",
@@ -1103,15 +1118,15 @@ export const quiz5 = [
     "pergunta": "Como se diz 'Fotógrafo' em inglês?",
     "opcoes": {
       "A": "Artist",
-      "B": "Designer",
-      "C": "Photographer",
+      "B": "Photographer",
+      "C": "Designer",
       "D": "Editor"
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Qual é a tradução de 'Electrician'?",
     "opcoes": {
@@ -1221,7 +1236,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz012 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Surveyor'?",
     "opcoes": {
@@ -1333,7 +1351,7 @@ export const quiz6 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
     "opcoes": {
@@ -1415,35 +1433,38 @@ export const quiz7 = [
     "pergunta": "Como se diz 'Joalheiro' em inglês?",
     "opcoes": {
       "A": "Artist",
-      "B": "Designer",
-      "C": "Jeweler",
+      "B": "Jeweler",
+      "C": "Designer",
       "D": "Seller"
     },
     "numero": "8",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Gardener'?",
     "opcoes": {
-      "A": "Jardineiro",
+      "A": "Biólogo",
       "B": "Fazendeiro",
       "C": "Florista",
-      "D": "Biólogo"
+      "D": "Jardineiro"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Tradutor' em inglês?",
     "opcoes": {
-      "A": "Writer",
-      "B": "Translator",
+      "A": "Translator",
+      "B": "Writer",
       "C": "Speaker",
       "D": "Editor"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz014 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Fisherman'?",
     "opcoes": {
@@ -1459,12 +1480,12 @@ export const quiz7 = [
     "pergunta": "Como se diz 'Vidraceiro' em inglês?",
     "opcoes": {
       "A": "Builder",
-      "B": "Cleaner",
+      "B": "Glazier",
       "C": "Painter",
-      "D": "Glazier"
+      "D": "Cleaner"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Mailman'?",
@@ -1481,12 +1502,12 @@ export const quiz7 = [
     "pergunta": "Como se diz 'Padeiro' em inglês?",
     "opcoes": {
       "A": "Cook",
-      "B": "Baker",
-      "C": "Chef",
-      "D": "Butcher"
+      "B": "Chef",
+      "C": "Butcher",
+      "D": "Baker"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Goldsmith'?",
@@ -1503,12 +1524,12 @@ export const quiz7 = [
     "pergunta": "Como se diz 'Contador' em inglês?",
     "opcoes": {
       "A": "Manager",
-      "B": "Seller",
+      "B": "Accountant",
       "C": "Banker",
-      "D": "Accountant"
+      "D": "Seller"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Judge'?",
@@ -1548,14 +1569,14 @@ export const quiz7 = [
     "opcoes": {
       "A": "Seller",
       "B": "Manager",
-      "C": "Cashier",
-      "D": "Buyer"
+      "C": "Buyer",
+      "D": "Cashier"
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Qual é a tradução de 'Secretary'?",
     "opcoes": {
@@ -1665,7 +1686,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz016 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
     "opcoes": {
@@ -1777,7 +1801,7 @@ export const quiz8 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Qual é a tradução de 'Receptionist'?",
     "opcoes": {
@@ -1787,7 +1811,7 @@ export const quiz9 = [
       "D": "Atendente"
     },
     "numero": "1",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Salva-vidas' em inglês?",
@@ -1798,7 +1822,7 @@ export const quiz9 = [
       "D": "Nurse"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Bricklayer'?",
@@ -1809,7 +1833,7 @@ export const quiz9 = [
       "D": "Pedreiro"
     },
     "numero": "3",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Tradutor' em inglês?",
@@ -1820,7 +1844,7 @@ export const quiz9 = [
       "D": "Speaker"
     },
     "numero": "4",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Jeweler'?",
@@ -1831,7 +1855,7 @@ export const quiz9 = [
       "D": "Ourives"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Barbeiro' em inglês?",
@@ -1842,7 +1866,7 @@ export const quiz9 = [
       "D": "Hairdresser"
     },
     "numero": "6",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Sailor'?",
@@ -1853,7 +1877,7 @@ export const quiz9 = [
       "D": "Marinheiro"
     },
     "numero": "7",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Fotógrafo' em inglês?",
@@ -1875,7 +1899,7 @@ export const quiz9 = [
       "D": "Mecânico"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Músico' em inglês?",
@@ -1886,8 +1910,11 @@ export const quiz9 = [
       "D": "Director"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz018 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Carpenter'?",
     "opcoes": {
@@ -1897,7 +1924,7 @@ export const quiz9 = [
       "D": "Eletricista"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Veterinário' em inglês?",
@@ -1908,7 +1935,7 @@ export const quiz9 = [
       "D": "Veterinarian"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Cashier'?",
@@ -1919,7 +1946,7 @@ export const quiz9 = [
       "D": "Vendedor"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Escultor' em inglês?",
@@ -1930,7 +1957,7 @@ export const quiz9 = [
       "D": "Architect"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Waitress'?",
@@ -1941,7 +1968,7 @@ export const quiz9 = [
       "D": "Secretária"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Alfaiate' em inglês?",
@@ -1952,7 +1979,7 @@ export const quiz9 = [
       "D": "Tailor"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Surgeon'?",
@@ -1963,7 +1990,7 @@ export const quiz9 = [
       "D": "Dentista"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Bibliotecário' em inglês?",
@@ -1974,7 +2001,7 @@ export const quiz9 = [
       "D": "Bookstore"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Miner'?",
@@ -1985,7 +2012,7 @@ export const quiz9 = [
       "D": "Soldado"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Encanador' em inglês?",
@@ -1999,7 +2026,7 @@ export const quiz9 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Qual é a tradução de 'Lawyer'?",
     "opcoes": {
@@ -2070,12 +2097,12 @@ export const quiz10 = [
     "pergunta": "Qual é a tradução de 'Physician'?",
     "opcoes": {
       "A": "Físico",
-      "B": "Farmacêutico",
+      "B": "Médico",
       "C": "Cientista",
-      "D": "Médico"
+      "D": "Farmacêutico"
     },
     "numero": "7",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Pedreiro' em inglês?",
@@ -2091,25 +2118,28 @@ export const quiz10 = [
   {
     "pergunta": "Qual é a tradução de 'Actor'?",
     "opcoes": {
-      "A": "Ator",
-      "B": "Cantor",
-      "C": "Dançarino",
-      "D": "Escritor"
+      "A": "Cantor",
+      "B": "Dançarino",
+      "C": "Escritor",
+      "D": "Ator"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Motorista' em inglês?",
     "opcoes": {
-      "A": "Pilot",
-      "B": "Driver",
+      "A": "Driver",
+      "B": "Pilot",
       "C": "Rider",
       "D": "Captain"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz020 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Nurse'?",
     "opcoes": {
@@ -2125,12 +2155,12 @@ export const quiz10 = [
     "pergunta": "Como se diz 'Piloto' em inglês?",
     "opcoes": {
       "A": "Driver",
-      "B": "Officer",
+      "B": "Pilot",
       "C": "Sailor",
-      "D": "Pilot"
+      "D": "Officer"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Gardener'?",
@@ -2147,23 +2177,23 @@ export const quiz10 = [
     "pergunta": "Como se diz 'Cientista' em inglês?",
     "opcoes": {
       "A": "Artist",
-      "B": "Scientist",
-      "C": "Teacher",
-      "D": "Writer"
+      "B": "Teacher",
+      "C": "Writer",
+      "D": "Scientist"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
     "opcoes": {
       "A": "Livreiro",
-      "B": "Escritor",
-      "C": "Bibliotecário",
+      "B": "Bibliotecário",
+      "C": "Escritor",
       "D": "Editor"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Contador' em inglês?",
@@ -2191,38 +2221,40 @@ export const quiz10 = [
     "pergunta": "Como se diz 'Barbeiro' em inglês?",
     "opcoes": {
       "A": "Tailor",
-      "B": "Barber",
-      "C": "Baker",
+      "B": "Baker",
+      "C": "Barber",
       "D": "Hairdresser"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Mechanic'?",
     "opcoes": {
       "A": "Engenheiro",
-      "B": "Técnico",
+      "B": "Mecânico",
       "C": "Operador",
-      "D": "Mecânico"
+      "D": "Técnico"
     },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Padeiro' em inglês?",
     "opcoes": {
       "A": "Chef",
       "B": "Butcher",
-      "C": "Cook",
-      "D": "Baker"
+      "C": "Baker",
+      "D": "Cook"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
+
+
 /*-----------------------basico--------------------------------*/
-export const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Eu sou um médico'?",
     "opcoes": {
@@ -2237,24 +2269,24 @@ export const quizBasico1 = [
   {
     "pergunta": "Qual a tradução de 'She is a teacher'?",
     "opcoes": {
-      "A": "Ela é uma professora",
-      "B": "Ele é um professor",
-      "C": "Ela é uma diretora",
-      "D": "Nós somos professores"
+      "A": "Ele é um professor",
+      "B": "Ela é uma diretora",
+      "C": "Nós somos professores",
+      "D": "Ela é uma professora"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde está meu escritório?'?",
     "opcoes": {
-      "A": "Where is your office?",
-      "B": "Here is my office",
-      "C": "Where is my desk?",
-      "D": "Where is my office?"
+      "A": "Where is my office?",
+      "B": "Where is your office?",
+      "C": "Here is my office",
+      "D": "Where is my desk?"
     },
     "numero": "3",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'He needs a job'?",
@@ -2325,14 +2357,17 @@ export const quizBasico1 = [
   {
     "pergunta": "Qual a tradução de 'My father is retired'?",
     "opcoes": {
-      "A": "Meu pai está cansado",
-      "B": "Meu pai é trabalhador",
-      "C": "Meu pai está aposentado",
+      "A": "Meu pai está aposentado",
+      "B": "Meu pai está cansado",
+      "C": "Meu pai é trabalhador",
       "D": "Meu pai trabalha muito"
     },
     "numero": "10",
-    "resposta_correta": "C"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico02 = [
+  
   {
     "pergunta": "Como se diz 'Ela busca uma secretária'?",
     "opcoes": {
@@ -2347,35 +2382,35 @@ export const quizBasico1 = [
   {
     "pergunta": "Qual a tradução de 'Is he a pilot?'?",
     "opcoes": {
-      "A": "Ele é um piloto?",
-      "B": "Você é um piloto?",
-      "C": "O piloto está aqui?",
+      "A": "O piloto está aqui?",
+      "B": "Ele é um piloto?",
+      "C": "Você é um piloto?",
       "D": "Ele quer ser piloto?"
     },
     "numero": "12",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Eu tenho uma reunião'?",
     "opcoes": {
       "A": "I want a meeting",
-      "B": "I have a meeting",
-      "C": "I am in meeting",
+      "B": "I am in meeting",
+      "C": "I have a meeting",
       "D": "I need a meeting"
     },
     "numero": "13",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Waiters work in restaurants'?",
     "opcoes": {
-      "A": "Garçons comem no restaurante",
-      "B": "Garçons limpam o restaurante",
-      "C": "Garçons trabalham em restaurantes",
+      "A": "Garçons trabalham em restaurantes",
+      "B": "Garçons comem no restaurante",
+      "C": "Garçons limpam o restaurante",
       "D": "Garçons gostam de restaurantes"
     },
     "numero": "14",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde está o contrato?'?",
@@ -2435,16 +2470,16 @@ export const quizBasico1 = [
   {
     "pergunta": "Qual a tradução de 'Is the shop open?'?",
     "opcoes": {
-      "A": "A loja está aberta?",
-      "B": "A loja está fechada?",
-      "C": "Onde está a loja?",
+      "A": "A loja está fechada?",
+      "B": "Onde está a loja?",
+      "C": "A loja está aberta?",
       "D": "A oficina está aberta?"
     },
     "numero": "20",
-    "screenshot": "A"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'A secretária está ocupada'?",
     "opcoes": {
@@ -2457,7 +2492,7 @@ export const quizBasico2 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'I have a interview'?",
+    "pergunta": "Qual a tradução de 'I have an interview'?",
     "opcoes": {
       "A": "Eu tenho uma entrevista",
       "B": "Eu preciso de entrevista",
@@ -2514,8 +2549,8 @@ export const quizBasico2 = [
   {
     "pergunta": "Como se diz 'O projeto é importante'?",
     "opcoes": {
-      "A": "The work is important",
-      "B": "The project is difficult",
+      "A": "The project is difficult",
+      "B": "The work is important",
       "C": "My project is important",
       "D": "The project is important"
     },
@@ -2525,13 +2560,13 @@ export const quizBasico2 = [
   {
     "pergunta": "Qual a tradução de 'I use this tool'?",
     "opcoes": {
-      "A": "Eu uso esta ferramenta",
-      "B": "Eu perdi esta ferramenta",
-      "C": "Esta é minha ferramenta",
-      "D": "Procure por esta ferramenta"
+      "A": "Eu perdi esta ferramenta",
+      "B": "Esta é minha ferramenta",
+      "C": "Procure por esta ferramenta",
+      "D": "Eu uso esta ferramenta"
     },
     "numero": "8",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Ela assinou o documento'?",
@@ -2547,14 +2582,17 @@ export const quizBasico2 = [
   {
     "pergunta": "Qual a tradução de 'This office is quiet'?",
     "opcoes": {
-      "A": "Este escritório é pequeno",
+      "A": "Este escritório é silencioso",
       "B": "Este escritório está limpo",
-      "C": "Este escritório é silencioso",
+      "C": "Este escritório é pequeno",
       "D": "Este escritório é novo"
     },
     "numero": "10",
-    "resposta_correta": "C"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico04 = [
+  
   {
     "pergunta": "Como se diz 'Eles são bons parceiros'?",
     "opcoes": {
@@ -2569,57 +2607,57 @@ export const quizBasico2 = [
   {
     "pergunta": "Qual a tradução de 'My boss is fair'?",
     "opcoes": {
-      "A": "Meu chefe é justo",
-      "B": "Meu chefe é legal",
+      "A": "Meu chefe é legal",
+      "B": "Meu chefe é justo",
       "C": "Meu chefe é firme",
       "D": "Meu chefe é calmo"
     },
     "numero": "12",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde fica a recepção?'?",
     "opcoes": {
-      "A": "Where is the office?",
-      "B": "Where is the reception?",
-      "C": "Is here the reception?",
-      "D": "Who is at reception?"
+      "A": "Is here the reception?",
+      "B": "Who is at reception?",
+      "C": "Where is the reception?",
+      "D": "Where is the office?"
     },
     "numero": "13",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'I am the owner'?",
     "opcoes": {
-      "A": "Eu sou o gerente",
-      "B": "Eu sou o diretor",
-      "C": "Eu sou o dono",
+      "A": "Eu sou o dono",
+      "B": "Eu sou o gerente",
+      "C": "Eu sou o diretor",
       "D": "Eu sou o cliente"
     },
     "numero": "14",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'O computador está quebrado'?",
     "opcoes": {
       "A": "The computer is old",
       "B": "The screen is broken",
-      "C": "My computer is broken",
-      "D": "The computer is broken"
+      "C": "The computer is broken",
+      "D": "My computer is broken"
     },
     "numero": "15",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'She works every day'?",
     "opcoes": {
-      "A": "Ela trabalha todo dia",
-      "B": "Ela trabalha hoje",
+      "A": "Ela trabalha hoje",
+      "B": "Ela trabalha todo dia",
       "C": "Ela quer trabalhar sempre",
       "D": "Ela trabalha muito bem"
     },
     "numero": "16",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Nós temos novos clientes'?",
@@ -2635,38 +2673,38 @@ export const quizBasico2 = [
   {
     "pergunta": "Qual a tradução de 'Is your team ready?'?",
     "opcoes": {
-      "A": "Seu time é bom?",
-      "B": "Onde está seu time?",
-      "C": "Sua equipe está pronta?",
+      "A": "Sua equipe está pronta?",
+      "B": "Seu time é bom?",
+      "C": "Onde está seu time?",
       "D": "Sua equipe é grande?"
     },
     "numero": "18",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Eu amo minha carreira'?",
     "opcoes": {
       "A": "I like my career",
       "B": "I want a career",
-      "C": "My career is good",
-      "D": "I love my career"
+      "C": "I love my career",
+      "D": "My career is good"
     },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'The meeting starts now'?",
     "opcoes": {
-      "A": "A reunião começa agora",
-      "B": "A reunião termina agora",
-      "C": "A reunião é agora",
-      "D": "Vamos para a reunião"
+      "A": "A reunião termina agora",
+      "B": "A reunião é agora",
+      "C": "Vamos para a reunião",
+      "D": "A reunião começa agora"
     },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   }
-];
-export const quizBasico3 = [
+]
+export const quizBasico05 = [
   {
     "pergunta": "Qual a tradução de 'He is very creative'?",
     "opcoes": {
@@ -2681,68 +2719,68 @@ export const quizBasico3 = [
   {
     "pergunta": "Como se diz 'Onde está o relatório?'?",
     "opcoes": {
-      "A": "Where is the report?",
-      "B": "Is this the report?",
-      "C": "Who has the report?",
-      "D": "Look at the report"
+      "A": "Is this the report?",
+      "B": "Who has the report?",
+      "C": "Look at the report",
+      "D": "Where is the report?"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'I need more time'?",
     "opcoes": {
       "A": "Eu tenho pouco tempo",
       "B": "O tempo está acabando",
-      "C": "Eu quero mais tempo",
-      "D": "Eu preciso de tempo"
+      "C": "Eu preciso de tempo",
+      "D": "Eu quero mais tempo"
     },
     "numero": "3",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'A empresa é inovadora'?",
     "opcoes": {
-      "A": "The company is small",
-      "B": "The company is innovative",
+      "A": "The company is innovative",
+      "B": "The company is small",
       "C": "Our company is new",
       "D": "That company is fast"
     },
     "numero": "4",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'She is the director'?",
     "opcoes": {
-      "A": "Ela é a diretora",
-      "B": "Ela conhece o diretor",
-      "C": "Ela busca o diretor",
-      "D": "Ela é uma gerente"
+      "A": "Ela conhece o diretor",
+      "B": "Ela busca o diretor",
+      "C": "Ela é uma gerente",
+      "D": "Ela é a diretora"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Eles são muito eficientes'?",
     "opcoes": {
       "A": "They are very fast",
-      "B": "We are very efficient",
-      "C": "They are very efficient",
+      "B": "They are very efficient",
+      "C": "We are very efficient",
       "D": "You are very efficient"
     },
     "numero": "6",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'This machine is dangerous'?",
     "opcoes": {
-      "A": "Esta máquina está velha",
-      "B": "Esta máquina é barulhenta",
-      "C": "Cuidado com a máquina",
-      "D": "Esta máquina é perigosa"
+      "A": "Cuidado com a máquina",
+      "B": "Esta máquina é perigosa",
+      "C": "Esta máquina está velha",
+      "D": "Esta máquina é barulhenta"
     },
     "numero": "7",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Quem é seu colega?'?",
@@ -2759,12 +2797,12 @@ export const quizBasico3 = [
     "pergunta": "Qual a tradução de 'I work from home'?",
     "opcoes": {
       "A": "Eu vou para casa",
-      "B": "Eu trabalho em casa",
-      "C": "Minha casa é perto",
+      "B": "Minha casa é perto",
+      "C": "Eu trabalho em casa",
       "D": "Eu trabalho sozinho"
     },
     "numero": "9",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde está a ferramenta?'?",
@@ -2776,7 +2814,10 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico06 = [
+ 
   {
     "pergunta": "Qual a tradução de 'Your resume is impressive'?",
     "opcoes": {
@@ -2824,13 +2865,13 @@ export const quizBasico3 = [
   {
     "pergunta": "Qual a tradução de 'He is a technician'?",
     "opcoes": {
-      "A": "Ele é um engenheiro",
-      "B": "Ele é um mecânico",
-      "C": "Ele é um eletricista",
-      "D": "Ele é um técnico"
+      "A": "Ele é um técnico",
+      "B": "Ele é um engenheiro",
+      "C": "Ele é um mecânico",
+      "D": "Ele é um eletricista"
     },
     "numero": "15",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Meu turno terminou'?",
@@ -2868,9 +2909,9 @@ export const quizBasico3 = [
   {
     "pergunta": "Qual a tradução de 'Safety is first'?",
     "opcoes": {
-      "A": "Trabalhe com cuidado",
-      "B": "Atenção no trabalho",
-      "C": "O lugar é seguro",
+      "A": "Atenção no trabalho",
+      "B": "O lugar é seguro",
+      "C": "Trabalhe com cuidado",
       "D": "Segurança em primeiro lugar"
     },
     "numero": "19",
@@ -2879,16 +2920,16 @@ export const quizBasico3 = [
   {
     "pergunta": "Como se diz 'Eu tenho um prazo'?",
     "opcoes": {
-      "A": "I have a deadline",
-      "B": "I have a date",
+      "A": "I have a date",
+      "B": "I have a deadline",
       "C": "My work is late",
       "D": "The time is now"
     },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   }
 ];
-export const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Qual a tradução de 'He is very reliable'?",
     "opcoes": {
@@ -2903,24 +2944,24 @@ export const quizBasico4 = [
   {
     "pergunta": "Como se diz 'Aumente sua produtividade'?",
     "opcoes": {
-      "A": "Increase your productivity",
-      "B": "Improve your work",
-      "C": "Make more money",
-      "D": "Work faster now"
+      "A": "Improve your work",
+      "B": "Make more money",
+      "C": "Work faster now",
+      "D": "Increase your productivity"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'I handle the finances'?",
     "opcoes": {
-      "A": "Eu gosto de dinheiro",
-      "B": "Eu conto o dinheiro",
-      "C": "Eu trabalho no banco",
-      "D": "Eu cuido das finanças"
+      "A": "Eu cuido das finanças",
+      "B": "Eu gosto de dinheiro",
+      "C": "Eu conto o dinheiro",
+      "D": "Eu trabalho no banco"
     },
     "numero": "3",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde está o almoxarifado?'?",
@@ -2980,13 +3021,13 @@ export const quizBasico4 = [
   {
     "pergunta": "Qual a tradução de 'This industry is competitive'?",
     "opcoes": {
-      "A": "Esta empresa é difícil",
-      "B": "Esta indústria é competitiva",
+      "A": "Esta indústria é competitiva",
+      "B": "Esta empresa é difícil",
       "C": "O mercado é competitivo",
       "D": "Trabalhamos com competição"
     },
     "numero": "9",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Mantenha o foco agora'?",
@@ -2998,7 +3039,10 @@ export const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico08 = [
+  
   {
     "pergunta": "Qual a tradução de 'I provide expert advice'?",
     "opcoes": {
@@ -3057,24 +3101,24 @@ export const quizBasico4 = [
   {
     "pergunta": "Como se diz 'Assine seu nome aqui'?",
     "opcoes": {
-      "A": "Sign your name here",
-      "B": "Write your name here",
-      "C": "Put your signature here",
-      "D": "Is this your name?"
+      "A": "Is this your name?",
+      "B": "Sign your name here",
+      "C": "Write your name here",
+      "D": "Put your signature here"
     },
     "numero": "16",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Is your internship paid?'?",
     "opcoes": {
       "A": "Você recebe pelo estágio?",
-      "B": "Seu estágio é remunerado?",
-      "C": "Onde é seu estágio?",
+      "B": "Onde é seu estágio?",
+      "C": "Seu estágio é remunerado?",
       "D": "Seu estágio é bom?"
     },
     "numero": "17",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Eles superaram as expectativas'?",
@@ -3101,19 +3145,19 @@ export const quizBasico4 = [
   {
     "pergunta": "Como se diz 'Onde está o estoque?'?",
     "opcoes": {
-      "A": "Where is the inventory?",
-      "B": "Where are the products?",
+      "A": "Where are the products?",
+      "B": "Where is the inventory?",
       "C": "Is there any stock?",
       "D": "Check the stock room"
     },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   }
 ];
-export const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Qual a tradução de 'He is very competent'?",
-    "opcoes": {
+    "options": {
       "A": "Ele é muito rápido",
       "B": "Ele trabalha muito",
       "C": "Ele é muito competente",
@@ -3124,18 +3168,18 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Aumente o desempenho' em inglês?",
-    "opcoes": {
-      "A": "Increase the performance",
-      "B": "Improve your work",
+    "options": {
+      "A": "Improve your work",
+      "B": "Increase the performance",
       "C": "Work more now",
       "D": "Better results here"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'I handle global clients'?",
-    "opcoes": {
+    "options": {
       "A": "Eu vejo clientes novos",
       "B": "Eu busco clientes globais",
       "C": "Eu trabalho com vendas",
@@ -3146,7 +3190,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Onde está o almoxarifado?'?",
-    "opcoes": {
+    "options": {
       "A": "Where is the office?",
       "B": "Where is the warehouse?",
       "C": "Where is the factory?",
@@ -3157,7 +3201,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Qual a tradução de 'They require high standards'?",
-    "opcoes": {
+    "options": {
       "A": "Eles exigem altos padrões",
       "B": "Eles buscam muita qualidade",
       "C": "Eles fazem coisas boas",
@@ -3168,7 +3212,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Evite erros no processo'?",
-    "opcoes": {
+    "options": {
       "A": "Don't make mistakes",
       "B": "Watch the process now",
       "C": "Avoid errors in process",
@@ -3179,7 +3223,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Qual a tradução de 'She is very ambitious'?",
-    "opcoes": {
+    "options": {
       "A": "Ela trabalha muito",
       "B": "Ela quer crescer",
       "C": "Ela gosta de desafios",
@@ -3190,7 +3234,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Quem aprova o orçamento?'?",
-    "opcoes": {
+    "options": {
       "A": "Who approves the budget?",
       "B": "Who has the money?",
       "C": "Who pays the bills?",
@@ -3201,7 +3245,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Qual a tradução de 'This industry is competitive'?",
-    "opcoes": {
+    "options": {
       "A": "Esta empresa é difícil",
       "B": "Esta indústria é competitiva",
       "C": "O mercado é competitivo",
@@ -3212,18 +3256,21 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Mantenha o foco agora'?",
-    "opcoes": {
-      "A": "Work very hard now",
+    "options": {
+      "A": "Keep the focus now",
       "B": "Look at the screen",
-      "C": "Keep the focus now",
+      "C": "Work very hard now",
       "D": "Don't stop the work"
     },
     "numero": "10",
-    "resposta_correta": "C"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico010 = [
+  
   {
     "pergunta": "Qual a tradução de 'I provide expert advice'?",
-    "opcoes": {
+    "options": {
       "A": "Eu dou bons conselhos",
       "B": "Eu sou um consultor",
       "C": "Eu ensino o trabalho",
@@ -3234,18 +3281,18 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Onde fica a saída?'?",
-    "opcoes": {
-      "A": "Where is the exit?",
-      "B": "Where is the door?",
-      "C": "Is here the exit?",
-      "D": "I need the exit"
+    "options": {
+      "A": "Where is the door?",
+      "B": "Is here the exit?",
+      "C": "I need the exit",
+      "D": "Where is the exit?"
     },
     "numero": "12",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'The workforce is skilled'?",
-    "opcoes": {
+    "options": {
       "A": "O time é bom",
       "B": "A equipe é qualificada",
       "C": "Os funcionários são rápidos",
@@ -3256,7 +3303,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Nós valorizamos seu esforço'?",
-    "opcoes": {
+    "options": {
       "A": "You are very talented",
       "B": "We need your help",
       "C": "We value your effort",
@@ -3267,29 +3314,29 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Qual a tradução de 'He manages several departments'?",
-    "opcoes": {
-      "A": "Ele trabalha em departamentos",
+    "options": {
+      "A": "Ele gerencia vários departamentos",
       "B": "Ele conhece os departamentos",
       "C": "Ele ajuda os departamentos",
-      "D": "Ele gerencia vários departamentos"
+      "D": "Ele trabalha em departamentos"
     },
     "numero": "15",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Assine seu nome aqui'?",
-    "opcoes": {
-      "A": "Sign your name here",
-      "B": "Write your name here",
-      "C": "Put your signature here",
-      "D": "Is this your name?"
-    },
-    "numero": "16",
     "resposta_correta": "A"
   },
   {
+    "pergunta": "Como se diz 'Assine seu nome aqui'?",
+    "options": {
+      "A": "Write your name here",
+      "B": "Put your signature here",
+      "C": "Is this your name?",
+      "D": "Sign your name here"
+    },
+    "numero": "16",
+    "resposta_correta": "D"
+  },
+  {
     "pergunta": "Qual a tradução de 'Is your internship paid?'?",
-    "opcoes": {
+    "options": {
       "A": "Você recebe pelo estágio?",
       "B": "Seu estágio é remunerado?",
       "C": "Onde é seu estágio?",
@@ -3300,7 +3347,7 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Como se diz 'Eles superaram as metas'?",
-    "opcoes": {
+    "options": {
       "A": "They worked very well",
       "B": "They did a job",
       "C": "They exceeded the goals",
@@ -3311,18 +3358,18 @@ export const quizBasico5 = [
   },
   {
     "pergunta": "Qual a tradução de 'I attend weekly meetings'?",
-    "opcoes": {
+    "options": {
       "A": "Eu vou a palestras",
       "B": "Eu estudo toda semana",
-      "C": "Eu gosto de reuniões",
-      "D": "Eu participo de reuniões semanais"
+      "C": "Eu participo de reuniões semanais",
+      "D": "Eu gosto de reuniões"
     },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde está o estoque?'?",
-    "opcoes": {
+    "options": {
       "A": "Where is the inventory?",
       "B": "Where are the products?",
       "C": "Is there any stock?",
@@ -3332,7 +3379,7 @@ export const quizBasico5 = [
     "resposta_correta": "A"
   }
 ];
-export const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Onde está seu crachá?'?",
     "opcoes": {
@@ -3358,13 +3405,13 @@ export const quizBasico6 = [
   {
     "pergunta": "Como se diz 'Eu tenho uma entrevista'?",
     "opcoes": {
-      "A": "I have an interview",
-      "B": "I need an interview",
-      "C": "I made an interview",
-      "D": "Where is the interview?"
+      "A": "I need an interview",
+      "B": "I made an interview",
+      "C": "Where is the interview?",
+      "D": "I have an interview"
     },
     "numero": "3",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'The meeting was productive'?",
@@ -3404,11 +3451,11 @@ export const quizBasico6 = [
     "opcoes": {
       "A": "Where is the office?",
       "B": "Where is the entrance?",
-      "C": "Is here the reception?",
-      "D": "Where is the reception?"
+      "C": "Where is the reception?",
+      "D": "Is here the reception?"
     },
     "numero": "7",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'I am the owner'?",
@@ -3442,7 +3489,10 @@ export const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico012 = [
+  
   {
     "pergunta": "Como se diz 'O computador está quebrado'?",
     "opcoes": {
@@ -3524,37 +3574,37 @@ export const quizBasico6 = [
     "pergunta": "Qual a tradução de 'I use this tool'?",
     "opcoes": {
       "A": "Esta é minha ferramenta",
-      "B": "Eu perdi esta ferramenta",
-      "C": "Eu uso esta ferramenta",
+      "B": "Eu uso esta ferramenta",
+      "C": "Eu perdi esta ferramenta",
       "D": "Procure por esta ferramenta"
     },
     "numero": "18",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Eles são bons parceiros'?",
     "opcoes": {
-      "A": "We are good partners",
+      "A": "They are good partners",
       "B": "Those are good partners",
       "C": "You are good partners",
-      "D": "They are good partners"
+      "D": "We are good partners"
     },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'My boss is fair'?",
     "opcoes": {
-      "A": "Meu chefe é justo",
-      "B": "Meu chefe é legal",
-      "C": "Meu chefe é firme",
-      "D": "Meu chefe é calmo"
+      "A": "Meu chefe é legal",
+      "B": "Meu chefe é firme",
+      "C": "Meu chefe é calmo",
+      "D": "Meu chefe é justo"
     },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   }
 ];
-export const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Qual a tradução de 'He is very creative'?",
     "opcoes": {
@@ -3635,13 +3685,13 @@ export const quizBasico7 = [
   {
     "pergunta": "Como se diz 'Quem é seu colega?'?",
     "opcoes": {
-      "A": "Who is your colleague?",
-      "B": "Who is your boss?",
-      "C": "Where is your friend?",
-      "D": "Who is that man?"
+      "A": "Who is your boss?",
+      "B": "Where is your friend?",
+      "C": "Who is that man?",
+      "D": "Who is your colleague?"
     },
     "numero": "8",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'I work from home'?",
@@ -3664,7 +3714,10 @@ export const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico014 = [
+
   {
     "pergunta": "Qual a tradução de 'Your resume is impressive'?",
     "opcoes": {
@@ -3713,12 +3766,12 @@ export const quizBasico7 = [
     "pergunta": "Qual a tradução de 'He is a technician'?",
     "opcoes": {
       "A": "Ele é um engenheiro",
-      "B": "Ele é um mecânico",
-      "C": "Ele é um eletricista",
-      "D": "Ele é um técnico"
+      "B": "Ele é um técnico",
+      "C": "Ele é um mecânico",
+      "D": "Ele é um eletricista"
     },
     "numero": "15",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Meu turno terminou'?",
@@ -3776,7 +3829,7 @@ export const quizBasico7 = [
     "resposta_correta": "A"
   }
 ];
-export const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Aumente sua produtividade'?",
     "opcoes": {
@@ -3886,7 +3939,10 @@ export const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico016 = [
+  
   {
     "pergunta": "Como se diz 'Onde fica a saída?'?",
     "opcoes": {
@@ -3998,7 +4054,7 @@ export const quizBasico8 = [
     "screenshot": "B"
   }
 ];
-export const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Qual a tradução de 'He is very competent'?",
     "opcoes": {
@@ -4013,13 +4069,13 @@ export const quizBasico9 = [
   {
     "pergunta": "Como se diz 'Aumente o desempenho'?",
     "opcoes": {
-      "A": "Increase the performance",
-      "B": "Improve your work",
-      "C": "Work more now",
+      "A": "Improve your work",
+      "B": "Work more now",
+      "C": "Increase the performance",
       "D": "Better results here"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'I handle global clients'?",
@@ -4108,7 +4164,10 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico018 = [
+ 
   {
     "pergunta": "Qual a tradução de 'I provide expert advice'?",
     "opcoes": {
@@ -4156,13 +4215,13 @@ export const quizBasico9 = [
   {
     "pergunta": "Qual a tradução de 'He manages several departments'?",
     "opcoes": {
-      "A": "Ele trabalha em departamentos",
+      "A": "Ele gerencia vários departamentos",
       "B": "Ele conhece os departamentos",
       "C": "Ele ajuda os departamentos",
-      "D": "Ele gerencia vários departamentos"
+      "D": "Ele trabalha em departamentos"
     },
     "numero": "15",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Assine seu nome aqui'?",
@@ -4211,16 +4270,16 @@ export const quizBasico9 = [
   {
     "pergunta": "Como se diz 'Onde está o estoque?'?",
     "opcoes": {
-      "A": "Where is the inventory?",
-      "B": "Where are the products?",
-      "C": "Is there any stock?",
-      "D": "Check the stock room"
+      "A": "Where are the products?",
+      "B": "Is there any stock?",
+      "C": "Check the stock room",
+      "D": "Where is the inventory?"
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   }
 ];
-export const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'Aumente sua eficiência' em inglês?",
     "opcoes": {
@@ -4277,7 +4336,7 @@ export const quizBasico10 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'I handles legal matters'?",
+    "pergunta": "Qual a tradução de 'I handle legal matters'?",
     "opcoes": {
       "A": "Eu sou um advogado",
       "B": "Eu estudo as leis",
@@ -4330,7 +4389,10 @@ export const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico020 = [
+ 
   {
     "pergunta": "Como se diz 'Onde fica a entrada?'?",
     "opcoes": {
@@ -4445,7 +4507,7 @@ export const quizBasico10 = [
 /*-----------------------intermediario--------------------------------*/
 
 
-const quizIntermediario1 = [
+const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'O prazo expira amanhã'",
     "opcoes": {
@@ -4555,7 +4617,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario02 = [
+  
   {
     "pergunta": "Como se diz 'Trabalhar horas extras'?",
     "opcoes": {
@@ -4667,7 +4732,7 @@ const quizIntermediario1 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario2 = [
+const quizIntermediario03 = [
   {
     "pergunta": "Traduza: 'O investimento rendeu lucros'",
     "opcoes": {
@@ -4777,7 +4842,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario04 = [
+  
   {
     "pergunta": "Traduza: 'The workshop was useful'",
     "opcoes": {
@@ -4889,7 +4957,7 @@ const quizIntermediario2 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario3 = [
+const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Equilíbrio entre vida e trabalho'?",
     "opcoes": {
@@ -4999,7 +5067,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario06 = [
+  
   {
     "pergunta": "Como se diz 'Uma oportunidade de emprego'?",
     "opcoes": {
@@ -5111,7 +5182,7 @@ const quizIntermediario3 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario4 = [
+const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Aprimorar o fluxo de trabalho'?",
     "opcoes": {
@@ -5221,7 +5292,10 @@ const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario08 = [
+  
   {
     "pergunta": "Como se diz 'Delegar autoridade agora'?",
     "opcoes": {
@@ -5333,7 +5407,7 @@ const quizIntermediario4 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario5 = [
+const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Aumentar a margem'?",
     "opcoes": {
@@ -5443,7 +5517,10 @@ const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario010 = [
+ 
   {
     "pergunta": "Como se diz 'Um ativo valioso'?",
     "opcoes": {
@@ -5555,7 +5632,7 @@ const quizIntermediario5 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario6 = [
+const quizIntermediario011 = [
   {
     "pergunta": "Traduza: 'The liability is significant'",
     "opcoes": {
@@ -5665,7 +5742,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario012 = [
+
   {
     "pergunta": "Traduza: 'He is a consultant'",
     "opcoes": {
@@ -5777,7 +5857,7 @@ const quizIntermediario6 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario7 = [
+const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Aumentar a participação de mercado'?",
     "opcoes": {
@@ -5887,7 +5967,10 @@ const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario014 = [
+  
   {
     "pergunta": "Como se diz 'Uma reunião estratégica'?",
     "opcoes": {
@@ -5999,7 +6082,7 @@ const quizIntermediario7 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario8 = [
+const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'Mitigar riscos operacionais'?",
     "opcoes": {
@@ -6109,7 +6192,10 @@ const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario016 = [
+  
   {
     "pergunta": "Como se diz 'Uma vantagem competitiva'?",
     "opcoes": {
@@ -6221,7 +6307,7 @@ const quizIntermediario8 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario9 = [
+const quizIntermediario017 = [
   {
     "pergunta": "Traduza: 'O faturamento anual caiu'",
     "opcoes": {
@@ -6331,7 +6417,10 @@ const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario018 = [
+ 
   {
     "pergunta": "Traduza: 'I submitted the report'",
     "opcoes": {
@@ -6443,7 +6532,7 @@ const quizIntermediario9 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'Aprimorar o fluxo'?",
     "opcoes": {
@@ -6459,7 +6548,7 @@ const quizIntermediario10 = [
     "pergunta": "Traduza: 'The venture capital firm'",
     "opcoes": {
       "A": "A empresa de investimentos",
-      "B": "A empresa de risco",
+      "B": "A empresa de capital de risco",
       "C": "A firma de capital",
       "D": "O banco de negócios"
     },
@@ -6535,13 +6624,13 @@ const quizIntermediario10 = [
   {
     "pergunta": "Como se diz 'Uma força de trabalho'?",
     "opcoes": {
-      "A": "A strong work group",
-      "B": "A staff for work",
+      "A": "A workforce",
+      "B": "A strong work group",
       "C": "A team of workers",
-      "D": "A workforce"
+      "D": "A staff for work"
     },
     "numero": "9",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The contract has clauses'",
@@ -6553,24 +6642,27 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario020 = [
+  
   {
     "pergunta": "Como se diz 'Um investidor anjo'?",
     "opcoes": {
-      "A": "An angel investor",
-      "B": "A rich company partner",
-      "C": "A small business helper",
-      "D": "A private money man"
+      "A": "A rich company partner",
+      "B": "A small business helper",
+      "C": "A private money man",
+      "D": "An angel investor"
     },
     "numero": "11",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'We value your expertise'",
     "opcoes": {
       "A": "Nós precisamos de você",
-      "C": "Seu trabalho é bom",
-      "B": "Sua ajuda é necessária",
+      "B": "Seu trabalho é bom",
+      "C": "Sua ajuda é necessária",
       "D": "Nós valorizamos sua experiência"
     },
     "numero": "12",
@@ -6647,11 +6739,11 @@ const quizIntermediario10 = [
     "opcoes": {
       "A": "A shared work plan",
       "B": "A common goal paper",
-      "C": "A double company deal",
-      "D": "A mutual agreement"
+      "C": "A mutual agreement",
+      "D": "A double company deal"
     },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Update the records now'",
@@ -6674,70 +6766,70 @@ export const quizAvancado1 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The engineer supervises the site.",
-    "opcoes": ["canteiro", "o", "gerencia", "engenheiro", "arquiteto", "supervisiona", "o", "obra", "projeto", "de"],
+    "opcoes": ["o", "engenheiro", "supervisiona", "o", "canteiro", "obra", "gerencia", "projeto", "obra"],
     "resposta_correta": "o engenheiro supervisiona o canteiro"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O advogado redige o contrato.",
-    "opcoes": ["the", "writes", "lawyer", "judge", "contract", "drafts", "the", "legal", "paper", "firm"],
+    "opcoes": ["the", "lawyer", "drafts", "the", "contract", "legal", "writes", "judge", "firm"],
     "resposta_correta": "the lawyer drafts the contract"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The surgeon performs complex surgery.",
-    "opcoes": ["cirurgião", "realiza", "o", "médico", "complexa", "cirurgia", "uma", "faz", "hospital", "operatória"],
+    "opcoes": ["o", "cirurgião", "realiza", "uma", "cirurgia", "complexa", "hospital", "médico", "faz", "operatória"],
     "resposta_correta": "o cirurgião realiza uma cirurgia complexa"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A contadora analisa o balanço.",
-    "opcoes": ["accountant", "the", "analyzes", "balance", "sheet", "the", "audit", "finances", "calculates", "firm"],
+    "opcoes": ["the", "accountant", "analyzes", "the", "balance", "sheet", "audit", "finances", "firm"],
     "resposta_correta": "the accountant analyzes the balance sheet"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The journalist interviews the politician.",
-    "opcoes": ["entrevista", "o", "político", "jornalista", "o", "repórter", "notícia", "pergunta", "fala", "com"],
+    "opcoes": ["o", "jornalista", "entrevista", "o", "político", "repórter", "notícia", "pergunta", "fala"],
     "resposta_correta": "o jornalista entrevista o político"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O programador resolve o erro.",
-    "opcoes": ["programmer", "the", "solves", "bug", "the", "code", "fixes", "error", "system", "writes"],
+    "opcoes": ["the", "programmer", "solves", "the", "bug", "code", "fixes", "error", "system"],
     "resposta_correta": "the programmer solves the bug"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The manager promotes the employee.",
-    "opcoes": ["promove", "gerente", "o", "funcionário", "o", "diretor", "empregado", "cargo", "demite", "equipe"],
+    "opcoes": ["o", "gerente", "promove", "o", "funcionário", "diretor", "empregado", "cargo", "equipe"],
     "resposta_correta": "o gerente promove o funcionário"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "A secretária agenda a reunião.",
-    "opcoes": ["secretary", "the", "schedules", "meeting", "the", "call", "office", "appoints", "plans", "event"],
+    "opcoes": ["the", "secretary", "schedules", "the", "meeting", "call", "office", "appoints", "plans"],
     "resposta_correta": "the secretary schedules the meeting"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The architect designs the building.",
-    "opcoes": ["arquiteto", "o", "edifício", "o", "projeta", "desenha", "planta", "obra", "construção", "casa"],
+    "opcoes": ["o", "arquiteto", "projeta", "o", "edifício", "desenha", "planta", "obra", "casa"],
     "resposta_correta": "o arquiteto projeta o edifício"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O executivo lidera a equipe.",
-    "opcoes": ["executive", "the", "leads", "team", "the", "manager", "company", "heads", "group", "boss"],
+    "opcoes": ["the", "executive", "leads", "the", "team", "manager", "company", "heads", "boss"],
     "resposta_correta": "the executive leads the team"
   }
 ];
@@ -6746,70 +6838,70 @@ export const quizAvancado2 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "O cientista conduz o experimento.",
-    "opcoes": ["scientist", "the", "conducts", "the", "experiment", "researcher", "performs", "lab", "study", "leads"],
+    "opcoes": ["the", "scientist", "conducts", "the", "experiment", "researcher", "performs", "lab", "study"],
     "resposta_correta": "the scientist conducts the experiment"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "The technician repairs the server.",
-    "opcoes": ["técnico", "o", "conserta", "servidor", "o", "manutenção", "repara", "computador", "rede", "sistema"],
+    "opcoes": ["o", "técnico", "conserta", "o", "servidor", "manutenção", "computador", "rede", "sistema"],
     "resposta_correta": "o técnico conserta o servidor"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "O eletricista instala a fiação.",
-    "opcoes": ["electrician", "the", "installs", "wiring", "the", "cables", "fixer", "power", "plumber", "light"],
+    "opcoes": ["the", "electrician", "installs", "the", "wiring", "cables", "power", "plumber", "light"],
     "resposta_correta": "the electrician installs the wiring"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "The pilot lands the aircraft.",
-    "opcoes": ["piloto", "o", "pousa", "a", "aeronave", "avião", "comandante", "voa", "decola", "pista"],
+    "opcoes": ["o", "piloto", "pousa", "a", "aeronave", "avião", "voa", "decola", "pista"],
     "resposta_correta": "o piloto pousa a aeronave"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "O carpinteiro fabrica o móvel.",
-    "opcoes": ["carpenter", "the", "makes", "furniture", "the", "wood", "builds", "table", "worker", "crafts"],
+    "opcoes": ["the", "carpenter", "crafts", "the", "furniture", "wood", "builds", "table", "worker"],
     "resposta_correta": "the carpenter crafts the furniture"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "The pharmacist dispenses the medicine.",
-    "opcoes": ["farmacêutico", "o", "dispensa", "o", "remédio", "entrega", "droga", "médico", "receita", "vende"],
+    "opcoes": ["o", "farmacêutico", "dispensa", "o", "remédio", "entrega", "médico", "receita", "vende"],
     "resposta_correta": "o farmacêutico dispensa o remédio"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "O veterinário examina o animal.",
-    "opcoes": ["veterinarian", "the", "examines", "the", "animal", "pet", "doctor", "checks", "clinic", "treats"],
+    "opcoes": ["the", "veterinarian", "examines", "the", "animal", "pet", "doctor", "checks", "clinic"],
     "resposta_correta": "the veterinarian examines the animal"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "The judge delivers the verdict.",
-    "opcoes": ["juiz", "o", "profere", "o", "veredito", "sentença", "justiça", "tribunal", "lê", "advogado"],
+    "opcoes": ["o", "juiz", "profere", "o", "veredito", "sentença", "justiça", "tribunal", "advogado"],
     "resposta_correta": "o juiz profere o veredito"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "O motorista transporta a carga.",
-    "opcoes": ["driver", "the", "transports", "the", "cargo", "truck", "delivers", "goods", "load", "carries"],
+    "opcoes": ["the", "driver", "transports", "the", "cargo", "truck", "goods", "load", "carries"],
     "resposta_correta": "the driver transports the cargo"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "The chef prepares the meal.",
-    "opcoes": ["cozinheiro", "o", "prepara", "a", "refeição", "comida", "almoço", "faz", "chefe", "prato"],
+    "opcoes": ["o", "cozinheiro", "prepara", "a", "refeição", "comida", "faz", "chefe", "prato"],
     "resposta_correta": "o cozinheiro prepara a refeição"
   }
 ];
@@ -6818,70 +6910,70 @@ export const quizAvancado3 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The broker sells the shares.",
-    "opcoes": ["corretor", "o", "vende", "as", "ações", "compra", "bolsa", "o", "mercado", "títulos"],
+    "opcoes": ["o", "corretor", "vende", "as", "ações", "compra", "bolsa", "mercado", "títulos"],
     "resposta_correta": "o corretor vende as ações"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O encanador repara o vazamento.",
-    "opcoes": ["plumber", "the", "repairs", "leak", "the", "fixes", "pipe", "water", "sink", "drip"],
+    "opcoes": ["the", "plumber", "repairs", "the", "leak", "fixes", "pipe", "water", "sink"],
     "resposta_correta": "the plumber repairs the leak"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The editor reviews the manuscript.",
-    "opcoes": ["editor", "o", "revisa", "o", "manuscrito", "livro", "lê", "texto", "escritor", "autor"],
+    "opcoes": ["o", "editor", "revisa", "o", "manuscrito", "livro", "texto", "escritor", "autor"],
     "resposta_correta": "o editor revisa o manuscrito"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "O biólogo estuda a célula.",
-    "opcoes": ["biologist", "the", "studies", "cell", "the", "researcher", "life", "examines", "microscope", "science"],
+    "opcoes": ["the", "biologist", "studies", "the", "cell", "researcher", "life", "examines", "science"],
     "resposta_correta": "the biologist studies the cell"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The baker kneads the dough.",
-    "opcoes": ["padeiro", "o", "massa", "a", "amassa", "pão", "faz", "trigo", "forno", "prepara"],
+    "opcoes": ["o", "padeiro", "amassa", "a", "massa", "pão", "faz", "trigo", "forno"],
     "resposta_correta": "o padeiro amassa a massa"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "A esteticista aplica a máscara.",
-    "opcoes": ["beautician", "the", "applies", "the", "mask", "skin", "cream", "face", "makeup", "treats"],
+    "opcoes": ["the", "beautician", "applies", "the", "mask", "skin", "cream", "face", "treats"],
     "resposta_correta": "the beautician applies the mask"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The detective solves the case.",
-    "opcoes": ["detetive", "o", "resolve", "o", "caso", "crime", "investigador", "pista", "polícia", "acha"],
+    "opcoes": ["o", "detetive", "resolve", "o", "caso", "crime", "investigador", "pista", "polícia"],
     "resposta_correta": "o detetive resolve o caso"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O garçom serve o cliente.",
-    "opcoes": ["waiter", "the", "serves", "customer", "the", "table", "food", "drinks", "order", "brings"],
+    "opcoes": ["the", "waiter", "serves", "the", "customer", "table", "food", "drinks", "order"],
     "resposta_correta": "the waiter serves the customer"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The gardener prunes the tree.",
-    "opcoes": ["jardineiro", "o", "poda", "a", "árvore", "planta", "corta", "jardim", "folha", "grama"],
+    "opcoes": ["o", "jardineiro", "poda", "a", "árvore", "planta", "corta", "jardim", "folha"],
     "resposta_correta": "o jardineiro poda a árvore"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O bombeiro apaga o incêndio.",
-    "opcoes": ["firefighter", "the", "extinguishes", "fire", "the", "water", "puts", "out", "rescue", "truck"],
+    "opcoes": ["the", "firefighter", "extinguishes", "the", "fire", "water", "rescue", "truck", "smoke"],
     "resposta_correta": "the firefighter extinguishes the fire"
   }
 ];
@@ -6890,70 +6982,70 @@ export const quizAvancado4 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The landlord collects the rent.",
-    "opcoes": ["proprietário", "o", "recebe", "o", "aluguel", "casa", "paga", "imóvel", "dono", "moradia"],
+    "opcoes": ["o", "proprietário", "recebe", "o", "aluguel", "casa", "paga", "imóvel", "moradia"],
     "resposta_correta": "o proprietário recebe o aluguel"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O alfaiate ajusta o terno.",
-    "opcoes": ["tailor", "the", "adjusts", "suit", "the", "clothes", "sews", "jacket", "fits", "measurement"],
+    "opcoes": ["the", "tailor", "adjusts", "the", "suit", "clothes", "sews", "jacket", "fits"],
     "resposta_correta": "the tailor adjusts the suit"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The consultant evaluates the risk.",
-    "opcoes": ["consultor", "o", "avalia", "o", "risco", "empresa", "analisa", "perigo", "negócio", "gestor"],
+    "opcoes": ["o", "consultor", "avalia", "o", "risco", "empresa", "analisa", "perigo", "gestor"],
     "resposta_correta": "o consultor avalia o risco"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "O mergulhador inspeciona o casco.",
-    "opcoes": ["diver", "the", "inspects", "hull", "the", "boat", "ocean", "checks", "water", "ship"],
+    "opcoes": ["the", "diver", "inspects", "the", "hull", "boat", "ocean", "checks", "ship"],
     "resposta_correta": "the diver inspects the hull"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The florist arranges the bouquet.",
-    "opcoes": ["florista", "a", "monta", "o", "buquê", "flores", "vende", "arranjo", "jardim", "entrega"],
+    "opcoes": ["a", "florista", "monta", "o", "buquê", "flores", "vende", "arranjo", "jardim"],
     "resposta_correta": "a florista monta o buquê"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O porteiro vigia a entrada.",
-    "opcoes": ["doorman", "the", "watches", "entrance", "the", "gate", "building", "guards", "security", "hall"],
+    "opcoes": ["the", "doorman", "watches", "the", "entrance", "gate", "building", "guards", "hall"],
     "resposta_correta": "the doorman watches the entrance"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The librarian organizes the shelf.",
-    "opcoes": ["bibliotecária", "a", "organiza", "a", "estante", "livros", "lê", "arquivo", "prateleira", "sala"],
+    "opcoes": ["a", "bibliotecária", "organiza", "a", "estante", "livros", "arquivo", "prateleira", "sala"],
     "resposta_correta": "a bibliotecária organiza a estante"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O recepcionista atende o telefone.",
-    "opcoes": ["receptionist", "the", "answers", "phone", "the", "call", "desk", "office", "talks", "service"],
+    "opcoes": ["the", "receptionist", "answers", "the", "phone", "call", "desk", "office", "service"],
     "resposta_correta": "the receptionist answers the phone"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The auditor checks the accounts.",
-    "opcoes": ["auditor", "o", "verifica", "as", "contas", "finanças", "analisa", "livros", "empresa", "o"],
+    "opcoes": ["o", "auditor", "verifica", "as", "contas", "finanças", "analisa", "livros", "empresa"],
     "resposta_correta": "o auditor verifica as contas"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O fotógrafo foca a lente.",
-    "opcoes": ["photographer", "the", "focuses", "lens", "the", "camera", "picture", "takes", "shot", "view"],
+    "opcoes": ["the", "photographer", "focuses", "the", "lens", "camera", "picture", "takes", "shot"],
     "resposta_correta": "the photographer focuses the lens"
   }
 ];
@@ -6962,70 +7054,70 @@ export const quizAvancado5 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The apprentice follows the instructions.",
-    "opcoes": ["aprendiz", "o", "segue", "as", "instruções", "mestre", "ordens", "lê", "o", "manual", "estagiário"],
+    "opcoes": ["o", "aprendiz", "segue", "as", "instruções", "mestre", "ordens", "lê", "manual"],
     "resposta_correta": "o aprendiz segue as instruções"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O economista prevê a inflação.",
-    "opcoes": ["economist", "the", "predicts", "the", "inflation", "forecasts", "market", "banker", "prices", "rises"],
+    "opcoes": ["the", "economist", "predicts", "the", "inflation", "forecasts", "market", "banker", "prices"],
     "resposta_correta": "the economist predicts the inflation"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The janitor cleans the hallway.",
-    "opcoes": ["zelador", "o", "limpa", "o", "corredor", "prédio", "faxineiro", "sala", "varre", "chão"],
+    "opcoes": ["o", "zelador", "limpa", "o", "corredor", "prédio", "faxineiro", "sala", "varre"],
     "resposta_correta": "o zelador limpa o corredor"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A estagiária redige o relatório.",
-    "opcoes": ["intern", "the", "writes", "the", "report", "office", "drafts", "student", "paper", "assistant"],
+    "opcoes": ["the", "intern", "drafts", "the", "report", "office", "student", "paper", "assistant"],
     "resposta_correta": "the intern drafts the report"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The scientist publishes the article.",
-    "opcoes": ["cientista", "o", "publica", "o", "artigo", "revista", "lê", "estudo", "escreve", "pesquisador"],
+    "opcoes": ["o", "cientista", "publica", "o", "artigo", "revista", "estudo", "escreve", "pesquisador"],
     "resposta_correta": "o cientista publica o artigo"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O mineiro extrai o carvão.",
-    "opcoes": ["miner", "the", "extracts", "the", "coal", "gold", "digs", "mountain", "worker", "ore"],
+    "opcoes": ["the", "miner", "extracts", "the", "coal", "gold", "digs", "worker", "ore"],
     "resposta_correta": "the miner extracts the coal"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The surgeon disinfects the tools.",
-    "opcoes": ["cirurgião", "o", "desinfeta", "as", "ferramentas", "médico", "limpa", "instrumentos", "o", "sala", "material"],
+    "opcoes": ["o", "cirurgião", "desinfeta", "as", "ferramentas", "médico", "limpa", "instrumentos", "material"],
     "resposta_correta": "o cirurgião desinfeta as ferramentas"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O carpinteiro serra a madeira.",
-    "opcoes": ["carpenter", "the", "saws", "the", "wood", "cuts", "board", "plank", "builds", "furniture"],
+    "opcoes": ["the", "carpenter", "saws", "the", "wood", "cuts", "board", "plank", "builds"],
     "resposta_correta": "the carpenter saws the wood"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The sculptor carves the statue.",
-    "opcoes": ["escultor", "o", "esculpe", "a", "estátua", "pedra", "faz", "artista", "obra", "arte"],
+    "opcoes": ["o", "escultor", "esculpe", "a", "estátua", "pedra", "artista", "obra", "arte"],
     "resposta_correta": "o escultor esculpe a estátua"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O roteirista escreve a cena.",
-    "opcoes": ["screenwriter", "the", "writes", "the", "scene", "movie", "script", "author", "play", "act"],
+    "opcoes": ["the", "screenwriter", "writes", "the", "scene", "movie", "script", "author", "play"],
     "resposta_correta": "the screenwriter writes the scene"
   }
 ];
@@ -7034,70 +7126,70 @@ export const quizAvancado6 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The detective interrogates the suspect.",
-    "opcoes": ["detetive", "o", "interroga", "o", "suspeito", "vítima", "pergunta", "policial", "investiga", "crime"],
+    "opcoes": ["o", "detetive", "interroga", "o", "suspeito", "vítima", "policial", "investiga", "crime"],
     "resposta_correta": "o detetive interroga o suspeito"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O tradutor verte o texto.",
-    "opcoes": ["translator", "the", "translates", "text", "the", "writes", "version", "book", "renders", "language"],
+    "opcoes": ["the", "translator", "renders", "the", "text", "writes", "version", "book", "language"],
     "resposta_correta": "the translator renders the text"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The pilot checks the radar.",
-    "opcoes": ["piloto", "o", "verifica", "o", "radar", "avião", "olha", "mapa", "monitora", "painel"],
+    "opcoes": ["o", "piloto", "verifica", "o", "radar", "avião", "mapa", "monitora", "painel"],
     "resposta_correta": "o piloto verifica o radar"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A juíza analisa a evidência.",
-    "opcoes": ["judge", "the", "analyzes", "the", "evidence", "proof", "court", "lawyer", "examines", "case"],
+    "opcoes": ["the", "judge", "analyzes", "the", "evidence", "proof", "court", "lawyer", "case"],
     "resposta_correta": "the judge analyzes the evidence"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The chemist balances the formula.",
-    "opcoes": ["químico", "o", "equilibra", "a", "fórmula", "faz", "teste", "mistura", "laboratório", "ciência"],
+    "opcoes": ["o", "químico", "equilibra", "a", "fórmula", "teste", "mistura", "laboratório", "ciência"],
     "resposta_correta": "o químico equilibra a fórmula"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O ferreiro molda o ferro.",
-    "opcoes": ["blacksmith", "the", "shapes", "the", "iron", "metal", "forges", "hammer", "steel", "worker"],
+    "opcoes": ["the", "blacksmith", "shapes", "the", "iron", "metal", "forges", "hammer", "steel"],
     "resposta_correta": "the blacksmith shapes the iron"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The technician installs the software.",
-    "opcoes": ["técnico", "o", "instala", "o", "programa", "computador", "sistema", "baixa", "software", "roda"],
+    "opcoes": ["o", "técnico", "instala", "o", "software", "computador", "sistema", "baixa", "programa"],
     "resposta_correta": "o técnico instala o software"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O geólogo mapeia a rocha.",
-    "opcoes": ["geologist", "the", "maps", "the", "rock", "stone", "earth", "studies", "surveyor", "ground"],
+    "opcoes": ["the", "geologist", "maps", "the", "rock", "stone", "earth", "studies", "ground"],
     "resposta_correta": "the geologist maps the rock"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The lifeguard patrols the beach.",
-    "opcoes": ["salva-vidas", "o", "patrulha", "a", "praia", "mar", "cuida", "areia", "vigia", "nadador"],
+    "opcoes": ["o", "salva-vidas", "patrulha", "a", "praia", "mar", "areia", "vigia", "nadador"],
     "resposta_correta": "o salva-vidas patrulha a praia"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O coreógrafo cria a dança.",
-    "opcoes": ["choreographer", "the", "creates", "the", "dance", "ballet", "moves", "steps", "artist", "show"],
+    "opcoes": ["the", "choreographer", "creates", "the", "dance", "ballet", "moves", "steps", "artist"],
     "resposta_correta": "the choreographer creates the dance"
   }
 ];
@@ -7106,70 +7198,70 @@ export const quizAvancado7 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The broker negotiates the deal.",
-    "opcoes": ["corretor", "o", "negocia", "o", "acordo", "venda", "contrato", "faz", "o", "preço", "mercado"],
+    "opcoes": ["o", "corretor", "negocia", "o", "acordo", "venda", "contrato", "faz", "preço"],
     "resposta_correta": "o corretor negocia o acordo"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O analista otimiza o sistema.",
-    "opcoes": ["analyst", "the", "optimizes", "the", "system", "code", "software", "improves", "process", "network"],
+    "opcoes": ["the", "analyst", "optimizes", "the", "system", "code", "software", "improves", "process"],
     "resposta_correta": "the analyst optimizes the system"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The chef garnishes the dish.",
-    "opcoes": ["chefe", "o", "decora", "o", "prato", "cozinha", "comida", "prepara", "refeição", "finaliza"],
+    "opcoes": ["o", "chefe", "decora", "o", "prato", "cozinha", "comida", "prepara", "refeição"],
     "resposta_correta": "o chefe decora o prato"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A artesã tece a tapeçaria.",
-    "opcoes": ["artisan", "the", "weaves", "the", "tapestry", "fabric", "rug", "knits", "cloth", "maker"],
+    "opcoes": ["the", "artisan", "weaves", "the", "tapestry", "fabric", "rug", "knits", "cloth"],
     "resposta_correta": "the artisan weaves the tapestry"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The tailor measures the waist.",
-    "opcoes": ["alfaiate", "o", "mede", "a", "cintura", "roupa", "costura", "calça", "corpo", "tamanho"],
+    "opcoes": ["o", "alfaiate", "mede", "a", "cintura", "roupa", "costura", "calça", "corpo"],
     "resposta_correta": "o alfaiate mede a cintura"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O locutor narra a notícia.",
-    "opcoes": ["announcer", "the", "narrates", "the", "news", "radio", "speaks", "anchor", "report", "voice"],
+    "opcoes": ["the", "announcer", "narrates", "the", "news", "radio", "anchor", "report", "voice"],
     "resposta_correta": "the announcer narrates the news"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The plumber unblocks the drain.",
-    "opcoes": ["encanador", "o", "desentope", "o", "ralo", "cano", "pia", "água", "conserta", "limpa"],
+    "opcoes": ["o", "encanador", "desentope", "o", "ralo", "cano", "pia", "água", "conserta"],
     "resposta_correta": "o encanador desentope o ralo"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "A bióloga isola a bactéria.",
-    "opcoes": ["biologist", "the", "isolates", "the", "bacteria", "cell", "germ", "science", "finds", "lab"],
+    "opcoes": ["the", "biologist", "isolates", "the", "bacteria", "cell", "germ", "science", "lab"],
     "resposta_correta": "the biologist isolates the bacteria"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The farmer harvests the crop.",
-    "opcoes": ["fazendeiro", "o", "colhe", "a", "safra", "plantação", "campo", "trigo", "terra", "fruta"],
+    "opcoes": ["o", "fazendeiro", "colhe", "a", "safra", "plantação", "campo", "trigo", "terra"],
     "resposta_correta": "o fazendeiro colhe a safra"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O garçom limpa a mesa.",
-    "opcoes": ["waiter", "the", "cleans", "the", "table", "serves", "desk", "room", "mops", "order"],
+    "opcoes": ["the", "waiter", "cleans", "the", "table", "serves", "desk", "room", "order"],
     "resposta_correta": "the waiter cleans the table"
   }
 ];
@@ -7178,70 +7270,70 @@ export const quizAvancado8 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The accountant audits the books.",
-    "opcoes": ["contadora", "a", "audita", "os", "livros", "contas", "faz", "balanço", "finanças", "o", "empresa"],
+    "opcoes": ["a", "contadora", "audita", "os", "livros", "contas", "faz", "balanço", "finanças"],
     "resposta_correta": "a contadora audita os livros"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O marceneiro lixa a tábua.",
-    "opcoes": ["carpenter", "the", "sands", "the", "plank", "wood", "board", "cuts", "table", "worker"],
+    "opcoes": ["the", "carpenter", "sands", "the", "plank", "wood", "board", "cuts", "worker"],
     "resposta_correta": "the carpenter sands the plank"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The surgeon sutures the wound.",
-    "opcoes": ["cirurgião", "o", "sutura", "a", "ferida", "médico", "corta", "limpa", "pele", "o", "hospital"],
+    "opcoes": ["o", "cirurgião", "sutura", "a", "ferida", "médico", "corta", "limpa", "pele"],
     "resposta_correta": "o cirurgião sutura a ferida"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A recepcionista confirma a reserva.",
-    "opcoes": ["receptionist", "the", "confirms", "the", "booking", "reservation", "office", "checks", "hotel", "call"],
+    "opcoes": ["the", "receptionist", "confirms", "the", "booking", "reservation", "office", "checks", "hotel"],
     "resposta_correta": "the receptionist confirms the booking"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The janitor locks the gate.",
-    "opcoes": ["zelador", "o", "tranca", "o", "portão", "porta", "fecha", "chave", "entrada", "prédio"],
+    "opcoes": ["o", "zelador", "tranca", "o", "portão", "porta", "fecha", "chave", "entrada"],
     "resposta_correta": "o zelador tranca o portão"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O eletricista testa a voltagem.",
-    "opcoes": ["electrician", "the", "tests", "the", "voltage", "power", "wiring", "checks", "current", "light"],
+    "opcoes": ["the", "electrician", "tests", "the", "voltage", "power", "wiring", "checks", "current"],
     "resposta_correta": "the electrician tests the voltage"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The journalist verifies the source.",
-    "opcoes": ["jornalista", "o", "verifica", "a", "fonte", "notícia", "lê", "texto", "diz", "repórter", "fato"],
+    "opcoes": ["o", "jornalista", "verifica", "a", "fonte", "notícia", "repórter", "texto", "fato"],
     "resposta_correta": "o jornalista verifica a fonte"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O tradutor adapta a gíria.",
-    "opcoes": ["translator", "the", "adapts", "the", "slang", "text", "words", "speech", "idiom", "writes"],
+    "opcoes": ["the", "translator", "adapts", "the", "slang", "text", "speech", "idiom", "words"],
     "resposta_correta": "the translator adapts the slang"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The florist trims the stem.",
-    "opcoes": ["florista", "a", "apara", "o", "caule", "flor", "corta", "folha", "buquê", "planta"],
+    "opcoes": ["a", "florista", "apara", "o", "caule", "flor", "folha", "buquê", "planta"],
     "resposta_correta": "a florista apara o caule"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O programador refatora o código.",
-    "opcoes": ["programmer", "the", "refactors", "the", "code", "system", "writes", "scripts", "software", "fixes"],
+    "opcoes": ["the", "programmer", "refactors", "the", "code", "system", "scripts", "software", "fixes"],
     "resposta_correta": "the programmer refactors the code"
   }
 ];
@@ -7250,70 +7342,70 @@ export const quizAvancado9 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The architect drafts the blueprint.",
-    "opcoes": ["arquiteto", "o", "desenha", "a", "planta", "projeto", "o", "esboça", "obra", "edifício", "casa"],
+    "opcoes": ["o", "arquiteto", "esboça", "a", "planta", "desenha", "projeto", "obra", "edifício"],
     "resposta_correta": "o arquiteto esboça a planta"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O auditor revisa o balanço.",
-    "opcoes": ["auditor", "the", "reviews", "the", "balance", "sheet", "checks", "accounts", "firm", "audit"],
+    "opcoes": ["the", "auditor", "reviews", "the", "balance", "sheet", "checks", "accounts", "audit"],
     "resposta_correta": "the auditor reviews the balance sheet"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The scientist observes the reaction.",
-    "opcoes": ["cientista", "o", "observa", "a", "reação", "química", "estuda", "vê", "teste", "laboratório"],
+    "opcoes": ["o", "cientista", "observa", "a", "reação", "química", "estuda", "vê", "teste"],
     "resposta_correta": "o cientista observa a reação"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "A secretária redige a ata.",
-    "opcoes": ["secretary", "the", "writes", "the", "minutes", "meeting", "notes", "drafts", "office", "paper"],
+    "opcoes": ["the", "secretary", "drafts", "the", "minutes", "meeting", "notes", "writes", "office"],
     "resposta_correta": "the secretary drafts the minutes"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The courier delivers the parcel.",
-    "opcoes": ["entregador", "o", "entrega", "o", "pacote", "encomenda", "leva", "caixa", "o", "serviço", "motoboy"],
+    "opcoes": ["o", "entregador", "entrega", "o", "pacote", "encomenda", "leva", "caixa", "serviço"],
     "resposta_correta": "o entregador entrega o pacote"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "O ferreiro forja a lâmina.",
-    "opcoes": ["blacksmith", "the", "forges", "the", "blade", "sword", "metal", "shapes", "steel", "hammer"],
+    "opcoes": ["the", "blacksmith", "forges", "the", "blade", "sword", "metal", "shapes", "steel"],
     "resposta_correta": "the blacksmith forges the blade"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The lawyer cross-examines the witness.",
-    "opcoes": ["advogado", "o", "interroga", "a", "testemunha", "juiz", "pergunta", "caso", "tribunal", "vê"],
+    "opcoes": ["o", "advogado", "interroga", "a", "testemunha", "juiz", "pergunta", "caso", "tribunal"],
     "resposta_correta": "o advogado interroga a testemunha"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O carpinteiro fixa a dobradiça.",
-    "opcoes": ["carpenter", "the", "fixes", "the", "hinge", "door", "wood", "installs", "screw", "tool"],
+    "opcoes": ["the", "carpenter", "fixes", "the", "hinge", "door", "wood", "installs", "screw"],
     "resposta_correta": "the carpenter fixes the hinge"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The gardener seeds the lawn.",
-    "opcoes": ["jardineiro", "o", "semeia", "o", "gramado", "jardim", "grama", "planta", "terra", "campo"],
+    "opcoes": ["o", "jardineiro", "semeia", "o", "gramado", "jardim", "grama", "planta", "terra"],
     "resposta_correta": "o jardineiro semeia o gramado"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O mergulhador solda o cano.",
-    "opcoes": ["diver", "the", "welds", "the", "pipe", "water", "underwater", "fixes", "tube", "repairs"],
+    "opcoes": ["the", "diver", "welds", "the", "pipe", "water", "underwater", "fixes", "tube"],
     "resposta_correta": "the diver welds the pipe"
   }
 ];
@@ -7322,70 +7414,70 @@ export const quizAvancado10 = [
     "numero": "1",
     "questionType": "traduza a frase",
     "pergunta": "The executive delegates the tasks.",
-    "opcoes": ["executivo", "o", "delega", "as", "tarefas", "trabalho", "o", "gerente", "manda", "equipe", "funções"],
+    "opcoes": ["o", "executivo", "delega", "as", "tarefas", "gerente", "manda", "equipe", "funções"],
     "resposta_correta": "o executivo delega as tarefas"
   },
   {
     "numero": "2",
     "questionType": "traduza a frase",
     "pergunta": "O curador organiza a exposição.",
-    "opcoes": ["curator", "the", "organizes", "the", "exhibition", "museum", "show", "gallery", "sets", "artist"],
+    "opcoes": ["the", "curator", "organizes", "the", "exhibition", "museum", "gallery", "sets", "artist"],
     "resposta_correta": "the curator organizes the exhibition"
   },
   {
     "numero": "3",
     "questionType": "traduza a frase",
     "pergunta": "The surgeon sterilizes the room.",
-    "opcoes": ["cirurgião", "o", "esteriliza", "a", "sala", "limpa", "o", "médico", "hospital", "centro", "instrumentos"],
+    "opcoes": ["o", "cirurgião", "esteriliza", "a", "sala", "limpa", "médico", "hospital", "instrumentos"],
     "resposta_correta": "o cirurgião esteriliza a sala"
   },
   {
     "numero": "4",
     "questionType": "traduza a frase",
     "pergunta": "O bibliotecário cataloga o acervo.",
-    "opcoes": ["librarian", "the", "catalogs", "the", "collection", "books", "archive", "organizes", "library", "stock"],
+    "opcoes": ["the", "librarian", "catalogs", "the", "collection", "books", "archive", "library", "stock"],
     "resposta_correta": "the librarian catalogs the collection"
   },
   {
     "numero": "5",
     "questionType": "traduza a frase",
     "pergunta": "The technician calibrates the sensor.",
-    "opcoes": ["técnico", "o", "calibra", "o", "sensor", "ajusta", "aparelho", "medidor", "testa", "máquina"],
+    "opcoes": ["o", "técnico", "calibra", "o", "sensor", "ajusta", "aparelho", "medidor", "máquina"],
     "resposta_correta": "o técnico calibra o sensor"
   },
   {
     "numero": "6",
     "questionType": "traduza a frase",
     "pergunta": "A confeiteira decora o bolo.",
-    "opcoes": ["baker", "the", "decorates", "the", "cake", "pastry", "chef", "sweets", "makes", "sugar"],
+    "opcoes": ["the", "baker", "decorates", "the", "cake", "pastry", "chef", "sweets", "sugar"],
     "resposta_correta": "the baker decorates the cake"
   },
   {
     "numero": "7",
     "questionType": "traduza a frase",
     "pergunta": "The investigator gathers the clues.",
-    "opcoes": ["investigador", "o", "reúne", "as", "pistas", "evidência", "o", "detetive", "acha", "provas", "caso"],
+    "opcoes": ["o", "investigador", "reúne", "as", "pistas", "evidência", "detetive", "acha", "provas"],
     "resposta_correta": "o investigador reúne as pistas"
   },
   {
     "numero": "8",
     "questionType": "traduza a frase",
     "pergunta": "O corretor avalia o imóvel.",
-    "opcoes": ["realtor", "the", "appraises", "the", "property", "house", "evaluates", "sells", "broker", "estate"],
+    "opcoes": ["the", "realtor", "appraises", "the", "property", "house", "evaluates", "sells", "broker"],
     "resposta_correta": "the realtor appraises the property"
   },
   {
     "numero": "9",
     "questionType": "traduza a frase",
     "pergunta": "The pilot calculates the fuel.",
-    "opcoes": ["piloto", "o", "calcula", "o", "combustível", "avião", "vê", "gasolina", "voo", "carga"],
+    "opcoes": ["o", "piloto", "calcula", "o", "combustível", "avião", "gasolina", "voo", "carga"],
     "resposta_correta": "o piloto calcula o combustível"
   },
   {
     "numero": "10",
     "questionType": "traduza a frase",
     "pergunta": "O zelador inspeciona o telhado.",
-    "opcoes": ["janitor", "the", "inspects", "the", "roof", "building", "checks", "house", "top", "worker"],
+    "opcoes": ["the", "janitor", "inspects", "the", "roof", "building", "checks", "house", "worker"],
     "resposta_correta": "the janitor inspects the roof"
   }
 ];

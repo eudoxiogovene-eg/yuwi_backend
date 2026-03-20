@@ -1,6 +1,6 @@
 
 
-export const quizIniciante1 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Dinheiro' em inglês?",
     "opcoes": { "A": "Coin", "B": "Money", "C": "Cashier", "D": "Price" },
@@ -60,7 +60,10 @@ export const quizIniciante1 = [
     "opcoes": { "A": "Shopping", "B": "Mercado", "C": "Loja", "D": "Feira" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIniciante02 = [
+ 
   {
     "pergunta": "Como se diz 'Caixa' (o lugar de pagar) em inglês?",
     "opcoes": { "A": "Bank", "B": "Desk", "C": "Cashier", "D": "Safe" },
@@ -122,7 +125,7 @@ export const quizIniciante1 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante2 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Qual é a tradução de 'Purchase'?",
     "opcoes": { "A": "Venda", "B": "Aluguel", "C": "Compra", "D": "Troca" },
@@ -182,7 +185,10 @@ export const quizIniciante2 = [
     "opcoes": { "A": "Cheap", "B": "Expensive", "C": "Fair", "D": "High" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIniciante04 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Banknote'?",
     "opcoes": { "A": "Cartão", "B": "Cédula", "C": "Recibo", "D": "Moeda" },
@@ -244,7 +250,7 @@ export const quizIniciante2 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante3 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Como se diz 'Moeda' (unidade monetária do país) em inglês?",
     "opcoes": { "A": "Cash", "B": "Change", "C": "Currency", "D": "Capital" },
@@ -304,7 +310,10 @@ export const quizIniciante3 = [
     "opcoes": { "A": "Pagamento", "B": "Empréstimo", "C": "Depósito", "D": "Saque" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante06 = [
+ 
   {
     "pergunta": "Como se diz 'Caixa eletrônico' em inglês?",
     "not_A": "Bank", "B": "Card", "C": "ATM", "D": "Safe",
@@ -367,7 +376,7 @@ export const quizIniciante3 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIniciante4 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Qual é a tradução de 'Bank'?",
     "opcoes": { "A": "Loja", "B": "Banco", "C": "Cofre", "D": "Bolsa" },
@@ -427,7 +436,10 @@ export const quizIniciante4 = [
     "opcoes": { "A": "Pay", "B": "Buy", "C": "Sell", "D": "Cost" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIniciante08 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Customer'?",
     "opcoes": { "A": "Vendedor", "B": "Gerente", "C": "Cliente", "D": "Fornecedor" },
@@ -489,7 +501,7 @@ export const quizIniciante4 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante5 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Como se diz 'Lucro' em inglês?",
     "opcoes": { "A": "Loss", "B": "Cost", "C": "Profit", "D": "Price" },
@@ -549,7 +561,10 @@ export const quizIniciante5 = [
     "opcoes": { "A": "Seguro", "B": "Cofre", "C": "Banco", "D": "Caixa" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante010 = [
+ 
   {
     "pergunta": "Como se diz 'Livre de impostos' em inglês?",
     "opcoes": { "A": "Tax free", "B": "Tax paid", "C": "Tax cost", "D": "Tax high" },
@@ -611,7 +626,7 @@ export const quizIniciante5 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante6 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Qual é a tradução de 'Inventory'?",
     "opcoes": { "A": "Invenção", "B": "Investimento", "C": "Inventário", "D": "Imposto" },
@@ -671,7 +686,10 @@ export const quizIniciante6 = [
     "opcoes": { "A": "Customer service", "B": "Client help", "C": "Store aid", "D": "Buy support" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIniciante012 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Wholesale'?",
     "opcoes": { "A": "Varejo", "B": "Promoção", "C": "Atacado", "D": "Troca" },
@@ -733,7 +751,7 @@ export const quizIniciante6 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIniciante7 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Como se diz 'Pechincha' em inglês?",
     "opcoes": { "A": "Value", "B": "Bargain", "C": "Price", "D": "Cost" },
@@ -793,7 +811,10 @@ export const quizIniciante7 = [
     "opcoes": { "A": "Conta poupança", "B": "Conta corrente", "C": "Conta conjunta", "D": "Cartão de débito" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIniciante014 = [
+  
   {
     "pergunta": "Como se diz 'Orçamento' em inglês?",
     "opcoes": { "A": "Price", "B": "Budget", "C": "Tax", "D": "Fee" },
@@ -855,7 +876,7 @@ export const quizIniciante7 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante8 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Como se diz 'Cofre' em inglês?",
     "opcoes": { "A": "Shelf", "B": "Box", "C": "Safe", "D": "Counter" },
@@ -915,7 +936,10 @@ export const quizIniciante8 = [
     "opcoes": { "A": "Orçamento", "B": "Balanço", "C": "Banco", "D": "Bilhete" },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIniciante016 = [
+ 
   {
     "pergunta": "Como se diz 'Corredor' (loja) em inglês?",
     "opcoes": { "A": "Hall", "B": "Aisle", "C": "Path", "D": "Way" },
@@ -977,7 +1001,7 @@ export const quizIniciante8 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante9 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Qual é a tradução de 'Brand name'?",
     "opcoes": { "A": "Nome do dono", "B": "Nome da marca", "C": "Nome da loja", "D": "Nome do cliente" },
@@ -1037,7 +1061,10 @@ export const quizIniciante9 = [
     "opcoes": { "A": "Foreign cash", "B": "Foreign currency", "C": "Foreign change", "D": "Foreign money" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante018 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Purchase'?",
     "opcoes": { "A": "Venda", "B": "Troca", "C": "Compra", "D": "Aluguel" },
@@ -1099,7 +1126,7 @@ export const quizIniciante9 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIniciante10 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Como se diz 'Dinheiro em espécie' em inglês?",
     "opcoes": { "A": "Card", "B": "Check", "C": "Cash", "D": "Coin" },
@@ -1159,7 +1186,10 @@ export const quizIniciante10 = [
     "opcoes": { "A": "Escolha", "B": "Troco", "C": "Chance", "D": "Carga" },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante020 = [
+  
   {
     "pergunta": "Como se diz 'Recibo' em inglês?",
     "opcoes": { "A": "Recipe", "B": "Receive", "C": "Receipt", "D": "Record" },
@@ -1226,17 +1256,17 @@ export const quizIniciante10 = [
 
 
 
-export const quizBasico1 = [
+export const quizBasico01 = [
   {
-    "pergunta": "Como se diz 'Quanto custa isto?' em inglês?",
+    "pergunta": "Como se diz 'Onde está o caixa?' em inglês?",
     "opcoes": {
-      "A": "How many cost this?",
-      "B": "How much is it?",
-      "C": "What price is that?",
-      "D": "How much cost that?"
+      "A": "Where is the bank?",
+      "B": "Where is the store?",
+      "C": "Where is the cashier?",
+      "D": "Where is the money?"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'I need a receipt'?",
@@ -1250,37 +1280,15 @@ export const quizBasico1 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Onde está o caixa?' em inglês?",
+    "pergunta": "Como se diz 'Aqui está sua sacola' em inglês?",
     "opcoes": {
-      "A": "Where is the bank?",
-      "B": "Where is the store?",
-      "C": "Where is the cashier?",
-      "D": "Where is the money?"
+      "A": "Where is your bag?",
+      "B": "Take your change here",
+      "C": "Your bag is here",
+      "D": "Here is your bag"
     },
     "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Keep the change'?",
-    "opcoes": {
-      "A": "Conte o troco",
-      "B": "Troque o dinheiro",
-      "C": "Pague o valor",
-      "D": "Fique com o troco"
-    },
-    "numero": "4",
     "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'É muito caro' em inglês?",
-    "opcoes": {
-      "A": "It is very expensive",
-      "B": "It is too cheap",
-      "C": "That is a bargain",
-      "D": "This is very low"
-    },
-    "numero": "5",
-    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Cash or credit?'?",
@@ -1290,84 +1298,18 @@ export const quizBasico1 = [
       "C": "Cartão ou cheque?",
       "D": "Pagar ou levar?"
     },
-    "numero": "6",
+    "numero": "4",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Eu quero comprar isto' em inglês?",
+    "pergunta": "Como se diz 'Quanto custa isto?' em inglês?",
     "opcoes": {
-      "A": "I want sell this",
-      "B": "I need have that",
-      "C": "I want to buy",
-      "D": "I like this price"
+      "A": "How much is it?",
+      "B": "How many cost this?",
+      "C": "What price is that?",
+      "D": "How much cost that?"
     },
-    "numero": "7",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Here is your bag'?",
-    "opcoes": {
-      "A": "Onde está sua bolsa?",
-      "B": "Pegue seu troco aqui",
-      "C": "Sua sacola está aqui",
-      "D": "Aqui está sua sacola"
-    },
-    "numero": "8",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Onde há um banco?' em inglês?",
-    "opcoes": {
-      "A": "Where is a bank?",
-      "B": "Is there a bank?",
-      "C": "How find the bank?",
-      "D": "Where find a store?"
-    },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'That is too cheap'?",
-    "opcoes": {
-      "A": "Isto é muito caro",
-      "B": "Isso é muito barato",
-      "C": "Aquilo custa pouco",
-      "D": "Isso é um desconto"
-    },
-    "numero": "10",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Você aceita cartões?' em inglês?",
-    "opcoes": {
-      "A": "Do you have cards?",
-      "B": "You take the card?",
-      "C": "Do you accept cards?",
-      "D": "Are cards okay here?"
-    },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Find a discount'?",
-    "opcoes": {
-      "A": "Pagar o valor",
-      "B": "Pedir um aumento",
-      "C": "Comprar com pressa",
-      "D": "Encontrar um desconto"
-    },
-    "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Eu tenho apenas moedas' em inglês?",
-    "opcoes": {
-      "A": "I only have coins",
-      "B": "I have some bills",
-      "C": "I need more cash",
-      "D": "Give me the change"
-    },
-    "numero": "13",
+    "numero": "5",
     "resposta_correta": "A"
   },
   {
@@ -1378,30 +1320,30 @@ export const quizBasico1 = [
       "C": "Qual é o preço?",
       "D": "Onde está a loja?"
     },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Onde fica o shopping?' em inglês?",
-    "opcoes": {
-      "A": "Where is the store?",
-      "B": "How is the market?",
-      "C": "Where is the mall?",
-      "D": "Is the mall open?"
-    },
-    "numero": "15",
+    "numero": "6",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'I lost my wallet'?",
+    "pergunta": "Como se diz 'Você aceita cartões?' em inglês?",
     "opcoes": {
-      "A": "Eu perdi minha carteira",
-      "B": "Eu esqueci meu dinheiro",
-      "C": "Minha bolsa sumiu",
-      "D": "Eu achei minha carteira"
+      "A": "Do you have cards?",
+      "B": "Do you accept cards?",
+      "C": "You take the card?",
+      "D": "Are cards okay here?"
     },
-    "numero": "16",
-    "resposta_correta": "A"
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'That is too cheap'?",
+    "opcoes": {
+      "A": "Isto é muito caro",
+      "B": "Isso é um desconto",
+      "C": "Aquilo custa pouco",
+      "D": "Isso é muito barato"
+    },
+    "numero": "8",
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'O preço é alto' em inglês?",
@@ -1411,44 +1353,136 @@ export const quizBasico1 = [
       "C": "Price is very good",
       "D": "The price is high"
     },
-    "numero": "17",
+    "numero": "9",
     "resposta_correta": "D"
   },
+  {
+    "pergunta": "Como se diz 'Eu tenho apenas moedas' em inglês?",
+    "opcoes": {
+      "A": "I only have coins",
+      "B": "I have some bills",
+      "C": "I need more cash",
+      "D": "Give me the change"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico02 = [
+ 
   {
     "pergunta": "Qual a tradução de 'Show me the price'?",
     "opcoes": {
       "A": "Diga-me o valor",
-      "B": "Mostre-me o preço",
-      "C": "Veja este custo",
+      "B": "Veja este custo",
+      "C": "Mostre-me o preço",
       "D": "Pague o preço agora"
     },
-    "numero": "18",
+    "numero": "11",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Dê-me o troco' em inglês?",
+    "opcoes": {
+      "A": "Keep the change",
+      "B": "Give me the change",
+      "C": "Exchange the money",
+      "D": "Count the change"
+    },
+    "numero": "12",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Abra sua conta' em inglês?",
+    "pergunta": "Como se diz 'Onde fica o shopping?' em inglês?",
     "opcoes": {
-      "A": "Pay your bill",
-      "B": "Take your money",
-      "C": "Open your account",
-      "D": "Check your bank"
+      "A": "Where is the mall?",
+      "B": "Where is the store?",
+      "C": "How is the market?",
+      "D": "Is the mall open?"
     },
-    "numero": "19",
+    "numero": "13",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Find a discount'?",
+    "opcoes": {
+      "A": "Pagar o valor",
+      "B": "Pedir um aumento",
+      "C": "Comprar com pressa",
+      "D": "Encontrar um desconto"
+    },
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Eu quero comprar isto' em inglês?",
+    "opcoes": {
+      "A": "I want sell this",
+      "B": "I need have that",
+      "C": "I want to buy this",
+      "D": "I like this price"
+    },
+    "numero": "15",
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Do you have change?'?",
     "opcoes": {
       "A": "Você quer trocar?",
-      "B": "Você aceita dinheiro?",
+      "B": "Você tem troco?",
       "C": "Onde está o troco?",
-      "D": "Você tem troco?"
+      "D": "Você aceita dinheiro?"
+    },
+    "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'É muito caro' em inglês?",
+    "opcoes": {
+      "A": "It is too cheap",
+      "B": "That is a bargain",
+      "C": "This is very low",
+      "D": "It is very expensive"
+    },
+    "numero": "17",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'I lost my wallet'?",
+    "opcoes": {
+      "A": "Eu perdi minha carteira",
+      "B": "Eu esqueci meu dinheiro",
+      "C": "Minha bolsa sumiu",
+      "D": "Eu achei minha carteira"
+    },
+    "numero": "18",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Abra sua conta' em inglês?",
+    "opcoes": {
+      "A": "Pay your bill",
+      "B": "Open your account",
+      "C": "Take your money",
+      "D": "Check your bank"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Keep the change'?",
+    "opcoes": {
+      "A": "Conte o troco",
+      "B": "Troque o dinheiro",
+      "C": "Fique com o troco",
+      "D": "Pague o valor"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico2 = [
+
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'A taxa é abusiva' em inglês?",
     "opcoes": {
@@ -1558,7 +1592,10 @@ export const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico04 = [
+  
   {
     "pergunta": "Como se diz 'Compare os preços' em inglês?",
     "opcoes": {
@@ -1670,7 +1707,9 @@ export const quizBasico2 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico3 = [
+
+
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'A transação foi aprovada' em inglês?",
     "opcoes": {
@@ -1780,7 +1819,10 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico06 = [
+  
   {
     "pergunta": "Como se diz 'Aceitamos apenas dinheiro' em inglês?",
     "opcoes": {
@@ -1892,17 +1934,20 @@ export const quizBasico3 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico4 = [
+
+
+
+export const quizBasico07 = [
   {
-    "pergunta": "Como se diz 'A fatura está vencida' em inglês?",
+    "pergunta": "Como se diz 'Solicite um reembolso total' em inglês?",
     "opcoes": {
-      "A": "The bill is new",
-      "B": "The invoice is overdue",
-      "C": "Payment is coming soon",
-      "D": "Price is very high"
+      "A": "Want some money back",
+      "B": "Need a small discount",
+      "C": "Claim a full refund",
+      "D": "Ask for total price"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Protect your digital assets'?",
@@ -1916,26 +1961,26 @@ export const quizBasico4 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Solicite um reembolso total' em inglês?",
+    "pergunta": "Qual a tradução de 'Keep the original packaging'?",
     "opcoes": {
-      "A": "Want some money back",
-      "B": "Need a small discount",
-      "C": "Claim a full refund",
-      "D": "Ask for total price"
+      "A": "Traga a sacola original",
+      "B": "Mostre o produto novo",
+      "C": "Pague pela caixa extra",
+      "D": "Guarde a embalagem original"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual a tradução de 'Submit the financial report'?",
+    "pergunta": "Como se diz 'A fatura está vencida' em inglês?",
     "opcoes": {
-      "A": "Leia o relatório anual",
-      "B": "Pague a conta final",
-      "C": "Veja os custos totais",
-      "D": "Envie o relatório financeiro"
+      "A": "The bill is new",
+      "B": "The invoice is overdue",
+      "C": "Payment is coming soon",
+      "D": "Price is very high"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde está o departamento?' em inglês?",
@@ -1949,17 +1994,6 @@ export const quizBasico4 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Verify account ownership'?",
-    "opcoes": {
-      "A": "Mude o nome conta",
-      "B": "Verifique a titularidade",
-      "C": "Abra uma conta nova",
-      "D": "Veja o saldo bancário"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
     "pergunta": "Como se diz 'Isto é um passivo' em inglês?",
     "opcoes": {
       "A": "This is a debt",
@@ -1967,8 +2001,19 @@ export const quizBasico4 = [
       "C": "This is a liability",
       "D": "It is a cost"
     },
-    "numero": "7",
+    "numero": "6",
     "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Verify account ownership'?",
+    "opcoes": {
+      "A": "Mude o nome conta",
+      "B": "Verifique a titularidade",
+      "C": "Abra uma conta nova",
+      "D": "Veja o saldo bancário"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Check current stock levels'?",
@@ -1982,6 +2027,17 @@ export const quizBasico4 = [
     "resposta_correta": "D"
   },
   {
+    "pergunta": "Qual a tradução de 'Check for counterfeit notes'?",
+    "opcoes": {
+      "A": "Veja o valor total",
+      "B": "Conte as moedas novas",
+      "C": "Pague com notas limpas",
+      "D": "Verifique notas falsas"
+    },
+    "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
     "pergunta": "Como se diz 'A transação foi negada' em inglês?",
     "opcoes": {
       "A": "Transaction was declined",
@@ -1989,20 +2045,12 @@ export const quizBasico4 = [
       "C": "Money was not sent",
       "D": "Card is not valid"
     },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Avoid excessive spending'?",
-    "opcoes": {
-      "A": "Pague as contas hoje",
-      "B": "Evite gastos excessivos",
-      "C": "Busque descontos muito bons",
-      "D": "Economize seu dinheiro agora"
-    },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico08 = [
+ 
   {
     "pergunta": "Como se diz 'Negocie melhores termos' em inglês?",
     "opcoes": {
@@ -2015,15 +2063,15 @@ export const quizBasico4 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
+    "pergunta": "Qual a tradução de 'Avoid excessive spending'?",
     "opcoes": {
-      "A": "Cartão bloqueado pelo banco",
-      "B": "Saldo da conta baixo",
-      "C": "Senha do banco errada",
-      "D": "Limite de saque atingido"
+      "A": "Pague as contas hoje",
+      "B": "Evite gastos excessivos",
+      "C": "Busque descontos muito bons",
+      "D": "Economize seu dinheiro agora"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Eu exijo um recibo' em inglês?",
@@ -2037,15 +2085,15 @@ export const quizBasico4 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Local currency only'?",
+    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
     "opcoes": {
-      "A": "Dinheiro em espécie apenas",
-      "B": "Apenas moeda local",
-      "C": "Aceitamos troco pequeno apenas",
-      "D": "Pagamento em dólar aqui"
+      "A": "Cartão bloqueado pelo banco",
+      "B": "Saldo da conta baixo",
+      "C": "Senha do banco errada",
+      "D": "Limite de saque atingido"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde está o fornecedor?' em inglês?",
@@ -2059,14 +2107,25 @@ export const quizBasico4 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Check for counterfeit notes'?",
+    "pergunta": "Qual a tradução de 'Local currency only'?",
     "opcoes": {
-      "A": "Veja o valor total",
-      "B": "Conte as moedas novas",
-      "C": "Pague com notas limpas",
-      "D": "Verifique notas falsas"
+      "A": "Dinheiro em espécie apenas",
+      "B": "Apenas moeda local",
+      "C": "Aceitamos troco pequeno apenas",
+      "D": "Pagamento em dólar aqui"
     },
     "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Submit the financial report'?",
+    "opcoes": {
+      "A": "Leia o relatório anual",
+      "B": "Pague a conta final",
+      "C": "Veja os custos totais",
+      "D": "Envie o relatório financeiro"
+    },
+    "numero": "17",
     "resposta_correta": "D"
   },
   {
@@ -2077,7 +2136,7 @@ export const quizBasico4 = [
       "C": "Price went up now",
       "D": "More tax to pay"
     },
-    "numero": "17",
+    "numero": "18",
     "resposta_correta": "A"
   },
   {
@@ -2088,7 +2147,7 @@ export const quizBasico4 = [
       "C": "Cartão de crédito vencido",
       "D": "Pagamento de conta pendente"
     },
-    "numero": "18",
+    "numero": "19",
     "resposta_correta": "B"
   },
   {
@@ -2099,22 +2158,13 @@ export const quizBasico4 = [
       "C": "Cancel the subscription",
       "D": "Delete the account now"
     },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Keep the original packaging'?",
-    "opcoes": {
-      "A": "Traga a sacola original",
-      "B": "Mostre o produto novo",
-      "C": "Pague pela caixa extra",
-      "D": "Guarde a embalagem original"
-    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico5 = [
+
+
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'Aumente a receita' em inglês?",
     "opcoes": {
@@ -2138,26 +2188,26 @@ export const quizBasico5 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Onde retiro o pedido?' em inglês?",
+    "pergunta": "Qual a tradução de 'Request financial assistance'?",
     "opcoes": {
-      "A": "Where is my bag?",
-      ",B": "Where collect the order?",
-      "C": "Find the store exit",
-      "D": "Is my box here?"
+      "A": "Pague a ajuda mensal",
+      "B": "Mude o plano bancário",
+      "C": "Busque crédito novo",
+      "D": "Solicite assistência financeira"
     },
     "numero": "3",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual a tradução de 'This is a deficit'?",
+    "pergunta": "Qual a tradução de 'Apply for a loan'?",
     "opcoes": {
-      "A": "Isto é um lucro",
-      "B": "Isso é um custo",
-      "C": "Isto é um valor",
-      "D": "Isto é um déficit"
+      "A": "Pague o empréstimo",
+      "B": "Solicite um empréstimo",
+      "C": "Busque um banco",
+      "D": "Mude o juros"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Corrija o erro' em inglês?",
@@ -2171,17 +2221,6 @@ export const quizBasico5 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Apply for a loan'?",
-    "opcoes": {
-      "A": "Pague o empréstimo",
-      "B": "Solicite um empréstimo",
-      "C": "Busque um banco",
-      "D": "Mude o juros"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
     "pergunta": "Como se diz 'Onde está a fatura?' em inglês?",
     "opcoes": {
       "A": "Where is the paper?",
@@ -2189,8 +2228,19 @@ export const quizBasico5 = [
       "C": "Where is the invoice?",
       "D": "Is the bill paid?"
     },
-    "numero": "7",
+    "numero": "6",
     "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Update your billing address'?",
+    "opcoes": {
+      "A": "Mude sua senha bancária",
+      "B": "Atualize o endereço cobrança",
+      "C": "Confirme seu nome completo",
+      "D": "Veja seu extrato mensal"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Check the exchange rate'?",
@@ -2204,6 +2254,17 @@ export const quizBasico5 = [
     "resposta_correta": "D"
   },
   {
+    "pergunta": "Qual a tradução de 'Funds are frozen'?",
+    "opcoes": {
+      "A": "Dinheiro foi perdido",
+      "B": "Conta está aberta",
+      "C": "Pague o valor total",
+      "D": "Fundos estão bloqueados"
+    },
+    "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
     "pergunta": "Como se diz 'O saldo está negativo' em inglês?",
     "opcoes": {
       "A": "Balance is negative",
@@ -2211,20 +2272,12 @@ export const quizBasico5 = [
       "C": "Money is all gone",
       "D": "Bank is now closed"
     },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Update your billing address'?",
-    "opcoes": {
-      "A": "Mude sua senha bancária",
-      "B": "Atualize o endereço cobrança",
-      "C": "Confirme seu nome completo",
-      "D": "Veja seu extrato mensal"
-    },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico010 = [
+ 
   {
     "pergunta": "Como se diz 'Nós aceitamos cheques' em inglês?",
     "opcoes": {
@@ -2237,15 +2290,15 @@ export const quizBasico5 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Funds are frozen'?",
+    "pergunta": "Como se diz 'Onde retiro o pedido?' em inglês?",
     "opcoes": {
-      "A": "Dinheiro foi perdido",
-      "B": "Conta está aberta",
-      "C": "Pague o valor total",
-      "D": "Fundos estão bloqueados"
+      "A": "Where is my bag?",
+      "B": "Where collect the order?",
+      "C": "Find the store exit",
+      "D": "Is my box here?"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Reduza as despesas' em inglês?",
@@ -2259,28 +2312,6 @@ export const quizBasico5 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Estimate the total cost'?",
-    "opcoes": {
-      "A": "Pague o valor exato",
-      "B": "Estime o custo total",
-      "C": "Veja o desconto final",
-      "D": "Mude o preço bruto"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
-    "opcoes": {
-      "A": "Where is the airport?",
-      "B": "Find the local bank",
-      "C": "Where is the customs?",
-      "D": "Is the border open?"
-    },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
     "pergunta": "Qual a tradução de 'Asset liquidation required'?",
     "opcoes": {
       "A": "Venda de estoque necessária",
@@ -2288,7 +2319,40 @@ export const quizBasico5 = [
       "C": "Dinheiro em caixa livre",
       "D": "Liquidação de ativos necessária"
     },
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Assine o contrato' em inglês?",
+    "opcoes": {
+      "A": "Write the paper",
+      "B": "End the deal",
+      "C": "Sign the contract",
+      "D": "Keep the document"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Estimate the total cost'?",
+    "opcoes": {
+      "A": "Pague o valor exato",
+      "B": "Estime o custo total",
+      "C": "Veja o desconto final",
+      "D": "Mude o preço bruto"
+    },
     "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This is a deficit'?",
+    "opcoes": {
+      "A": "Isto é um lucro",
+      "B": "Isso é um custo",
+      "C": "Isto é um valor",
+      "D": "Isto é um déficit"
+    },
+    "numero": "17",
     "resposta_correta": "D"
   },
   {
@@ -2299,7 +2363,7 @@ export const quizBasico5 = [
       "C": "Which way is exit?",
       "D": "Where is the desk?"
     },
-    "numero": "17",
+    "numero": "18",
     "resposta_correta": "A"
   },
   {
@@ -2310,43 +2374,33 @@ export const quizBasico5 = [
       "C": "Lojas abertas agora",
       "D": "Clientes com cartão apenas"
     },
-    "numero": "18",
+    "numero": "19",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Assine o contrato' em inglês?",
+    "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
     "opcoes": {
-      "A": "Write the paper",
-      "B": "End the deal",
-      "C": "Sign the contract",
-      "D": "Keep the document"
-    },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Request financial assistance'?",
-    "opcoes": {
-      "A": "Pague a ajuda mensal",
-      "B": "Mude o plano bancário",
-      "C": "Busque crédito novo",
-      "D": "Solicite assistência financeira"
+      "A": "Where is the airport?",
+      "B": "Find the local bank",
+      "C": "Where is the customs?",
+      "D": "Is the border open?"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico6 = [
+
+export const quizBasico011 = [
   {
-    "pergunta": "Como se diz 'A fatura está vencida' em inglês?",
+    "pergunta": "Como se diz 'Onde retiro meu pacote?' em inglês?",
     "opcoes": {
-      "A": "The bill is new",
-      "B": "The invoice is overdue",
-      "C": "Payment is coming soon",
-      "D": "Price is very high"
+      "A": "Where is my bag?",
+      "B": "Find my small box",
+      "C": "Where collect my parcel?",
+      "D": "Is that my delivery?"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'I need a refund'?",
@@ -2360,17 +2414,6 @@ export const quizBasico6 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Onde retiro meu pacote?' em inglês?",
-    "opcoes": {
-      "A": "Where is my bag?",
-      "B": "Find my small box",
-      "C": "Where collect my parcel?",
-      "D": "Is that my delivery?"
-    },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
     "pergunta": "Qual a tradução de 'Avoid unnecessary debt'?",
     "opcoes": {
       "A": "Pague a dívida antiga",
@@ -2378,8 +2421,19 @@ export const quizBasico6 = [
       "C": "Busque crédito no banco",
       "D": "Evite dívidas desnecessárias"
     },
-    "numero": "4",
+    "numero": "3",
     "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'A fatura está vencida' em inglês?",
+    "opcoes": {
+      "A": "The bill is new",
+      "B": "The invoice is overdue",
+      "C": "Payment is coming soon",
+      "D": "Price is very high"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'A transação falhou' em inglês?",
@@ -2393,17 +2447,6 @@ export const quizBasico6 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Check the expiration date'?",
-    "opcoes": {
-      "A": "Veja o preço atual",
-      "B": "Verifique a validade",
-      "C": "Olhe a data hoje",
-      "D": "Confira o código barras"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
     "pergunta": "Como se diz 'Isto é um passivo' em inglês?",
     "opcoes": {
       "A": "This is a debt",
@@ -2411,8 +2454,19 @@ export const quizBasico6 = [
       "C": "This is a liability",
       "D": "It is a cost"
     },
-    "numero": "7",
+    "numero": "6",
     "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Check the expiration date'?",
+    "opcoes": {
+      "A": "Veja o preço atual",
+      "B": "Verifique a validade",
+      "C": "Olhe a data hoje",
+      "D": "Confira o código barras"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Buy some company shares'?",
@@ -2426,6 +2480,17 @@ export const quizBasico6 = [
     "resposta_correta": "D"
   },
   {
+    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
+    "opcoes": {
+      "A": "Saldo da conta baixo",
+      "B": "Senha do banco errada",
+      "C": "Cartão bloqueado pelo banco",
+      "D": "Limite de saque atingido"
+    },
+    "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
     "pergunta": "Como se diz 'Onde está o fornecedor?' em inglês?",
     "opcoes": {
       "A": "Where is the supplier?",
@@ -2433,20 +2498,12 @@ export const quizBasico6 = [
       "C": "Where is the owner?",
       "D": "Find the delivery man"
     },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'This price is fixed'?",
-    "opcoes": {
-      "A": "O valor está errado",
-      "B": "Este preço é fixo",
-      "C": "Este preço é negociável",
-      "D": "Preço abaixo do custo"
-    },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico012 = [
+ 
   {
     "pergunta": "Como se diz 'A transação foi aprovada' em inglês?",
     "opcoes": {
@@ -2459,15 +2516,15 @@ export const quizBasico6 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Withdraw some cash'?",
+    "pergunta": "Qual a tradução de 'This price is fixed'?",
     "opcoes": {
-      "A": "Guardar o troco",
-      "B": "Pagar com notas",
-      "C": "Pedir um empréstimo",
-      "D": "Sacar algum dinheiro"
+      "A": "O valor está errado",
+      "B": "Este preço é fixo",
+      "C": "Este preço é negociável",
+      "D": "Preço abaixo do custo"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Solicite um orçamento' em inglês?",
@@ -2481,15 +2538,15 @@ export const quizBasico6 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Monthly installments available'?",
+    "pergunta": "Qual a tradução de 'Hidden costs apply'?",
     "opcoes": {
-      "A": "Venda mensal garantida",
-      "B": "Parcelas mensais disponíveis",
-      "C": "Pagamento mensal apenas",
-      "D": "Desconto mensal incluído"
+      "A": "Custos baixos aplicados",
+      "B": "Preços visíveis aqui",
+      "C": "Descontos são raros",
+      "D": "Custos ocultos aplicam-se"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Reduza os custos' em inglês?",
@@ -2503,14 +2560,25 @@ export const quizBasico6 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Hidden costs apply'?",
+    "pergunta": "Qual a tradução de 'Monthly installments available'?",
     "opcoes": {
-      "A": "Custos baixos aplicados",
-      "B": "Preços visíveis aqui",
-      "C": "Descontos são raros",
-      "D": "Custos ocultos aplicam-se"
+      "A": "Venda mensal garantida",
+      "B": "Parcelas mensais disponíveis",
+      "C": "Pagamento mensal apenas",
+      "D": "Desconto mensal incluído"
     },
     "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Withdraw some cash'?",
+    "opcoes": {
+      "A": "Guardar o troco",
+      "B": "Pagar com notas",
+      "C": "Pedir um empréstimo",
+      "D": "Sacar algum dinheiro"
+    },
+    "numero": "17",
     "resposta_correta": "D"
   },
   {
@@ -2521,7 +2589,7 @@ export const quizBasico6 = [
       "C": "I need more cash",
       "D": "Give me the change"
     },
-    "numero": "17",
+    "numero": "18",
     "resposta_correta": "A"
   },
   {
@@ -2532,7 +2600,7 @@ export const quizBasico6 = [
       "C": "Qual é o preço?",
       "D": "Onde está a loja?"
     },
-    "numero": "18",
+    "numero": "19",
     "resposta_correta": "B"
   },
   {
@@ -2543,22 +2611,13 @@ export const quizBasico6 = [
       "C": "Where is the mall?",
       "D": "Is the mall open?"
     },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
-    "opcoes": {
-      "A": "Saldo da conta baixo",
-      "B": "Senha do banco errada",
-      "C": "Cartão bloqueado pelo banco",
-      "D": "Limite de saque atingido"
-    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico7 = [
+
+
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'A taxa é alta' em inglês?",
     "opcoes": {
@@ -2582,26 +2641,26 @@ export const quizBasico7 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Solicite um recibo novo' em inglês?",
+    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
     "opcoes": {
-      "A": "Need a small bill",
-      "B": "Request a new receipt",
-      "C": "Want some change back",
-      "D": "Find the paper now"
+      "A": "Cartão bloqueado pelo banco",
+      "B": "Saldo da conta baixo",
+      "C": "Senha do banco errada",
+      "D": "Limite de saque atingido"
     },
     "numero": "3",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual a tradução de 'Avoid high interest'?",
+    "pergunta": "Qual a tradução de 'Verify the bank balance'?",
     "opcoes": {
-      "A": "Pague taxas baixas hoje",
-      "B": "Busque descontos muito bons",
-      "C": "Economize seu dinheiro agora",
-      "D": "Evite juros altos"
+      "A": "Veja o saldo atual",
+      "B": "Verifique o saldo bancário",
+      "C": "Abra um novo banco",
+      "D": "Pague a conta bancária"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde está o departamento?' em inglês?",
@@ -2615,48 +2674,73 @@ export const quizBasico7 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Verify the bank balance'?",
+    "pergunta": "Como se diz 'Isto é um passivo' em inglês?",
     "opcoes": {
-      "A": "Veja o saldo atual",
-      "B": "Verifique o saldo bancário",
-      "C": "Abra um novo banco",
-      "D": "Pague a conta bancária"
+      "A": "This is a debt",
+      "B": "That is very bad",
+      "C": "This is a liability",
+      "D": "It is a cost"
     },
     "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Negocie melhores preços' em inglês?",
-    "opcoes": {
-      "A": "Talk about the money",
-      "B": "Want a better deal",
-      "C": "Negotiate better prices",
-      "D": "Change the payment plan"
-    },
-    "numero": "7",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Local currency only'?",
+    "pergunta": "Como se diz 'Solicite um recibo novo' em inglês?",
     "opcoes": {
-      "A": "Dinheiro em espécie apenas",
-      "B": "Aceitamos troco pequeno apenas",
-      "C": "Pagamento em dólar aqui",
-      "D": "Apenas moeda local"
+      "A": "Need a small bill",
+      "B": "Request a new receipt",
+      "C": "Want some change back",
+      "D": "Find the paper now"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Avoid high interest'?",
+    "opcoes": {
+      "A": "Pague taxas baixas hoje",
+      "B": "Busque descontos muito bons",
+      "C": "Economize seu dinheiro agora",
+      "D": "Evite juros altos"
     },
     "numero": "8",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'A transação foi negada' em inglês?",
+    "pergunta": "Qual a tradução de 'Keep the original packaging'?",
     "opcoes": {
-      "A": "Transaction was declined",
-      "B": "Payment was not good",
-      "C": "Money was not sent",
-      "D": "Card is not valid"
+      "A": "Traga a sacola original",
+      "B": "Mostre o produto novo",
+      "C": "Pague pela caixa extra",
+      "D": "Guarde a embalagem original"
     },
     "numero": "9",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O preço é alto' em inglês?",
+    "opcoes": {
+      "A": "The price is high",
+      "B": "The cost is big",
+      "C": "The value is long",
+      "D": "Price is very good"
+    },
+    "numero": "10",
     "resposta_correta": "A"
+  }
+];
+export const quizBasico014 = [
+ 
+  {
+    "pergunta": "Como se diz 'Abra sua conta' em inglês?",
+    "opcoes": {
+      "A": "Pay your bill",
+      "B": "Take your money",
+      "C": "Open your account",
+      "D": "Check your bank"
+    },
+    "numero": "11",
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Check current stock levels'?",
@@ -2666,30 +2750,8 @@ export const quizBasico7 = [
       "C": "Conte as sacolas novas",
       "D": "Compre produtos em falta"
     },
-    "numero": "10",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Isto é um passivo' em inglês?",
-    "opcoes": {
-      "A": "This is a debt",
-      "B": "That is very bad",
-      "C": "This is a liability",
-      "D": "It is a cost"
-    },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Authorized signature required'?",
-    "opcoes": {
-      "A": "Preciso de um cartão",
-      "B": "Pagamento não foi feito",
-      "C": "Venda autorizada agora",
-      "D": "Assinatura autorizada necessária"
-    },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Eu exijo um comprovante' em inglês?",
@@ -2703,6 +2765,28 @@ export const quizBasico7 = [
     "resposta_correta": "A"
   },
   {
+    "pergunta": "Qual a tradução de 'Authorized signature required'?",
+    "opcoes": {
+      "A": "Preciso de um cartão",
+      "B": "Pagamento não foi feito",
+      "C": "Venda autorizada agora",
+      "D": "Assinatura autorizada necessária"
+    },
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Negocie melhores preços' em inglês?",
+    "opcoes": {
+      "A": "Talk about the money",
+      "B": "Want a better deal",
+      "C": "Negotiate better prices",
+      "D": "Change the payment plan"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
     "pergunta": "Qual a tradução de 'This item is defective'?",
     "opcoes": {
       "A": "Isto é muito caro",
@@ -2710,40 +2794,29 @@ export const quizBasico7 = [
       "C": "A peça está vendida",
       "D": "O produto é novo"
     },
-    "numero": "14",
+    "numero": "16",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Abra sua conta' em inglês?",
+    "pergunta": "Qual a tradução de 'Local currency only'?",
     "opcoes": {
-      "A": "Pay your bill",
-      "B": "Take your money",
-      "C": "Open your account",
-      "D": "Check your bank"
+      "A": "Dinheiro em espécie apenas",
+      "B": "Aceitamos troco pequeno apenas",
+      "C": "Pagamento em dólar aqui",
+      "D": "Apenas moeda local"
     },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
-    "opcoes": {
-      "A": "Cartão bloqueado pelo banco",
-      "B": "Saldo da conta baixo",
-      "C": "Senha do banco errada",
-      "D": "Limite de saque atingido"
-    },
-    "numero": "16",
+    "numero": "17",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'O preço é alto' em inglês?",
+    "pergunta": "Como se diz 'A transação foi negada' em inglês?",
     "opcoes": {
-      "A": "The price is high",
-      "B": "The cost is big",
-      "C": "The value is long",
-      "D": "Price is very good"
+      "A": "Transaction was declined",
+      "B": "Payment was not good",
+      "C": "Money was not sent",
+      "D": "Card is not valid"
     },
-    "numero": "17",
+    "numero": "18",
     "resposta_correta": "A"
   },
   {
@@ -2754,7 +2827,7 @@ export const quizBasico7 = [
       "C": "Mude o plano bancário",
       "D": "Busque crédito novo"
     },
-    "numero": "18",
+    "numero": "19",
     "resposta_correta": "B"
   },
   {
@@ -2765,75 +2838,22 @@ export const quizBasico7 = [
       "C": "Cancel the subscription",
       "D": "Delete the account now"
     },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Keep the original packaging'?",
-    "opcoes": {
-      "A": "Traga a sacola original",
-      "B": "Mostre o produto novo",
-      "C": "Pague pela caixa extra",
-      "D": "Guarde a embalagem original"
-    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico8 = [
+
+
+export const quizBasico015 = [
   {
-    "pergunta": "Como se diz 'Aumente a receita' em inglês?",
+    "pergunta": "Como se diz 'Reduza as despesas' em inglês?",
     "opcoes": {
-      "A": "Grow the money",
-      "B": "Make more sales",
-      "C": "Increase the revenue",
-      "D": "Buy more stock"
+      "A": "Reduce the expenses",
+      "B": "Lower the prices",
+      "C": "Cut the costs",
+      "D": "Spend less money"
     },
     "numero": "1",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Verify transaction history'?",
-    "opcoes": {
-      "A": "Verifique o histórico transacional",
-      "B": "Veja os preços antigos",
-      "C": "Confira o saldo atual",
-      "D": "Pague a conta pendente"
-    },
-    "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'A transação falhou' em inglês?",
-    "opcoes": {
-      "A": "Payment was good",
-      "B": "Transaction has failed",
-      "C": "Card not working",
-      "D": "Money is gone"
-    },
-    "numero": "3",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual a tradução de 'This is a deficit'?",
-    "opcoes": {
-      "A": "Isto é um lucro",
-      "B": "Isso é um custo",
-      "C": "Isto é um valor",
-      "D": "Isto é um déficit"
-    },
-    "numero": "4",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Onde retiro o pedido?' em inglês?",
-    "opcoes": {
-      "A": "Where collect the order?",
-      "B": "Where is my bag?",
-      "C": "Find the store exit",
-      "D": "Is my box here?"
-    },
-    "numero": "5",
     "resposta_correta": "A"
   },
   {
@@ -2844,18 +2864,18 @@ export const quizBasico8 = [
       "C": "Confirme seu nome completo",
       "D": "Veja seu extrato mensal"
     },
-    "numero": "6",
+    "numero": "2",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Onde está a fatura?' em inglês?",
+    "pergunta": "Como se diz 'Aumente a receita' em inglês?",
     "opcoes": {
-      "A": "Where is the paper?",
-      "B": "Find the receipt",
-      "C": "Where is the invoice?",
-      "D": "Is the bill paid?"
+      "A": "Grow the money",
+      "B": "Make more sales",
+      "C": "Increase the revenue",
+      "D": "Buy more stock"
     },
-    "numero": "7",
+    "numero": "3",
     "resposta_correta": "C"
   },
   {
@@ -2866,18 +2886,51 @@ export const quizBasico8 = [
       "C": "Pague o valor total",
       "D": "Fundos estão bloqueados"
     },
-    "numero": "8",
+    "numero": "4",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'Reduza as despesas' em inglês?",
+    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
     "opcoes": {
-      "A": "Reduce the expenses",
-      "B": "Lower the prices",
-      "C": "Cut the costs",
-      "D": "Spend less money"
+      "A": "Saldo da conta baixo",
+      "B": "Senha do banco errada",
+      "C": "Cartão bloqueado pelo banco",
+      "D": "Limite de saque atingido"
     },
-    "numero": "9",
+    "numero": "5",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Onde está a fatura?' em inglês?",
+    "opcoes": {
+      "A": "Where is the paper?",
+      "B": "Find the receipt",
+      "C": "Where is the invoice?",
+      "D": "Is the bill paid?"
+    },
+    "numero": "6",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A transação falhou' em inglês?",
+    "opcoes": {
+      "A": "Payment was good",
+      "B": "Transaction has failed",
+      "C": "Card not working",
+      "D": "Money is gone"
+    },
+    "numero": "7",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Verify transaction history'?",
+    "opcoes": {
+      "A": "Verifique o histórico transacional",
+      "B": "Veja os preços antigos",
+      "C": "Confira o saldo atual",
+      "D": "Pague a conta pendente"
+    },
+    "numero": "8",
     "resposta_correta": "A"
   },
   {
@@ -2888,8 +2941,33 @@ export const quizBasico8 = [
       "C": "Pague com notas limpas",
       "D": "Conte as moedas novas"
     },
-    "numero": "10",
+    "numero": "9",
     "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Request financial assistance'?",
+    "opcoes": {
+      "A": "Pague a ajuda mensal",
+      "B": "Mude o plano bancário",
+      "C": "Busque crédito novo",
+      "D": "Solicite assistência financeira"
+    },
+    "numero": "10",
+    "resposta_correta": "D"
+  }
+];
+export const quizBasico016 = [
+  
+  {
+    "pergunta": "Como se diz 'Onde está o balcão?' em inglês?",
+    "opcoes": {
+      "A": "Where is the counter?",
+      "B": "Find the store shelf",
+      "C": "Which way is exit?",
+      "D": "Where is the desk?"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Assine o contrato' em inglês?",
@@ -2899,41 +2977,8 @@ export const quizBasico8 = [
       "C": "Sign the contract",
       "D": "Keep the document"
     },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Authorized merchants only'?",
-    "opcoes": {
-      "A": "Vendedores locais apenas",
-      "B": "Lojas abertas agora",
-      "C": "Clientes com cartão apenas",
-      "D": "Comerciantes autorizados apenas"
-    },
     "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Onde está o balcão?' em inglês?",
-    "opcoes": {
-      "A": "Where is the counter?",
-      "B": "Find the store shelf",
-      "C": "Which way is exit?",
-      "D": "Where is the desk?"
-    },
-    "numero": "13",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Monthly billing cycle'?",
-    "opcoes": {
-      "A": "Pagamento feito hoje",
-      "B": "Ciclo de faturamento mensal",
-      "C": "Conta de luz mensal",
-      "D": "Venda de estoque mensal"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde está o gerente?' em inglês?",
@@ -2943,18 +2988,62 @@ export const quizBasico8 = [
       "C": "Where is the manager?",
       "D": "Find the store head"
     },
-    "numero": "15",
+    "numero": "13",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
+    "pergunta": "Como se diz 'Onde retiro o pedido?' em inglês?",
     "opcoes": {
-      "A": "Saldo da conta baixo",
-      "B": "Senha do banco errada",
-      "C": "Cartão bloqueado pelo banco",
-      "D": "Limite de saque atingido"
+      "A": "Where collect the order?",
+      "B": "Where is my bag?",
+      "C": "Find the store exit",
+      "D": "Is my box here?"
+    },
+    "numero": "14",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Authorized merchants only'?",
+    "opcoes": {
+      "A": "Vendedores locais apenas",
+      "B": "Lojas abertas agora",
+      "C": "Clientes com cartão apenas",
+      "D": "Comerciantes autorizados apenas"
+    },
+    "numero": "15",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Monthly billing cycle'?",
+    "opcoes": {
+      "A": "Pagamento feito hoje",
+      "B": "Ciclo de faturamento mensal",
+      "C": "Conta de luz mensal",
+      "D": "Venda de estoque mensal"
     },
     "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Asset liquidation required'?",
+    "opcoes": {
+      "A": "Venda de estoque necessária",
+      "B": "Liquidação de ativos necessária",
+      "C": "Dinheiro em caixa livre",
+      "D": "Pagamento de juros altos"
+    },
+    "numero": "17",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This is a deficit'?",
+    "opcoes": {
+      "A": "Isto é um lucro",
+      "B": "Isso é um custo",
+      "C": "Isto é um valor",
+      "D": "Isto é um déficit"
+    },
+    "numero": "18",
     "resposta_correta": "D"
   },
   {
@@ -2965,19 +3054,8 @@ export const quizBasico8 = [
       "C": "I need more cash",
       "D": "Give me the change"
     },
-    "numero": "17",
+    "numero": "19",
     "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Asset liquidation required'?",
-    "opcoes": {
-      "A": "Venda de estoque necessária",
-      "B": "Liquidação de ativos necessária",
-      "C": "Dinheiro em caixa livre",
-      "D": "Pagamento de juros altos"
-    },
-    "numero": "18",
-    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Nós aceitamos cheques' em inglês?",
@@ -2987,22 +3065,13 @@ export const quizBasico8 = [
       "C": "We accept checks",
       "D": "Checks are not allowed"
     },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Request financial assistance'?",
-    "opcoes": {
-      "A": "Pague a ajuda mensal",
-      "B": "Mude o plano bancário",
-      "C": "Busque crédito novo",
-      "D": "Solicite assistência financeira"
-    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico9 = [
+
+
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'A fatura está vencida' em inglês?",
     "opcoes": {
@@ -3015,28 +3084,6 @@ export const quizBasico9 = [
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual a tradução de 'Claim a full refund'?",
-    "opcoes": {
-      "A": "Exija um reembolso total",
-      "B": "Peça um pequeno desconto",
-      "C": "Pague o valor exato",
-      "D": "Busque o troco agora"
-    },
-    "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'Onde retiro o pacote?' em inglês?",
-    "opcoes": {
-      "A": "Where is my bag?",
-      "B": "Find the store exit",
-      "C": "Where collect the parcel?",
-      "D": "Is my box here?"
-    },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
     "pergunta": "Qual a tradução de 'Manage your current liabilities'?",
     "opcoes": {
       "A": "Conte seus ativos novos",
@@ -3044,30 +3091,19 @@ export const quizBasico9 = [
       "C": "Busque crédito no banco",
       "D": "Gerencie seus passivos atuais"
     },
-    "numero": "4",
+    "numero": "2",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'O saldo está insuficiente' em inglês?",
+    "pergunta": "Qual a tradução de 'Claim a full refund'?",
     "opcoes": {
-      "A": "Balance is insufficient",
-      "B": "Account is now empty",
-      "C": "Money is not enough",
-      "D": "Funds are very low"
+      "A": "Exija um reembolso total",
+      "B": "Peça um pequeno desconto",
+      "C": "Pague o valor exato",
+      "D": "Busque o troco agora"
     },
-    "numero": "5",
+    "numero": "3",
     "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Submit the financial report'?",
-    "opcoes": {
-      "A": "Leia o relatório anual",
-      "B": "Envie o relatório financeiro",
-      "C": "Veja os custos totais",
-      "D": "Pague a conta final"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Cancele a assinatura' em inglês?",
@@ -3077,8 +3113,30 @@ export const quizBasico9 = [
       "C": "Cancel the subscription",
       "D": "Delete the account now"
     },
-    "numero": "7",
+    "numero": "4",
     "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Submit the financial report'?",
+    "opcoes": {
+      "A": "Leia o relatório anual",
+      "B": "Envie o relatório financeiro",
+      "C": "Veja os custos totais",
+      "D": "Pague a conta final"
+    },
+    "numero": "5",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O saldo está insuficiente' em inglês?",
+    "opcoes": {
+      "A": "Balance is insufficient",
+      "B": "Account is now empty",
+      "C": "Money is not enough",
+      "D": "Funds are very low"
+    },
+    "numero": "6",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Verify account ownership'?",
@@ -3088,19 +3146,30 @@ export const quizBasico9 = [
       "C": "Veja o saldo bancário",
       "D": "Verifique a titularidade"
     },
-    "numero": "8",
+    "numero": "7",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'Negocie melhores termos' em inglês?",
+    "pergunta": "Como se diz 'Onde retiro o pacote?' em inglês?",
     "opcoes": {
-      "A": "Negotiate better terms",
-      "B": "Talk about the price",
-      "C": "Want a better deal",
-      "D": "Change the payment plan"
+      "A": "Where is my bag?",
+      "B": "Find the store exit",
+      "C": "Where collect the parcel?",
+      "D": "Is my box here?"
+    },
+    "numero": "8",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Protect your digital assets'?",
+    "opcoes": {
+      "A": "Mude suas senhas agora",
+      "B": "Compre moedas virtuais hoje",
+      "C": "Limpe seus dados antigos",
+      "D": "Proteja seus ativos digitais"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Check for counterfeit notes'?",
@@ -3112,6 +3181,20 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
+  }
+];
+export const quizBasico018 = [
+  
+  {
+    "pergunta": "Como se diz 'Negocie melhores termos' em inglês?",
+    "opcoes": {
+      "A": "Negotiate better terms",
+      "B": "Talk about the price",
+      "C": "Want a better deal",
+      "D": "Change the payment plan"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A transação foi aprovada' em inglês?",
@@ -3121,8 +3204,19 @@ export const quizBasico9 = [
       "C": "Transaction was approved",
       "D": "Money is here"
     },
-    "numero": "11",
+    "numero": "12",
     "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Update your billing address'?",
+    "opcoes": {
+      "A": "Mude sua senha bancária",
+      "B": "Atualize o endereço cobrança",
+      "C": "Confirme seu nome completo",
+      "D": "Veja seu extrato mensal"
+    },
+    "numero": "13",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Withdrawal limit reached'?",
@@ -3132,7 +3226,7 @@ export const quizBasico9 = [
       "C": "Cartão bloqueado pelo banco",
       "D": "Limite de saque atingido"
     },
-    "numero": "12",
+    "numero": "14",
     "resposta_correta": "D"
   },
   {
@@ -3143,19 +3237,8 @@ export const quizBasico9 = [
       "C": "Make more sales",
       "D": "Buy more stock"
     },
-    "numero": "13",
+    "numero": "15",
     "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Update your billing address'?",
-    "opcoes": {
-      "A": "Mude sua senha bancária",
-      "B": "Atualize o endereço cobrança",
-      "C": "Confirme seu nome completo",
-      "D": "Veja seu extrato mensal"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde está o fornecedor?' em inglês?",
@@ -3165,7 +3248,7 @@ export const quizBasico9 = [
       "C": "Where is the supplier?",
       "D": "Find the delivery man"
     },
-    "numero": "15",
+    "numero": "16",
     "resposta_correta": "C"
   },
   {
@@ -3176,19 +3259,8 @@ export const quizBasico9 = [
       "C": "Economize seu dinheiro agora",
       "D": "Evite gastos excessivos"
     },
-    "numero": "16",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Eu exijo um recibo' em inglês?",
-    "opcoes": {
-      "A": "I demand a receipt",
-      "B": "I want the paper",
-      "C": "Need a bill now",
-      "D": "Give me the proof"
-    },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Monthly billing cycle'?",
@@ -3213,38 +3285,30 @@ export const quizBasico9 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Protect your digital assets'?",
+    "pergunta": "Como se diz 'Eu exijo um recibo' em inglês?",
     "opcoes": {
-      "A": "Mude suas senhas agora",
-      "B": "Compre moedas virtuais hoje",
-      "C": "Limpe seus dados antigos",
-      "D": "Proteja seus ativos digitais"
+      "A": "I demand a receipt",
+      "B": "I want the paper",
+      "C": "Need a bill now",
+      "D": "Give me the proof"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   }
 ];
-export const quizBasico10 = [
+
+
+
+export const quizBasico019 = [
   {
-    "pergunta": "Como se diz 'O déficit é preocupante' em inglês?",
+    "pergunta": "Como se diz 'Eu nego a cobrança' em inglês?",
     "opcoes": {
-      "A": "The debt is high",
-      "B": "The deficit is worrying",
-      "C": "Money is very low",
-      "D": "Cost is not good"
+      "A": "I dispute the charge",
+      "B": "I want no bill",
+      "C": "Stop the payment now",
+      "D": "Take the money back"
     },
     "numero": "1",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Verify the payment status'?",
-    "opcoes": {
-      "A": "Verifique o status pagamento",
-      "B": "Veja o preço agora",
-      "C": "Pague a conta hoje",
-      "D": "Confira o saldo bancário"
-    },
-    "numero": "2",
     "resposta_correta": "A"
   },
   {
@@ -3255,7 +3319,7 @@ export const quizBasico10 = [
       "C": "Increase the profit margin",
       "D": "Get better price today"
     },
-    "numero": "3",
+    "numero": "2",
     "resposta_correta": "C"
   },
   {
@@ -3266,19 +3330,19 @@ export const quizBasico10 = [
       "C": "Busque descontos em taxas",
       "D": "Impostos não-pagos permanecem vencidos"
     },
-    "numero": "4",
+    "numero": "3",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'Reduza as despesas operacionais' em inglês?",
+    "pergunta": "Como se diz 'O déficit é preocupante' em inglês?",
     "opcoes": {
-      "A": "Reduce the operating expenses",
-      "B": "Lower the shop costs",
-      "C": "Cut the daily spend",
-      "D": "Pay less for items"
+      "A": "The debt is high",
+      "B": "The deficit is worrying",
+      "C": "Money is very low",
+      "D": "Cost is not good"
     },
-    "numero": "5",
-    "resposta_correta": "A"
+    "numero": "4",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Liquidate all current assets'?",
@@ -3288,8 +3352,30 @@ export const quizBasico10 = [
       "C": "Pague as contas pendentes",
       "D": "Mude o plano financeiro"
     },
-    "numero": "6",
+    "numero": "5",
     "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Check your credit limit'?",
+    "opcoes": {
+      "A": "Veja seu saldo total",
+      "B": "Pague seu cartão hoje",
+      "C": "Aumente seus gastos mensais",
+      "D": "Verifique seu limite crédito"
+    },
+    "numero": "6",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Verify the payment status'?",
+    "opcoes": {
+      "A": "Verifique o status pagamento",
+      "B": "Veja o preço agora",
+      "C": "Pague a conta hoje",
+      "D": "Confira o saldo bancário"
+    },
+    "numero": "7",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde está o extrato?' em inglês?",
@@ -3299,9 +3385,34 @@ export const quizBasico10 = [
       "C": "Where is the statement?",
       "D": "Is the account open?"
     },
-    "numero": "7",
+    "numero": "8",
     "resposta_correta": "C"
   },
+  {
+    "pergunta": "Como se diz 'Assine este documento financeiro' em inglês?",
+    "opcoes": {
+      "A": "Write the bank paper",
+      "B": "Keep the money record",
+      "C": "Sign this financial document",
+      "D": "End the deal now"
+    },
+    "numero": "9",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Reduza as despesas operacionais' em inglês?",
+    "opcoes": {
+      "A": "Reduce the operating expenses",
+      "B": "Lower the shop costs",
+      "C": "Cut the daily spend",
+      "D": "Pay less for items"
+    },
+    "numero": "10",
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico020 = [
+  
   {
     "pergunta": "Qual a tradução de 'Fixed interest rates apply'?",
     "opcoes": {
@@ -3310,19 +3421,8 @@ export const quizBasico10 = [
       "C": "Pagamentos mensais disponíveis agora",
       "D": "Taxas juros fixas aplicam-se"
     },
-    "numero": "8",
+    "numero": "11",
     "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Eu nego a cobrança' em inglês?",
-    "opcoes": {
-      "A": "I dispute the charge",
-      "B": "I want no bill",
-      "C": "Stop the payment now",
-      "D": "Take the money back"
-    },
-    "numero": "9",
-    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Check the exchange rate'?",
@@ -3332,19 +3432,19 @@ export const quizBasico10 = [
       "C": "Pague a taxa extra",
       "D": "Veja o preço internacional"
     },
-    "numero": "10",
+    "numero": "12",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Negocie um desconto maior' em inglês?",
+    "pergunta": "Como se diz 'Onde retiro o recibo?' em inglês?",
     "opcoes": {
-      "A": "Want a better price",
-      "B": "Talk about the money",
-      "C": "Negotiate a bigger discount",
-      "D": "Ask for lower cost"
+      "A": "Where collect the receipt?",
+      "B": "Find the small bill",
+      "C": "Where is the paper?",
+      "D": "Is the bill here?"
     },
-    "numero": "11",
-    "resposta_correta": "C"
+    "numero": "13",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Funds transfer was successful'?",
@@ -3354,7 +3454,40 @@ export const quizBasico10 = [
       "C": "Pague o valor total",
       "D": "Transferência fundos foi bem-sucedida"
     },
-    "numero": "12",
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Negocie um desconto maior' em inglês?",
+    "opcoes": {
+      "A": "Want a better price",
+      "B": "Talk about the money",
+      "C": "Negotiate a bigger discount",
+      "D": "Ask for lower cost"
+    },
+    "numero": "15",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Annual revenue has increased'?",
+    "opcoes": {
+      "A": "Vendas mensais subiram muito",
+      "B": "Receita anual aumentou",
+      "C": "Custos totais estão baixos",
+      "D": "Relatório financeiro pronto agora"
+    },
+    "numero": "16",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Total amount including tax'?",
+    "opcoes": {
+      "A": "Preço final sem taxas",
+      "B": "Valor da conta paga",
+      "C": "Desconto total aplicado agora",
+      "D": "Valor total incluindo imposto"
+    },
+    "numero": "17",
     "resposta_correta": "D"
   },
   {
@@ -3365,51 +3498,7 @@ export const quizBasico10 = [
       "C": "Money is sent now",
       "D": "Card is valid here"
     },
-    "numero": "13",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Annual revenue has increased'?",
-    "opcoes": {
-      "A": "Vendas mensais subiram muito",
-      "B": "Receita anual aumentou",
-      "C": "Custos totais estão baixos",
-      "D": "Relatório financeiro pronto agora"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Solicite assistência financeira' em inglês?",
-    "opcoes": {
-      "A": "Need some bank help",
-      "B": "Want a new loan",
-      "C": "Request financial assistance",
-      "D": "Find a credit plan"
-    },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Total amount including tax'?",
-    "opcoes": {
-      "A": "Preço final sem taxas",
-      "B": "Valor da conta paga",
-      "C": "Desconto total aplicado agora",
-      "D": "Valor total incluindo imposto"
-    },
-    "numero": "16",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Onde retiro o recibo?' em inglês?",
-    "opcoes": {
-      "A": "Where collect the receipt?",
-      "B": "Find the small bill",
-      "C": "Where is the paper?",
-      "D": "Is the bill here?"
-    },
-    "numero": "17",
+    "numero": "18",
     "resposta_correta": "A"
   },
   {
@@ -3420,46 +3509,79 @@ export const quizBasico10 = [
       "C": "Veja os gastos anuais",
       "D": "Mude a data cobrança"
     },
-    "numero": "18",
+    "numero": "19",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como se diz 'Assine este documento financeiro' em inglês?",
+    "pergunta": "Como se diz 'Solicite assistência financeira' em inglês?",
     "opcoes": {
-      "A": "Write the bank paper",
-      "B": "Keep the money record",
-      "C": "Sign this financial document",
-      "D": "End the deal now"
-    },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Check your credit limit'?",
-    "opcoes": {
-      "A": "Veja seu saldo total",
-      "B": "Pague seu cartão hoje",
-      "C": "Aumente seus gastos mensais",
-      "D": "Verifique seu limite crédito"
+      "A": "Need some bank help",
+      "B": "Want a new loan",
+      "C": "Request financial assistance",
+      "D": "Find a credit plan"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
 
 /*-----------------------intermediario--------------------------------*/
 
 
-export const quizIntermediario1 = [
+export const quizIntermediario01 = [
+  {
+    "pergunta": "Qual a tradução de 'I lack enough funds'?",
+    "opcoes": {
+      "A": "Perdi meus cartões novos",
+      "B": "Preciso de mais troco",
+      "C": "Quero um empréstimo alto",
+      "D": "Faltam-me fundos suficientes"
+    },
+    "numero": "1",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This is an asset'?",
+    "opcoes": {
+      "A": "Isto é uma dívida",
+      "B": "Isto é um ativo",
+      "C": "Isso é um custo",
+      "D": "Aquilo é um prejuízo"
+    },
+    "numero": "2",
+    "resposta_correta": "B"
+  },
   {
     "pergunta": "Como se diz 'Solicite um estorno imediato' em inglês?",
     "opcoes": {
-      "A": "Ask for fast money",
+      "A": "Request an immediate chargeback",
       "B": "Need a quick discount",
-      "C": "Request an immediate chargeback",
+      "C": "Ask for fast money",
       "D": "Want my cash back"
     },
-    "numero": "1",
+    "numero": "3",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'O saldo está bloqueado' em inglês?",
+    "opcoes": {
+      "A": "Account has no money",
+      "B": "Bank is now closed",
+      "C": "The balance is frozen",
+      "D": "Money is currently gone"
+    },
+    "numero": "4",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A inflação reduziu lucros' em inglês?",
+    "opcoes": {
+      "A": "Prices were very high",
+      "B": "Costs are going up",
+      "C": "Inflation squeezed profit margins",
+      "D": "Money lost its value"
+    },
+    "numero": "5",
     "resposta_correta": "C"
   },
   {
@@ -3470,19 +3592,8 @@ export const quizIntermediario1 = [
       "C": "Ele aumentou os custos",
       "D": "Ele assinou os boletos"
     },
-    "numero": "2",
+    "numero": "6",
     "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'O investimento rendeu juros' em inglês?",
-    "opcoes": {
-      "A": "Money was very good",
-      "B": "Investment earned interest",
-      "C": "The bank saved money",
-      "D": "Profit was quite low"
-    },
-    "numero": "3",
-    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Avoid high interest rates'?",
@@ -3492,7 +3603,87 @@ export const quizIntermediario1 = [
       "C": "Calcule o valor bruto",
       "D": "Evite altas taxas juros"
     },
-    "numero": "4",
+    "numero": "7",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O investimento rendeu juros' em inglês?",
+    "opcoes": {
+      "A": "Money was very good",
+      "B": "Investment earned interest",
+      "C": "The bank saved money",
+      "D": "Profit was quite low"
+    },
+    "numero": "8",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Verify the invoice details'?",
+    "opcoes": {
+      "A": "Pague a conta agora",
+      "B": "Verifique detalhes da fatura",
+      "C": "Veja o preço final",
+      "D": "Assine o recibo mensal"
+    },
+    "numero": "9",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Withdrawal limits apply'?",
+    "opcoes": {
+      "A": "Saques permitidos todo dia",
+      "B": "Cartão bloqueado pelo banco",
+      "C": "Taxas de saque baixas",
+      "D": "Limites de saque aplicam-se"
+    },
+    "numero": "10",
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario02 = [
+  
+  {
+    "pergunta": "Como se diz 'Liquide todas as dívidas' em inglês?",
+    "opcoes": {
+      "A": "Settle all outstanding debts",
+      "B": "Pay the small bills",
+      "C": "Change the credit plan",
+      "D": "End the money problem"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Exija um comprovante fiscal' em inglês?",
+    "opcoes": {
+      "A": "Need the shop paper",
+      "B": "Show me the money",
+      "C": "Demand a tax receipt",
+      "D": "Ask for the bill"
+    },
+    "numero": "12",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Currency exchange fluctuating'?",
+    "opcoes": {
+      "A": "Dinheiro está acabando rápido",
+      "B": "Câmbio de moeda oscilando",
+      "C": "Troco disponível no caixa",
+      "D": "Banco de moedas fechado"
+    },
+    "numero": "13",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Provide financial statements'?",
+    "opcoes": {
+      "A": "Abra contas bancárias novas",
+      "B": "Pague os juros anuais",
+      "C": "Veja o saldo atual",
+      "D": "Forneça os extratos financeiros"
+    },
+    "numero": "14",
     "resposta_correta": "D"
   },
   {
@@ -3503,151 +3694,8 @@ export const quizIntermediario1 = [
       "C": "Where is the mall?",
       "D": "Is that my purchase?"
     },
-    "numero": "5",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'This is an asset'?",
-    "opcoes": {
-      "A": "Isto é uma dívida",
-      "B": "Isto é um ativo",
-      "C": "Isso é um custo",
-      "D": "Aquilo é um prejuízo"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'O saldo está bloqueado' em inglês?",
-    "opcoes": {
-      "A": "Account has no money",
-      "B": "Bank is now closed",
-      "C": "The balance is frozen",
-      "D": "Money is currently gone"
-    },
-    "numero": "7",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'I lack enough funds'?",
-    "opcoes": {
-      "A": "Perdi meus cartões novos",
-      "B": "Preciso de mais troco",
-      "C": "Quero um empréstimo alto",
-      "D": "Faltam-me fundos suficientes"
-    },
-    "numero": "8",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Liquide todas as dívidas' em inglês?",
-    "opcoes": {
-      "A": "Settle all outstanding debts",
-      "B": "Pay the small bills",
-      "C": "Change the credit plan",
-      "D": "End the money problem"
-    },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Verify the invoice details'?",
-    "opcoes": {
-      "A": "Pague a conta agora",
-      "B": "Verifique detalhes da fatura",
-      "C": "Veja o preço final",
-      "D": "Assine o recibo mensal"
-    },
-    "numero": "10",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'A inflação reduziu lucros' em inglês?",
-    "opcoes": {
-      "A": "Prices were very high",
-      "B": "Costs are going up",
-      "C": "Inflation squeezed profit margins",
-      "D": "Money lost its value"
-    },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Withdrawal limits apply'?",
-    "opcoes": {
-      "A": "Saques permitidos todo dia",
-      "B": "Cartão bloqueado pelo banco",
-      "C": "Taxas de saque baixas",
-      "D": "Limites de saque aplicam-se"
-    },
-    "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Negocie um preço melhor' em inglês?",
-    "opcoes": {
-      "A": "Bargain for better price",
-      "B": "Pay the total amount",
-      "C": "Want a small discount",
-      "D": "Give me some change"
-    },
-    "numero": "13",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Currency exchange fluctuating'?",
-    "opcoes": {
-      "A": "Dinheiro está acabando rápido",
-      "B": "Câmbio de moeda oscilando",
-      "C": "Troco disponível no caixa",
-      "D": "Banco de moedas fechado"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Exija um comprovante fiscal' em inglês?",
-    "opcoes": {
-      "A": "Need the shop paper",
-      "B": "Show me the money",
-      "C": "Demand a tax receipt",
-      "D": "Ask for the bill"
-    },
     "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'This is counterfeit currency'?",
-    "opcoes": {
-      "A": "Este dinheiro é real",
-      "B": "Aquelas notas são velhas",
-      "C": "Este valor está correto",
-      "D": "Isto é moeda falsa"
-    },
-    "numero": "16",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'A transação está pendente' em inglês?",
-    "opcoes": {
-      "A": "The transaction is pending",
-      "B": "Payment was already made",
-      "C": "Card has many errors",
-      "D": "Sale is finally over"
-    },
-    "numero": "17",
     "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Monthly installments available'?",
-    "opcoes": {
-      "A": "Preço fixo por mês",
-      "B": "Parcelas mensais disponíveis",
-      "C": "Contas pagas todo mês",
-      "D": "Vendas de estoque anuais"
-    },
-    "numero": "18",
-    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
@@ -3657,32 +3705,65 @@ export const quizIntermediario1 = [
       "C": "Where is the customs?",
       "D": "Find the airport exit"
     },
-    "numero": "19",
+    "numero": "16",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Provide financial statements'?",
+    "pergunta": "Como se diz 'Negocie um preço melhor' em inglês?",
     "opcoes": {
-      "A": "Abra contas bancárias novas",
-      "B": "Pague os juros anuais",
-      "C": "Veja o saldo atual",
-      "D": "Forneça os extratos financeiros"
+      "A": "Bargain for better price",
+      "B": "Pay the total amount",
+      "C": "Want a discount",
+      "D": "Give me some change"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This is counterfeit currency'?",
+    "opcoes": {
+      "A": "Este dinheiro é real",
+      "B": "Aquelas notas são velhas",
+      "C": "Este valor está correto",
+      "D": "Isto é moeda falsa"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Monthly installments available'?",
+    "opcoes": {
+      "A": "Preço fixo por mês",
+      "B": "Parcelas mensais disponíveis",
+      "C": "Contas pagas todo mês",
+      "D": "Vendas de estoque anuais"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A transação está pendente' em inglês?",
+    "opcoes": {
+      "A": "Payment was already made",
+      "B": "Card has many errors",
+      "C": "The transaction is pending",
+      "D": "Sale is finally over"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario2 = [
+export const quizIntermediario03 = [
   {
-    "pergunta": "Como se diz 'O orçamento está apertado' em inglês?",
+    "pergunta": "Como se diz 'Houve uma queda abrupta' em inglês?",
     "opcoes": {
-      "A": "The price is small",
-      "B": "The budget is tight",
-      "C": "Money is not here",
-      "D": "Costs are very low"
+      "A": "Prices are lower now",
+      "B": "Market is very bad",
+      "C": "There was sharp decline",
+      "D": "Sales stopped suddenly"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'He endorsed the check'?",
@@ -3696,17 +3777,6 @@ export const quizIntermediario2 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Houve uma queda abrupta' em inglês?",
-    "opcoes": {
-      "A": "Prices are lower now",
-      "B": "Market is very bad",
-      "C": "There was sharp decline",
-      "D": "Sales stopped suddenly"
-    },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
     "pergunta": "Qual a tradução de 'Calculate the net worth'?",
     "opcoes": {
       "A": "Veja o valor bruto",
@@ -3714,8 +3784,19 @@ export const quizIntermediario2 = [
       "C": "Pague a taxa anual",
       "D": "Calcule o patrimônio líquido"
     },
-    "numero": "4",
+    "numero": "3",
     "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'O orçamento está apertado' em inglês?",
+    "opcoes": {
+      "A": "The price is small",
+      "B": "The budget is tight",
+      "C": "Money is not here",
+      "D": "Costs are very low"
+    },
+    "numero": "4",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'A mercadoria está danificada' em inglês?",
@@ -3729,6 +3810,17 @@ export const quizIntermediario2 = [
     "resposta_correta": "A"
   },
   {
+    "pergunta": "Qual a tradução de 'Review the purchase order'?",
+    "opcoes": {
+      "A": "Mude o plano mensal",
+      "B": "Pague o boleto agora",
+      "C": "Veja os preços novos",
+      "D": "Revise o pedido compra"
+    },
+    "numero": "6",
+    "resposta_correta": "D"
+  },
+  {
     "pergunta": "Qual a tradução de 'This price is negotiable'?",
     "opcoes": {
       "A": "O valor está fixo",
@@ -3736,7 +3828,7 @@ export const quizIntermediario2 = [
       "C": "Custo total foi pago",
       "D": "Venda encerrada com sucesso"
     },
-    "numero": "6",
+    "numero": "7",
     "resposta_correta": "B"
   },
   {
@@ -3747,30 +3839,8 @@ export const quizIntermediario2 = [
       "C": "Request detailed statement",
       "D": "Get your account info"
     },
-    "numero": "7",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Review the purchase order'?",
-    "opcoes": {
-      "A": "Mude o plano mensal",
-      "B": "Pague o boleto agora",
-      "C": "Veja os preços novos",
-      "D": "Revise o pedido compra"
-    },
     "numero": "8",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Evite gastos supérfluos' em inglês?",
-    "opcoes": {
-      "A": "Avoid superfluous spending",
-      "B": "Don't buy many things",
-      "C": "Stop the high costs",
-      "D": "Keep your money safe"
-    },
-    "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Overdue payments accrue interest'?",
@@ -3780,19 +3850,8 @@ export const quizIntermediario2 = [
       "C": "Contas mensais estão altas",
       "D": "Taxas bancárias foram isentas"
     },
-    "numero": "10",
+    "numero": "9",
     "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'A transação foi estornada' em inglês?",
-    "opcoes": {
-      "A": "Payment was not sent",
-      "B": "Card was blocked here",
-      "C": "Transaction was reversed",
-      "D": "Money is finally back"
-    },
-    "numero": "11",
-    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Check for hidden fees'?",
@@ -3802,19 +3861,44 @@ export const quizIntermediario2 = [
       "C": "Veja o preço bruto",
       "D": "Verifique taxas ocultas"
     },
-    "numero": "12",
+    "numero": "10",
     "resposta_correta": "D"
+  }
+];
+export const quizIntermediario04 = [
+ 
+  {
+    "pergunta": "Como se diz 'Evite gastos supérfluos' em inglês?",
+    "opcoes": {
+      "A": "Avoid superfluous spending",
+      "B": "Don't buy many things",
+      "C": "Stop the high costs",
+      "D": "Keep your money safe"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
   },
   {
-    "pergunta": "Como se diz 'Eu exijo um recibo' em inglês?",
+    "pergunta": "Como se diz 'A transação foi estornada' em inglês?",
     "opcoes": {
-      "A": "I demand a receipt",
-      "B": "Give me the paper",
-      "C": "I want some proof",
-      "D": "Need a bill now"
+      "A": "Payment was not sent",
+      "B": "Card was blocked here",
+      "C": "Transaction was reversed",
+      "D": "Money is finally back"
+    },
+    "numero": "12",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Avoid excessive credit debt'?",
+    "opcoes": {
+      "A": "Pague o cartão mensal",
+      "B": "Limpe seu nome hoje",
+      "C": "Busque juros mais baixos",
+      "D": "Evite dívida crédito excessiva"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'This represents a liability'?",
@@ -3839,25 +3923,14 @@ export const quizIntermediario2 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Ensure financial stability'?",
+    "pergunta": "Como se diz 'Eu exijo um recibo' em inglês?",
     "opcoes": {
-      "A": "Guarde seu dinheiro hoje",
-      "B": "Mude seus investimentos agora",
-      "C": "Pague suas contas anuais",
-      "D": "Garanta a estabilidade financeira"
+      "A": "I demand a receipt",
+      "B": "Give me the paper",
+      "C": "I want some proof",
+      "D": "Need a bill now"
     },
     "numero": "16",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Aumente a receita anual' em inglês?",
-    "opcoes": {
-      "A": "Increase the annual revenue",
-      "B": "Make more yearly sales",
-      "C": "Grow the company money",
-      "D": "Get more profit now"
-    },
-    "numero": "17",
     "resposta_correta": "A"
   },
   {
@@ -3868,8 +3941,30 @@ export const quizIntermediario2 = [
       "C": "Custos totais estão bons",
       "D": "Vendas grandes geram lucro"
     },
-    "numero": "18",
+    "numero": "17",
     "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Ensure financial stability'?",
+    "opcoes": {
+      "A": "Guarde seu dinheiro hoje",
+      "B": "Mude seus investimentos agora",
+      "C": "Pague suas contas anuais",
+      "D": "Garanta a estabilidade financeira"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Aumente a receita anual' em inglês?",
+    "opcoes": {
+      "A": "Increase the annual revenue",
+      "B": "Make more yearly sales",
+      "C": "Grow the company money",
+      "D": "Get more profit now"
+    },
+    "numero": "19",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde está o gerente?' em inglês?",
@@ -3879,22 +3974,11 @@ export const quizIntermediario2 = [
       "C": "Where is the manager?",
       "D": "Is the owner here?"
     },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Avoid excessive credit debt'?",
-    "opcoes": {
-      "A": "Pague o cartão mensal",
-      "B": "Limpe seu nome hoje",
-      "C": "Busque juros mais baixos",
-      "D": "Evite dívida crédito excessiva"
-    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A taxa é reembolsável' em inglês?",
     "opcoes": {
@@ -3907,28 +3991,6 @@ export const quizIntermediario3 = [
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual a tradução de 'He settled the balance'?",
-    "opcoes": {
-      "A": "Ele liquidou o saldo",
-      "B": "Ele viu o extrato",
-      "C": "Ele perdeu o cartão",
-      "D": "Ele abriu a conta"
-    },
-    "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'Houve uma quebra contratual' em inglês?",
-    "opcoes": {
-      "A": "The paper is broken",
-      "B": "No more legal deals",
-      "C": "There was contract breach",
-      "D": "The sign was wrong"
-    },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
     "pergunta": "Qual a tradução de 'Evaluate the market value'?",
     "opcoes": {
       "A": "Veja o preço baixo",
@@ -3936,7 +3998,7 @@ export const quizIntermediario3 = [
       "C": "Venda os itens agora",
       "D": "Avalie o valor mercado"
     },
-    "numero": "4",
+    "numero": "2",
     "resposta_correta": "D"
   },
   {
@@ -3947,19 +4009,30 @@ export const quizIntermediario3 = [
       "C": "Buy only safe things",
       "D": "Stop the bad deals"
     },
-    "numero": "5",
+    "numero": "3",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'The debt is outstanding'?",
+    "pergunta": "Como se diz 'Houve uma quebra contratual' em inglês?",
     "opcoes": {
-      "A": "A dívida é ótima",
-      "B": "A dívida está pendente",
-      "C": "O lucro é alto",
-      "D": "A conta foi paga"
+      "A": "The paper is broken",
+      "B": "No more legal deals",
+      "C": "There was contract breach",
+      "D": "The sign was wrong"
     },
-    "numero": "6",
-    "resposta_correta": "B"
+    "numero": "4",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He settled the balance'?",
+    "opcoes": {
+      "A": "Ele liquidou o saldo",
+      "B": "Ele viu o extrato",
+      "C": "Ele perdeu o cartão",
+      "D": "Ele abriu a conta"
+    },
+    "numero": "5",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde retiro o recibo?' em inglês?",
@@ -3969,7 +4042,7 @@ export const quizIntermediario3 = [
       "C": "Where collect the receipt?",
       "D": "Is my proof here?"
     },
-    "numero": "7",
+    "numero": "6",
     "resposta_correta": "C"
   },
   {
@@ -3980,19 +4053,19 @@ export const quizIntermediario3 = [
       "C": "Veja o saldo atual",
       "D": "Autorize a transferência eletrônica"
     },
-    "numero": "8",
+    "numero": "7",
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Como se diz 'Reduza os custos fixos' em inglês?",
+    "pergunta": "Qual a tradução de 'The debt is outstanding'?",
     "opcoes": {
-      "A": "Reduce the fixed costs",
-      "B": "Lower the monthly spend",
-      "C": "Change the price tag",
-      "D": "Cut the total value"
+      "A": "A dívida é ótima",
+      "B": "A dívida está pendente",
+      "C": "O lucro é alto",
+      "D": "A conta foi paga"
     },
-    "numero": "9",
-    "resposta_correta": "A"
+    "numero": "8",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'This incurs additional charges'?",
@@ -4002,19 +4075,8 @@ export const quizIntermediario3 = [
       "C": "Isso reduz o custo",
       "D": "Aquilo é um bônus"
     },
-    "numero": "10",
+    "numero": "9",
     "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'A inflação está subindo' em inglês?",
-    "opcoes": {
-      "A": "Prices are very high",
-      "B": "Money is losing value",
-      "C": "Inflation is rising",
-      "D": "Costs are growing fast"
-    },
-    "numero": "11",
-    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Monitor your credit score'?",
@@ -4024,9 +4086,12 @@ export const quizIntermediario3 = [
       "C": "Busque juros mais baixos",
       "D": "Monitore sua pontuação crédito"
     },
-    "numero": "12",
+    "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario06 = [
+  
   {
     "pergunta": "Como se diz 'Eu exijo um reembolso' em inglês?",
     "opcoes": {
@@ -4035,8 +4100,30 @@ export const quizIntermediario3 = [
       "C": "Need my cash now",
       "D": "Give me the discount"
     },
-    "numero": "13",
+    "numero": "11",
     "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'A inflação está subindo' em inglês?",
+    "opcoes": {
+      "A": "Prices are very high",
+      "B": "Money is losing value",
+      "C": "Inflation is rising",
+      "D": "Costs are growing fast"
+    },
+    "numero": "12",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Maintain accurate financial records'?",
+    "opcoes": {
+      "A": "Guarde seus recibos velhos",
+      "B": "Mude seus dados bancários",
+      "C": "Veja seu lucro anual",
+      "D": "Mantenha registros financeiros precisos"
+    },
+    "numero": "13",
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Verify the merchant identity'?",
@@ -4061,17 +4148,6 @@ export const quizIntermediario3 = [
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Assets exceed current liabilities'?",
-    "opcoes": {
-      "A": "Dívidas são maiores hoje",
-      "B": "Lucros cobrem os gastos",
-      "C": "Contas mensais estão altas",
-      "D": "Ativos excedem passivos atuais"
-    },
-    "numero": "16",
-    "resposta_correta": "D"
-  },
-  {
     "pergunta": "Como se diz 'Solicite um orçamento formal' em inglês?",
     "opcoes": {
       "A": "Request a formal quote",
@@ -4079,7 +4155,7 @@ export const quizIntermediario3 = [
       "C": "Want a serious deal",
       "D": "Ask for total cost"
     },
-    "numero": "17",
+    "numero": "16",
     "resposta_correta": "A"
   },
   {
@@ -4090,8 +4166,30 @@ export const quizIntermediario3 = [
       "C": "Os preços foram alterados",
       "D": "O produto acabou agora"
     },
-    "numero": "18",
+    "numero": "17",
     "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Assets exceed current liabilities'?",
+    "opcoes": {
+      "A": "Dívidas são maiores hoje",
+      "B": "Lucros cobrem os gastos",
+      "C": "Contas mensais estão altas",
+      "D": "Ativos excedem passivos atuais"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Reduza os custos fixos' em inglês?",
+    "opcoes": {
+      "A": "Reduce the fixed costs",
+      "B": "Lower the monthly spend",
+      "C": "Change the price tag",
+      "D": "Cut the total value"
+    },
+    "numero": "19",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde está o caixa?' em inglês?",
@@ -4101,42 +4199,42 @@ export const quizIntermediario3 = [
       "C": "Where is the cashier?",
       "D": "Is the ATM here?"
     },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Maintain accurate financial records'?",
-    "opcoes": {
-      "A": "Guarde seus recibos velhos",
-      "B": "Mude seus dados bancários",
-      "C": "Veja seu lucro anual",
-      "D": "Mantenha registros financeiros precisos"
-    },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
-    "pergunta": "Como se diz 'Onde retiro o pedido?' em inglês?",
+    "pergunta": "Qual a tradução de 'Provide tax identification'?",
     "opcoes": {
-      "A": "Where is my box?",
-      "B": "Where collect the order?",
-      "C": "Find the store exit",
-      "D": "Is my bag here?"
+      "A": "Abra contas bancárias novas",
+      "B": "Veja o saldo atual",
+      "C": "Pague os juros anuais",
+      "D": "Forneça identificação fiscal"
     },
     "numero": "1",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Negotiate wholesale prices'?",
+    "opcoes": {
+      "A": "Venda produtos caros agora",
+      "B": "Negocie preços de atacado",
+      "C": "Veja o lucro mensal",
+      "D": "Mude o plano financeiro"
+    },
+    "numero": "2",
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual a tradução de 'He waived the surcharge'?",
+    "pergunta": "Como se diz 'Onde retiro o pedido?' em inglês?",
     "opcoes": {
-      "A": "Ele isentou a sobretaxa",
-      "B": "Ele pagou o boleto",
-      "C": "Ele aceitou o desconto",
-      "D": "Ele assinou a fatura"
+      "A": "Where collect the order?",
+      "B": "Where is my box?",
+      "C": "Find the store exit",
+      "D": "Is my bag here?"
     },
-    "numero": "2",
+    "numero": "3",
     "resposta_correta": "A"
   },
   {
@@ -4147,18 +4245,29 @@ export const quizIntermediario4 = [
       "C": "Inflation eroded personal savings",
       "D": "Costs are growing fast"
     },
-    "numero": "3",
+    "numero": "4",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Provide tax identification'?",
+    "pergunta": "Qual a tradução de 'He waived the surcharge'?",
     "opcoes": {
-      "A": "Abra contas bancárias novas",
-      "B": "Veja o saldo atual",
-      "C": "Pague os juros anuais",
-      "D": "Forneça identificação fiscal"
+      "A": "Ele aceitou o desconto",
+      "B": "Ele isentou a sobretaxa",
+      "C": "Ele pagou o boleto",
+      "D": "Ele assinou a fatura"
     },
-    "numero": "4",
+    "numero": "5",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Review the billing cycle'?",
+    "opcoes": {
+      "A": "Pague a conta mensal",
+      "B": "Mude a data cobrança",
+      "C": "Veja os gastos anuais",
+      "D": "Revise o ciclo faturamento"
+    },
+    "numero": "6",
     "resposta_correta": "D"
   },
   {
@@ -4169,19 +4278,19 @@ export const quizIntermediario4 = [
       "C": "Money is not enough",
       "D": "Funds are very low"
     },
-    "numero": "5",
+    "numero": "7",
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Negotiate wholesale prices'?",
+    "pergunta": "Como se diz 'Assine o contrato' em inglês?",
     "opcoes": {
-      "A": "Venda produtos caros agora",
-      "B": "Negocie preços de atacado",
-      "C": "Veja o lucro mensal",
-      "D": "Mude o plano financeiro"
+      "A": "Write the paper",
+      "B": "End the deal",
+      "C": "Sign the contract",
+      "D": "Keep the document"
     },
-    "numero": "6",
-    "resposta_correta": "B"
+    "numero": "8",
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde fica o provador?' em inglês?",
@@ -4191,19 +4300,8 @@ export const quizIntermediario4 = [
       "C": "Where is fitting room?",
       "D": "Is the bathroom open?"
     },
-    "numero": "7",
+    "numero": "9",
     "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Authorized merchants only'?",
-    "opcoes": {
-      "A": "Vendedores locais apenas",
-      "B": "Lojas abertas agora",
-      "C": "Clientes com cartão apenas",
-      "D": "Comerciantes autorizados apenas"
-    },
-    "numero": "8",
-    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Evite investimentos voláteis' em inglês?",
@@ -4213,41 +4311,33 @@ export const quizIntermediario4 = [
       "C": "Buy only safe things",
       "D": "Stop the bad deals"
     },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Review the billing cycle'?",
-    "opcoes": {
-      "A": "Pague a conta mensal",
-      "B": "Revise o ciclo faturamento",
-      "C": "Veja os gastos anuais",
-      "D": "Mude a data cobrança"
-    },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario08 = [
+  
   {
-    "pergunta": "Como se diz 'A transação foi estornada' em inglês?",
+    "pergunta": "Qual a tradução de 'Authorized merchants only'?",
     "opcoes": {
-      "A": "Payment was not sent",
-      "B": "Card was blocked here",
-      "C": "Transaction was reversed",
-      "D": "Money is finally back"
+      "A": "Vendedores locais apenas",
+      "B": "Lojas abertas agora",
+      "C": "Clientes com cartão apenas",
+      "D": "Comerciantes autorizados apenas"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual a tradução de 'Maintain accurate accounting'?",
+    "pergunta": "Qual a tradução de 'Check for hidden fees'?",
     "opcoes": {
-      "A": "Guarde seus recibos velhos",
-      "B": "Mude seus dados bancários",
-      "C": "Veja seu lucro anual",
-      "D": "Mantenha contabilidade precisa"
+      "A": "Conte as moedas novas",
+      "B": "Verifique taxas ocultas",
+      "C": "Veja o preço bruto",
+      "D": "Pague as taxas anuais"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Eu nego a cobrança' em inglês?",
@@ -4261,28 +4351,6 @@ export const quizIntermediario4 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'Check for hidden fees'?",
-    "opcoes": {
-      "A": "Conte as moedas novas",
-      "B": "Verifique taxas ocultas",
-      "C": "Veja o preço bruto",
-      "D": "Pague as taxas anuais"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Assine o contrato' em inglês?",
-    "opcoes": {
-      "A": "Write the paper",
-      "B": "End the deal",
-      "C": "Sign the contract",
-      "D": "Keep the document"
-    },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
     "pergunta": "Qual a tradução de 'Asset liquidation required'?",
     "opcoes": {
       "A": "Venda de estoque necessária",
@@ -4290,8 +4358,30 @@ export const quizIntermediario4 = [
       "C": "Dinheiro em caixa livre",
       "D": "Liquidação de ativos necessária"
     },
-    "numero": "16",
+    "numero": "14",
     "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'The stock is replenished'?",
+    "opcoes": {
+      "A": "A loja está fechada",
+      "B": "O estoque foi reabastecido",
+      "C": "Os preços foram alterados",
+      "D": "O produto acabou agora"
+    },
+    "numero": "15",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'A transação foi estornada' em inglês?",
+    "opcoes": {
+      "A": "Payment was not sent",
+      "B": "Card was blocked here",
+      "C": "Transaction was reversed",
+      "D": "Money is finally back"
+    },
+    "numero": "16",
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Aumente a receita' em inglês?",
@@ -4305,25 +4395,14 @@ export const quizIntermediario4 = [
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Qual a tradução de 'The stock is replenished'?",
-    "opcoes": {
-      "A": "A loja está fechada",
-      "B": "O estoque foi reabastecido",
-      "C": "Os preços foram alterados",
-      "D": "O produto acabou agora"
-    },
-    "numero": "18",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Onde está o gerente?' em inglês?",
+    "pergunta": "Onde está o gerente?' em inglês?",
     "opcoes": {
       "A": "Who is the boss?",
       "B": "Find the store head",
       "C": "Where is the manager?",
       "D": "Is the owner here?"
     },
-    "numero": "19",
+    "numero": "18",
     "resposta_correta": "C"
   },
   {
@@ -4334,11 +4413,22 @@ export const quizIntermediario4 = [
       "C": "Busque descontos em taxas",
       "D": "Impostos não-pagos permanecem vencidos"
     },
-    "numero": "20",
+    "numero": "19",
     "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Maintain accurate accounting'?",
+    "opcoes": {
+      "A": "Guarde seus recibos velhos",
+      "B": "Mantenha contabilidade precisa",
+      "C": "Veja seu lucro anual",
+      "D": "Mude seus dados bancários"
+    },
+    "numero": "20",
+    "resposta_correta": "B"
   }
-];
-export const quizIntermediario5 = [
+]
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'A taxa é reembolsável' em inglês?",
     "opcoes": {
@@ -4351,168 +4441,14 @@ export const quizIntermediario5 = [
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual a tradução de 'He endorsed the check'?",
+    "pergunta": "Qual a tradução de 'Provide financial statements'?",
     "opcoes": {
-      "A": "Ele endossou o cheque",
-      "B": "Ele perdeu o papel",
-      "C": "Ele pagou a conta",
-      "D": "Ele assinou o contrato"
+      "A": "Abra contas bancárias novas",
+      "B": "Pague os juros anuais",
+      "C": "Veja o saldo atual",
+      "D": "Forneça os extratos financeiros"
     },
     "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'Solicite um estorno' em inglês?",
-    "opcoes": {
-      "A": "Ask for money",
-      "B": "Need a discount",
-      "C": "Request a chargeback",
-      "D": "Want cash back"
-    },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Avoid high interest rates'?",
-    "opcoes": {
-      "A": "Pague as taxas anuais",
-      "B": "Busque juros rentáveis",
-      "C": "Calcule o valor bruto",
-      "D": "Evite altas taxas juros"
-    },
-    "numero": "4",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Onde retiro a encomenda?' em inglês?",
-    "opcoes": {
-      "A": "Where pick up order?",
-      "B": "Find my delivery box",
-      "C": "Where is the mall?",
-      "D": "Is that my purchase?"
-    },
-    "numero": "5",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'This is an asset'?",
-    "opcoes": {
-      "A": "Isto é uma dívida",
-      "B": "Isto é um ativo",
-      "C": "Isso é um custo",
-      "D": "Aquilo é um prejuízo"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'O saldo está bloqueado' em inglês?",
-    "opcoes": {
-      "A": "Account has no money",
-      "B": "Bank is now closed",
-      "C": "The balance is frozen",
-      "D": "Money is currently gone"
-    },
-    "numero": "7",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'I lack enough funds'?",
-    "opcoes": {
-      "A": "Perdi meus cartões novos",
-      "B": "Preciso de mais troco",
-      "C": "Quero um empréstimo alto",
-      "D": "Faltam-me fundos suficientes"
-    },
-    "numero": "8",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Liquide todas as dívidas' em inglês?",
-    "opcoes": {
-      "A": "Settle all outstanding debts",
-      "B": "Pay the small bills",
-      "C": "Change the credit plan",
-      "D": "End the money problem"
-    },
-    "numero": "9",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Verify the invoice details'?",
-    "opcoes": {
-      "A": "Pague a conta agora",
-      "B": "Verifique detalhes da fatura",
-      "C": "Veja o preço final",
-      "D": "Assine o recibo mensal"
-    },
-    "numero": "10",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'A inflação reduziu lucros' em inglês?",
-    "opcoes": {
-      "A": "Prices were very high",
-      "B": "Costs are going up",
-      "C": "Inflation squeezed profit margins",
-      "D": "Money lost its value"
-    },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Withdrawal limits apply'?",
-    "opcoes": {
-      "A": "Saques permitidos todo dia",
-      "B": "Cartão bloqueado pelo banco",
-      "C": "Taxas de saque baixas",
-      "D": "Limites de saque aplicam-se"
-    },
-    "numero": "12",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Negocie um preço melhor' em inglês?",
-    "opcoes": {
-      "A": "Bargain for better price",
-      "B": "Pay the total amount",
-      "C": "Want a small discount",
-      "D": "Give me some change"
-    },
-    "numero": "13",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Currency exchange fluctuating'?",
-    "opcoes": {
-      "A": "Dinheiro está acabando rápido",
-      "B": "Câmbio de moeda oscilando",
-      "C": "Troco disponível no caixa",
-      "D": "Banco de moedas fechado"
-    },
-    "numero": "14",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'Exija um comprovante fiscal' em inglês?",
-    "opcoes": {
-      "A": "Need the shop paper",
-      "B": "Show me the money",
-      "C": "Demand a tax receipt",
-      "D": "Ask for the bill"
-    },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'This is counterfeit currency'?",
-    "opcoes": {
-      "A": "Este dinheiro é real",
-      "B": "Aquelas notas são velhas",
-      "C": "Este valor está correto",
-      "D": "Isto é moeda falsa"
-    },
-    "numero": "16",
     "resposta_correta": "D"
   },
   {
@@ -4523,8 +4459,63 @@ export const quizIntermediario5 = [
       "C": "Card has many errors",
       "D": "Sale is finally over"
     },
-    "numero": "17",
+    "numero": "3",
     "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Solicite um estorno' em inglês?",
+    "opcoes": {
+      "A": "Ask for money",
+      "B": "Need a discount",
+      "C": "Request a chargeback",
+      "D": "Want cash back"
+    },
+    "numero": "4",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'A inflação reduziu lucros' em inglês?",
+    "opcoes": {
+      "A": "Prices were very high",
+      "B": "Costs are going up",
+      "C": "Inflation squeezed profit margins",
+      "D": "Money lost its value"
+    },
+    "numero": "5",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual a tradução de 'He endorsed the check'?",
+    "opcoes": {
+      "A": "Ele endossou o cheque",
+      "B": "Ele perdeu o papel",
+      "C": "Ele pagou a conta",
+      "D": "Ele assinou o contrato"
+    },
+    "numero": "6",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Avoid high interest rates'?",
+    "opcoes": {
+      "A": "Pague as taxas anuais",
+      "B": "Busque juros rentáveis",
+      "C": "Calcule o valor bruto",
+      "D": "Evite altas taxas juros"
+    },
+    "numero": "7",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Verify the invoice details'?",
+    "opcoes": {
+      "A": "Pague a conta agora",
+      "B": "Verifique detalhes da fatura",
+      "C": "Veja o preço final",
+      "D": "Assine o recibo mensal"
+    },
+    "numero": "8",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Monthly installments available'?",
@@ -4534,8 +4525,33 @@ export const quizIntermediario5 = [
       "C": "Contas pagas todo mês",
       "D": "Vendas de estoque anuais"
     },
-    "numero": "18",
+    "numero": "9",
     "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'Withdrawal limits apply'?",
+    "opcoes": {
+      "A": "Saques permitidos todo dia",
+      "B": "Cartão bloqueado pelo banco",
+      "C": "Taxas de saque baixas",
+      "D": "Limites de saque aplicam-se"
+    },
+    "numero": "10",
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario010 = [
+ 
+  {
+    "pergunta": "Como se diz 'Onde retiro a encomenda?' em inglês?",
+    "opcoes": {
+      "A": "Where pick up order?",
+      "B": "Find my delivery box",
+      "C": "Where is the mall?",
+      "D": "Is that my purchase?"
+    },
+    "numero": "11",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
@@ -4545,276 +4561,356 @@ export const quizIntermediario5 = [
       "C": "Where is the customs?",
       "D": "Find the airport exit"
     },
-    "numero": "19",
+    "numero": "12",
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual a tradução de 'Provide financial statements'?",
+    "pergunta": "Qual a tradução de 'Currency exchange fluctuating'?",
     "opcoes": {
-      "A": "Abra contas bancárias novas",
-      "B": "Pague os juros anuais",
-      "C": "Veja o saldo atual",
-      "D": "Forneça os extratos financeiros"
+      "A": "Dinheiro está acabando rápido",
+      "B": "Câmbio de moeda oscilando",
+      "C": "Troco disponível no caixa",
+      "D": "Banco de moedas fechado"
+    },
+    "numero": "13",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual a tradução de 'I lack enough funds'?",
+    "opcoes": {
+      "A": "Perdi meus cartões novos",
+      "B": "Preciso de mais troco",
+      "C": "Quero um empréstimo alto",
+      "D": "Faltam-me fundos suficientes"
+    },
+    "numero": "14",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como se diz 'Negocie um preço melhor' em inglês?",
+    "opcoes": {
+      "A": "Bargain for better price",
+      "B": "Pay the total amount",
+      "C": "Want a small discount",
+      "D": "Give me some change"
+    },
+    "numero": "15",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Como se diz 'Exija um comprovante fiscal' em inglês?",
+    "opcoes": {
+      "A": "Need the shop paper",
+      "B": "Show me the money",
+      "C": "Demand a tax receipt",
+      "D": "Ask for the bill"
+    },
+    "numero": "16",
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Como se diz 'Liquide todas as dívidas' em inglês?",
+    "opcoes": {
+      "A": "Settle all outstanding debts",
+      "B": "Pay the small bills",
+      "C": "Change the credit plan",
+      "D": "End the money problem"
+    },
+    "numero": "17",
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This is counterfeit currency'?",
+    "opcoes": {
+      "A": "Este dinheiro é real",
+      "B": "Aquelas notas são velhas",
+      "C": "Este valor está correto",
+      "D": "Isto é moeda falsa"
+    },
+    "numero": "18",
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual a tradução de 'This is an asset'?",
+    "opcoes": {
+      "A": "Isto é uma dívida",
+      "B": "Isto é um ativo",
+      "C": "Isso é um custo",
+      "D": "Aquilo é um prejuízo"
+    },
+    "numero": "19",
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Como se diz 'O saldo está bloqueado' em inglês?",
+    "opcoes": {
+      "A": "Account has no money",
+      "B": "Bank is now closed",
+      "C": "The balance is frozen",
+      "D": "Money is currently gone"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario6 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'A taxa de câmbio oscila' em inglês?",
     "opcoes": {
       "A": "Money changes every day",
-      "B": "Exchange rate fluctuations occur",
-      "C": "Price is not same",
+      "B": "Price is not same",
+      "C": "Exchange rate fluctuations occur",
       "D": "Bank rates are different"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'He cleared his debt'?",
     "opcoes": {
-      "A": "Ele quitou sua dívida",
-      "B": "Ele limpou o cartão",
+      "A": "Ele limpou o cartão",
+      "B": "Ele quitou sua dívida",
       "C": "Ele perdeu o dinheiro",
       "D": "Ele assinou o contrato"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'O investimento é rentável' em inglês?",
     "opcoes": {
       "A": "The bank is good",
       "B": "Money grows very fast",
-      "C": "The investment is profitable",
-      "D": "Deal is worth doing"
+      "C": "Deal is worth doing",
+      "D": "The investment is profitable"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Provide a bank reference'?",
     "opcoes": {
-      "A": "Abra conta no banco",
+      "A": "Forneça uma referência bancária",
       "B": "Mude sua senha agora",
       "C": "Pague a taxa anual",
-      "D": "Forneça uma referência bancária"
+      "D": "Abra conta no banco"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Evite cobranças abusivas' em inglês?",
     "opcoes": {
-      "A": "Avoid unfair service charges",
-      "B": "Stop the bad bills",
-      "C": "Pay only small prices",
-      "D": "Don't buy expensive things"
+      "A": "Stop the bad bills",
+      "B": "Pay only small prices",
+      "C": "Don't buy expensive things",
+      "D": "Avoid unfair service charges"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Net profit has decreased'?",
     "opcoes": {
       "A": "Vendas totais caíram hoje",
-      "B": "Lucro líquido diminuiu",
-      "C": "Custos mensais estão altos",
+      "B": "Custos mensais estão altos",
+      "C": "Lucro líquido diminuiu",
       "D": "Faturamento anual foi baixo"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde está a tesouraria?' em inglês?",
     "opcoes": {
       "A": "Find the money room",
-      "B": "Where is the bank?",
-      "C": "Where is the treasury?",
+      "B": "Where is the treasury?",
+      "C": "Where is the bank?",
       "D": "Is the cashier here?"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Manage your financial portfolio'?",
     "opcoes": {
-      "A": "Veja seus lucros novos",
+      "A": "Gerencie sua carteira financeira",
       "B": "Pague as contas anuais",
       "C": "Mude seus dados agora",
-      "D": "Gerencie sua carteira financeira"
+      "D": "Veja seus lucros novos"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A transação foi recusada' em inglês?",
     "opcoes": {
-      "A": "The transaction was declined",
-      "B": "Payment was not good",
+      "A": "Payment was not good",
+      "B": "The transaction was declined",
       "C": "Card did not work",
       "D": "Money was not sent"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Review the loan agreement'?",
     "opcoes": {
       "A": "Pague o banco hoje",
-      "B": "Revise o contrato empréstimo",
-      "C": "Veja os juros mensais",
-      "D": "Mude o plano crédito"
+      "B": "Veja os juros mensais",
+      "C": "Mude o plano crédito",
+      "D": "Revise o contrato empréstimo"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario012 = [
+ 
   {
     "pergunta": "Como se diz 'Onde retiro o comprovante?' em inglês?",
     "opcoes": {
-      "A": "Need the bank paper",
+      "A": "Where collect the voucher?",
       "B": "Where is my proof?",
-      "C": "Where collect the voucher?",
+      "C": "Need the bank paper",
       "D": "Is the bill here?"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Check for hidden costs'?",
     "opcoes": {
       "A": "Conte as moedas novas",
       "B": "Veja o preço bruto",
-      "C": "Pague as taxas extras",
-      "D": "Verifique se há custos ocultos"
+      "C": "Verifique se há custos ocultos",
+      "D": "Pague as taxas extras"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Eu nego esse valor' em inglês?",
     "opcoes": {
-      "A": "I dispute this amount",
-      "B": "I want no price",
-      "C": "Stop the total cost",
-      "D": "Take the cash back"
+      "A": "I want no price",
+      "B": "Stop the total cost",
+      "C": "Take the cash back",
+      "D": "I dispute this amount"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'This implies heavy losses'?",
     "opcoes": {
-      "A": "Isto garante lucro alto",
-      "B": "Isto implica perdas pesadas",
+      "A": "Isto implica perdas pesadas",
+      "B": "Isto garante lucro alto",
       "C": "Isso reduz o gasto",
       "D": "Aquilo é um bônus"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Aumente o capital social' em inglês?",
     "opcoes": {
       "A": "Make more company money",
-      "B": "Grow the total funds",
-      "C": "Increase the share capital",
+      "B": "Increase the share capital",
+      "C": "Grow the total funds",
       "D": "Get better assets now"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Assess the credit risk'?",
     "opcoes": {
       "A": "Pague o cartão mensal",
       "B": "Mude seu limite hoje",
-      "C": "Veja o saldo bancário",
-      "D": "Avalie o risco crédito"
+      "C": "Avalie o risco crédito",
+      "D": "Veja o saldo bancário"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Solicite uma fatura detalhada' em inglês?",
     "opcoes": {
-      "A": "Request an itemized invoice",
-      "B": "Need a big bill",
+      "A": "Need a big bill",
+      "B": "Request an itemized invoice",
       "C": "Want all price info",
       "D": "Ask for total list"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'The stock is exhausted'?",
     "opcoes": {
       "A": "A loja está fechada",
-      "B": "O estoque está esgotado",
-      "C": "Os preços foram alterados",
-      "D": "O produto chegou agora"
+      "B": "Os preços foram alterados",
+      "C": "O produto chegou agora",
+      "D": "O estoque está esgotado"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
     "opcoes": {
-      "A": "Where is the police?",
+      "A": "Where is the customs?",
       "B": "Is the border open?",
-      "C": "Where is the customs?",
+      "C": "Where is the police?",
       "D": "Find the airport exit"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Maintain fiscal responsibility'?",
     "opcoes": {
       "A": "Guarde seus recibos velhos",
       "B": "Mude seus dados bancários",
-      "C": "Veja seu lucro anual",
-      "D": "Mantenha a responsabilidade fiscal"
+      "C": "Mantenha a responsabilidade fiscal",
+      "D": "Veja seu lucro anual"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Onde retiro o reembolso?' em inglês?",
     "opcoes": {
       "A": "Where is my money?",
-      "B": "Where collect the refund?",
-      "C": "Find the cash back",
+      "B": "Find the cash back",
+      "C": "Where collect the refund?",
       "D": "Is the return here?"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'He settled the balance'?",
     "opcoes": {
-      "A": "Ele liquidou o saldo",
-      "B": "Ele viu o extrato",
+      "A": "Ele viu o extrato",
+      "B": "Ele liquidou o saldo",
       "C": "Ele pagou a taxa",
       "D": "Ele abriu a conta"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'A inflação reduziu economias' em inglês?",
     "opcoes": {
-      "A": "Prices are very high",
-      "B": "Money lost its value",
-      "C": "Inflation eroded personal savings",
+      "A": "Inflation eroded personal savings",
+      "B": "Prices are very high",
+      "C": "Money lost its value",
       "D": "Costs are growing fast"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Provide tax identification'?",
@@ -4830,101 +4926,104 @@ export const quizIntermediario7 = [
   {
     "pergunta": "Como se diz 'Solicite um estorno imediato' em inglês?",
     "opcoes": {
-      "A": "Request an immediate chargeback",
-      "B": "Need a quick discount",
+      "A": "Need a quick discount",
+      "B": "Request an immediate chargeback",
       "C": "Ask for fast money",
       "D": "Want my cash back"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'This implies heavy losses'?",
     "opcoes": {
       "A": "Isto garante lucro alto",
-      "B": "Isto implica perdas pesadas",
-      "C": "Isso reduz o gasto",
+      "B": "Isso reduz o gasto",
+      "C": "Isto implica perdas pesadas",
       "D": "Aquilo é um bônus"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde fica a alfândega?' em inglês?",
     "opcoes": {
       "A": "Where is the police?",
       "B": "Is the border open?",
-      "C": "Where is the customs?",
-      "D": "Find the airport exit"
+      "C": "Find the airport exit",
+      "D": "Where is the customs?"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Overdue payments accrue interest'?",
     "opcoes": {
-      "A": "Dívidas pagas geram lucro",
-      "B": "Contas mensais estão altas",
-      "C": "Taxas bancárias foram isentas",
-      "D": "Pagamentos atrasados acumulam juros"
+      "A": "Pagamentos atrasados acumulam juros",
+      "B": "Dívidas pagas geram lucro",
+      "C": "Contas mensais estão altas",
+      "D": "Taxas bancárias foram isentas"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Aumente a receita anual' em inglês?",
     "opcoes": {
-      "A": "Increase the annual revenue",
-      "B": "Make more yearly sales",
+      "A": "Make more yearly sales",
+      "B": "Increase the annual revenue",
       "C": "Grow the company money",
       "D": "Get more profit now"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Check for hidden fees'?",
     "opcoes": {
       "A": "Conte as moedas novas",
-      "B": "Verifique taxas ocultas",
-      "C": "Veja o preço bruto",
+      "B": "Veja o preço bruto",
+      "C": "Verifique taxas ocultas",
       "D": "Pague as taxas anuais"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "C"
+  }
+];
+export const quizIntermediario014 = [
+ 
   {
     "pergunta": "Como se diz 'Assine o contrato' em inglês?",
     "opcoes": {
       "A": "Write the paper",
       "B": "End the deal",
-      "C": "Sign the contract",
-      "D": "Keep the document"
+      "C": "Keep the document",
+      "D": "Sign the contract"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Withdrawal limits apply'?",
     "opcoes": {
-      "A": "Saques permitidos todo dia",
-      "B": "Cartão bloqueado pelo banco",
-      "C": "Taxas de saque baixas",
-      "D": "Limites de saque aplicam-se"
+      "A": "Limites de saque aplicam-se",
+      "B": "Saques permitidos todo dia",
+      "C": "Cartão bloqueado pelo banco",
+      "D": "Taxas de saque baixas"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde fica a tesouraria?' em inglês?",
     "opcoes": {
-      "A": "Where is the treasury?",
-      "B": "Find the money room",
-      "C": "Where is the bank?",
-      "D": "Is the cashier here?"
+      "A": "Find the money room",
+      "B": "Where is the bank?",
+      "C": "Is the cashier here?",
+      "D": "Where is the treasury?"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'The stock is exhausted'?",
@@ -4952,34 +5051,34 @@ export const quizIntermediario7 = [
     "pergunta": "Qual a tradução de 'Assets exceed current liabilities'?",
     "opcoes": {
       "A": "Dívidas são maiores hoje",
-      "B": "Lucros cobrem os gastos",
-      "C": "Contas mensais estão altas",
-      "D": "Ativos excedem passivos atuais"
+      "B": "Ativos excedem passivos atuais",
+      "C": "Lucros cobrem os gastos",
+      "D": "Contas mensais estão altas"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Negocie um preço melhor' em inglês?",
     "opcoes": {
-      "A": "Bargain for better price",
-      "B": "Pay the total amount",
-      "C": "Want a small discount",
-      "D": "Give me some change"
+      "A": "Pay the total amount",
+      "B": "Want a small discount",
+      "C": "Give me some change",
+      "D": "Bargain for better price"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Monthly installments available'?",
     "opcoes": {
-      "A": "Preço fixo por mês",
-      "B": "Parcelas mensais disponíveis",
+      "A": "Parcelas mensais disponíveis",
+      "B": "Preço fixo por mês",
       "C": "Contas pagas todo mês",
       "D": "Vendas de estoque anuais"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde está o gerente?' em inglês?",
@@ -5004,229 +5103,232 @@ export const quizIntermediario7 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'A taxa é abusiva' em inglês?",
     "opcoes": {
       "A": "The price is high",
-      "B": "The fee is abusive",
-      "C": "Cost is very bad",
+      "B": "Cost is very bad",
+      "C": "The fee is abusive",
       "D": "Money is not fair"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'This incurs interest charges'?",
     "opcoes": {
-      "A": "Isto incorre cobranças juros",
-      "B": "Isto gera um desconto",
-      "C": "Isso reduz o custo",
-      "D": "Aquilo é um bônus"
+      "A": "Isto gera um desconto",
+      "B": "Isso reduz o custo",
+      "C": "Aquilo é um bônus",
+      "D": "Isto incorre cobranças juros"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde retiro o cupom?' em inglês?",
     "opcoes": {
       "A": "Where is my gift?",
-      "B": "Find the store discount",
-      "C": "Where collect the voucher?",
+      "B": "Where collect the voucher?",
+      "C": "Find the store discount",
       "D": "Is my paper here?"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Review the purchase terms'?",
     "opcoes": {
-      "A": "Mude o plano mensal",
+      "A": "Revise os termos compra",
       "B": "Pague o boleto hoje",
       "C": "Veja os preços novos",
-      "D": "Revise os termos compra"
+      "D": "Mude o plano mensal"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Evite dívidas desnecessárias' em inglês?",
     "opcoes": {
-      "A": "Avoid unnecessary debts",
-      "B": "Don't lose your cash",
-      "C": "Buy only small items",
+      "A": "Don't lose your cash",
+      "B": "Buy only small items",
+      "C": "Avoid unnecessary debts",
       "D": "Stop the bad bills"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Net income has grown'?",
     "opcoes": {
       "A": "Vendas totais subiram hoje",
-      "B": "O lucro líquido cresceu",
-      "C": "Custos mensais estão baixos",
-      "D": "Faturamento anual foi alto"
+      "B": "Custos mensais estão baixos",
+      "C": "Faturamento anual foi alto",
+      "D": "O lucro líquido cresceu"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Aumente o fluxo caixa' em inglês?",
     "opcoes": {
       "A": "Make more store money",
-      "B": "Grow the total funds",
-      "C": "Increase the cash flow",
+      "B": "Increase the cash flow",
+      "C": "Grow the total funds",
       "D": "Get better assets now"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Maintain accurate records'?",
     "opcoes": {
-      "A": "Guarde seus recibos velhos",
+      "A": "Mantenha registros precisos",
       "B": "Mude seus dados bancários",
       "C": "Veja seu lucro anual",
-      "D": "Mantenha registros precisos"
+      "D": "Guarde seus recibos velhos"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde fica o balcão?' em inglês?",
     "opcoes": {
-      "A": "Where is the counter?",
-      "B": "Find the money desk",
+      "A": "Find the money desk",
+      "B": "Where is the counter?",
       "C": "Where is the bank?",
       "D": "Is the cashier here?"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Check the exchange rates'?",
     "opcoes": {
       "A": "Conte as moedas novas",
-      "B": "Verifique as taxas câmbio",
-      "C": "Veja o preço bruto",
-      "D": "Pague as taxas extras"
+      "B": "Veja o preço bruto",
+      "C": "Pague as taxas extras",
+      "D": "Verifique as taxas câmbio"
     },
     "numero": "10",
-    "reposta_correta": "B"
-  },
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario016 = [
+ 
   {
     "pergunta": "Como se diz 'Solicite um crédito novo' em inglês?",
     "opcoes": {
-      "A": "Request a bank help",
+      "A": "Apply for new credit",
       "B": "Need a loan paper",
-      "C": "Apply for new credit",
+      "C": "Request a bank help",
       "D": "Want some cash now"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Withdrawal was successful'?",
     "opcoes": {
       "A": "Saque permitido todo dia",
       "B": "Cartão bloqueado pelo banco",
-      "C": "Taxas de saque baixas",
-      "D": "O saque foi bem-sucedido"
+      "C": "O saque foi bem-sucedido",
+      "D": "Taxas de saque baixas"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'A transação falhou' em inglês?",
     "opcoes": {
-      "A": "The transaction has failed",
-      "B": "Payment was not sent",
-      "C": "Card did not work",
-      "D": "Money was not back"
+      "A": "Payment was not sent",
+      "B": "Card did not work",
+      "C": "Money was not back",
+      "D": "The transaction has failed"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'The invoice is overdue'?",
     "opcoes": {
-      "A": "A conta está paga",
-      "B": "A fatura está vencida",
+      "A": "A fatura está vencida",
+      "B": "A conta está paga",
       "C": "O preço está alto",
       "D": "A venda foi cancelada"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Assine o cheque' em inglês?",
     "opcoes": {
       "A": "Write the bank paper",
-      "B": "Keep the money record",
-      "C": "Sign the check",
+      "B": "Sign the check",
+      "C": "Keep the money record",
       "D": "End the deal now"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Avoid excessive spending'?",
     "opcoes": {
       "A": "Pague o cartão mensal",
       "B": "Limpe seu nome hoje",
-      "C": "Busque juros mais baixos",
-      "D": "Evite gastos excessivos"
+      "C": "Evite gastos excessivos",
+      "D": "Busque juros mais baixos"
     },
     "numero": "16",
-    "reposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Eu quero um desconto' em inglês?",
     "opcoes": {
-      "A": "I want a discount",
-      "B": "Give me some money",
+      "A": "Give me some money",
+      "B": "I want a discount",
       "C": "I need less price",
       "D": "Make it cheap now"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Wholesale prices are lower'?",
     "opcoes": {
       "A": "Preços de varejo baixaram",
-      "B": "Preços de atacado são menores",
-      "C": "Custos totais estão bons",
-      "D": "Vendas grandes geram lucro"
+      "B": "Custos totais estão bons",
+      "C": "Vendas grandes geram lucro",
+      "D": "Preços de atacado são menores"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'A inflação está estável' em inglês?",
     "opcoes": {
-      "A": "Prices are very high",
-      "B": "Money has same value",
-      "C": "Inflation is stable",
+      "A": "Inflation is stable",
+      "B": "Prices are very high",
+      "C": "Money has same value",
       "D": "Costs are staying low"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'Update your billing address'?",
     "opcoes": {
       "A": "Abra contas bancárias novas",
       "B": "Mude sua senha agora",
-      "C": "Pague os juros anuais",
-      "D": "Atualize seu endereço cobrança"
+      "C": "Atualize seu endereço cobrança",
+      "D": "Pague os juros anuais"
     },
     "numero": "20",
-    "reposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Qual a tradução de 'He waived the surcharge'?",
     "opcoes": {
@@ -5336,7 +5438,10 @@ export const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario018 = [
+  
   {
     "pergunta": "Qual a tradução de 'Withdrawal limits apply'?",
     "opcoes": {
@@ -5448,193 +5553,196 @@ export const quizIntermediario9 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'A taxa de câmbio oscila' em inglês?",
     "opcoes": {
       "A": "Money changes every day",
-      "B": "Exchange rate fluctuations occur",
-      "C": "Price is not same",
+      "B": "Price is not same",
+      "C": "Exchange rate fluctuations occur",
       "D": "Bank rates are different"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'He cleared the debt'?",
     "opcoes": {
       "A": "Ele perdeu o dinheiro",
-      "B": "Ele limpou o cartão",
-      "C": "Ele quitou a dívida",
+      "B": "Ele quitou a dívida",
+      "C": "Ele limpou o cartão",
       "D": "Ele assinou o contrato"
     },
     "numero": "2",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Aumente o capital social' em inglês?",
     "opcoes": {
-      "A": "Increase the share capital",
-      "B": "Make more company money",
-      "C": "Grow the total funds",
-      "D": "Get better assets now"
+      "A": "Make more company money",
+      "B": "Grow the total funds",
+      "C": "Get better assets now",
+      "D": "Increase the share capital"
     },
     "numero": "3",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Assess the credit risk'?",
     "opcoes": {
-      "A": "Pague o cartão mensal",
+      "A": "Avalie o risco crédito",
       "B": "Mude seu limite hoje",
       "C": "Veja o saldo bancário",
-      "D": "Avalie o risco crédito"
+      "D": "Pague o cartão mensal"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Houve uma queda abrupta' em inglês?",
     "opcoes": {
       "A": "Prices are lower now",
-      "B": "There was sharp decline",
-      "C": "Market is very bad",
-      "D": "Sales stopped suddenly"
+      "B": "Market is very bad",
+      "C": "Sales stopped suddenly",
+      "D": "There was sharp decline"
     },
     "numero": "5",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Provide a bank reference'?",
     "opcoes": {
       "A": "Abra conta no banco",
-      "B": "Mude sua senha agora",
+      "B": "Forneça uma referência bancária",
       "C": "Pague a taxa anual",
-      "D": "Forneça uma referência bancária"
+      "D": "Mude sua senha agora"
     },
     "numero": "6",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'A taxa é abusiva' em inglês?",
     "opcoes": {
-      "A": "The fee is excessive",
-      "B": "The price is high",
-      "C": "Cost is very bad",
+      "A": "The price is high",
+      "B": "Cost is very bad",
+      "C": "The fee is excessive",
       "D": "Money is not fair"
     },
     "numero": "7",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Maintain fiscal responsibility'?",
     "opcoes": {
-      "A": "Guarde seus recibos velhos",
-      "B": "Mantenha a responsabilidade fiscal",
+      "A": "Mantenha a responsabilidade fiscal",
+      "B": "Guarde seus recibos velhos",
       "C": "Veja seu lucro anual",
       "D": "Mude seus dados bancários"
     },
     "numero": "8",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde fica a tesouraria?' em inglês?",
     "opcoes": {
       "A": "Find the money room",
-      "B": "Where is the bank?",
-      "C": "Where is the treasury?",
+      "B": "Where is the treasury?",
+      "C": "Where is the bank?",
       "D": "Is the cashier here?"
     },
     "numero": "9",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Avoid unfair service charges'?",
     "opcoes": {
-      "A": "Evite taxas serviço injustas",
-      "B": "Pague as taxas anuais",
-      "C": "Veja o preço bruto",
-      "D": "Busque juros mais baixos"
+      "A": "Pague as taxas anuais",
+      "B": "Veja o preço bruto",
+      "C": "Busque juros mais baixos",
+      "D": "Evite taxas serviço injustas"
     },
     "numero": "10",
-    "resposta_correta": "A"
-  },
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario020 = [
+ 
   {
     "pergunta": "Como se diz 'Solicite um crédito novo' em inglês?",
     "opcoes": {
-      "A": "Need a loan paper",
-      "B": "Request a bank help",
-      "C": "Apply for new credit",
+      "A": "Apply for new credit",
+      "B": "Need a loan paper",
+      "C": "Request a bank help",
       "D": "Want some cash now"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual a tradução de 'The stock is exhausted'?",
     "opcoes": {
       "A": "A loja está fechada",
       "B": "Os preços foram alterados",
-      "C": "O produto chegou agora",
-      "D": "O estoque está esgotado"
+      "C": "O estoque está esgotado",
+      "D": "O produto chegou agora"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'A inflação está estável' em inglês?",
     "opcoes": {
       "A": "Prices are very high",
-      "B": "Inflation is stable",
-      "C": "Money has same value",
-      "D": "Costs are staying low"
+      "B": "Money has same value",
+      "C": "Costs are staying low",
+      "D": "Inflation is stable"
     },
     "numero": "13",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual a tradução de 'Review the loan agreement'?",
     "opcoes": {
       "A": "Pague o banco hoje",
-      "B": "Veja os juros mensais",
-      "C": "Mude o plano crédito",
-      "D": "Revise o contrato empréstimo"
+      "B": "Revise o contrato empréstimo",
+      "C": "Veja os juros mensais",
+      "D": "Mude o plano crédito"
     },
     "numero": "14",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'A transação falhou' em inglês?",
     "opcoes": {
-      "A": "The transaction has failed",
-      "B": "Payment was not sent",
-      "C": "Card did not work",
+      "A": "Payment was not sent",
+      "B": "Card did not work",
+      "C": "The transaction has failed",
       "D": "Money was not back"
     },
     "numero": "15",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'Net profit has decreased'?",
     "opcoes": {
-      "A": "Vendas totais caíram hoje",
-      "B": "Lucro líquido diminuiu",
+      "A": "Lucro líquido diminuiu",
+      "B": "Vendas totais caíram hoje",
       "C": "Custos mensais estão altos",
       "D": "Faturamento anual foi baixo"
     },
     "numero": "16",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Aumente o fluxo caixa' em inglês?",
     "opcoes": {
       "A": "Make more store money",
-      "B": "Grow the total funds",
-      "C": "Increase the cash flow",
+      "B": "Increase the cash flow",
+      "C": "Grow the total funds",
       "D": "Get better assets now"
     },
     "numero": "17",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual a tradução de 'Withdrawal was successful'?",
@@ -5650,27 +5758,26 @@ export const quizIntermediario10 = [
   {
     "pergunta": "Como se diz 'Eu quero um desconto' em inglês?",
     "opcoes": {
-      "A": "I want a discount",
-      "B": "Give me some money",
-      "C": "I need less price",
+      "A": "Give me some money",
+      "B": "I need less price",
+      "C": "I want a discount",
       "D": "Make it cheap now"
     },
     "numero": "19",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual a tradução de 'The invoice is overdue'?",
     "opcoes": {
       "A": "A conta está paga",
-      "B": "O preço está alto",
-      "C": "A fatura está vencida",
+      "B": "A fatura está vencida",
+      "C": "O preço está alto",
       "D": "A venda foi cancelada"
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   }
 ];
-
 /*-----------------------avancado--------------------------------*/
 
 
@@ -5678,70 +5785,70 @@ export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A taxa de juros subiu'?",
-    "opcoes": ["juros", "valor", "alta", "caiu", "taxa", "custo", "a", "inflação", "de", "subiu", "mercado", "pagamento"],
+    "opcoes": ["a", "taxa", "de", "juros", "subiu", "valor", "caiu", "alta", "custo"],
     "numero": "1",
     "resposta_correta": "a taxa de juros subiu"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'Solicitei um reembolso total'",
-    "opcoes": ["full", "money", "reembolso", "asked", "a", "request", "requested", "total", "refund", "I", "back", "payment"],
+    "pergunta": "Traduza: 'I requested a full refund'",
+    "opcoes": ["I", "requested", "a", "full", "refund", "asked", "money", "back", "payment"],
     "numero": "2",
     "resposta_correta": "I requested a full refund"
   },
   {
-    "pergunta": "Como se diz 'O faturamento anual cresceu'?",
     "questionType": "traduza a frase",
-    "opcoes": ["anual", "vendas", "o", "lucro", "cresceu", "faturamento", "total", "bruto", "mensal", "empresa", "subiu"],
+    "pergunta": "Como se diz 'O faturamento anual cresceu'?",
+    "opcoes": ["o", "faturamento", "anual", "cresceu", "lucro", "vendas", "total", "subiu"],
     "numero": "3",
     "resposta_correta": "o faturamento anual cresceu"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'They offer wholesale prices'",
-    "opcoes": ["varejo", "atacado", "preços", "de", "eles", "venda", "oferecem", "custo", "loja", "os", "bons", "desconto"],
+    "opcoes": ["eles", "oferecem", "preços", "de", "atacado", "varejo", "venda", "custo", "loja"],
     "numero": "4",
     "resposta_correta": "eles oferecem preços de atacado"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Evite gastos desnecessários'?",
-    "opcoes": ["spending", "money", "avoid", "buy", "unnecessary", "bills", "costs", "excessive", "debts", "always", "low"],
+    "opcoes": ["avoid", "unnecessary", "spending", "money", "bills", "costs", "excessive"],
     "numero": "5",
     "resposta_correta": "avoid unnecessary spending"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'O saldo permanece bloqueado'",
-    "opcoes": ["frozen", "remains", "money", "account", "still", "the", "blocked", "balance", "total", "bank", "locked"],
+    "pergunta": "Traduza: 'The balance remains frozen'",
+    "opcoes": ["the", "balance", "remains", "frozen", "still", "blocked", "money", "account"],
     "numero": "6",
     "resposta_correta": "the balance remains frozen"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Verifique o extrato bancário'?",
-    "opcoes": ["check", "statement", "the", "bank", "paper", "see", "your", "money", "account", "final", "total"],
+    "opcoes": ["check", "the", "bank", "statement", "your", "see", "money", "account"],
     "numero": "7",
     "resposta_correta": "check the bank statement"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Apply for a loan'",
-    "opcoes": ["crédito", "um", "peça", "solicite", "banco", "empréstimo", "dinheiro", "ajuda", "novo", "fazer", "taxa"],
+    "opcoes": ["solicite", "um", "empréstimo", "crédito", "banco", "ajuda", "dinheiro"],
     "numero": "8",
     "resposta_correta": "solicite um empréstimo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A inflação está alta'?",
-    "opcoes": ["prices", "inflation", "is", "rising", "high", "the", "cost", "very", "stable", "market", "money"],
+    "opcoes": ["the", "inflation", "is", "high", "rising", "cost", "stable", "prices"],
     "numero": "9",
     "resposta_correta": "the inflation is high"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Maintain accurate financial records'",
-    "opcoes": ["registros", "contas", "precisos", "financeiros", "mantenha", "dados", "sempre", "lucro", "guarde", "todos"],
+    "opcoes": ["mantenha", "registros", "financeiros", "precisos", "dados", "sempre", "lucro", "guarde"],
     "numero": "10",
     "resposta_correta": "mantenha registros financeiros precisos"
   }
@@ -5750,70 +5857,70 @@ export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'O lucro líquido caiu'?",
-    "opcoes": ["bruto", "net", "caiu", "profit", "o", "the", "renda", "fell", "líquido", "total", "dropped", "lucro"],
+    "opcoes": ["net", "profit", "the", "fell", "bruto", "renda", "total", "income"],
     "numero": "1",
     "resposta_correta": "the net profit fell"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'I need a receipt'",
-    "opcoes": ["preciso", "um", "de", "comprovante", "eu", "cupom", "recibo", "nota", "fiscal", "quero", "ter", "uma"],
+    "opcoes": ["eu", "preciso", "de", "um", "recibo", "comprovante", "nota", "fiscal"],
     "numero": "2",
     "resposta_correta": "eu preciso de um recibo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A fatura está vencida'?",
-    "opcoes": ["overdue", "bill", "invoice", "the", "paga", "is", "late", "expired", "account", "fatura", "price", "just"],
+    "opcoes": ["the", "invoice", "is", "overdue", "bill", "paga", "expired", "due"],
     "numero": "3",
     "resposta_correta": "the invoice is overdue"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'This incurs extra charges'",
-    "opcoes": ["custos", "taxas", "isto", "adicionais", "gera", "incorre", "em", "cobranças", "valor", "mais", "pagar", "multa"],
+    "opcoes": ["isto", "incorre", "em", "cobranças", "extras", "taxas", "gera", "valor"],
     "numero": "4",
     "resposta_correta": "isto incorre em cobranças extras"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Negocie um desconto melhor'?",
-    "opcoes": ["price", "deal", "better", "negotiate", "get", "a", "good", "discount", "lower", "offer", "buy", "find"],
+    "opcoes": ["negotiate", "a", "better", "discount", "deal", "get", "lower", "offer"],
     "numero": "5",
     "resposta_correta": "negotiate a better discount"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'The transaction was declined'",
-    "opcoes": ["foi", "aceita", "recusada", "negada", "venda", "a", "pagamento", "estornada", "transação", "cartão", "o", "erro"],
+    "opcoes": ["a", "transação", "foi", "recusada", "aceita", "negada", "venda", "erro"],
     "numero": "6",
     "resposta_correta": "a transação foi recusada"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Aumente o limite bancário'?",
-    "opcoes": ["credit", "limit", "bank", "increase", "higher", "the", "grow", "account", "raise", "money", "funds", "my"],
+    "opcoes": ["increase", "the", "bank", "limit", "higher", "grow", "raise", "credit"],
     "numero": "7",
     "resposta_correta": "increase the bank limit"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Review the billing address'",
-    "opcoes": ["entrega", "cobrança", "o", "endereço", "revise", "de", "veja", "dados", "local", "casa", "mude", "seu"],
+    "opcoes": ["revise", "o", "endereço", "de", "cobrança", "entrega", "veja", "local"],
     "numero": "8",
     "resposta_correta": "revise o endereço de cobrança"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'O mercado está instável'?",
-    "opcoes": ["unstable", "market", "is", "the", "going", "down", "risky", "volatile", "trading", "very", "economy", "low"],
+    "opcoes": ["the", "market", "is", "unstable", "volatile", "risky", "going", "down"],
     "numero": "9",
     "resposta_correta": "the market is unstable"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Withdraw funds from ATM'",
-    "opcoes": ["do", "dinheiro", "caixa", "saque", "recursos", "banco", "tirar", "fundo", "caixa", "eletrônico", "contar", "pagar"],
+    "opcoes": ["saque", "recursos", "do", "caixa", "eletrônico", "dinheiro", "banco", "tirar"],
     "numero": "10",
     "resposta_correta": "saque recursos do caixa eletrônico"
   }
@@ -5821,143 +5928,143 @@ export const quizAvancado2 = [
 export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Reduza os custos operacionais'?",
-    "opcoes": ["reduce", "operating", "costs", "lower", "the", "spending", "money", "bills", "cut", "business", "expenses"],
+    "pergunta": "The property requires urgent renovation",
+    "opcoes": ["a", "propriedade", "requer", "reforma", "urgente", "casa", "precisa", "geral", "pintura"],
     "numero": "1",
-    "resposta_correta": "reduce the operating costs"
+    "resposta_correta": "a propriedade requer reforma urgente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'I paid in installments'",
-    "opcoes": ["eu", "paguei", "em", "parcelas", "cartão", "vezes", "prestações", "com", "dinheiro", "loja", "prazos"],
+    "pergunta": "My stepson is very proactive",
+    "opcoes": ["my", "stepson", "is", "very", "proactive", "son", "active", "always", "smart"],
     "numero": "2",
-    "resposta_correta": "eu paguei em parcelas"
+    "resposta_correta": "my stepson is very proactive"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Onde está o recibo?'?",
-    "opcoes": ["where", "is", "the", "receipt", "ticket", "bill", "my", "paper", "find", "located", "proof"],
+    "pergunta": "His goddaughter studies marine biology",
+    "opcoes": ["his", "goddaughter", "studies", "marine", "biology", "niece", "science", "at", "college"],
     "numero": "3",
-    "resposta_correta": "where is the receipt"
+    "resposta_correta": "his goddaughter studies marine biology"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'Verify the bank credentials'",
-    "opcoes": ["verifique", "as", "credenciais", "bancárias", "dados", "senhas", "veja", "banco", "contas", "documentos", "acesso"],
+    "pergunta": "A lareira proporciona calor aconchegante",
+    "opcoes": ["the", "fireplace", "provides", "cozy", "warmth", "fire", "room", "nice", "brings"],
     "numero": "4",
-    "resposta_correta": "verifique as credenciais bancárias"
+    "resposta_correta": "the fireplace provides cozy warmth"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'A moeda desvalorizou hoje'?",
-    "opcoes": ["currency", "devalued", "today", "the", "money", "fell", "value", "lost", "market", "is", "down"],
+    "pergunta": "Ancestry research reveals surprising facts",
+    "opcoes": ["pesquisa", "de", "ancestralidade", "revela", "fatos", "surpreendentes", "família", "história", "mostra", "dados"],
     "numero": "5",
-    "resposta_correta": "the currency devalued today"
+    "resposta_correta": "pesquisa de ancestralidade revela fatos surpreendentes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'Apply the promotional code'",
-    "opcoes": ["aplique", "o", "código", "promocional", "desconto", "use", "cupom", "número", "oferta", "agora", "valor"],
+    "pergunta": "O telhado protege contra intempéries",
+    "opcoes": ["the", "roof", "protects", "against", "weather", "harsh", "rain", "house", "from"],
     "numero": "6",
-    "resposta_correta": "aplique o código promocional"
+    "resposta_correta": "the roof protects against weather"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'O imposto está incluso'?",
-    "opcoes": ["tax", "is", "included", "the", "price", "fee", "cost", "total", "with", "final", "value"],
+    "pergunta": "Family heritage defines our identity",
+    "opcoes": ["herança", "familiar", "define", "nossa", "identidade", "história", "passado", "cultura", "a"],
     "numero": "7",
-    "resposta_correta": "the tax is included"
+    "resposta_correta": "herança familiar define nossa identidade"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'Ensure sufficient account funds'",
-    "opcoes": ["garanta", "fundos", "suficientes", "na", "conta", "tenha", "dinheiro", "saldo", "banco", "total", "valor"],
+    "pergunta": "My sister-in-law bought rustic furniture",
+    "opcoes": ["minha", "cunhada", "comprou", "mobília", "rústica", "casa", "nova", "mesa", "madeira"],
     "numero": "8",
-    "resposta_correta": "garanta fundos suficientes na conta"
+    "resposta_correta": "minha cunhada comprou mobília rústica"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Eu herdei algum dinheiro'?",
-    "opcoes": ["I", "inherited", "some", "money", "got", "found", "cash", "funds", "received", "from", "bank"],
+    "pergunta": "The kitchen island is multifunctional",
+    "opcoes": ["a", "ilha", "da", "cozinha", "é", "multifuncional", "balcão", "espaço", "nova", "prática"],
     "numero": "9",
-    "resposta_correta": "I inherited some money"
+    "resposta_correta": "a ilha da cozinha é multifuncional"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Traduza: 'Monitor the stock market'",
-    "opcoes": ["monitore", "o", "mercado", "de", "ações", "veja", "bolsa", "valores", "preços", "sempre", "investimentos"],
+    "pergunta": "Household expenses are increasing",
+    "opcoes": ["nossas", "despesas", "da", "casa", "estão", "aumentando", "limpeza", "fixas", "valor", "familiares"],
     "numero": "10",
-    "resposta_correta": "monitore o mercado de ações"
+    "resposta_correta": "nossas despesas da casa estão aumentando"
   }
 ];
 export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A transação foi estornada'?",
-    "opcoes": ["was", "transaction", "the", "reversed", "money", "back", "payment", "voided", "sent", "bank", "error", "done"],
+    "opcoes": ["the", "transaction", "was", "reversed", "voided", "sent", "bank", "error"],
     "numero": "1",
     "resposta_correta": "the transaction was reversed"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Avoid paying high interest'",
-    "opcoes": ["evite", "juros", "pagar", "altos", "taxas", "custo", "caro", "dinheiro", "banco", "muito", "valor", "preço"],
+    "opcoes": ["evite", "pagar", "juros", "altos", "taxas", "custo", "caro", "dinheiro"],
     "numero": "2",
     "resposta_correta": "evite pagar juros altos"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Solicite um orçamento formal'?",
-    "opcoes": ["request", "a", "formal", "quote", "ask", "price", "paper", "official", "need", "get", "budget", "total"],
+    "opcoes": ["request", "a", "formal", "quote", "ask", "price", "official", "budget"],
     "numero": "3",
     "resposta_correta": "request a formal quote"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'The asset value depreciated'",
-    "opcoes": ["o", "valor", "do", "ativo", "depreciou", "bem", "caiu", "preço", "mercado", "baixo", "capital", "perda"],
+    "opcoes": ["o", "valor", "do", "ativo", "depreciou", "bem", "caiu", "mercado"],
     "numero": "4",
     "resposta_correta": "o valor do ativo depreciou"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Dívidas acumulam juros rápidos'?",
-    "opcoes": ["debts", "accrue", "interest", "fast", "bills", "grow", "money", "quickly", "high", "bank", "costs", "pay"],
+    "opcoes": ["debts", "accrue", "interest", "fast", "bills", "grow", "quickly", "high"],
     "numero": "5",
     "resposta_correta": "debts accrue interest fast"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Review the purchase terms'",
-    "opcoes": ["revise", "os", "termos", "de", "compra", "veja", "contrato", "regras", "venda", "preço", "dados", "itens"],
+    "opcoes": ["revise", "os", "termos", "de", "compra", "veja", "contrato", "regras"],
     "numero": "6",
     "resposta_correta": "revise os termos de compra"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A inflação reduz o consumo'?",
-    "opcoes": ["inflation", "reduces", "consumption", "the", "spending", "lowers", "market", "buys", "money", "less", "high"],
+    "opcoes": ["the", "inflation", "reduces", "consumption", "spending", "lowers", "market", "less"],
     "numero": "7",
     "resposta_correta": "the inflation reduces consumption"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Check for hidden fees'",
-    "opcoes": ["verifique", "taxas", "escondidas", "se", "há", "veja", "custos", "extras", "preço", "valor", "banco", "pagos"],
+    "opcoes": ["verifique", "se", "há", "taxas", "escondidas", "custos", "extras", "valor"],
     "numero": "8",
     "resposta_correta": "verifique se há taxas escondidas"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Onde retiro meu cartão?'?",
-    "opcoes": ["where", "do", "I", "collect", "my", "card", "pick", "up", "get", "find", "bank", "location", "is"],
+    "opcoes": ["where", "do", "I", "collect", "my", "card", "pick", "get"],
     "numero": "9",
     "resposta_correta": "where do I collect my card"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Track your monthly expenses'",
-    "opcoes": ["rastreie", "suas", "despesas", "mensais", "veja", "custos", "gastos", "todo", "mês", "controle", "dinheiro"],
+    "opcoes": ["rastreie", "suas", "despesas", "mensais", "controle", "gastos", "todo", "mês"],
     "numero": "10",
     "resposta_correta": "rastreie suas despesas mensais"
   }
@@ -5966,70 +6073,70 @@ export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'O saldo está bloqueado'?",
-    "opcoes": ["money", "the", "balance", "frozen", "is", "account", "locked", "bank", "total", "funds", "still", "stay"],
+    "opcoes": ["frozen", "funds", "balance", "locked", "the", "stay", "is", "still"],
     "numero": "1",
     "resposta_correta": "the balance is frozen"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'I waived the surcharge'",
-    "opcoes": ["eu", "taxa", "sobretaxa", "isentei", "a", "paguei", "valor", "extra", "custo", "tirei", "uma", "do"],
+    "opcoes": ["sobretaxa", "paguei", "a", "valor", "isentei", "extra", "eu", "custo"],
     "numero": "2",
     "resposta_correta": "eu isentei a sobretaxa"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A taxa é reembolsável'?",
-    "opcoes": ["fee", "is", "refundable", "the", "price", "money", "back", "cost", "return", "total", "paid", "bill"],
+    "opcoes": ["cost", "is", "back", "the", "money", "refundable", "fee", "return"],
     "numero": "3",
     "resposta_correta": "the fee is refundable"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Ensure financial stability'",
-    "opcoes": ["garanta", "a", "financeira", "estabilidade", "tenha", "sucesso", "dinheiro", "sempre", "lucro", "mantenha", "valor", "plano"],
+    "opcoes": ["financeira", "sucesso", "garanta", "lucro", "a", "dinheiro", "estabilidade", "valor"],
     "numero": "4",
     "resposta_correta": "garanta a estabilidade financeira"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Onde retiro a encomenda?'",
-    "opcoes": ["parcel", "pick", "up", "the", "where", "my", "get", "find", "order", "delivery", "box", "location", "is"],
+    "opcoes": ["up", "get", "where", "find", "pick", "delivery", "the", "box", "parcel", "location"],
     "numero": "5",
     "resposta_correta": "where pick up the parcel"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Verify the merchant identity'",
-    "opcoes": ["verifique", "a", "identidade", "comerciante", "do", "vendedor", "veja", "dados", "loja", "quem", "ser", "nome"],
+    "opcoes": ["vendedor", "do", "identidade", "dados", "a", "nome", "comerciante", "verifique", "loja"],
     "numero": "6",
     "resposta_correta": "verifique a identidade do comerciante"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'O orçamento está apertado'?",
-    "opcoes": ["is", "budget", "the", "tight", "money", "low", "spending", "limit", "short", "total", "costs", "very"],
+    "opcoes": ["budget", "spending", "the", "short", "is", "total", "tight", "costs"],
     "numero": "7",
     "resposta_correta": "the budget is tight"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Review the purchase order'",
-    "opcoes": ["revise", "o", "compra", "pedido", "de", "venda", "veja", "contrato", "itens", "lista", "preço", "valor"],
+    "opcoes": ["compra", "veja", "pedido", "itens", "de", "lista", "revise", "valor", "o"],
     "numero": "8",
     "resposta_correta": "revise o pedido de compra"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Aumente o capital social'?",
-    "opcoes": ["increase", "the", "share", "capital", "raise", "grow", "funds", "money", "stock", "total", "assets", "business"],
+    "opcoes": ["grow", "capital", "funds", "the", "increase", "stock", "share", "assets"],
     "numero": "9",
     "resposta_correta": "increase the share capital"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Withdrawal limits apply'",
-    "opcoes": ["limites", "de", "saque", "aplicam-se", "regras", "para", "tirar", "dinheiro", "banco", "taxas", "valor", "máximo"],
+    "opcoes": ["aplicam-se", "regras", "de", "tirar", "saque", "banco", "limites", "taxas"],
     "numero": "10",
     "resposta_correta": "limites de saque aplicam-se"
   }
@@ -6038,70 +6145,70 @@ export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A inflação está estável'?",
-    "opcoes": ["prices", "low", "is", "stable", "market", "inflation", "the", "money", "high", "economy", "value", "staying"],
+    "opcoes": ["inflation", "market", "the", "economy", "stable", "prices", "is", "low"],
     "numero": "1",
     "resposta_correta": "the inflation is stable"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Avoid excessive credit debt'",
-    "opcoes": ["evite", "juros", "dívida", "crédito", "excessiva", "de", "pagar", "muito", "cartão", "limite", "nome", "sujo"],
+    "opcoes": ["dívida", "pagar", "excessiva", "juros", "evite", "cartão", "de", "crédito", "limite"],
     "numero": "2",
     "resposta_correta": "evite dívida de crédito excessiva"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Eu nego a cobrança'?",
-    "opcoes": ["I", "want", "dispute", "charge", "bill", "the", "no", "pay", "money", "claim", "rejected", "back"],
+    "opcoes": ["dispute", "bill", "I", "claim", "the", "charge", "rejected", "want"],
     "numero": "3",
     "resposta_correta": "I dispute the charge"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Currency exchange fluctuating'",
-    "opcoes": ["oscilando", "moeda", "valor", "câmbio", "de", "preço", "banco", "está", "troca", "diferente", "dinheiro", "alto"],
+    "opcoes": ["câmbio", "dinheiro", "oscilando", "moeda", "valor", "de", "preço", "está"],
     "numero": "4",
     "resposta_correta": "câmbio de moeda oscilando"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A fatura está vencida'?",
-    "opcoes": ["invoice", "bill", "overdue", "the", "is", "late", "paid", "expired", "total", "account", "due", "price"],
+    "opcoes": ["is", "total", "invoice", "overdue", "the", "late", "paid", "expired"],
     "numero": "5",
     "resposta_correta": "the invoice is overdue"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Apply for a loan'",
-    "opcoes": ["peça", "solicite", "um", "crédito", "empréstimo", "banco", "dinheiro", "ajuda", "novo", "fazer", "taxa", "valor"],
+    "opcoes": ["empréstimo", "ajuda", "solicite", "banco", "um", "fazer", "dinheiro", "novo"],
     "numero": "6",
     "resposta_correta": "solicite um empréstimo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Assine o cheque'?",
-    "opcoes": ["write", "the", "sign", "check", "paper", "name", "money", "record", "bill", "official", "bank", "now"],
+    "opcoes": ["sign", "paper", "the", "money", "check", "write", "bank", "now"],
     "numero": "7",
     "resposta_correta": "sign the check"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Evaluate the market value'",
-    "opcoes": ["valor", "preço", "o", "mercado", "avalie", "de", "veja", "baixo", "custo", "venda", "plano", "estimativa"],
+    "opcoes": ["valor", "veja", "mercado", "avalie", "custo", "o", "baixo", "de", "venda"],
     "numero": "8",
     "resposta_correta": "avalie o valor de mercado"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Onde fica a alfândega?'?",
-    "opcoes": ["is", "the", "customs", "airport", "where", "police", "border", "find", "located", "security", "gate", "exit"],
+    "pergunta": "Como se diz 'Onde fica a alfândega?'",
+    "opcoes": ["customs", "located", "where", "find", "the", "airport", "is", "security"],
     "numero": "9",
     "resposta_correta": "where is the customs"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Update your billing address'",
-    "opcoes": ["atualize", "seu", "cobrança", "de", "endereço", "mude", "local", "dados", "casa", "entrega", "informação", "novo"],
+    "opcoes": ["endereço", "mude", "seu", "dados", "atualize", "local", "cobrança", "novo", "de"],
     "numero": "10",
     "resposta_correta": "atualize seu endereço de cobrança"
   }
@@ -6110,70 +6217,70 @@ export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A taxa é abusiva'?",
-    "opcoes": ["high", "is", "fee", "excessive", "the", "cost", "price", "unfair", "total", "rate", "money", "bad"],
+    "opcoes": ["excessive", "cost", "the", "price", "is", "unfair", "fee", "rate"],
     "numero": "1",
     "resposta_correta": "the fee is excessive"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'I settled the balance'",
-    "opcoes": ["eu", "conta", "o", "saldo", "paguei", "liquidou", "liquidei", "vi", "valor", "total", "banco", "meu"],
+    "opcoes": ["o", "paguei", "liquidei", "valor", "eu", "banco", "saldo", "total"],
     "numero": "2",
     "resposta_correta": "eu liquidei o saldo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Aumente o fluxo caixa'?",
-    "opcoes": ["flow", "cash", "the", "increase", "grow", "make", "money", "funds", "higher", "raise", "total", "stock"],
+    "opcoes": ["grow", "increase", "flow", "money", "the", "higher", "cash", "raise"],
     "numero": "3",
     "resposta_correta": "increase the cash flow"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Verify the bank statement'",
-    "opcoes": ["extrato", "o", "bancário", "verifique", "veja", "saldo", "conta", "dados", "papel", "número", "conferir", "valor"],
+    "opcoes": ["verifique", "saldo", "o", "conta", "extrato", "dados", "bancário", "valor"],
     "numero": "4",
     "resposta_correta": "verifique o extrato bancário"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Onde fica a tesouraria?'",
-    "opcoes": ["treasury", "where", "is", "the", "bank", "money", "room", "cashier", "find", "located", "place", "office"],
+    "opcoes": ["bank", "where", "money", "is", "cashier", "the", "treasury", "located"],
     "numero": "5",
     "resposta_correta": "where is the treasury"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Net profit has decreased'",
-    "opcoes": ["líquido", "lucro", "diminuiu", "caiu", "o", "faturamento", "bruto", "total", "perda", "renda", "valor", "baixo"],
+    "opcoes": ["bruto", "o", "faturamento", "lucro", "total", "líquido", "perda", "diminuiu"],
     "numero": "6",
     "resposta_correta": "o lucro líquido diminuiu"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Evite investimentos voláteis'?",
-    "opcoes": ["investments", "volatile", "avoid", "buy", "risky", "money", "deals", "stop", "trading", "bad", "low", "stocks"],
+    "opcoes": ["risky", "investments", "money", "avoid", "deals", "volatile", "trading", "bad"],
     "numero": "7",
     "resposta_correta": "avoid volatile investments"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'The asset value depreciated'",
-    "opcoes": ["valor", "do", "ativo", "o", "depreciou", "caiu", "preço", "bem", "baixo", "capital", "perda", "mercado"],
+    "opcoes": ["do", "ativo", "caiu", "o", "preço", "valor", "bem", "depreciou", "capital"],
     "numero": "8",
     "resposta_correta": "o valor do ativo depreciou"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A inflação reduz o consumo'?",
-    "opcoes": ["reduces", "consumption", "the", "inflation", "spending", "lowers", "market", "money", "buys", "high", "less", "economy"],
+    "opcoes": ["spending", "the", "lowers", "inflation", "market", "reduces", "consumption", "money"],
     "numero": "9",
     "resposta_correta": "the inflation reduces consumption"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Maintain accurate financial records'",
-    "opcoes": ["mantenha", "registros", "financeiros", "precisos", "guarde", "dados", "contas", "lucro", "total", "sempre", "documentos", "fatos"],
+    "opcoes": ["registros", "mantenha", "dados", "financeiros", "contas", "precisos", "lucro", "sempre"],
     "numero": "10",
     "resposta_correta": "mantenha registros financeiros precisos"
   }
@@ -6182,70 +6289,70 @@ export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Reduza os custos fixos'?",
-    "opcoes": ["costs", "lower", "fixed", "reduce", "the", "spending", "money", "cut", "bills", "price", "stable", "value"],
+    "opcoes": ["fixed", "spending", "reduce", "lower", "costs", "cut", "the", "money"],
     "numero": "1",
     "resposta_correta": "reduce the fixed costs"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'I need a credit limit increase'",
-    "opcoes": ["preciso", "um", "de", "limite", "aumento", "crédito", "no", "eu", "quero", "banco", "mais", "valor"],
+    "opcoes": ["limite", "banco", "aumento", "um", "preciso", "no", "eu", "valor", "de", "crédito", "quero", "mais"],
     "numero": "2",
     "resposta_correta": "eu preciso de um aumento no limite de crédito"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A moeda está valorizando'?",
-    "opcoes": ["currency", "the", "is", "appreciating", "money", "rising", "high", "growing", "value", "up", "market", "strong"],
+    "opcoes": ["is", "rising", "currency", "the", "high", "growing", "appreciating", "value"],
     "numero": "3",
     "resposta_correta": "the currency is appreciating"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Avoid paying high service fees'",
-    "opcoes": ["evite", "taxas", "serviço", "altas", "de", "pagar", "custo", "caro", "dinheiro", "valor", "preço", "muito"],
+    "opcoes": ["pagar", "custo", "altas", "taxas", "evite", "dinheiro", "de", "serviço", "valor"],
     "numero": "4",
     "resposta_correta": "evite pagar altas taxas de serviço"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Onde retiro meu reembolso?'?",
-    "opcoes": ["where", "collect", "my", "refund", "do", "I", "get", "money", "back", "find", "is", "location", "pick"],
+    "pergunta": "Como se diz 'Onde retiro meu reembolso?'",
+    "opcoes": ["collect", "where", "money", "do", "get", "my", "I", "refund", "back", "find"],
     "numero": "5",
     "resposta_correta": "where do I collect my refund"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'This incurs extra interest charges'",
-    "opcoes": ["isto", "gera", "juros", "extras", "encargos", "de", "taxas", "cobranças", "valor", "mais", "pagamento", "multa"],
+    "opcoes": ["encargos", "valor", "juros", "gera", "isto", "mais", "extras", "de", "taxas"],
     "numero": "6",
     "resposta_correta": "isto gera encargos de juros extras"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'O mercado está volátil'?",
-    "opcoes": ["market", "the", "is", "volatile", "unstable", "going", "risky", "very", "trading", "economy", "low", "high"],
+    "opcoes": ["is", "volatile", "the", "unstable", "market", "risky", "very", "economy"],
     "numero": "7",
     "resposta_correta": "the market is volatile"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Review the billing statement'",
-    "opcoes": ["revise", "o", "extrato", "cobrança", "de", "fatura", "veja", "dados", "conta", "valor", "preço", "mensal"],
+    "opcoes": ["extrato", "o", "veja", "de", "cobrança", "dados", "revise", "conta", "valor"],
     "numero": "8",
     "resposta_correta": "revise o extrato de cobrança"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A transação foi autorizada'?",
-    "opcoes": ["authorized", "was", "the", "transaction", "approved", "payment", "done", "sent", "bank", "ok", "ready", "money"],
+    "opcoes": ["authorized", "the", "approved", "was", "payment", "transaction", "sent", "bank"],
     "numero": "9",
     "resposta_correta": "the transaction was authorized"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Maintain strict financial control'",
-    "opcoes": ["mantenha", "controle", "financeiro", "rigoroso", "tenha", "sucesso", "dados", "sempre", "lucro", "guarde", "valor", "plano"],
+    "opcoes": ["controle", "tenha", "financeiro", "mantenha", "sucesso", "rigoroso", "dados", "sempre"],
     "numero": "10",
     "resposta_correta": "mantenha rigoroso controle financeiro"
   }
@@ -6254,70 +6361,70 @@ export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A inflação corrói o poder de compra'?",
-    "opcoes": ["power", "purchasing", "erodes", "inflation", "money", "the", "lowers", "buys", "value", "market", "is", "strong"],
+    "opcoes": ["purchasing", "value", "erodes", "money", "the", "market", "power", "is", "inflation", "lowers"],
     "numero": "1",
     "resposta_correta": "the inflation erodes purchasing power"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'I requested a credit limit review'",
-    "opcoes": ["solicitei", "uma", "revisão", "de", "limite", "crédito", "do", "eu", "banco", "pedi", "valor", "mais", "análise"],
+    "opcoes": ["de", "solicitei", "banco", "uma", "valor", "revisão", "de", "análise", "eu", "limite", "pedi", "crédito"],
     "numero": "2",
     "resposta_correta": "eu solicitei uma revisão de limite de crédito"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Evite taxas de juros compostos'?",
-    "opcoes": ["interest", "compound", "avoid", "rates", "high", "money", "debt", "paying", "bank", "costs", "very", "bills"],
+    "opcoes": ["high", "interest", "avoid", "paying", "rates", "debt", "compound", "bank"],
     "numero": "3",
     "resposta_correta": "avoid compound interest rates"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Verify the bank routing number'",
-    "opcoes": ["verifique", "o", "número", "de", "roteamento", "bancário", "dados", "banco", "conta", "veja", "agência", "código"],
+    "opcoes": ["número", "banco", "o", "agência", "roteamento", "código", "verifique", "de", "bancário", "veja"],
     "numero": "4",
     "resposta_correta": "verifique o número de roteamento bancário"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Onde retiro o comprovante fiscal?'?",
-    "opcoes": ["where", "I", "collect", "the", "tax", "receipt", "do", "get", "paper", "find", "is", "location", "proof"],
+    "pergunta": "Como se diz 'Onde retiro o comprovante fiscal?'",
+    "opcoes": ["collect", "paper", "the", "find", "where", "proof", "do", "get", "I", "tax", "receipt"],
     "numero": "5",
     "resposta_correta": "where do I collect the tax receipt"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'The stock market remains volatile'",
-    "opcoes": ["o", "mercado", "de", "ações", "permanece", "volátil", "bolsa", "está", "ainda", "instável", "preços", "valores"],
+    "opcoes": ["bolsa", "o", "ações", "está", "mercado", "instável", "de", "preços", "permanece", "volátil"],
     "numero": "6",
     "resposta_correta": "o mercado de ações permanece volátil"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Negocie melhores prazos de pagamento'?",
-    "opcoes": ["negotiate", "better", "payment", "terms", "deal", "get", "time", "longer", "pay", "buy", "find", "price"],
+    "opcoes": ["better", "pay", "terms", "price", "negotiate", "deal", "payment", "time"],
     "numero": "7",
     "resposta_correta": "negotiate better payment terms"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Review the annual financial audit'",
-    "opcoes": ["revise", "a", "auditoria", "financeira", "anual", "veja", "dados", "balanço", "contas", "total", "lucro", "relatório"],
+    "opcoes": ["a", "dados", "auditoria", "total", "anual", "relatório", "revise", "financeira", "lucro"],
     "numero": "8",
     "resposta_correta": "revise a auditoria financeira anual"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A transação excedeu o limite'?",
-    "opcoes": ["transaction", "the", "exceeded", "limit", "amount", "money", "bank", "over", "went", "high", "card", "was"],
+    "opcoes": ["the", "amount", "the", "over", "transaction", "bank", "exceeded", "was", "limit"],
     "numero": "9",
     "resposta_correta": "the transaction exceeded the limit"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Ensure efficient capital allocation'",
-    "opcoes": ["garanta", "alocação", "de", "capital", "eficiente", "tenha", "sucesso", "recursos", "investimento", "total", "valor", "plano"],
+    "opcoes": ["capital", "recursos", "eficiente", "total", "de", "investimento", "garanta", "plano", "alocação"],
     "numero": "10",
     "resposta_correta": "garanta alocação de capital eficiente"
   }
@@ -6326,70 +6433,70 @@ export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A taxa de juros é flutuante'?",
-    "opcoes": ["interest", "rate", "the", "floating", "is", "money", "variable", "bank", "high", "cost", "market", "changeable"],
+    "opcoes": ["interest", "high", "the", "variable", "rate", "cost", "is", "floating", "bank"],
     "numero": "1",
     "resposta_correta": "the interest rate is floating"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'I requested a payment extension'",
-    "opcoes": ["eu", "solicitei", "uma", "extensão", "de", "pagamento", "prazo", "pedi", "banco", "mais", "valor", "tempo", "análise"],
+    "opcoes": ["extensão", "banco", "pagamento", "pedi", "uma", "valor", "eu", "solicitei", "de", "tempo"],
     "numero": "2",
     "resposta_correta": "eu solicitei uma extensão de pagamento"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Evite cobranças de manutenção mensais'?",
-    "opcoes": ["avoid", "monthly", "maintenance", "fees", "bills", "money", "costs", "paying", "bank", "service", "charges", "high"],
+    "opcoes": ["maintenance", "bills", "avoid", "money", "monthly", "costs", "fees", "paying"],
     "numero": "3",
     "resposta_correta": "avoid monthly maintenance fees"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Verify the funds availability'",
-    "opcoes": ["verifique", "a", "disponibilidade", "de", "recursos", "fundos", "veja", "banco", "saldo", "dinheiro", "valor", "contas"],
+    "opcoes": ["disponibilidade", "veja", "de", "fundos", "banco", "a", "verifique", "saldo", "dinheiro"],
     "numero": "4",
     "resposta_correta": "verifique a disponibilidade de fundos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz 'Onde retiro meus dividendos?'?",
-    "opcoes": ["where", "I", "collect", "my", "dividends", "do", "get", "money", "shares", "stock", "find", "is", "pick"],
+    "pergunta": "Como se diz 'Onde retiro meus dividendos?'",
+    "opcoes": ["collect", "dividends", "do", "money", "get", "where", "my", "I", "shares"],
     "numero": "5",
     "resposta_correta": "where do I collect my dividends"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'The net worth has increased'",
-    "opcoes": ["o", "patrimônio", "líquido", "aumentou", "subiu", "valor", "cresceu", "total", "bem", "bruto", "capital", "renda"],
+    "opcoes": ["o", "valor", "patrimônio", "cresceu", "líquido", "aumentou", "total", "bruto"],
     "numero": "6",
     "resposta_correta": "o patrimônio líquido aumentou"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'Aumente a margem de lucro'?",
-    "opcoes": ["increase", "the", "profit", "margin", "raise", "grow", "money", "higher", "make", "business", "more", "funds"],
+    "opcoes": ["increase", "raise", "the", "grow", "profit", "money", "margin", "higher"],
     "numero": "7",
     "resposta_correta": "increase the profit margin"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Review the quarterly fiscal report'",
-    "opcoes": ["revise", "o", "relatório", "fiscal", "trimestral", "veja", "dados", "contas", "anual", "total", "lucro", "balanço"],
+    "opcoes": ["relatório", "trimestral", "fiscal", "o", "anual", "revise", "dados", "lucro", "balanço"],
     "numero": "8",
     "resposta_correta": "revise o relatório fiscal trimestral"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Como se diz 'A transação foi recusada'?",
-    "opcoes": ["transaction", "the", "was", "declined", "denied", "payment", "card", "failed", "bank", "error", "not", "done"],
+    "opcoes": ["declined", "payment", "the", "card", "transaction", "was", "failed", "bank"],
     "numero": "9",
     "resposta_correta": "the transaction was declined"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Traduza: 'Maintain detailed accounting records'",
-    "opcoes": ["mantenha", "registros", "contábeis", "detalhados", "guarde", "dados", "financeiros", "precisos", "sempre", "lucro", "contas", "total"],
+    "opcoes": ["detalhados", "guarde", "registros", "contábeis", "dados", "financeiros", "mantenha", "precisos"],
     "numero": "10",
     "resposta_correta": "mantenha registros contábeis detalhados"
   }

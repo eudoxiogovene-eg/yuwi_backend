@@ -1,4 +1,4 @@
-export const quiz1 = [
+export const quiz01 = [
   {
     "pergunta": "Como se diz 'Quadro-negro' em inglês?",
     "opcoes": {
@@ -108,7 +108,10 @@ export const quiz1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz02 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Scissors'?",
     "opcoes": {
@@ -220,7 +223,7 @@ export const quiz1 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Como se diz 'Apontador' em inglês?",
     "opcoes": {
@@ -330,7 +333,10 @@ export const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz04 = [
+ 
   {
     "pergunta": "Como se diz 'Exam' em português?",
     "opcoes": {
@@ -442,7 +448,7 @@ export const quiz2 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Qual é a tradução de 'Projector'?",
     "opcoes": {
@@ -552,7 +558,10 @@ export const quiz3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz06 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Principal'?",
     "opcoes": {
@@ -664,7 +673,7 @@ export const quiz3 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Como se diz 'Auditório' em inglês?",
     "opcoes": {
@@ -774,7 +783,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz08 = [
+  
   {
     "pergunta": "Como se diz 'Secretaria' em inglês?",
     "opcoes": {
@@ -886,7 +898,7 @@ export const quiz4 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Qual é a tradução de 'Fountain pen'?",
     "opcoes": {
@@ -996,7 +1008,10 @@ export const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz010 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Tuition'?",
     "opcoes": {
@@ -1108,7 +1123,7 @@ export const quiz5 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
     "opcoes": {
@@ -1218,7 +1233,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz012 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Flute' (material de desenho)?",
     "opcoes": {
@@ -1330,7 +1348,7 @@ export const quiz6 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Qual é a tradução de 'Pencil case'?",
     "opcoes": {
@@ -1440,7 +1458,10 @@ export const quiz7 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz014 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Chalkboard eraser'?",
     "opcoes": {
@@ -1552,7 +1573,7 @@ export const quiz7 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Como se diz 'Esquadro' em inglês?",
     "opcoes": {
@@ -1662,7 +1683,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz016 = [
+  
   {
     "pergunta": "Como se diz 'Transferidor' em inglês?",
     "opcoes": {
@@ -1774,7 +1798,7 @@ export const quiz8 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Qual é a tradução de 'Nursery school'?",
     "opcoes": {
@@ -1884,7 +1908,10 @@ export const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz018 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Enrollment'?",
     "opcoes": {
@@ -1996,7 +2023,7 @@ export const quiz9 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Como se diz 'Ensino Médio' em inglês?",
     "opcoes": {
@@ -2106,7 +2133,10 @@ export const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz1020 = [
+  
   {
     "pergunta": "Como se diz 'Bússola / Compasso' em inglês?",
     "opcoes": {
@@ -2221,50 +2251,50 @@ export const quiz10 = [
 
 /*-----------------------basico--------------------------------*/
 
-export const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Abra seu livro' em inglês?",
     "opcoes": {
-      "A": "Open your book",
-      "B": "Read your book",
-      "C": "Close your book",
-      "D": "Look your book"
+      "A": "Read your book",
+      "B": "Look your book",
+      "C": "Open your book",
+      "D": "Close your book"
     },
     "numero": "1",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Where is my pencil?'",
     "opcoes": {
-      "A": "Cadê meu estojo?",
-      "B": "Onde está meu lápis?",
+      "A": "Onde está meu lápis?",
+      "B": "Cadê meu estojo?",
       "C": "Isto é um lápis?",
       "D": "Achei meu lápis"
     },
     "numero": "2",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A prova acabou' em inglês?",
     "opcoes": {
       "A": "The test starts",
       "B": "The test easy",
-      "C": "The test is over",
-      "D": "Finish the test"
+      "C": "Finish the test",
+      "D": "The test is over"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Show your homework'?",
     "opcoes": {
       "A": "Faça seu dever",
-      "B": "Escreva o dever",
+      "B": "Mostre seu dever",
       "C": "Corrija o dever",
-      "D": "Mostre seu dever"
+      "D": "Escreva o dever"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Preciso de ajuda' em inglês?",
@@ -2281,23 +2311,23 @@ export const quizBasico1 = [
     "pergunta": "Qual é a tradução de 'Sit down, please'?",
     "opcoes": {
       "A": "Levante-se, por favor",
-      "B": "Sente-se, por favor",
-      "C": "Silêncio, por favor",
+      "B": "Silêncio, por favor",
+      "C": "Sente-se, por favor",
       "D": "Saia, por favor"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Escreva seu nome' em inglês?",
     "opcoes": {
       "A": "Read your name",
-      "B": "Spell your name",
-      "C": "Write your name",
+      "B": "Write your name",
+      "C": "Spell your name",
       "D": "Say your name"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'The class starts'?",
@@ -2313,13 +2343,13 @@ export const quizBasico1 = [
   {
     "pergunta": "Como se diz 'Eu tenho uma dúvida' em inglês?",
     "opcoes": {
-      "A": "I have a question",
-      "B": "I have a book",
-      "C": "I have a pen",
-      "D": "I have an answer"
+      "A": "I have a book",
+      "B": "I have a pen",
+      "C": "I have an answer",
+      "D": "I have a question"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Close the door'?",
@@ -2331,50 +2361,52 @@ export const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico02 = [
   {
     "pergunta": "Como se diz 'Preste atenção' em inglês?",
     "opcoes": {
-      "A": "Look at this",
+      "A": "Pay attention",
       "B": "Listen to me",
-      "C": "Pay attention",
+      "C": "Look at this",
       "D": "Quiet please"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Use the eraser'?",
     "opcoes": {
       "A": "Pegue o lápis",
       "B": "Perca a borracha",
-      "C": "Limpe o quadro",
-      "D": "Use a borracha"
+      "C": "Use a borracha",
+      "D": "Limpe o quadro"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Leia o texto' em inglês?",
     "opcoes": {
-      "A": "Read the text",
-      "B": "Write the text",
+      "A": "Write the text",
+      "B": "Read the text",
       "C": "Speak the text",
       "D": "See the text"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Clean the board'?",
     "opcoes": {
       "A": "Grite no quadro",
-      "B": "Limpe o quadro",
-      "C": "Desenhe no quadro",
-      "D": "Mova o quadro"
+      "B": "Desenhe no quadro",
+      "C": "Mova o quadro",
+      "D": "Limpe o quadro"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Silêncio na biblioteca' em inglês?",
@@ -2391,34 +2423,34 @@ export const quizBasico1 = [
     "pergunta": "Qual é a tradução de 'Raise your hand'?",
     "opcoes": {
       "A": "Lave sua mão",
-      "B": "Baixe sua mão",
+      "B": "Levante sua mão",
       "C": "Balance a mão",
-      "D": "Levante sua mão"
+      "D": "Baixe sua mão"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Posso entrar?' em inglês?",
     "opcoes": {
-      "A": "May I come in?",
-      "B": "Can I leave?",
-      "C": "May I speak?",
-      "D": "Should I go?"
+      "A": "Can I leave?",
+      "B": "May I speak?",
+      "C": "Should I go?",
+      "D": "May I come in?"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Take your seat'?",
     "opcoes": {
-      "A": "Leve sua mochila",
-      "B": "Tome seu lugar",
+      "A": "Tome seu lugar",
+      "B": "Leve sua mochila",
       "C": "Saia do lugar",
       "D": "Mude de lugar"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Trabalhem em grupos' em inglês?",
@@ -2434,70 +2466,70 @@ export const quizBasico1 = [
   {
     "pergunta": "Qual é a tradução de 'Find the page'?",
     "opcoes": {
-      "A": "Leia a página",
+      "A": "Encontre a página",
       "B": "Pule a página",
       "C": "Marque a página",
-      "D": "Encontre a página"
+      "D": "Leia a página"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   }
 ];
-export const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Onde está a biblioteca?' em inglês?",
     "opcoes": {
-      "A": "Where is the library?",
-      "B": "Where is the classroom?",
-      "C": "Go to the library",
-      "D": "Find the library now"
+      "A": "Go to the library",
+      "B": "Find the library now",
+      "C": "Where is the library?",
+      "D": "Where is the classroom?"
     },
     "numero": "1",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Take your backpack'?",
     "opcoes": {
-      "A": "Abra sua mochila",
-      "B": "Pegue sua mochila",
+      "A": "Pegue sua mochila",
+      "B": "Abra sua mochila",
       "C": "Mostre sua mochila",
       "D": "Limpe sua mochila"
     },
     "numero": "2",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A prova está difícil' em inglês?",
     "opcoes": {
       "A": "The test is easy",
       "B": "The test is long",
-      "C": "The test is hard",
-      "D": "The test is over"
+      "C": "The test is over",
+      "D": "The test is hard"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Listen to the teacher'?",
     "opcoes": {
       "A": "Olhe para o professor",
-      "B": "Chame o professor",
-      "C": "Siga o professor",
-      "D": "Ouça o professor"
+      "B": "Ouça o professor",
+      "C": "Chame o professor",
+      "D": "Siga o professor"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Traga seu dicionário' em inglês?",
     "opcoes": {
       "A": "Use your dictionary",
-      "B": "Bring your dictionary",
-      "C": "Buy a dictionary",
-      "D": "Read the dictionary"
+      "B": "Buy a dictionary",
+      "C": "Read the dictionary",
+      "D": "Bring your dictionary"
     },
     "numero": "5",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Don't be late'?",
@@ -2514,52 +2546,55 @@ export const quizBasico2 = [
     "pergunta": "Como se diz 'Copie do quadro' em inglês?",
     "opcoes": {
       "A": "Look the board",
-      "B": "Clean the board",
-      "C": "Write the board",
-      "D": "Copy from board"
+      "B": "Write the board",
+      "C": "Copy from board",
+      "D": "Clean the board"
     },
     "numero": "7",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Study for the exam'?",
     "opcoes": {
       "A": "Faça o exame",
-      "B": "Passe no exame",
-      "C": "Estude para o exame",
+      "B": "Estude para o exame",
+      "C": "Passe no exame",
       "D": "Termine o exame"
     },
     "numero": "8",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'É sua vez' em inglês?",
     "opcoes": {
-      "A": "It is your turn",
-      "B": "It is your time",
-      "C": "It is your choice",
-      "D": "It is your way"
+      "A": "It is your time",
+      "B": "It is your choice",
+      "C": "It is your way",
+      "D": "It is your turn"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Check the answers'?",
     "opcoes": {
-      "A": "Escreva as respostas",
-      "B": "Verifique as respostas",
+      "A": "Verifique as respostas",
+      "B": "Escreva as respostas",
       "C": "Mude as respostas",
       "D": "Leia as respostas"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizBasico04 = [
+  
   {
     "pergunta": "Como se diz 'Guarde seus materiais' em inglês?",
     "opcoes": {
       "A": "Show your stuff",
-      "B": "Buy new pens",
-      "C": "Pack your things",
+      "B": "Pack your things",
+      "C": "Buy new pens",
       "D": "Put away supplies"
     },
     "numero": "11",
@@ -2579,13 +2614,13 @@ export const quizBasico2 = [
   {
     "pergunta": "Como se diz 'Aprenda novas palavras' em inglês?",
     "opcoes": {
-      "A": "Learn new words",
-      "B": "Speak new words",
+      "A": "Speak new words",
+      "B": "Learn new words",
       "C": "Write new words",
       "D": "Study new words"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Keep it quiet'?",
@@ -2601,35 +2636,35 @@ export const quizBasico2 = [
   {
     "pergunta": "Como se diz 'Onde está o banheiro?' em inglês?",
     "opcoes": {
-      "A": "Where is the office?",
-      "B": "Where is the hall?",
-      "C": "Where is the restroom?",
+      "A": "Where is the restroom?",
+      "B": "Where is the office?",
+      "C": "Where is the hall?",
       "D": "Where is the gym?"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Correct the mistakes'?",
     "opcoes": {
       "A": "Encontre os erros",
       "B": "Aponte os erros",
-      "C": "Faça os erros",
-      "D": "Corrija os erros"
+      "C": "Corrija os erros",
+      "D": "Faça os erros"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Eu não entendi' em inglês?",
     "opcoes": {
-      "A": "I don't understand",
-      "B": "I don't know",
-      "C": "I don't think",
-      "D": "I don't hear"
+      "A": "I don't know",
+      "B": "I don't think",
+      "C": "I don't hear",
+      "D": "I don't understand"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Follow the instructions'?",
@@ -2645,27 +2680,27 @@ export const quizBasico2 = [
   {
     "pergunta": "Como se diz 'Pratique sua fala' em inglês?",
     "opcoes": {
-      "A": "Practice your writing",
-      "B": "Practice your reading",
-      "C": "Practice your speaking",
+      "A": "Practice your speaking",
+      "B": "Practice your writing",
+      "C": "Practice your reading",
       "D": "Practice your listening"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Wait your turn'?",
     "opcoes": {
       "A": "Pule sua vez",
       "B": "Mude sua vez",
-      "C": "Perdi minha vez",
-      "D": "Espere sua vez"
+      "C": "Espere sua vez",
+      "D": "Perdi minha vez"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizBasico3 = [
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'Faça anotações agora' em inglês?",
     "opcoes": {
@@ -2775,7 +2810,10 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico06 = [
+ 
   {
     "pergunta": "Como se diz 'Vire a página' em inglês?",
     "opcoes": {
@@ -2887,7 +2925,7 @@ export const quizBasico3 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Como se diz 'A lição foi útil' em inglês?",
     "opcoes": {
@@ -2997,7 +3035,10 @@ export const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico08 = [
+ 
   {
     "pergunta": "Como se diz 'Pegue uma folha' em inglês?",
     "opcoes": {
@@ -3109,7 +3150,7 @@ export const quizBasico4 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'A lição foi difícil' em inglês?",
     "opcoes": {
@@ -3219,7 +3260,10 @@ export const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico010 = [
+  
   {
     "pergunta": "Como se diz 'Verifique suas notas' em inglês?",
     "opcoes": {
@@ -3331,7 +3375,7 @@ export const quizBasico5 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Aprenda novas lições' em inglês?",
     "opcoes": {
@@ -3441,7 +3485,10 @@ export const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico012 = [
+  
   {
     "pergunta": "Como se diz 'Limpe o quadro' em inglês?",
     "opcoes": {
@@ -3553,7 +3600,7 @@ export const quizBasico6 = [
     "resposta_correta": "A"
   }
 ];
-export const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'Melhore seu desempenho' em inglês?",
     "opcoes": {
@@ -3663,7 +3710,10 @@ export const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico014 = [
+ 
   {
     "pergunta": "Como se diz 'Complete o exercício' em inglês?",
     "opcoes": {
@@ -3775,7 +3825,7 @@ export const quizBasico7 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Acompanhe o progresso' em inglês?",
     "opcoes": {
@@ -3885,7 +3935,10 @@ export const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico016 = [
+  
   {
     "pergunta": "Como se diz 'Peça por esclarecimento' em inglês?",
     "opcoes": {
@@ -3997,7 +4050,7 @@ export const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'Aumente seu conhecimento' em inglês?",
     "opcoes": {
@@ -4107,7 +4160,10 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico018 = [
+  
   {
     "pergunta": "Como se diz 'Alcance seu potencial' em inglês?",
     "opcoes": {
@@ -4219,7 +4275,7 @@ export const quizBasico9 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'Aprimore suas habilidades' em inglês?",
     "opcoes": {
@@ -4329,7 +4385,10 @@ export const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico020 = [
+  
   {
     "pergunta": "Como se diz 'Ignore as distrações' em inglês?",
     "opcoes": {
@@ -4446,7 +4505,7 @@ export const quizBasico10 = [
 
 
 
-const quizIntermediario1 = [
+const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'The school library' em português?",
     "opcoes": {
@@ -4556,7 +4615,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario02 = [
+ 
   {
     "pergunta": "Como se diz 'Research is necessary' em português?",
     "opcoes": {
@@ -4668,7 +4730,7 @@ const quizIntermediario1 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario2 = [
+const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'A frequência é obrigatória' em inglês?",
     "opcoes": {
@@ -4778,7 +4840,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizIntermediario04 = [
+  
   {
     "pergunta": "Como se diz 'Onde está o boletim?' em inglês?",
     "opcoes": {
@@ -4890,7 +4955,7 @@ const quizIntermediario2 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'The assignment is due today' em português?",
     "opcoes": {
@@ -5000,7 +5065,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario06 = [
+ 
   {
     "pergunta": "Como se diz 'He dropped the course' em português?",
     "opcoes": {
@@ -5112,7 +5180,7 @@ const quizIntermediario3 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario4 = [
+const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'A palestra foi cancelada' em inglês?",
     "opcoes": {
@@ -5222,7 +5290,10 @@ const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario08 = [
+  
   {
     "pergunta": "Como se diz 'Onde fica o laboratório?' em inglês?",
     "opcoes": {
@@ -5334,17 +5405,17 @@ const quizIntermediario4 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario5 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'The assignment is due tomorrow' em português?",
     "opcoes": {
       "A": "A aula começa amanhã",
-      "B": "O trabalho vence amanhã",
-      "C": "O livro chega amanhã",
-      "D": "O exame será amanhã"
+      "B": "O exame será amanhã",
+      "C": "O trabalho vence amanhã",
+      "D": "O livro chega amanhã"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Eu preciso do meu histórico' em inglês?",
@@ -5362,22 +5433,22 @@ const quizIntermediario5 = [
     "opcoes": {
       "A": "Ela é uma aluna aplicada",
       "B": "Ela é uma aluna nova",
-      "C": "Ela é uma aluna superdotada",
-      "D": "Ela é uma aluna calma"
+      "C": "Ela é uma aluna calma",
+      "D": "Ela é uma aluna superdotada"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde fica o auditório?' em inglês?",
     "opcoes": {
       "A": "Where is the library?",
-      "B": "Where is the gym?",
+      "B": "Where is the auditorium?",
       "C": "Where is the office?",
-      "D": "Where is the auditorium?"
+      "D": "Where is the gym?"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'I missed the lecture' em português?",
@@ -5394,23 +5465,23 @@ const quizIntermediario5 = [
     "pergunta": "Como se diz 'A taxa de matrícula' em inglês?",
     "opcoes": {
       "A": "The school bus",
-      "B": "The enrollment fee",
-      "C": "The teacher salary",
+      "B": "The teacher salary",
+      "C": "The enrollment fee",
       "D": "The classroom rent"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'The principal is busy' em português?",
     "opcoes": {
       "A": "O professor está ocupado",
-      "B": "O aluno está ocupado",
-      "C": "O diretor está ocupado",
+      "B": "O diretor está ocupado",
+      "C": "O aluno está ocupado",
       "D": "O monitor está ocupado"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Você passou no vestibular?' em inglês?",
@@ -5426,68 +5497,71 @@ const quizIntermediario5 = [
   {
     "pergunta": "Como se diz 'Attendance is taken daily' em português?",
     "opcoes": {
-      "A": "A chamada é feita diariamente",
+      "A": "A escola abre diariamente",
       "B": "O estudo é feito diariamente",
-      "C": "A escola abre diariamente",
-      "D": "A prova ocorre diariamente"
+      "C": "A prova ocorre diariamente",
+      "D": "A chamada é feita diariamente"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde estão os requisitos?' em inglês?",
     "opcoes": {
-      "A": "Where are the books?",
+      "A": "Where are the students?",
       "B": "Where are the prerequisites?",
-      "C": "Where are the students?",
+      "C": "Where are the books?",
       "D": "Where are the classes?"
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario010 = [
+  
   {
     "pergunta": "Como se diz 'He dropped the course' em português?",
     "opcoes": {
-      "A": "Ele iniciou o curso",
-      "B": "Ele terminou o curso",
-      "C": "Ele trancou o curso",
+      "A": "Ele trancou o curso",
+      "B": "Ele iniciou o curso",
+      "C": "Ele terminou o curso",
       "D": "Ele mudou o curso"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A nota foi excelente' em inglês?",
     "opcoes": {
       "A": "The teacher was excellent",
       "B": "The book was excellent",
-      "C": "The school was excellent",
-      "D": "The grade was excellent"
+      "C": "The grade was excellent",
+      "D": "The school was excellent"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'I have a scholarship' em português?",
     "opcoes": {
-      "A": "Eu tenho uma bolsa",
-      "B": "Eu tenho um livro",
+      "A": "Eu tenho um livro",
+      "B": "Eu tenho uma bolsa",
       "C": "Eu tenho uma escola",
       "D": "Eu tenho um diploma"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde está o zelador?' em inglês?",
     "opcoes": {
       "A": "Where is the principal?",
-      "B": "Where is the janitor?",
-      "C": "Where is the student?",
-      "D": "Where is the teacher?"
+      "B": "Where is the student?",
+      "C": "Where is the teacher?",
+      "D": "Where is the janitor?"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'The syllabus is updated' em português?",
@@ -5503,41 +5577,41 @@ const quizIntermediario5 = [
   {
     "pergunta": "Como se diz 'Entregue sua redação agora' em inglês?",
     "opcoes": {
-      "A": "Read your essay now",
-      "B": "Write your essay now",
-      "C": "Correct your essay now",
-      "D": "Submit your essay now"
+      "A": "Submit your essay now",
+      "B": "Read your essay now",
+      "C": "Write your essay now",
+      "D": "Correct your essay now"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'She is very studious' em português?",
     "opcoes": {
-      "A": "Ela é muito estudiosa",
-      "B": "Ela é muito inteligente",
-      "C": "Ela é muito rápida",
-      "D": "Ela é muito calma"
+      "A": "Ela é muito calma",
+      "B": "Ela é muito rápida",
+      "C": "Ela é muito inteligente",
+      "D": "Ela é muito estudiosa"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Onde fica o campus?' em inglês?",
     "opcoes": {
-      "A": "Where is the room?",
-      "B": "Where is the campus?",
+      "A": "Where is the campus?",
+      "B": "Where is the room?",
       "C": "Where is the city?",
       "D": "Where is the school?"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'I need more credits' em português?",
     "opcoes": {
       "A": "Eu preciso de livros",
-      "B": "Eu preciso de tempo",
+      "B": "Eu preciso de credits",
       "C": "Eu preciso de créditos",
       "D": "Eu preciso de ajuda"
     },
@@ -5548,15 +5622,15 @@ const quizIntermediario5 = [
     "pergunta": "Como se diz 'O prazo foi prorrogado' em inglês?",
     "opcoes": {
       "A": "The class was canceled",
-      "B": "The book was lost",
-      "C": "The exam was easy",
-      "D": "The deadline was extended"
+      "B": "The deadline was extended",
+      "C": "The book was lost",
+      "D": "The exam was easy"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   }
 ];
-const quizIntermediario6 = [
+const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'A frequência é obrigatória' em inglês?",
     "opcoes": {
@@ -5666,7 +5740,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+const quizIntermediario012 = [
+ 
   {
     "pergunta": "Como se diz 'Onde está o boletim?' em inglês?",
     "opcoes": {
@@ -5778,117 +5855,120 @@ const quizIntermediario6 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'A taxa de matrícula' em inglês?",
     "opcoes": {
-      "A": "The school bus",
-      "B": "The enrollment fee",
+      "A": "The enrollment fee",
+      "B": "The school bus",
       "C": "The teacher salary",
       "D": "The classroom rent"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'I need my transcript' em português?",
     "opcoes": {
-      "A": "Eu preciso do meu histórico",
-      "B": "Eu preciso da minha história",
-      "C": "Eu preciso da minha nota",
-      "D": "Eu preciso do meu papel"
+      "A": "Eu preciso da minha história",
+      "B": "Eu preciso da minha nota",
+      "C": "Eu preciso do meu papel",
+      "D": "Eu preciso do meu histórico"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'She is a gifted student' em português?",
     "opcoes": {
       "A": "Ela é uma aluna aplicada",
-      "B": "Ela é uma aluna nova",
-      "C": "Ela é uma aluna superdotada",
+      "B": "Ela é uma aluna superdotada",
+      "C": "Ela é uma aluna nova",
       "D": "Ela é uma aluna calma"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde fica o auditório?' em inglês?",
     "opcoes": {
       "A": "Where is the library?",
       "B": "Where is the gym?",
-      "C": "Where is the office?",
-      "D": "Where is the auditorium?"
+      "C": "Where is the auditorium?",
+      "D": "Where is the office?"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'I missed the lecture' em português?",
     "opcoes": {
-      "A": "Eu perdi a palestra",
-      "B": "Eu li a lição",
+      "A": "Eu li a lição",
+      "B": "Eu perdi a palestra",
       "C": "Eu fiz a prova",
       "D": "Eu esqueci o livro"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'The assignment is due today' em português?",
     "opcoes": {
       "A": "A aula é hoje",
-      "B": "O trabalho vence hoje",
-      "C": "O livro chega hoje",
-      "D": "A prova será hoje"
+      "B": "O livro chega hoje",
+      "C": "A prova será hoje",
+      "D": "O trabalho vence hoje"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'The principal is busy' em português?",
     "opcoes": {
-      "A": "O professor está ocupado",
-      "B": "O aluno está ocupado",
-      "C": "O diretor está ocupado",
+      "A": "O diretor está ocupado",
+      "B": "O professor está ocupado",
+      "C": "O aluno está ocupado",
       "D": "O monitor está ocupado"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Você passou no vestibular?' em inglês?",
     "opcoes": {
       "A": "Did you study hard?",
       "B": "Did you buy books?",
-      "C": "Did you graduate now?",
-      "D": "Did you pass entrance exams?"
+      "C": "Did you pass entrance exams?",
+      "D": "Did you graduate now?"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Attendance is taken daily' em português?",
     "opcoes": {
-      "A": "A chamada é feita diariamente",
-      "B": "O estudo é feito diariamente",
+      "A": "O estudo é feito diariamente",
+      "B": "A chamada é feita diariamente",
       "C": "A escola abre diariamente",
       "D": "A prova ocorre diariamente"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde estão os requisitos?' em inglês?",
     "opcoes": {
       "A": "Where are the books?",
-      "B": "Where are the prerequisites?",
-      "C": "Where are the students?",
-      "D": "Where are the classes?"
+      "B": "Where are the students?",
+      "C": "Where are the classes?",
+      "D": "Where are the prerequisites?"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario014 = [
+  
   {
     "pergunta": "Como se diz 'He dropped the course' em português?",
     "opcoes": {
@@ -5903,57 +5983,57 @@ const quizIntermediario7 = [
   {
     "pergunta": "Como se diz 'A nota foi excelente' em inglês?",
     "opcoes": {
-      "A": "The teacher was excellent",
-      "B": "The book was excellent",
-      "C": "The school was excellent",
-      "D": "The grade was excellent"
+      "A": "The grade was excellent",
+      "B": "The teacher was excellent",
+      "C": "The book was excellent",
+      "D": "The school was excellent"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'I have a scholarship' em português?",
     "opcoes": {
-      "A": "Eu tenho uma bolsa",
-      "B": "Eu tenho um livro",
-      "C": "Eu tenho uma escola",
+      "A": "Eu tenho um livro",
+      "B": "Eu tenho uma escola",
+      "C": "Eu tenho uma bolsa",
       "D": "Eu tenho um diploma"
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Onde está o zelador?' em inglês?",
     "opcoes": {
-      "A": "Where is the principal?",
-      "B": "Where is the janitor?",
+      "A": "Where is the janitor?",
+      "B": "Where is the principal?",
       "C": "Where is the student?",
       "D": "Where is the teacher?"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'The syllabus is updated' em português?",
     "opcoes": {
       "A": "O livro está novo",
       "B": "A aula foi cancelada",
-      "C": "O currículo está atualizado",
-      "D": "O professor chegou agora"
+      "C": "O professor chegou agora",
+      "D": "O currículo está atualizado"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Entregue sua redação agora' em inglês?",
     "opcoes": {
       "A": "Read your essay now",
-      "B": "Write your essay now",
-      "C": "Correct your essay now",
-      "D": "Submit your essay now"
+      "B": "Submit your essay now",
+      "C": "Write your essay now",
+      "D": "Correct your essay now"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'She is very studious' em português?",
@@ -5970,12 +6050,12 @@ const quizIntermediario7 = [
     "pergunta": "Como se diz 'Onde fica o campus?' em inglês?",
     "opcoes": {
       "A": "Where is the room?",
-      "B": "Where is the campus?",
-      "C": "Where is the city?",
-      "D": "Where is the school?"
+      "B": "Where is the city?",
+      "C": "Where is the school?",
+      "D": "Where is the campus?"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'I need more credits' em português?",
@@ -5993,14 +6073,14 @@ const quizIntermediario7 = [
     "opcoes": {
       "A": "The class was canceled",
       "B": "The book was lost",
-      "C": "The exam was easy",
-      "D": "The deadline was extended"
+      "C": "The deadline was extended",
+      "D": "The exam was easy"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-const quizIntermediario8 = [
+const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'A palestra foi inspiradora' em inglês?",
     "opcoes": {
@@ -6110,7 +6190,10 @@ const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quizIntermediario016= [
+ 
   {
     "pergunta": "Como se diz 'I need a scholarship' em português?",
     "opcoes": {
@@ -6222,39 +6305,39 @@ const quizIntermediario8 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'A palestra foi muito informativa' em inglês?",
     "opcoes": {
-      "A": "The lecture was very informative",
+      "A": "The teacher was very helpful",
       "B": "The class was very good",
-      "C": "The teacher was very helpful",
+      "C": "The lecture was very informative",
       "D": "The book was very informative"
     },
     "numero": "1",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'I missed the registration deadline' em português?",
     "opcoes": {
-      "A": "Eu fiz a matrícula ontem",
-      "B": "Eu perdi o prazo de matrícula",
+      "A": "Eu perdi o prazo de matrícula",
+      "B": "Eu fiz a matrícula ontem",
       "C": "Eu paguei a taxa escolar",
       "D": "Eu quero mudar de curso"
     },
     "numero": "2",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde fica a biblioteca central?' em inglês?",
     "opcoes": {
       "A": "Where is the main office?",
-      "B": "Where is the student center?",
-      "C": "Where is the central library?",
-      "D": "Where is the science lab?"
+      "B": "Where is the science lab?",
+      "C": "Where is the student center?",
+      "D": "Where is the central library?"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'She received a full scholarship' em português?",
@@ -6292,9 +6375,9 @@ const quizIntermediario9 = [
   {
     "pergunta": "Como se diz 'Preciso do meu histórico escolar' em inglês?",
     "opcoes": {
-      "A": "I need my school bag",
-      "B": "I need my report card",
-      "C": "I need my school books",
+      "A": "I need my report card",
+      "B": "I need my school books",
+      "C": "I need my school bag",
       "D": "I need my academic transcript"
     },
     "numero": "7",
@@ -6304,35 +6387,38 @@ const quizIntermediario9 = [
     "pergunta": "Como se diz 'He failed the entrance exam' em português?",
     "opcoes": {
       "A": "Ele passou no vestibular hoje",
-      "B": "Ele estudou para o vestibular",
-      "C": "Ele reprovou no vestibular",
+      "B": "Ele reprovou no vestibular",
+      "C": "Ele estudou para o vestibular",
       "D": "Ele fez a inscrição ontem"
     },
     "numero": "8",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Onde está o coordenador pedagógico?' em inglês?",
     "opcoes": {
-      "A": "Where is the school principal?",
-      "B": "Where is the pedagogical coordinator?",
+      "A": "Where is the pedagogical coordinator?",
+      "B": "Where is the school principal?",
       "C": "Where is the history teacher?",
       "D": "Where is the gym instructor?"
     },
     "numero": "9",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Research is essential for students' em português?",
     "opcoes": {
-      "A": "A pesquisa é essencial para alunos",
-      "B": "Estudar é bom para alunos",
-      "C": "Livros são caros para alunos",
-      "D": "Aulas são longas para alunos"
+      "A": "Estudar é bom para alunos",
+      "B": "Livros são caros para alunos",
+      "C": "Aulas são longas para alunos",
+      "D": "A pesquisa é essencial para alunos"
     },
     "numero": "10",
-    "resposta_correta": "A"
-  },
+    "resposta_correta": "D"
+  }
+];
+export const quizIntermediario018 = [
+  
   {
     "pergunta": "Como se diz 'O currículo foi revisado recentemente' em inglês?",
     "opcoes": {
@@ -6347,13 +6433,13 @@ const quizIntermediario9 = [
   {
     "pergunta": "Como se diz 'They are doctoral candidates now' em português?",
     "opcoes": {
-      "A": "Eles são professores de inglês",
-      "B": "Eles são alunos de graduação",
-      "C": "Eles são diretores de escola",
-      "D": "Eles são candidatos ao doutorado"
+      "A": "Eles são diretores de escola",
+      "B": "Eles são candidatos ao doutorado",
+      "C": "Eles são alunos de graduação",
+      "D": "Eles são professores de inglês"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'O prazo foi prorrogado novamente' em inglês?",
@@ -6370,12 +6456,12 @@ const quizIntermediario9 = [
     "pergunta": "Como se diz 'Attendance is taken every morning' em português?",
     "opcoes": {
       "A": "A aula ocorre toda manhã",
-      "B": "A chamada ocorre toda manhã",
-      "C": "O pátio abre toda manhã",
-      "D": "A prova começa toda manhã"
+      "B": "O pátio abre toda manhã",
+      "C": "A prova começa toda manhã",
+      "D": "A chamada ocorre toda manhã"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Este curso exige muita dedicação' em inglês?",
@@ -6391,60 +6477,60 @@ const quizIntermediario9 = [
   {
     "pergunta": "Como se diz 'Submit your application form now' em português?",
     "opcoes": {
-      "A": "Leia seu formulário agora mesmo",
-      "B": "Escreva seu formulário agora mesmo",
-      "C": "Pague seu formulário agora mesmo",
-      "D": "Envie seu formulário de inscrição"
+      "A": "Envie seu formulário de inscrição",
+      "B": "Leia seu formulário agora mesmo",
+      "C": "Escreva seu formulário agora mesmo",
+      "D": "Pague seu formulário agora mesmo"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Onde fica a sala multifuncional?' em inglês?",
     "opcoes": {
-      "A": "Where is the multipurpose room?",
-      "B": "Where is the teacher's lounge?",
+      "A": "Where is the teacher's lounge?",
+      "B": "Where is the multipurpose room?",
       "C": "Where is the dining hall?",
       "D": "Where is the storage room?"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'She graduated with high honors' em português?",
     "opcoes": {
       "A": "Ela estuda com muita calma",
-      "B": "Ela se formou com louvor",
-      "C": "Ela saiu da escola cedo",
+      "B": "Ela saiu da escola cedo",
+      "C": "Ela se formou com louvor",
       "D": "Ela ganhou um livro novo"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Temos um novo plano pedagógico' em inglês?",
     "opcoes": {
       "A": "We have a new teacher",
       "B": "We have a new classroom",
-      "C": "We have a new pedagogical plan",
-      "D": "We have a new textbook"
+      "C": "We have a new textbook",
+      "D": "We have a new pedagogical plan"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Internships provide valuable work experience' em português?",
     "opcoes": {
-      "A": "Escolas oferecem muitos livros bons",
-      "B": "Aulas garantem diploma de trabalho",
-      "C": "Cursos exigem muitas provas difíceis",
-      "D": "Estágios fornecem experiência de trabalho"
+      "A": "Estágios fornecem experiência de trabalho",
+      "B": "Escolas oferecem muitos livros bons",
+      "C": "Aulas garantem diploma de trabalho",
+      "D": "Cursos exigem muitas provas difíceis"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   }
 ];
-const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'A frequência escolar é obrigatória' em inglês?",
     "opcoes": {
@@ -6554,7 +6640,10 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario020 = [
+ 
   {
     "pergunta": "Como se diz 'Onde está o histórico escolar?' em inglês?",
     "opcoes": {
@@ -6672,630 +6761,720 @@ const quizIntermediario10 = [
 export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'The scholarship covers all tuition'?",
-    "opcoes": ["ensino", "bolsa", "integral", "a", "livros", "estudo", "de", "cobre", "escola", "custos", "taxas", "toda", "as", "mensalidade", "paga", "uma"],
     "numero": "1",
+    "pergunta": "The scholarship covers all tuition",
+    "opcoes": ["a", "bolsa", "cobre", "toda", "a", "mensalidade", "integral", "estudo", "taxas", "paga"],
     "resposta_correta": "a bolsa cobre toda a mensalidade"
   },
   {
-    "pergunta": "Como se diz: 'O reitor adiou a formatura'?",
-    "opcoes": ["postponed", "the", "rector", "graduation", "cancel", "dean", "the", "party", "delayed", "meeting", "class", "announced", "ceremony"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O reitor adiou a formatura",
+    "opcoes": ["the", "dean", "postponed", "the", "graduation", "rector", "delayed", "ceremony", "announced"],
     "resposta_correta": "the dean postponed the graduation"
   },
   {
-    "pergunta": "Como se diz: 'His academic performance is outstanding'?",
-    "opcoes": ["desempenho", "o", "acadêmico", "excepcional", "é", "dele", "bom", "resultado", "estudo", "aluno", "muito", "seu", "escola", "brilhante"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "His academic performance is outstanding",
+    "opcoes": ["o", "desempenho", "acadêmico", "dele", "é", "excepcional", "seu", "resultado", "brilhante", "aluno"],
     "resposta_correta": "o desempenho acadêmico dele é excepcional"
   },
   {
-    "pergunta": "Como se diz: 'The internship requires specific skills'?",
-    "opcoes": ["trabalho", "exige", "estágio", "habilidades", "o", "específicas", "experiência", "curso", "vaga", "novas", "técnicas", "requer", "aluno"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "The internship requires specific skills",
+    "opcoes": ["o", "estágio", "exige", "habilidades", "específicas", "requer", "técnicas", "experiência", "vaga"],
     "resposta_correta": "o estágio exige habilidades específicas"
   },
   {
-    "pergunta": "Como se diz: 'Research grants are very competitive'?",
-    "opcoes": ["competitive", "study", "grants", "are", "very", "funding", "hard", "money", "research", "limited", "scholarship", "difficult", "science"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "Research grants are very competitive",
+    "opcoes": ["research", "grants", "are", "very", "competitive", "funding", "limited", "scholarship", "difficult"],
     "resposta_correta": "research grants are very competitive"
   },
   {
-    "pergunta": "Como se diz: 'Ela trancou o curso semestral'?",
-    "opcoes": ["she", "course", "dropped", "semester", "the", "finished", "left", "class", "quit", "study", "moved", "a", "her"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "Ela trancou o curso semestral",
+    "opcoes": ["she", "dropped", "the", "semester", "course", "finished", "quit", "study", "her"],
     "resposta_correta": "she dropped the semester course"
   },
   {
-    "pergunta": "Como se diz: 'Attendance is mandatory for everyone'?",
-    "opcoes": ["obrigatória", "presença", "a", "todos", "para", "é", "chamada", "escola", "aula", "livre", "aluno", "essencial", "frequência"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Attendance is mandatory for everyone",
+    "opcoes": ["a", "presença", "é", "obrigatória", "para", "todos", "frequência", "essencial", "aula", "chamada"],
     "resposta_correta": "a presença é obrigatória para todos"
   },
   {
-    "pergunta": "Como se diz: 'They submitted their final thesis'?",
-    "opcoes": ["submitted", "paper", "they", "final", "their", "thesis", "delivered", "wrote", "project", "work", "last", "done", "gave"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "They submitted their final thesis",
+    "opcoes": ["they", "submitted", "their", "final", "thesis", "delivered", "wrote", "project", "work"],
     "resposta_correta": "they submitted their final thesis"
   },
   {
-    "pergunta": "Como se diz: 'O currículo foca em tecnologia'?",
-    "opcoes": ["focuses", "technology", "the", "curriculum", "on", "study", "system", "science", "plan", "digital", "modern", "future", "teaching"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O currículo foca em tecnologia",
+    "opcoes": ["the", "curriculum", "focuses", "on", "technology", "study", "system", "plan", "digital"],
     "resposta_correta": "the curriculum focuses on technology"
   },
   {
-    "pergunta": "Como se diz: 'Exams test critical thinking skills'?",
-    "opcoes": ["testam", "os", "pensamento", "exames", "crítico", "conhecimento", "prova", "habilidades", "de", "estudo", "análise", "mente", "capacidade"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Exams test critical thinking skills",
+    "opcoes": ["exames", "testam", "habilidades", "de", "pensamento", "crítico", "provas", "análise", "mente", "capacidade"],
     "resposta_correta": "exames testam habilidades de pensamento crítico"
   }
 ];
 export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'Enrollment starts next Monday'?",
-    "opcoes": ["próxima", "matrícula", "escola", "começa", "segunda-feira", "a", "na", "inscrição", "aula", "inicia", "semana", "mês", "curso", "vaga", "aberta"],
     "numero": "1",
+    "pergunta": "Enrollment starts next Monday",
+    "opcoes": ["a", "matrícula", "começa", "próxima", "segunda-feira", "inscrição", "aula", "semana", "mês"],
     "resposta_correta": "a matrícula começa próxima segunda-feira"
   },
   {
-    "pergunta": "Como se diz: 'O laboratório exige jaleco branco'?",
-    "opcoes": ["requires", "coat", "the", "white", "lab", "study", "needs", "uniform", "blue", "safety", "must", "school", "wear", "jacket", "use"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O laboratório exige jaleco branco",
+    "opcoes": ["the", "lab", "requires", "white", "coat", "study", "uniform", "safety", "wear"],
     "resposta_correta": "the lab requires white coat"
   },
   {
-    "pergunta": "Como se diz: 'Academic integrity is our priority'?",
-    "opcoes": ["integridade", "nossa", "prioridade", "acadêmica", "a", "é", "escola", "estudo", "valor", "ética", "regra", "ensino", "foco", "importante"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Academic integrity is our priority",
+    "opcoes": ["a", "integridade", "acadêmica", "é", "nossa", "prioridade", "escola", "valor", "ética", "foco"],
     "resposta_correta": "a integridade acadêmica é nossa prioridade"
   },
   {
-    "pergunta": "Como se diz: 'Students must attend the seminar'?",
-    "opcoes": ["devem", "ao", "comparecer", "os", "seminário", "estudantes", "aula", "sala", "escola", "ver", "ir", "assistir", "palestra", "reunião"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "Students must attend the seminar",
+    "opcoes": ["os", "estudantes", "devem", "comparecer", "ao", "seminário", "aula", "sala", "assistir", "palestra"],
     "resposta_correta": "os estudantes devem comparecer ao seminário"
   },
   {
-    "pergunta": "Como se diz: 'Faculty members are meeting now'?",
-    "opcoes": ["members", "faculty", "now", "are", "meeting", "teachers", "staff", "class", "group", "working", "study", "school", "office", "talking"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "Faculty members are meeting now",
+    "opcoes": ["faculty", "members", "are", "meeting", "now", "teachers", "staff", "class", "group"],
     "resposta_correta": "faculty members are meeting now"
   },
   {
-    "pergunta": "Como se diz: 'O reitor assinou os certificados'?",
-    "opcoes": ["signed", "certificates", "the", "rector", "dean", "the", "papers", "graduation", "wrote", "delivered", "school", "gave", "all", "official"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "O reitor assinou os certificados",
+    "opcoes": ["the", "dean", "signed", "the", "certificates", "rector", "papers", "graduation", "delivered"],
     "resposta_correta": "the dean signed the certificates"
   },
   {
-    "pergunta": "Como se diz: 'She provides excellent tutoring services'?",
-    "opcoes": ["serviços", "excelentes", "monitoria", "ela", "de", "oferece", "escola", "aula", "ajuda", "ensino", "bons", "aluna", "professora", "estudo"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "She provides excellent tutoring services",
+    "opcoes": ["ela", "oferece", "excelentes", "serviços", "de", "monitoria", "escola", "ajuda", "ensino", "estudo"],
     "resposta_correta": "ela oferece excelentes serviços de monitoria"
   },
   {
-    "pergunta": "Como se diz: 'The library remains open late'?",
-    "opcoes": ["remains", "late", "open", "the", "library", "closes", "stay", "night", "school", "books", "study", "time", "until", "every", "day"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The library remains open late",
+    "opcoes": ["the", "library", "remains", "open", "late", "closes", "stay", "night", "until"],
     "resposta_correta": "the library remains open late"
   },
   {
-    "pergunta": "Como se diz: 'Nossas metas educacionais são claras'?",
-    "opcoes": ["educational", "are", "goals", "clear", "our", "school", "plans", "targets", "future", "vision", "study", "way", "important", "simple"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "Nossas metas educacionais são claras",
+    "opcoes": ["our", "educational", "goals", "are", "clear", "school", "plans", "targets", "vision"],
     "resposta_correta": "our educational goals are clear"
   },
   {
-    "pergunta": "Como se diz: 'Master's degrees require deep research'?",
-    "opcoes": ["exigem", "mestrado", "pesquisa", "profunda", "cursos", "de", "estudo", "graus", "necessitam", "escola", "trabalho", "muita", "análise", "ciência"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Master's degrees require deep research",
+    "opcoes": ["cursos", "de", "mestrado", "exigem", "pesquisa", "profunda", "graus", "necessitam", "trabalho", "análise"],
     "resposta_correta": "cursos de mestrado exigem pesquisa profunda"
   }
 ];
 export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'The scholarship was officially approved'?",
-    "opcoes": ["aprovada", "oficialmente", "foi", "escola", "bolsa", "estudo", "a", "aceita", "curso", "vaga", "confirmada", "pela", "pago", "uma", "ensino"],
     "numero": "1",
+    "pergunta": "The scholarship was officially approved",
+    "opcoes": ["a", "bolsa", "foi", "oficialmente", "aprovada", "escola", "aceita", "curso", "pela"],
     "resposta_correta": "a bolsa foi oficialmente aprovada"
   },
   {
-    "pergunta": "Como se diz: 'O professor revisou a bibliografia'?",
-    "opcoes": ["reviewed", "the", "bibliography", "professor", "teacher", "the", "books", "list", "read", "checked", "assignment", "source", "study", "new"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O professor revisou a bibliografia",
+    "opcoes": ["the", "professor", "reviewed", "the", "bibliography", "teacher", "list", "checked", "study"],
     "resposta_correta": "the professor reviewed the bibliography"
   },
   {
-    "pergunta": "Como se diz: 'He submitted a brilliant thesis'?",
-    "opcoes": ["tese", "uma", "brilhante", "ele", "apresentou", "estudo", "trabalho", "escrito", "de", "escola", "projeto", "entregou", "resultado", "novo"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "He submitted a brilliant thesis",
+    "opcoes": ["ele", "entregou", "uma", "tese", "brilhante", "estudo", "trabalho", "escrito", "projeto"],
     "resposta_correta": "ele entregou uma tese brilhante"
   },
   {
-    "pergunta": "Como se diz: 'Standardized tests are very stressful'?",
-    "opcoes": ["padronizados", "os", "muito", "testes", "estressantes", "são", "provas", "exames", "difíceis", "escola", "estudo", "cansativos", "normais"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "Standardized tests are very stressful",
+    "opcoes": ["os", "testes", "padronizados", "são", "muito", "estressantes", "provas", "exames", "difíceis", "cansativos"],
     "resposta_correta": "os testes padronizados são muito estressantes"
   },
   {
-    "pergunta": "Como se diz: 'She attended the science conference'?",
-    "opcoes": ["attended", "science", "conference", "the", "she", "meeting", "class", "went", "joined", "university", "event", "study", "a", "big"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "She attended the science conference",
+    "opcoes": ["she", "attended", "the", "science", "conference", "meeting", "class", "went", "event"],
     "resposta_correta": "she attended the science conference"
   },
   {
-    "pergunta": "Como se diz: 'O laboratório fecha às dezoito'?",
-    "opcoes": ["closes", "lab", "the", "at", "six", "eighteen", "opens", "library", "school", "time", "sixteen", "work", "finish", "daily", "o'clock"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "O laboratório fecha às dezoito",
+    "opcoes": ["the", "lab", "closes", "at", "eighteen", "opens", "library", "school", "time"],
     "resposta_correta": "the lab closes at eighteen"
   },
   {
-    "pergunta": "Como se diz: 'Universities encourage original research projects'?",
-    "opcoes": ["pesquisa", "incentivam", "projetos", "originais", "universidades", "de", "estudo", "escola", "ciência", "fazem", "apoiam", "novos", "trabalho", "acadêmico"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Universities encourage original research projects",
+    "opcoes": ["universidades", "incentivam", "projetos", "de", "pesquisa", "originais", "escola", "apoiam", "novos", "acadêmico"],
     "resposta_correta": "universidades incentivam projetos de pesquisa originais"
   },
   {
-    "pergunta": "Como se diz: 'The syllabus covers modern literature'?",
-    "opcoes": ["covers", "literature", "the", "syllabus", "modern", "books", "study", "read", "plan", "contemporary", "classic", "class", "history"],
+    "questionType": "traduza a frase",
     "numero": "8",
-    "screenshot": "the syllabus covers modern literature"
+    "pergunta": "The syllabus covers modern literature",
+    "opcoes": ["the", "syllabus", "covers", "modern", "literature", "books", "study", "plan", "class"],
+    "resposta_correta": "the syllabus covers modern literature"
   },
   {
-    "pergunta": "Como se diz: 'O reitor premiou o mérito'?",
-    "opcoes": ["awarded", "merit", "the", "rector", "dean", "student", "gave", "prize", "recognized", "honor", "school", "medal", "academic"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O reitor premiou o mérito",
+    "opcoes": ["the", "dean", "awarded", "the", "merit", "rector", "prize", "recognized", "academic"],
     "resposta_correta": "the dean awarded the merit"
   },
   {
-    "pergunta": "Como se diz: 'Extracurricular activities improve social skills'?",
-    "opcoes": ["atividades", "melhoram", "sociais", "habilidades", "extracurriculares", "as", "escola", "estudo", "aula", "ajudam", "foco", "prática", "novas"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Extracurricular activities improve social skills",
+    "opcoes": ["as", "atividades", "extracurriculares", "melhoram", "habilidades", "sociais", "escola", "ajudam", "foco", "prática"],
     "resposta_correta": "as atividades extracurriculares melhoram habilidades sociais"
   }
 ];
 export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'Practical internships are highly recommended'?",
-    "opcoes": ["recomendados", "estágios", "escola", "são", "práticos", "altamente", "trabalho", "vagas", "muito", "estudo", "ensino", "bons", "frequentes", "obrigatórios"],
     "numero": "1",
+    "pergunta": "Practical internships are highly recommended",
+    "opcoes": ["estágios", "práticos", "são", "altamente", "recomendados", "escola", "vagas", "estudo", "ensino"],
     "resposta_correta": "estágios práticos são altamente recomendados"
   },
   {
-    "pergunta": "Como se diz: 'O departamento exige referências acadêmicas'?",
-    "opcoes": ["requires", "references", "the", "department", "academic", "needs", "books", "study", "papers", "demands", "school", "office", "formal", "letters"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O departamento exige referências acadêmicas",
+    "opcoes": ["the", "department", "requires", "academic", "references", "demands", "school", "office", "formal"],
     "resposta_correta": "the department requires academic references"
   },
   {
-    "pergunta": "Como se diz: 'They organized a student strike'?",
-    "opcoes": ["estudantil", "uma", "eles", "organizaram", "greve", "escola", "protesto", "reunião", "estudo", "fizeram", "grupo", "nova", "manifestação", "aula"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "They organized a student strike",
+    "opcoes": ["eles", "organizaram", "uma", "greve", "estudantil", "escola", "protesto", "grupo", "aula"],
     "resposta_correta": "eles organizaram uma greve estudantil"
   },
   {
-    "pergunta": "Como se diz: 'Online courses offer flexible schedules'?",
-    "opcoes": ["horários", "oferecem", "cursos", "flexíveis", "online", "os", "escola", "estudo", "aula", "vagas", "tempo", "livre", "acesso", "fácil"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "Online courses offer flexible schedules",
+    "opcoes": ["os", "cursos", "online", "oferecem", "horários", "flexíveis", "escola", "vagas", "tempo", "livre"],
     "resposta_correta": "os cursos online oferecem horários flexíveis"
   },
   {
-    "pergunta": "Como se diz: 'She published a scientific article'?",
-    "opcoes": ["published", "article", "a", "scientific", "she", "wrote", "book", "paper", "study", "science", "new", "journal", "academic", "text"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "She published a scientific article",
+    "opcoes": ["she", "published", "a", "scientific", "article", "wrote", "book", "journal", "academic"],
     "resposta_correta": "she published a scientific article"
   },
   {
-    "pergunta": "Como se diz: 'A biblioteca exige silêncio absoluto'?",
-    "opcoes": ["demands", "absolute", "silence", "the", "library", "requires", "needs", "study", "room", "quiet", "school", "books", "must", "stay"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "A biblioteca exige silêncio absoluto",
+    "opcoes": ["the", "library", "demands", "absolute", "silence", "requires", "room", "quiet", "must"],
     "resposta_correta": "the library demands absolute silence"
   },
   {
-    "pergunta": "Como se diz: 'Group projects develop collaborative leadership'?",
-    "opcoes": ["projetos", "colaborativa", "desenvolvem", "liderança", "grupo", "em", "de", "estudo", "escola", "trabalho", "ajudam", "foco", "equipe", "nova"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Group projects develop collaborative leadership",
+    "opcoes": ["projetos", "em", "grupo", "desenvolvem", "liderança", "colaborativa", "estudo", "escola", "trabalho", "equipe"],
     "resposta_correta": "projetos em grupo desenvolvem liderança colaborativa"
   },
   {
-    "pergunta": "Como se diz: 'The campus has modern facilities'?",
-    "opcoes": ["facilities", "modern", "the", "campus", "has", "building", "school", "library", "new", "gym", "study", "area", "good", "place"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The campus has modern facilities",
+    "opcoes": ["the", "campus", "has", "modern", "facilities", "building", "school", "new", "area"],
     "resposta_correta": "the campus has modern facilities"
   },
   {
-    "pergunta": "Como se diz: 'O monitor explicou as fórmulas'?",
-    "opcoes": ["explained", "formulas", "the", "tutor", "monitor", "showed", "math", "class", "study", "gave", "answer", "lesson", "teacher"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O monitor explicou as fórmulas",
+    "opcoes": ["the", "tutor", "explained", "the", "formulas", "monitor", "class", "showed", "lesson"],
     "resposta_correta": "the tutor explained the formulas"
   },
   {
-    "pergunta": "Como se diz: 'Standardized tests evaluate student progress'?",
-    "opcoes": ["avaliam", "progresso", "o", "estudantil", "testes", "padronizados", "os", "escola", "prova", "estudo", "desempenho", "aluno", "exame", "conhecimento"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Standardized tests evaluate student progress",
+    "opcoes": ["os", "testes", "padronizados", "avaliam", "o", "progresso", "estudantil", "escola", "prova", "aluno", "exame"],
     "resposta_correta": "os testes padronizados avaliam o progresso estudantil"
   }
 ];
 export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'Academic records are strictly confidential'?",
-    "opcoes": ["acadêmicos", "os", "são", "registros", "escola", "estudo", "confidenciais", "estritamente", "privados", "documentos", "notas", "seguros", "dados", "pessoais", "uma"],
     "numero": "1",
+    "pergunta": "Academic records are strictly confidential",
+    "opcoes": ["os", "registros", "acadêmicos", "são", "estritamente", "confidenciais", "escola", "estudo", "privados", "documentos"],
     "resposta_correta": "os registros acadêmicos são estritamente confidenciais"
   },
   {
-    "pergunta": "Como se diz: 'O reitor suspendeu as aulas'?",
-    "opcoes": ["suspended", "classes", "the", "rector", "dean", "cancelled", "the", "school", "stopped", "study", "meeting", "exam", "time", "day"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O reitor suspendeu as aulas",
+    "opcoes": ["the", "dean", "suspended", "the", "classes", "rector", "cancelled", "school", "stopped"],
     "resposta_correta": "the dean suspended the classes"
   },
   {
-    "pergunta": "Como se diz: 'Specific credentials are required for admission'?",
-    "opcoes": ["específicas", "são", "credenciais", "necessárias", "escola", "para", "estudo", "admissão", "a", "exigidas", "entrada", "curso", "vaga", "novas", "documentos"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Specific credentials are required for admission",
+    "opcoes": ["credenciais", "específicas", "são", "necessárias", "para", "a", "admissão", "escola", "estudo", "exigidas", "entrada"],
     "resposta_correta": "credenciais específicas são necessárias para a admissão"
   },
   {
-    "pergunta": "Como se diz: 'Universities provide high quality education'?",
-    "opcoes": ["oferecem", "qualidade", "educação", "de", "alta", "universidades", "as", "escola", "estudo", "ensino", "superior", "garantem", "bom", "conhecimento"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "Universities provide high quality education",
+    "opcoes": ["as", "universidades", "oferecem", "educação", "de", "alta", "qualidade", "escola", "ensino", "superior", "garantem"],
     "resposta_correta": "as universidades oferecem educação de alta qualidade"
   },
   {
-    "pergunta": "Como se diz: 'She received her graduation diploma'?",
-    "opcoes": ["received", "diploma", "her", "graduation", "she", "got", "certificate", "paper", "finished", "study", "school", "degree", "final", "award"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "She received her graduation diploma",
+    "opcoes": ["she", "received", "her", "graduation", "diploma", "got", "certificate", "paper", "finished"],
     "resposta_correta": "she received her graduation diploma"
   },
   {
-    "pergunta": "Como se diz: 'A matrícula requer documentos originais'?",
-    "opcoes": ["requires", "original", "documents", "the", "enrollment", "needs", "registration", "papers", "study", "school", "must", "show", "official", "forms"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "A matrícula requer documentos originais",
+    "opcoes": ["the", "enrollment", "requires", "original", "documents", "needs", "registration", "papers", "study"],
     "resposta_correta": "the enrollment requires original documents"
   },
   {
-    "pergunta": "Como se diz: 'Critical thinking is essential for learning'?",
-    "opcoes": ["essencial", "crítico", "aprendizado", "o", "pensamento", "é", "para", "estudo", "escola", "foco", "análise", "mente", "importante", "lógica"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Critical thinking is essential for learning",
+    "opcoes": ["o", "pensamento", "crítico", "é", "essencial", "para", "o", "aprendizado", "estudo", "foco", "análise", "mente"],
     "resposta_correta": "o pensamento crítico é essencial para o aprendizado"
   },
   {
-    "pergunta": "Como se diz: 'The library catalog is digital'?",
-    "opcoes": ["catalog", "digital", "the", "library", "is", "books", "system", "online", "search", "school", "study", "modern", "new", "resource"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The library catalog is digital",
+    "opcoes": ["the", "library", "catalog", "is", "digital", "books", "system", "online", "search"],
     "resposta_correta": "the library catalog is digital"
   },
   {
-    "pergunta": "Como se diz: 'O monitor revisou as fórmulas'?",
-    "opcoes": ["reviewed", "formulas", "the", "tutor", "monitor", "checked", "math", "class", "study", "exam", "lesson", "teacher", "correct"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O monitor revisou as fórmulas",
+    "opcoes": ["the", "tutor", "reviewed", "the", "formulas", "monitor", "checked", "math", "class"],
     "resposta_correta": "the tutor reviewed the formulas"
   },
   {
-    "pergunta": "Como se diz: 'Student evaluations improve teaching methods'?",
-    "opcoes": ["melhoram", "métodos", "estudantis", "ensino", "de", "avaliações", "as", "escola", "estudo", "ajudam", "professor", "aula", "foco", "qualidade"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Student evaluations improve teaching methods",
+    "opcoes": ["as", "avaliações", "estudantis", "melhoram", "métodos", "de", "ensino", "escola", "estudo", "ajudam", "professor"],
     "resposta_correta": "as avaliações estudantis melhoram métodos de ensino"
   }
 ];
 export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'Discipline is the key to success'?",
-    "opcoes": ["disciplina", "a", "é", "sucesso", "chave", "para", "o", "escola", "foco", "estudo", "porta", "ensino", "essencial", "base", "importante"],
     "numero": "1",
+    "pergunta": "Discipline is the key to success",
+    "opcoes": ["a", "disciplina", "é", "a", "chave", "para", "o", "sucesso", "escola", "foco", "estudo", "base"],
     "resposta_correta": "a disciplina é a chave para o sucesso"
   },
   {
-    "pergunta": "Como se diz: 'O laboratório possui equipamentos avançados'?",
-    "opcoes": ["has", "advanced", "the", "equipment", "laboratory", "lab", "modern", "tools", "science", "new", "contains", "study", "research", "high", "tech"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O laboratório possui equipamentos avançados",
+    "opcoes": ["the", "laboratory", "has", "advanced", "equipment", "modern", "tools", "science", "new"],
     "resposta_correta": "the laboratory has advanced equipment"
   },
   {
-    "pergunta": "Como se diz: 'Mastering languages opens global opportunities'?",
-    "opcoes": ["dominar", "idiomas", "abre", "oportunidades", "globais", "línguas", "falar", "estudo", "escola", "carreira", "vagas", "novas", "mundo", "conhecimento"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Mastering languages opens global opportunities",
+    "opcoes": ["dominar", "idiomas", "abre", "oportunidades", "globais", "línguas", "falar", "estudo", "carreira"],
     "resposta_correta": "dominar idiomas abre oportunidades globais"
   },
   {
-    "pergunta": "Como se diz: 'She attended a prestigious university'?",
-    "opcoes": ["frequentou", "uma", "prestigiada", "universidade", "ela", "estudou", "escola", "grande", "famosa", "foi", "na", "ensino", "superior", "cursou"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "She attended a prestigious university",
+    "opcoes": ["ela", "frequentou", "uma", "universidade", "prestigiada", "escola", "grande", "famosa", "estudou"],
     "resposta_correta": "ela frequentou uma universidade prestigiada"
   },
   {
-    "pergunta": "Como se diz: 'The scholarship covers living expenses'?",
-    "opcoes": ["covers", "living", "the", "scholarship", "expenses", "costs", "money", "study", "travel", "housing", "paga", "monthly", "grant", "food"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "The scholarship covers living expenses",
+    "opcoes": ["the", "scholarship", "covers", "living", "expenses", "costs", "money", "study", "travel"],
     "resposta_correta": "the scholarship covers living expenses"
   },
   {
-    "pergunta": "Como se diz: 'O departamento oferece bolsas integrais'?",
-    "opcoes": ["offers", "department", "scholarships", "full", "the", "provides", "grants", "total", "study", "funding", "school", "money", "free", "courses"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "O departamento oferece bolsas integrais",
+    "opcoes": ["the", "department", "offers", "full", "scholarships", "provides", "grants", "total", "study"],
     "resposta_correta": "the department offers full scholarships"
   },
   {
-    "pergunta": "Como se diz: 'Academic freedom is a fundamental right'?",
-    "opcoes": ["acadêmica", "liberdade", "fundamental", "um", "direito", "é", "a", "estudo", "escola", "valor", "base", "regra", "lei", "essencial", "ensino"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Academic freedom is a fundamental right",
+    "opcoes": ["a", "liberdade", "acadêmica", "é", "um", "direito", "fundamental", "estudo", "escola", "valor", "base"],
     "resposta_correta": "a liberdade acadêmica é um direito fundamental"
   },
   {
-    "pergunta": "Como se diz: 'The researcher presented new findings'?",
-    "opcoes": ["presented", "findings", "new", "the", "researcher", "showed", "study", "data", "discovery", "paper", "science", "work", "result", "fresh"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The researcher presented new findings",
+    "opcoes": ["the", "researcher", "presented", "new", "findings", "showed", "study", "data", "discovery"],
     "resposta_correta": "the researcher presented new findings"
   },
   {
-    "pergunta": "Como se diz: 'O currículo integra artes e ciência'?",
-    "opcoes": ["integrates", "science", "the", "arts", "curriculum", "and", "plan", "study", "mixes", "school", "music", "math", "together", "subject"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O currículo integra artes e ciência",
+    "opcoes": ["the", "curriculum", "integrates", "arts", "and", "science", "plan", "study", "mixes", "school"],
     "resposta_correta": "the curriculum integrates arts and science"
   },
   {
-    "pergunta": "Como se diz: 'Distance learning requires self motivation'?",
-    "opcoes": ["exige", "distância", "a", "automotivação", "aprendizado", "estudo", "ensino", "escola", "curso", "remoto", "disciplina", "vontade", "foco", "necessita"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Distance learning requires self motivation",
+    "opcoes": ["aprendizado", "a", "distância", "exige", "automotivação", "estudo", "ensino", "escola", "curso"],
     "resposta_correta": "aprendizado a distância exige automotivação"
   }
 ];
 export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'The rector announced new policies'?",
-    "opcoes": ["políticas", "novas", "anunciou", "reitor", "o", "regras", "escola", "diretor", "leis", "estudo", "mudou", "decisões", "administrativas", "medidas", "professor"],
     "numero": "1",
+    "pergunta": "The rector announced new policies",
+    "opcoes": ["o", "reitor", "anunciou", "novas", "políticas", "regras", "diretor", "leis", "decisões"],
     "resposta_correta": "o reitor anunciou novas políticas"
   },
   {
-    "pergunta": "Como se diz: 'As inscrições encerram ao meio-dia'?",
-    "opcoes": ["close", "registrations", "noon", "at", "the", "enrollment", "starts", "finish", "time", "today", "midnight", "morning", "school", "open", "day"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "As inscrições encerram ao meio-dia",
+    "opcoes": ["the", "registrations", "close", "at", "noon", "enrollment", "starts", "finish", "time"],
     "resposta_correta": "the registrations close at noon"
   },
   {
-    "pergunta": "Como se diz: 'Graduation ceremonies are very emotional'?",
-    "opcoes": ["formaturas", "as", "emocionantes", "são", "muito", "festas", "cerimônias", "de", "escola", "alegres", "evento", "estudo", "grandes", "longas", "públicas"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Graduation ceremonies are very emotional",
+    "opcoes": ["as", "cerimônias", "de", "formaturas", "são", "muito", "emocionantes", "festas", "alegres", "evento", "longas"],
     "resposta_correta": "as cerimônias de formaturas são muito emocionantes"
   },
   {
-    "pergunta": "Como se diz: 'The textbook contains helpful diagrams'?",
-    "opcoes": ["contains", "diagrams", "the", "textbook", "helpful", "book", "has", "useful", "pages", "study", "notes", "school", "images", "text", "drawings"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "The textbook contains helpful diagrams",
+    "opcoes": ["the", "textbook", "contains", "helpful", "diagrams", "book", "has", "useful", "notes"],
     "resposta_correta": "the textbook contains helpful diagrams"
   },
   {
-    "pergunta": "Como se diz: 'O laboratório possui protocolos rigorosos'?",
-    "opcoes": ["protocols", "the", "rigorous", "lab", "has", "strict", "rules", "science", "needs", "safety", "study", "must", "follow", "new", "methods"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "O laboratório possui protocolos rigorosos",
+    "opcoes": ["the", "lab", "has", "rigorous", "protocols", "strict", "rules", "science", "safety"],
     "resposta_correta": "the lab has rigorous protocols"
   },
   {
-    "pergunta": "Como se diz: 'She completed her post-doctoral research'?",
-    "opcoes": ["concluiu", "pós-doutorado", "sua", "pesquisa", "ela", "de", "doutorado", "estudo", "terminou", "fez", "trabalho", "acadêmico", "nova", "tese", "ciência"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "She completed her post-doctoral research",
+    "opcoes": ["ela", "concluiu", "sua", "pesquisa", "de", "pós-doutorado", "doutorado", "estudo", "terminou", "trabalho"],
     "resposta_correta": "ela concluiu sua pesquisa de pós-doutorado"
   },
   {
-    "pergunta": "Como se diz: 'Tuition fees increase every year'?",
-    "opcoes": ["anuais", "mensalidades", "as", "aumentam", "todo", "ano", "escola", "custos", "preços", "estudo", "taxas", "subir", "ensino", "pago", "valor"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Tuition fees increase every year",
+    "opcoes": ["as", "mensalidades", "aumentam", "todo", "ano", "escola", "custos", "taxas", "ensino"],
     "resposta_correta": "as mensalidades aumentam todo ano"
   },
   {
-    "pergunta": "Como se diz: 'The auditorium seats five hundred'?",
-    "opcoes": ["seats", "auditorium", "the", "five", "hundred", "people", "holds", "school", "room", "hall", "capacity", "large", "place", "students", "inside"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The auditorium seats five hundred",
+    "opcoes": ["the", "auditorium", "seats", "five", "hundred", "people", "holds", "hall", "capacity"],
     "resposta_correta": "the auditorium seats five hundred"
   },
   {
-    "pergunta": "Como se diz: 'A orientadora sugeriu novas fontes'?",
-    "opcoes": ["suggested", "the", "sources", "advisor", "new", "teacher", "books", "research", "gave", "showed", "study", "information", "paper", "idea"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "A orientadora sugeriu novas fontes",
+    "opcoes": ["the", "advisor", "suggested", "new", "sources", "teacher", "books", "research", "showed"],
     "resposta_correta": "the advisor suggested new sources"
   },
   {
-    "pergunta": "Como se diz: 'Student loans can be stressful'?",
-    "opcoes": ["estudantis", "empréstimos", "podem", "ser", "estressantes", "escola", "dívidas", "dinheiro", "estudo", "caros", "ajuda", "financiamento", "pago", "mensalidade"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Student loans can be stressful",
+    "opcoes": ["empréstimos", "estudantis", "podem", "ser", "estressantes", "dívidas", "dinheiro", "caros", "financiamento"],
     "resposta_correta": "empréstimos estudantis podem ser estressantes"
   }
 ];
 export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'The scholarship demands high grades'?",
-    "opcoes": ["bolsa", "notas", "exige", "a", "estudo", "altas", "escola", "grandes", "requer", "pedir", "ensino", "pago", "vaga", "curso", "resultados"],
     "numero": "1",
+    "pergunta": "The scholarship demands high grades",
+    "opcoes": ["a", "bolsa", "exige", "notas", "altas", "estudo", "requer", "ensino", "resultados"],
     "resposta_correta": "a bolsa exige notas altas"
   },
   {
-    "pergunta": "Como se diz: 'O departamento enviou as diretrizes'?",
-    "opcoes": ["sent", "guidelines", "the", "department", "office", "the", "rules", "papers", "delivered", "wrote", "study", "new", "list", "official"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O departamento enviou as diretrizes",
+    "opcoes": ["the", "department", "sent", "the", "guidelines", "office", "rules", "delivered", "official"],
     "resposta_correta": "the department sent the guidelines"
   },
   {
-    "pergunta": "Como se diz: 'Standardized testing ignores individual creativity'?",
-    "opcoes": ["ignora", "individual", "a", "criatividade", "padronizada", "testagem", "escola", "foco", "estudo", "ensino", "prova", "exame", "bloqueia", "aluno"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Standardized testing ignores individual creativity",
+    "opcoes": ["testagem", "padronizada", "ignora", "a", "criatividade", "individual", "escola", "estudo", "prova", "aluno"],
     "resposta_correta": "testagem padronizada ignora a criatividade individual"
   },
   {
-    "pergunta": "Como se diz: 'The rector manages university funds'?",
-    "opcoes": ["gerencia", "os", "universitários", "o", "fundos", "reitor", "escola", "diretor", "dinheiro", "estudo", "administra", "caixa", "recursos", "pago"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "The rector manages university funds",
+    "opcoes": ["o", "reitor", "gerencia", "os", "fundos", "universitários", "escola", "dinheiro", "administra", "recursos"],
     "resposta_correta": "o reitor gerencia os fundos universitários"
   },
   {
-    "pergunta": "Como se diz: 'She obtained her doctoral degree'?",
-    "opcoes": ["obtained", "her", "doctoral", "degree", "she", "got", "certificate", "final", "study", "school", "finished", "title", "academic", "paper"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "She obtained her doctoral degree",
+    "opcoes": ["she", "obtained", "her", "doctoral", "degree", "got", "certificate", "study", "title"],
     "resposta_correta": "she obtained her doctoral degree"
   },
   {
-    "pergunta": "Como se diz: 'A biblioteca renovou as assinaturas'?",
-    "opcoes": ["renewed", "subscriptions", "the", "library", "new", "books", "paper", "study", "access", "school", "magazines", "changed", "must", "order"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "A biblioteca renovou as assinaturas",
+    "opcoes": ["the", "library", "renewed", "the", "subscriptions", "new", "books", "access", "magazines"],
     "resposta_correta": "the library renewed the subscriptions"
   },
   {
-    "pergunta": "Como se diz: 'Effective study habits ensure success'?",
-    "opcoes": ["estudo", "hábito", "de", "sucesso", "garantem", "eficazes", "hábitos", "escola", "foco", "bons", "ajudam", "meta", "ensino", "aprendizado"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Effective study habits ensure success",
+    "opcoes": ["hábitos", "de", "estudo", "eficazes", "garantem", "sucesso", "hábituo", "foco", "ajudam", "meta"],
     "resposta_correta": "hábitos de estudo eficazes garantem sucesso"
   },
   {
-    "pergunta": "Como se diz: 'The campus offers free parking'?",
-    "opcoes": ["offers", "free", "the", "campus", "parking", "has", "place", "school", "library", "car", "area", "provides", "open", "ground"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The campus offers free parking",
+    "opcoes": ["the", "campus", "offers", "free", "parking", "has", "place", "area", "provides"],
     "resposta_correta": "the campus offers free parking"
   },
   {
-    "pergunta": "Como se diz: 'O monitor explicou as dúvidas'?",
-    "opcoes": ["explained", "doubts", "the", "tutor", "monitor", "showed", "math", "class", "study", "gave", "answer", "questions", "lesson", "teacher"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O monitor explicou as dúvidas",
+    "opcoes": ["the", "tutor", "explained", "the", "doubts", "monitor", "showed", "gave", "questions"],
     "resposta_correta": "the tutor explained the doubts"
   },
   {
-    "pergunta": "Como se diz: 'Master's candidates must write papers'?",
-    "opcoes": ["devem", "mestrado", "artigos", "escrever", "candidatos", "de", "estudo", "escola", "trabalhos", "aula", "precisam", "fazer", "leitura", "projeto"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Master's candidates must write papers",
+    "opcoes": ["candidatos", "de", "mestrado", "devem", "escrever", "artigos", "estudo", "trabalhos", "precisam", "leitura"],
     "resposta_correta": "candidatos de mestrado devem escrever artigos"
   }
 ];
 export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'The scholarship requires high attendance'?",
-    "opcoes": ["presença", "bolsa", "estudo", "a", "exige", "alta", "escola", "frequência", "notas", "grande", "requer", "aluno", "curso", "vaga", "ensino"],
     "numero": "1",
+    "pergunta": "The scholarship requires high attendance",
+    "opcoes": ["a", "bolsa", "exige", "alta", "frequência", "estudo", "requer", "presença", "escola"],
     "resposta_correta": "a bolsa exige alta frequência"
   },
   {
-    "pergunta": "Como se diz: 'O reitor adiou o seminário'?",
-    "opcoes": ["postponed", "seminar", "the", "rector", "dean", "the", "meeting", "class", "delayed", "event", "study", "moved", "school", "cancelled"],
+    "questionType": "traduza a frase",
     "numero": "2",
-    "screenshot": "the dean postponed the seminar"
+    "pergunta": "O reitor adiou o seminário",
+    "opcoes": ["the", "dean", "postponed", "the", "seminar", "rector", "meeting", "delayed", "event"],
+    "resposta_correta": "the dean postponed the seminar"
   },
   {
-    "pergunta": "Como se diz: 'Academic integrity is strictly enforced'?",
-    "opcoes": ["integridade", "acadêmica", "é", "estritamente", "aplicada", "a", "escola", "estudo", "regra", "lei", "ética", "foco", "exigida", "ensino"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Academic integrity is strictly enforced",
+    "opcoes": ["a", "integridade", "acadêmica", "é", "estritamente", "aplicada", "estudo", "regra", "ética", "exigida"],
     "resposta_correta": "a integridade acadêmica é estritamente aplicada"
   },
   {
-    "pergunta": "Como se diz: 'Specific documents ensure your admission'?",
-    "opcoes": ["garantem", "documentos", "específicos", "sua", "admissão", "os", "escola", "entrada", "estudo", "vaga", "papéis", "oficiais", "inscrição", "certos"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "Specific documents ensure your admission",
+    "opcoes": ["os", "documentos", "específicos", "garantem", "sua", "admissão", "entrada", "estudo", "papéis", "oficiais"],
     "resposta_correta": "os documentos específicos garantem sua admissão"
   },
   {
-    "pergunta": "Como se diz: 'She failed the qualifying exam'?",
-    "opcoes": ["failed", "qualifying", "the", "exam", "she", "passed", "test", "final", "study", "missed", "school", "reproved", "important", "grade"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "She failed the qualifying exam",
+    "opcoes": ["she", "failed", "the", "qualifying", "exam", "passed", "test", "missed", "school"],
     "resposta_correta": "she failed the qualifying exam"
   },
   {
-    "pergunta": "Como se diz: 'A biblioteca renovou o acervo'?",
-    "opcoes": ["renewed", "collection", "the", "library", "new", "books", "paper", "study", "archive", "school", "changed", "modern", "resource", "updated"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "A biblioteca renovou o acervo",
+    "opcoes": ["the", "library", "renewed", "the", "collection", "new", "books", "archive", "updated"],
     "resposta_correta": "the library renewed the collection"
   },
   {
-    "pergunta": "Como se diz: 'Practical knowledge improves student performance'?",
-    "opcoes": ["conhecimento", "prático", "melhora", "o", "desempenho", "estudantil", "escola", "estudo", "ajuda", "aula", "aluno", "resultado", "foco", "ensino"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Practical knowledge improves student performance",
+    "opcoes": ["conhecimento", "prático", "melhora", "o", "desempenho", "estudantil", "escola", "ajuda", "aluno", "foco"],
     "resposta_correta": "conhecimento prático melhora o desempenho estudantil"
   },
   {
-    "pergunta": "Como se diz: 'The campus offers high security'?",
-    "opcoes": ["offers", "security", "the", "campus", "high", "has", "place", "safe", "guard", "school", "provides", "area", "good", "protection"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The campus offers high security",
+    "opcoes": ["the", "campus", "offers", "high", "security", "has", "place", "safe", "provides"],
     "resposta_correta": "the campus offers high security"
   },
   {
-    "pergunta": "Como se diz: 'O monitor corrigiu os relatórios'?",
-    "opcoes": ["corrected", "reports", "the", "tutor", "monitor", "showed", "graded", "paper", "study", "wrote", "work", "assignment", "teacher"],
+    "questionType": "traduza a frase",
     "numero": "9",
+    "pergunta": "O monitor corrigiu os relatórios",
+    "opcoes": ["the", "tutor", "corrected", "the", "reports", "monitor", "showed", "graded", "work"],
     "resposta_correta": "the tutor corrected the reports"
   },
   {
-    "pergunta": "Como se diz: 'Doctoral candidates defend their research'?",
-    "opcoes": ["defendem", "doutorado", "pesquisa", "sua", "candidatos", "de", "estudo", "escola", "tese", "trabalho", "ciência", "apresentam", "prova", "acadêmica"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Doctoral candidates defend their research",
+    "opcoes": ["candidatos", "de", "doutorado", "defendem", "sua", "pesquisa", "estudo", "tese", "trabalho", "acadêmica"],
     "resposta_correta": "candidatos de doutorado defendem sua pesquisa"
   }
 ];
 export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Como se diz: 'Graduation ceremonies require formal attire'?",
-    "opcoes": ["traje", "exigem", "cerimônias", "de", "formatura", "as", "formal", "roupa", "escola", "festa", "uso", "obrigatório", "estudo", "vestimenta", "evento"],
     "numero": "1",
+    "pergunta": "Graduation ceremonies require formal attire",
+    "opcoes": ["as", "cerimônias", "de", "formatura", "exigem", "traje", "formal", "roupa", "escola", "vestimenta", "evento"],
     "resposta_correta": "as cerimônias de formatura exigem traje formal"
   },
   {
-    "pergunta": "Como se diz: 'O reitor concedeu bolsas extras'?",
-    "opcoes": ["granted", "extra", "scholarships", "the", "rector", "dean", "gave", "more", "funding", "study", "awards", "money", "school", "new", "help"],
+    "questionType": "traduza a frase",
     "numero": "2",
+    "pergunta": "O reitor concedeu bolsas extras",
+    "opcoes": ["the", "dean", "granted", "extra", "scholarships", "rector", "gave", "funding", "awards"],
     "resposta_correta": "the dean granted extra scholarships"
   },
   {
-    "pergunta": "Como se diz: 'Standardized testing evaluate basic skills'?",
-    "opcoes": ["avaliam", "testagens", "habilidades", "básicas", "as", "padronizadas", "escola", "estudo", "provas", "conhecimento", "ensino", "capacidade", "aluno", "exame"],
+    "questionType": "traduza a frase",
     "numero": "3",
+    "pergunta": "Standardized testing evaluate basic skills",
+    "opcoes": ["as", "testagens", "padronizadas", "avaliam", "habilidades", "básicas", "estudo", "provas", "conhecimento", "exame"],
     "resposta_correta": "as testagens padronizadas avaliam habilidades básicas"
   },
   {
-    "pergunta": "Como se diz: 'The laboratory maintains strict protocols'?",
-    "opcoes": ["mantém", "protocolos", "laboratório", "o", "rigorosos", "estritos", "escola", "regras", "ciência", "estudo", "segue", "procedimentos", "segurança", "trabalho"],
+    "questionType": "traduza a frase",
     "numero": "4",
+    "pergunta": "The laboratory maintains strict protocols",
+    "opcoes": ["o", "laboratório", "mantém", "protocolos", "rigorosos", "escola", "regras", "estudo", "procedimentos"],
     "resposta_correta": "o laboratório mantém protocolos rigorosos"
   },
   {
-    "pergunta": "Como se diz: 'She handles administrative student records'?",
-    "opcoes": ["handles", "administrative", "student", "records", "she", "manages", "files", "academic", "papers", "school", "office", "work", "data", "info"],
+    "questionType": "traduza a frase",
     "numero": "5",
+    "pergunta": "She handles administrative student records",
+    "opcoes": ["she", "handles", "administrative", "student", "records", "manages", "academic", "papers", "office"],
     "resposta_correta": "she handles administrative student records"
   },
   {
-    "pergunta": "Como se diz: 'A biblioteca ampliou as instalações'?",
-    "opcoes": ["expanded", "facilities", "the", "library", "new", "building", "rooms", "study", "area", "school", "improved", "modern", "space", "books"],
+    "questionType": "traduza a frase",
     "numero": "6",
+    "pergunta": "A biblioteca ampliou as instalações",
+    "opcoes": ["the", "library", "expanded", "the", "facilities", "building", "study", "area", "modern"],
     "resposta_correta": "the library expanded the facilities"
   },
   {
-    "pergunta": "Como se diz: 'Collaborative learning improves social interaction'?",
-    "opcoes": ["interação", "melhora", "colaborativo", "aprendizado", "o", "social", "escola", "estudo", "ajuda", "foco", "ensino", "grupo", "desenvolve", "aluno"],
+    "questionType": "traduza a frase",
     "numero": "7",
+    "pergunta": "Collaborative learning improves social interaction",
+    "opcoes": ["o", "aprendizado", "colaborativo", "melhora", "interação", "social", "escola", "estudo", "ensino", "grupo"],
     "resposta_correta": "o aprendizado colaborativo melhora interação social"
   },
   {
-    "pergunta": "Como se diz: 'The campus provides student housing'?",
-    "opcoes": ["provides", "student", "housing", "the", "campus", "offers", "dorms", "rooms", "school", "living", "area", "place", "study", "home"],
+    "questionType": "traduza a frase",
     "numero": "8",
+    "pergunta": "The campus provides student housing",
+    "opcoes": ["the", "campus", "provides", "student", "housing", "offers", "dorms", "place", "living"],
     "resposta_correta": "the campus provides student housing"
   },
   {
-    "pergunta": "Como se diz: 'O monitor revisou os conceitos'?",
-    "opcoes": ["reviewed", "concepts", "the", "tutor", "monitor", "checked", "lesson", "class", "study", "ideas", "math", "explained", "correct", "teacher"],
+    "questionType": "traduza a frase",
     "numero": "9",
-    "screenshot": "the tutor reviewed the concepts"
+    "pergunta": "O monitor revisou os conceitos",
+    "opcoes": ["the", "tutor", "reviewed", "the", "concepts", "monitor", "checked", "lesson", "ideas"],
+    "resposta_correta": "the tutor reviewed the concepts"
   },
   {
-    "pergunta": "Como se diz: 'Post-doctoral research requires deep dedication'?",
-    "opcoes": ["pós-doutorado", "dedicação", "profunda", "pesquisa", "de", "exige", "estudo", "escola", "trabalho", "muita", "ciência", "foco", "necessita", "acadêmica"],
+    "questionType": "traduza a frase",
     "numero": "10",
+    "pergunta": "Post-doctoral research requires deep dedication",
+    "opcoes": ["pesquisa", "de", "pós-doutorado", "exige", "profunda", "dedicação", "estudo", "escola", "ciência", "acadêmica"],
     "resposta_correta": "pesquisa de pós-doutorado exige profunda dedicação"
   }
 ];

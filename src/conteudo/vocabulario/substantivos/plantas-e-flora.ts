@@ -2,7 +2,7 @@
 
 
 
-export const quiz1 = [
+export const quiz01 = [
   {
     "pergunta": "Como se diz 'Árvore' em inglês?",
     "opcoes": {
@@ -112,7 +112,10 @@ export const quiz1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz02 = [
+ 
   {
     "pergunta": "Como se diz 'Rosa' (a flor) em inglês?",
     "opcoes": {
@@ -224,7 +227,7 @@ export const quiz1 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Como se diz 'Semente' em inglês?",
     "opcoes": {
@@ -334,7 +337,10 @@ export const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz04 = [
+  
   {
     "pergunta": "Como se diz 'Samambaia' em inglês?",
     "opcoes": {
@@ -446,7 +452,7 @@ export const quiz2 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Como se diz 'Pinheiro' em inglês?",
     "opcoes": {
@@ -556,7 +562,10 @@ export const quiz3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz06 = [
+  
   {
     "pergunta": "Como se diz 'Pomar' em inglês?",
     "opcoes": {
@@ -668,7 +677,7 @@ export const quiz3 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Como se diz 'Gira-sol' em inglês?",
     "opcoes": {
@@ -778,7 +787,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz08 = [
+  
   {
     "pergunta": "Como se diz 'Pólen' em inglês?",
     "opcoes": {
@@ -890,7 +902,7 @@ export const quiz4 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Como se diz 'Pétala' em inglês?",
     "opcoes": {
@@ -1000,7 +1012,10 @@ export const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz010 = [
+ 
   {
     "pergunta": "Como se diz 'Hera' (planta trepadeira) em inglês?",
     "opcoes": {
@@ -1112,7 +1127,7 @@ export const quiz5 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Como se diz 'Pinheiro' em inglês?",
     "opcoes": {
@@ -1222,7 +1237,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz012 = [
+ 
   {
     "pergunta": "Como se diz 'Caule' em inglês?",
     "opcoes": {
@@ -1334,7 +1352,7 @@ export const quiz6 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Como se diz 'Semente' em inglês?",
     "opcoes": {
@@ -1444,7 +1462,10 @@ export const quiz7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz014 = [
+  
   {
     "pergunta": "Como se diz 'Pomar' em inglês?",
     "opcoes": {
@@ -1556,7 +1577,7 @@ export const quiz7 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Como se diz 'Grama' em inglês?",
     "opcoes": {
@@ -1666,7 +1687,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz016 = [
+ 
   {
     "pergunta": "Como se diz 'Regador' em inglês?",
     "opcoes": {
@@ -1778,7 +1802,7 @@ export const quiz8 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Como se diz 'Pétala' em inglês?",
     "opcoes": {
@@ -1888,7 +1912,10 @@ export const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz018 = [
+  
   {
     "pergunta": "Como se diz 'Solo' em inglês?",
     "opcoes": {
@@ -2000,7 +2027,7 @@ export const quiz9 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Como se diz 'Tronco' em inglês?",
     "opcoes": {
@@ -2110,7 +2137,10 @@ export const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz020 = [
+  
   {
     "pergunta": "Como se diz 'Estufa' em inglês?",
     "opcoes": {
@@ -2224,7 +2254,7 @@ export const quiz10 = [
 ];
 /*-----------------------basico--------------------------------*/
 
-export const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Traduza: 'The seeds are growing.'",
     "opcoes": {
@@ -2334,7 +2364,10 @@ export const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico02 = [
+
   {
     "pergunta": "Traduza: 'The roots are deep.'",
     "opcoes": {
@@ -2446,7 +2479,7 @@ export const quizBasico1 = [
     "resposta_correta": "C"
   }
 ];
-export const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Traduza: 'Ancient forests remain protected.'",
     "opcoes": {
@@ -2506,12 +2539,12 @@ export const quizBasico2 = [
     "pergunta": "Como se diz: 'Pólen atrai abelhas.'?",
     "opcoes": {
       "A": "Seeds attract bees.",
-      "B": "Pollen attracts bees.",
-      "C": "Flowers attract bees.",
-      "D": "Nectar attracts bees."
+      "B": "Flowers attract bees.",
+      "C": "Nectar attracts bees.",
+      "D": "Pollen attracts bees."
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Succulents store water.'",
@@ -2521,7 +2554,7 @@ export const quizBasico2 = [
       "C": "Suculentas armazenam água.",
       "D": "Plantas guardam água."
     },
-    "numero": "1",
+    "numero": "7",
     "resposta_correta": "C"
   },
   {
@@ -2556,7 +2589,10 @@ export const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico04 = [
+ 
   {
     "pergunta": "Traduza: 'Moss carpets the stones.'",
     "opcoes": {
@@ -2582,13 +2618,13 @@ export const quizBasico2 = [
   {
     "pergunta": "Traduza: 'Roots stabilize the tree.'",
     "opcoes": {
-      "A": "Raízes estabilizam a árvore.",
-      "B": "Galhos seguram a árvore.",
-      "C": "Troncos firmam a árvore.",
-      "D": "Raízes nutrem a árvore."
+      "A": "Galhos seguram a árvore.",
+      "B": "Troncos firmam a árvore.",
+      "C": "Raízes nutrem a árvore.",
+      "D": "Raízes estabilizam a árvore."
     },
     "numero": "13",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Ervas requerem solo drenado.'?",
@@ -2617,11 +2653,11 @@ export const quizBasico2 = [
     "opcoes": {
       "A": "Seeds need a bit water.",
       "B": "Seeds require warm weather.",
-      "C": "Seeds need dark places.",
-      "D": "Seeds need moisture."
+      "C": "Seeds need moisture.",
+      "D": "Seeds need dark places."
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Bark protects the trunk.'",
@@ -2648,27 +2684,27 @@ export const quizBasico2 = [
   {
     "pergunta": "Traduza: 'Pollen spreads through air.'",
     "opcoes": {
-      "A": "Sementes voam pelo ar.",
+      "A": "Pólen espalha-se pelo ar.",
       "B": "Cheiro viaja pelo ar.",
-      "C": "Pólen espalha-se pelo ar.",
+      "C": "Sementes voam pelo ar.",
       "D": "Pó viaja pelo ar."
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Salgueiros crescem perto rios.'?",
     "opcoes": {
       "A": "Willows grow near mountains.",
-      "B": "Willows grow near forests.",
-      "C": "Willows grow near rivers.",
+      "B": "Willows grow near rivers.",
+      "C": "Willows grow near forests.",
       "D": "Willows grow near lakes."
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   }
 ];
-export const quizBasico3 = [
+export const quizBasico05 = [
   {
     "pergunta": "Traduza: 'Vibrant petals attract pollinators.'",
     "opcoes": {
@@ -2778,7 +2814,10 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico06 = [
+  
   {
     "pergunta": "Traduza: 'Pollen grains drift away.'",
     "opcoes": {
@@ -2890,10 +2929,10 @@ export const quizBasico3 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Traduza: 'Deciduous foliage turns orange.'",
-    "opcoes": {
+    "options": {
       "A": "Folhas verdes ficam laranjas.",
       "B": "Folhagem caducifólia torna-se laranja.",
       "C": "Árvores grandes ficam laranjas.",
@@ -2904,7 +2943,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Plantas perenes resistem geadas.'?",
-    "opcoes": {
+    "options": {
       "A": "Perennials withstand frosts.",
       "B": "Flowers survive cold snow.",
       "C": "Plants resist winter ice.",
@@ -2915,7 +2954,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Traduza: 'Pollination ensures species survival.'",
-    "opcoes": {
+    "options": {
       "A": "Natureza ajuda plantas novas.",
       "B": "Abelhas garantem vida nova.",
       "C": "Flores precisam de pólen.",
@@ -2926,18 +2965,18 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Sementes germinam sob solo.'?",
-    "opcoes": {
+    "options": {
       "A": "Seeds grow inside dirt.",
-      "B": "Seeds germinate beneath soil.",
-      "C": "Seeds start under earth.",
+      "B": "Seeds start under earth.",
+      "C": "Seeds germinate beneath soil.",
       "D": "Seeds open below ground."
     },
     "numero": "4",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Chlorophyll captures solar energy.'",
-    "opcoes": {
+    "options": {
       "A": "Clorofila captura energia solar.",
       "B": "Plantas usam luz solar.",
       "C": "Folhas pegam calor solar.",
@@ -2948,18 +2987,18 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Samambaias produzem esporos minúsculos.'?",
-    "opcoes": {
+    "options": {
       "A": "Ferns have small seeds.",
-      "B": "Ferns produce tiny spores.",
-      "C": "Ferns make little dust.",
-      "D": "Ferns drop microscopic spores."
+      "B": "Ferns make little dust.",
+      "C": "Ferns drop microscopic spores.",
+      "D": "Ferns produce tiny spores."
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Saplings require consistent watering.'",
-    "opcoes": {
+    "options": {
       "A": "Árvores precisam muita água.",
       "B": "Plantas querem água constante.",
       "C": "Mudas requerem rega consistente.",
@@ -2970,7 +3009,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Solo argiloso retém umidade.'?",
-    "opcoes": {
+    "options": {
       "A": "Wet soil keeps water.",
       "B": "Dirt holds much water.",
       "C": "Ground stays very wet.",
@@ -2981,7 +3020,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Traduza: 'Vines climb vertical surfaces.'",
-    "opcoes": {
+    "options": {
       "A": "Trepadeiras escalam superfícies verticais.",
       "B": "Plantas sobem em paredes.",
       "C": "Heras crescem em muros.",
@@ -2992,7 +3031,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Arbustos densos florescem anualmente.'?",
-    "opcoes": {
+    "options": {
       "A": "Bushes flower every year.",
       "B": "Dense shrubs bloom annually.",
       "C": "Thick plants bloom yearly.",
@@ -3000,10 +3039,13 @@ export const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico08 = [
+  
   {
     "pergunta": "Traduza: 'Roots absorb essential nutrients.'",
-    "opcoes": {
+    "options": {
       "A": "Raízes pegam comida boa.",
       "B": "Plantas bebem água mineral.",
       "C": "Raízes absorvem nutrientes essenciais.",
@@ -3014,7 +3056,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Pragas danificam colheitas orgânicas.'?",
-    "opcoes": {
+    "options": {
       "A": "Insects eat healthy food.",
       "B": "Bugs destroy green plants.",
       "C": "Pests hurt farm crops.",
@@ -3025,7 +3067,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Traduza: 'Nectar attracts hungry hummingbirds.'",
-    "opcoes": {
+    "options": {
       "A": "Néctar atrai beija-flores famintos.",
       "B": "Doce chama pássaros pequenos.",
       "C": "Flores alimentam beija-flores famintos.",
@@ -3036,7 +3078,7 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Botões florais murcham rapidamente.'?",
-    "opcoes": {
+    "options": {
       "A": "Flowers die very fast.",
       "B": "Flower buds wither quickly.",
       "C": "Buds dry up soon.",
@@ -3047,29 +3089,29 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Traduza: 'Ecosystems depend on biodiversity.'",
-    "opcoes": {
+    "options": {
       "A": "Natureza precisa muitas plantas.",
-      "B": "Florestas dependem de animais.",
-      "C": "Ecossistemas dependem da biodiversidade.",
+      "B": "Ecossistemas dependem da biodiversidade.",
+      "C": "Florestas dependem de animais.",
       "D": "Vida precisa muita variedade."
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Salgueiros habitam margens úmidas.'?",
-    "opcoes": {
+    "options": {
       "A": "Willows live near lakes.",
       "B": "Trees grow in mud.",
-      "C": "Plants prefer river sides.",
-      "D": "Willows inhabit damp banks."
+      "C": "Willows inhabit damp banks.",
+      "D": "Plants prefer river sides."
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Greenhouses regulate internal temperature.'",
-    "opcoes": {
+    "options": {
       "A": "Estufas regulam temperatura interna.",
       "B": "Casas verdes controlam calor.",
       "C": "Estufas mantêm ar quente.",
@@ -3080,18 +3122,18 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Espinhos afiados protegem caules.'?",
-    "opcoes": {
+    "options": {
       "A": "Sharp thorns defend plants.",
-      "B": "Sharp thorns protect stems.",
+      "B": "Hard thorns protect wood.",
       "C": "Big thorns guard flowers.",
-      "D": "Hard thorns protect wood."
+      "D": "Sharp thorns protect stems."
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Autumn winds scatter seeds.'",
-    "opcoes": {
+    "options": {
       "A": "Ventos frios levam folhas.",
       "B": "Natureza espalha sementes secas.",
       "C": "Ventos outonais espalham sementes.",
@@ -3102,17 +3144,17 @@ export const quizBasico4 = [
   },
   {
     "pergunta": "Como se diz: 'Heras cobrem carvalhos centenários.'?",
-    "opcoes": {
+    "options": {
       "A": "Vines grow on trees.",
-      "B": "Moss covers old oaks.",
-      "C": "Ivy hides big wood.",
-      "D": "Ivy covers ancient oaks."
+      "B": "Ivy covers ancient oaks.",
+      "C": "Moss covers old oaks.",
+      "D": "Ivy hides big wood."
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   }
 ];
-export const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Traduza: 'Conifers produce woody cones.'",
     "opcoes": {
@@ -3222,7 +3264,10 @@ export const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico010 = [
+  
   {
     "pergunta": "Traduza: 'Sturdy stems support branches.'",
     "opcoes": {
@@ -3334,7 +3379,7 @@ export const quizBasico5 = [
     "resposta_correta": "A"
   }
 ];
-export const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Traduza: 'Ancient oaks endure storms.'",
     "opcoes": {
@@ -3382,57 +3427,57 @@ export const quizBasico6 = [
   {
     "pergunta": "Traduza: 'Dense canopy blocks sunlight.'",
     "opcoes": {
-      "A": "Copa densa bloqueia luz.",
-      "B": "Mata fechada traz sombra.",
-      "C": "Árvores altas tapam sol.",
-      "D": "Folhagem densa esconde sol."
+      "A": "Mata fechada traz sombra.",
+      "B": "Árvores altas tapam sol.",
+      "C": "Folhagem densa esconde sol.",
+      "D": "Copa densa bloqueia luz."
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Solo fértil promove crescimento.'?",
-    "opcoes": {
-      "A": "Good dirt helps plants.",
-      "B": "Fertile soil promotes growth.",
-      "C": "Rich earth brings life.",
-      "D": "Healthy soil helps seeds."
+    "order": {
+      "A": "Rich earth brings life.",
+      "B": "Healthy soil helps seeds.",
+      "C": "Fertile soil promotes growth.",
+      "D": "Good dirt helps plants."
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Aquatic plants purify ponds.'",
     "opcoes": {
-      "A": "Plantas marinhas limpam lagos.",
+      "A": "Plantas aquáticas purificam lagoas.",
       "B": "Algas verdes purificam água.",
-      "C": "Plantas aquáticas purificam lagoas.",
+      "C": "Plantas marinhas limpam lagos.",
       "D": "Vegetação aquática limpa rios."
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Sementes precisam solo úmido.'?",
     "opcoes": {
       "A": "Seeds need wet earth.",
-      "B": "Seeds require water inside.",
-      "C": "Seeds want humid ground.",
-      "D": "Seeds require moist soil."
+      "B": "Seeds want humid ground.",
+      "C": "Seeds require moist soil.",
+      "D": "Seeds require water inside."
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Vibrant blossoms attract butterflies.'",
     "opcoes": {
-      "A": "Flores vibrantes atraem borboletas.",
-      "B": "Pétalas coloridas chamam insetos.",
+      "A": "Pétalas coloridas chamam insetos.",
+      "B": "Flores vibrantes atraem borboletas.",
       "C": "Flores vivas atraem abelhas.",
       "D": "Botões novos atraem borboletas."
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Espinhos afiados protegem caules.'?",
@@ -3444,7 +3489,10 @@ export const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico012 = [
+ 
   {
     "pergunta": "Traduza: 'Roots absorb groundwater.'",
     "opcoes": {
@@ -3481,24 +3529,24 @@ export const quizBasico6 = [
   {
     "pergunta": "Como se diz: 'Suculentas armazenam água internamente.'?",
     "opcoes": {
-      "A": "Plants keep water inside.",
-      "B": "Succulents store water internally.",
+      "A": "Succulents store water internally.",
+      "B": "Plants keep water inside.",
       "C": "Cactus save water daily.",
       "D": "Succulents need internal water."
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Photosynthesis produces organic fuel.'",
     "opcoes": {
       "A": "Natureza cria energia pura.",
       "B": "Plantas produzem comida orgânica.",
-      "C": "Fotossíntese produz combustível orgânico.",
-      "D": "Fotossíntese gera oxigênio vital."
+      "C": "Fotossíntese gera oxigênio vital.",
+      "D": "Fotossíntese produz combustível orgânico."
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Heras escalam muros antigos.'?",
@@ -3547,16 +3595,16 @@ export const quizBasico6 = [
   {
     "pergunta": "Como se diz: 'Estufas protegem mudas frágeis.'?",
     "opcoes": {
-      "A": "Glass houses help plants.",
-      "B": "Gardens protect small seeds.",
-      "C": "Greenhouses protect fragile saplings.",
+      "A": "Greenhouses protect fragile saplings.",
+      "B": "Glass houses help plants.",
+      "C": "Gardens protect small seeds.",
       "D": "Houses keep plants warm."
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   }
 ];
-export const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Traduza: 'Saplings need consistent moisture.'",
     "opcoes": {
@@ -3666,7 +3714,10 @@ export const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico014 = [
+  
   {
     "pergunta": "Traduza: 'Fungi decompose organic debris.'",
     "opcoes": {
@@ -3778,7 +3829,7 @@ export const quizBasico7 = [
     "resposta_correta": "C"
   }
 ];
-export const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Traduza: 'Conifers release yellow pollen.'",
     "opcoes": {
@@ -3793,35 +3844,35 @@ export const quizBasico8 = [
   {
     "pergunta": "Como se diz: 'Perenes exigem poda anual.'?",
     "opcoes": {
-      "A": "Perennials require annual pruning.",
-      "B": "Plants need yearly cleaning.",
-      "C": "Flowers want annual cutting.",
-      "D": "Perennials need yearly growth."
+      "A": "Plants need yearly cleaning.",
+      "B": "Flowers want annual cutting.",
+      "C": "Perennials need yearly growth.",
+      "D": "Perennials require annual pruning."
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Photosynthesis consumes carbon dioxide.'",
     "opcoes": {
-      "A": "Plantas respiram gás carbônico.",
-      "B": "Natureza limpa gás carbônico.",
-      "C": "Fotossíntese consome gás carbônico.",
+      "A": "Fotossíntese consome gás carbônico.",
+      "B": "Plantas respiram gás carbônico.",
+      "C": "Natureza limpa gás carbônico.",
       "D": "Fotossíntese absorve ar poluído."
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Húmus enriquece solos pobres.'?",
     "opcoes": {
       "A": "Earth gets very rich.",
       "B": "Dirt needs more food.",
-      "C": "Fertilizer helps dry soil.",
-      "D": "Humus enriches poor soils."
+      "C": "Humus enriches poor soils.",
+      "D": "Fertilizer helps dry soil."
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Evergreens tolerate freezing temperatures.'",
@@ -3850,33 +3901,33 @@ export const quizBasico8 = [
     "opcoes": {
       "A": "Grandes raízes param terra.",
       "B": "Plantas fortes seguram solo.",
-      "C": "Raízes robustas evitam erosão.",
-      "D": "Raízes fundas firmam morros."
+      "C": "Raízes fundas firmam morros.",
+      "D": "Raízes robustas evitam erosão."
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Botões florais atraem insetos.'?",
     "opcoes": {
       "A": "Flowers call small bugs.",
-      "B": "Seeds attract flying insects.",
-      "C": "Small buds attract pollinators.",
-      "D": "Flower buds attract insects."
+      "B": "Flower buds attract insects.",
+      "C": "Seeds attract flying insects.",
+      "D": "Small buds attract pollinators."
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Succulents flourish in sunlight.'",
     "opcoes": {
-      "A": "Suculentas florescem sob sol.",
-      "B": "Cactos crescem no sol.",
-      "C": "Plantas vivem no calor.",
-      "D": "Suculentas prosperam na luz."
+      "A": "Cactos crescem no sol.",
+      "B": "Plantas vivem no calor.",
+      "C": "Suculentas prosperam na luz.",
+      "D": "Suculentas florescem sob sol."
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Líquens cobrem rochas vulcânicas.'?",
@@ -3888,28 +3939,31 @@ export const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico016 = [
+  
   {
     "pergunta": "Traduza: 'Chlorophyll facilitates nutrient production.'",
     "opcoes": {
-      "A": "Folhas produzem comida boa.",
-      "B": "Clorofila ajuda criar energia.",
-      "C": "Clorofila facilita produção nutrientes.",
+      "A": "Clorofila facilita produção nutrientes.",
+      "B": "Folhas produzem comida boa.",
+      "C": "Clorofila ajuda criar energia.",
       "D": "Plantas criam nutrientes vitais."
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Samambaias preferem ambientes úmidos.'?",
     "opcoes": {
       "A": "Ferns like wet air.",
       "B": "Ferns need damp places.",
-      "C": "Ferns want humid soil.",
-      "D": "Ferns prefer humid environments."
+      "C": "Ferns prefer humid environments.",
+      "D": "Ferns want humid soil."
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Aquatic flora filters pollutants.'",
@@ -3926,7 +3980,7 @@ export const quizBasico8 = [
     "pergunta": "Como se diz: 'Salgueiros choram sob neblina.'?",
     "opcoes": {
       "A": "Trees weep during mist.",
-      "/B/": "Willows weep under fog.",
+      "B": "Willows weep under fog.",
       "C": "Willows cry beneath mist.",
       "D": "Willow trees weep fog."
     },
@@ -3970,12 +4024,12 @@ export const quizBasico8 = [
     "pergunta": "Como se diz: 'Espinhos protegem tecidos vegetais.'?",
     "opcoes": {
       "A": "Thorns protect green parts.",
-      "B": "Thorns protect plant tissues.",
-      "C": "Needles guard plant life.",
+      "B": "Needles guard plant life.",
+      "C": "Thorns protect plant tissues.",
       "D": "Spikes save soft wood."
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Fungi decompose fallen branches.'",
@@ -4000,7 +4054,7 @@ export const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Traduza: 'Deciduous trees lose foliage.'",
     "opcoes": {
@@ -4110,7 +4164,10 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico018 = [
+ 
   {
     "pergunta": "Traduza: 'Saplings require consistent watering.'",
     "opcoes": {
@@ -4222,7 +4279,7 @@ export const quizBasico9 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Traduza: 'Lichens indicate air purity.'",
     "opcoes": {
@@ -4332,7 +4389,10 @@ export const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico020 = [
+  
   {
     "pergunta": "Traduza: 'Ancient forests store carbon.'",
     "opcoes": {
@@ -4448,7 +4508,7 @@ export const quizBasico10 = [
 /*-----------------------intermediario--------------------------------*/
 
 
-const quizIntermediario1 = [
+const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'Photosynthesis sustains terrestrial life.'",
     "opcoes": {
@@ -4558,7 +4618,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario02 = [
+  
   {
     "pergunta": "Traduza: 'Chlorophyll captures radiant energy.'",
     "opcoes": {
@@ -4670,7 +4733,7 @@ const quizIntermediario1 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario2 = [
+const quizIntermediario03 = [
   {
     "pergunta": "Traduza: 'Vascular tissues transport essential sap.'",
     "opcoes": {
@@ -4780,7 +4843,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario04 = [
+  
   {
     "pergunta": "Traduza: 'Bark shields internal vascular cambium.'",
     "opcoes": {
@@ -4892,7 +4958,7 @@ const quizIntermediario2 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Traduza: 'Capillary action moves water upward.'",
     "opcoes": {
@@ -4907,57 +4973,57 @@ const quizIntermediario3 = [
   {
     "pergunta": "Como se diz: 'Folhagem densa intercepta luz solar.'?",
     "opcoes": {
-      "A": "Dense foliage intercepts sunlight.",
-      "B": "Thick leaves block sun.",
-      "C": "Green canopy stops light.",
-      "D": "Forest top catches sun."
+      "A": "Thick leaves block sun.",
+      "B": "Green canopy stops light.",
+      "C": "Forest top catches sun.",
+      "D": "Dense foliage intercepts sunlight."
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Rhizomes enable vegetative propagation.'",
     "opcoes": {
-      "A": "Raízes ajudam plantas novas.",
-      "B": "Rizomas permitem crescimento rápido.",
-      "C": "Rizomas permitem propagação vegetativa.",
+      "A": "Rizomas permitem propagação vegetativa.",
+      "B": "Raízes ajudam plantas novas.",
+      "C": "Rizomas permitem crescimento rápido.",
       "D": "Hastes criam novas sementes."
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Estômatos controlam perda água.'?",
     "opcoes": {
       "A": "Leaves stop water leak.",
       "B": "Plants save internal water.",
-      "C": "Cells manage water output.",
-      "D": "Stomata control water loss."
+      "C": "Stomata control water loss.",
+      "D": "Cells manage water output."
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Xylem conducts minerals throughout.'",
     "opcoes": {
-      "A": "Xilema conduz minerais totalmente.",
-      "B": "Vasos levam comida planta.",
+      "A": "Vasos levam comida planta.",
       "C": "Madeira transporta minerais solo.",
+      "B": "Xilema conduz minerais totalmente.",
       "D": "Xilema limpa minerais internos."
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Sementes exigem condições ideais.'?",
     "opcoes": {
       "A": "Seeds need good weather.",
-      "B": "Seeds require optimal conditions.",
-      "C": "Seeds want perfect ground.",
-      "D": "Seeds must have moisture."
+      "B": "Seeds want perfect ground.",
+      "C": "Seeds must have moisture.",
+      "D": "Seeds require optimal conditions."
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Angiosperms produce encased seeds.'",
@@ -4973,24 +5039,24 @@ const quizIntermediario3 = [
   {
     "pergunta": "Como se diz: 'Biodiversidade sustenta equilíbrio ecológico.'?",
     "opcoes": {
-      "A": "Nature needs many plants.",
-      "B": "Life keeps forest safe.",
-      "C": "Different species help earth.",
-      "D": "Biodiversity sustains ecological balance."
+      "A": "Biodiversity sustains ecological balance.",
+      "B": "Nature needs many plants.",
+      "C": "Life keeps forest safe.",
+      "D": "Different species help earth."
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Pistils receive pollen grains.'",
     "opcoes": {
-      "A": "Pistilos recebem grãos pólen.",
-      "B": "Flores capturam pó fino.",
-      "C": "Pistilos guardam sementes novas.",
-      "D": "Plantas absorvem pólen solar."
+      "A": "Flores capturam pó fino.",
+      "B": "Pistilos guardam sementes novas.",
+      "C": "Plantas absorvem pólen solar.",
+      "D": "Pistilos recebem grãos pólen."
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Espécies pioneiras colonizam rochas.'?",
@@ -5002,7 +5068,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario06 = [
+ 
   {
     "pergunta": "Traduza: 'Herbaceous plants lack wood.'",
     "opcoes": {
@@ -5061,24 +5130,24 @@ const quizIntermediario3 = [
   {
     "pergunta": "Como se diz: 'Arbustos fornecem abrigo essencial.'?",
     "opcoes": {
-      "A": "Bushes give small house.",
-      "B": "Greenery helps forest birds.",
-      "C": "Small plants offer shade.",
-      "D": "Shrubs provide essential shelter."
+      "A": "Shrubs provide essential shelter.",
+      "B": "Bushes give small house.",
+      "C": "Greenery helps forest birds.",
+      "D": "Small plants offer shade."
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Mycorrhizae enhance nutrient uptake.'",
     "opcoes": {
-      "A": "Micorrizas aumentam absorção nutrientes.",
-      "B": "Fungos ajudam raízes comer.",
-      "C": "Raízes absorvem comida melhor.",
+      "A": "Fungos ajudam raízes comer.",
+      "B": "Raízes absorvem comida melhor.",
+      "C": "Micorrizas aumentam absorção nutrientes.",
       "D": "Micorrizas protegem solo fértil."
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz: 'Cloroplastos realizam síntese química.'?",
@@ -5105,16 +5174,16 @@ const quizIntermediario3 = [
   {
     "pergunta": "Como se diz: 'Samambaias habitam desfiladeiros úmidos.'?",
     "opcoes": {
-      "A": "Ferns live near water.",
-      "B": "Green plants love rocks.",
-      "C": "Ferns inhabit humid canyons.",
+      "A": "Ferns inhabit humid canyons.",
+      "B": "Ferns live near water.",
+      "C": "Green plants love rocks.",
       "D": "Ferns grow inside caves."
     },
     "numero": "20",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   }
 ];
-const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Traduza: 'Nectar attracts specialized pollinators.'",
     "opcoes": {
@@ -5129,46 +5198,46 @@ const quizIntermediario4 = [
   {
     "pergunta": "Como se diz: 'Líquens colonizam superfícies rochosas.'?",
     "opcoes": {
-      "A": "Lichens colonize rocky surfaces.",
-      "B": "Moss grows on stones.",
-      "C": "Plants cover grey rocks.",
-      "D": "Fungi habit mountain rocks."
+      "A": "Moss grows on stones.",
+      "B": "Plants cover grey rocks.",
+      "C": "Fungi habit mountain rocks.",
+      "D": "Lichens colonize rocky surfaces."
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Mangroves protect coastal shorelines.'",
     "opcoes": {
-      "A": "Árvores protegem as praias.",
+      "A": "Manguezais protegem linhas costeiras.",
       "B": "Mata ajuda costas marinhas.",
-      "C": "Manguezais protegem linhas costeiras.",
+      "C": "Árvores protegem as praias.",
       "D": "Pântanos salvam solo litoral."
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Sementes aladas viajam longe.'?",
     "opcoes": {
       "A": "Small seeds travel far.",
       "B": "Flying seeds move away.",
-      "C": "Bird seeds fly far.",
-      "D": "Winged seeds travel far."
+      "C": "Winged seeds travel far.",
+      "D": "Bird seeds fly far."
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Xylem transports water upward.'",
     "opcoes": {
-      "A": "Xilema transporta água acima.",
-      "B": "Vasos levam água raízes.",
-      "C": "Madeira move água internamente.",
+      "A": "Vasos levam água raízes.",
+      "B": "Madeira move água internamente.",
+      "C": "Xilema transporta água acima.",
       "D": "Plantas puxam água solo."
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz: 'Arbustos oferecem proteção vital.'?",
@@ -5186,66 +5255,69 @@ const quizIntermediario4 = [
     "opcoes": {
       "A": "Sementes querem luz solar.",
       "B": "Mudas precisam luz indireta.",
-      "C": "Mudas precisam luz filtrada.",
-      "D": "Árvores novas querem calor."
+      "C": "Árvores novas querem calor.",
+      "D": "Mudas precisam luz filtrada."
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Clorofila absorve radiação eletromagnética.'?",
     "opcoes": {
-      "A": "Leaves get sun energy.",
-      "B": "Plants use light power.",
-      "C": "Nature creates solar fuel.",
-      "D": "Chlorophyll absorbs electromagnetic radiation."
+      "A": "Chlorophyll absorbs electromagnetic radiation.",
+      "B": "Leaves get sun energy.",
+      "C": "Plants use light power.",
+      "D": "Nature creates solar fuel."
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Herbaceous plants lack lignin.'",
     "opcoes": {
-      "A": "Plantas herbáceas carecem lignina.",
-      "B": "Mato verde não tem.",
-      "C": "Ervas moles são frágeis.",
-      "D": "Plantas pequenas têm fibras."
+      "A": "Mato verde não tem.",
+      "B": "Ervas moles são frágeis.",
+      "C": "Plantas pequenas têm fibras.",
+      "D": "Plantas herbáceas carecem lignina."
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Esporos garantem reprodução assexuada.'?",
     "opcoes": {
-      "A": "Seeds help plant life.",
-      "B": "Spores ensure asexual reproduction.",
+      "A": "Spores ensure asexual reproduction.",
+      "B": "Seeds help plant life.",
       "C": "Dust starts new plants.",
       "D": "Cells allow fast growth."
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediari08 = [
+ 
   {
     "pergunta": "Traduza: 'Ancient conifers survive frosts.'",
     "opcoes": {
       "A": "Pinheiros velhos suportam frio.",
-      "B": "Árvores grandes resistem geada.",
-      "C": "Coníferas antigas sobrevivem geadas.",
+      "B": "Coníferas antigas sobrevivem geadas.",
+      "C": "Árvores grandes resistem geada.",
       "D": "Bosques antigos enfrentam inverno."
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Flores murcham após polinização.'?",
     "opcoes": {
       "A": "Plants die soon after.",
       "B": "Petals fall during summer.",
-      "C": "Buds dry very fast.",
-      "D": "Flowers wither after pollination."
+      "C": "Flowers wither after pollination.",
+      "D": "Buds dry very fast."
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Deciduous leaves change color.'",
@@ -5262,12 +5334,12 @@ const quizIntermediario4 = [
     "pergunta": "Como se diz: 'Solo fértil promove germinação.'?",
     "opcoes": {
       "A": "Good dirt helps plants.",
-      "B": "Fertile soil promotes germination.",
-      "C": "Rich earth brings life.",
-      "D": "Healthy ground helps seeds."
+      "B": "Rich earth brings life.",
+      "C": "Healthy ground helps seeds.",
+      "D": "Fertile soil promotes germination."
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Capillary action defy gravity.'",
@@ -5284,45 +5356,45 @@ const quizIntermediario4 = [
     "pergunta": "Como se diz: 'Trepadeiras alcançam dossel florestal.'?",
     "opcoes": {
       "A": "Plants climb for height.",
-      "B": "Ivy searches for light.",
-      "C": "Vines reach forest floor.",
-      "D": "Vines reach forest canopy."
+      "B": "Vines reach forest canopy.",
+      "C": "Ivy searches for light.",
+      "D": "Vines reach forest floor."
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Stomata regulate gas exchange.'",
     "opcoes": {
-      "A": "Estômatos regulam trocas gasosas.",
-      "B": "Células controlam saída oxigênio.",
+      "A": "Células controlam saída oxigênio.",
+      "B": "Estômatos regulam trocas gasosas.",
       "C": "Folhas alteram níveis ar.",
       "D": "Poros gerenciam entrada carbono."
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Rizomas estocam energia vital.'?",
     "opcoes": {
       "A": "Roots keep food safe.",
-      "B": "Rhizomes store vital energy.",
-      "C": "Underground stems save food.",
+      "B": "Underground stems save food.",
+      "C": "Rhizomes store vital energy.",
       "D": "Tubers hold plant energy."
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Pollen causes allergic reactions.'",
     "opcoes": {
-      "A": "Pólen gera espirros constantes.",
-      "B": "Flores causam muita coceira.",
-      "C": "Pólen causa reações alérgicas.",
+      "A": "Pólen causa reações alérgicas.",
+      "B": "Pólen gera espirros constantes.",
+      "C": "Flores causam muita coceira.",
       "D": "Pó fino irrita nariz."
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Biodiversidade indica saúde ecossistema.'?",
@@ -5336,7 +5408,7 @@ const quizIntermediario4 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario5 = [
+const quizIntermediario09 = [
   {
     "pergunta": "Traduza: 'Endemic flora faces extinction.'",
     "opcoes": {
@@ -5446,7 +5518,10 @@ const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario010 = [
+  
   {
     "pergunta": "Traduza: 'Saplings require nutrient-rich soil.'",
     "opcoes": {
@@ -5558,7 +5633,7 @@ const quizIntermediario5 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario6 = [
+const quizIntermediario011 = [
   {
     "pergunta": "Traduza: 'Mangroves stabilize coastal ecosystems.'",
     "opcoes": {
@@ -5668,7 +5743,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+const quizIntermediario012 = [
+ 
   {
     "pergunta": "Traduza: 'Succulents tolerate severe aridity.'",
     "opcoes": {
@@ -5780,7 +5858,7 @@ const quizIntermediario6 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario7 = [
+const quizIntermediario013 = [
   {
     "pergunta": "Traduza: 'Capillary action moves water.'",
     "opcoes": {
@@ -5891,7 +5969,10 @@ const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+const quizIntermediario014 = [
+ 
   {
     "pergunta": "Traduza: 'Vascular tissues conduct fluids.'",
     "opcoes": {
@@ -6003,7 +6084,7 @@ const quizIntermediario7 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Traduza: 'Nectar attracts specialized pollinators.'",
     "opcoes": {
@@ -6018,46 +6099,46 @@ const quizIntermediario8 = [
   {
     "pergunta": "Como se diz: 'Líquens colonizam superfícies rochosas.'?",
     "opcoes": {
-      "A": "Lichens colonize rocky surfaces.",
-      "B": "Moss grows on stones.",
-      "C": "Plants cover grey rocks.",
-      "D": "Fungi habit mountain rocks."
+      "A": "Moss grows on stones.",
+      "B": "Plants cover grey rocks.",
+      "C": "Fungi habit mountain rocks.",
+      "D": "Lichens colonize rocky surfaces."
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Mangroves protect coastal shorelines.'",
     "opcoes": {
-      "A": "Árvores protegem as praias.",
+      "A": "Manguezais protegem linhas costeiras.",
       "B": "Mata ajuda costas marinhas.",
-      "C": "Manguezais protegem linhas costeiras.",
+      "C": "Árvores protegem as praias.",
       "D": "Pântanos salvam solo litoral."
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Sementes aladas viajam longe.'?",
     "opcoes": {
       "A": "Small seeds travel far.",
       "B": "Flying seeds move away.",
-      "C": "Bird seeds fly far.",
-      "D": "Winged seeds travel far."
+      "C": "Winged seeds travel far.",
+      "D": "Bird seeds fly far."
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Xylem transports water upward.'",
     "opcoes": {
-      "A": "Xilema transporta água acima.",
-      "B": "Vasos levam água raízes.",
-      "C": "Madeira move água internamente.",
+      "A": "Vasos levam água raízes.",
+      "B": "Madeira move água internamente.",
+      "C": "Xilema transporta água acima.",
       "D": "Plantas puxam água solo."
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz: 'Arbustos oferecem proteção vital.'?",
@@ -6075,66 +6156,69 @@ const quizIntermediario8 = [
     "opcoes": {
       "A": "Sementes querem luz solar.",
       "B": "Mudas precisam luz indireta.",
-      "C": "Mudas precisam luz filtrada.",
-      "D": "Árvores novas querem calor."
+      "C": "Árvores novas querem calor.",
+      "D": "Mudas precisam luz filtrada."
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Clorofila absorve radiação eletromagnética.'?",
     "opcoes": {
-      "A": "Leaves get sun energy.",
-      "B": "Plants use light power.",
-      "C": "Nature creates solar fuel.",
-      "D": "Chlorophyll absorbs electromagnetic radiation."
+      "A": "Chlorophyll absorbs electromagnetic radiation.",
+      "B": "Leaves get sun energy.",
+      "C": "Plants use light power.",
+      "D": "Nature creates solar fuel."
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Herbaceous plants lack lignin.'",
     "opcoes": {
-      "A": "Plantas herbáceas carecem lignina.",
-      "B": "Mato verde não tem.",
-      "C": "Ervas moles são frágeis.",
-      "D": "Plantas pequenas têm fibras."
+      "A": "Mato verde não tem.",
+      "B": "Ervas moles são frágeis.",
+      "C": "Plantas pequenas têm fibras.",
+      "D": "Plantas herbáceas carecem lignina."
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz: 'Esporos garantem reprodução assexuada.'?",
     "opcoes": {
-      "A": "Seeds help plant life.",
-      "B": "Spores ensure asexual reproduction.",
+      "A": "Spores ensure asexual reproduction.",
+      "B": "Seeds help plant life.",
       "C": "Dust starts new plants.",
       "D": "Cells allow fast growth."
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario016 = [
+ 
   {
     "pergunta": "Traduza: 'Ancient conifers survive frosts.'",
     "opcoes": {
       "A": "Pinheiros velhos suportam frio.",
-      "B": "Árvores grandes resistem geada.",
-      "C": "Coníferas antigas sobrevivem geadas.",
+      "B": "Coníferas antigas sobrevivem geadas.",
+      "C": "Árvores grandes resistem geada.",
       "D": "Bosques antigos enfrentam inverno."
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Flores murcham após polinização.'?",
     "opcoes": {
       "A": "Plants die soon after.",
       "B": "Petals fall during summer.",
-      "C": "Buds dry very fast.",
-      "D": "Flowers wither after pollination."
+      "C": "Flowers wither after pollination.",
+      "D": "Buds dry very fast."
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Deciduous leaves change color.'",
@@ -6151,12 +6235,12 @@ const quizIntermediario8 = [
     "pergunta": "Como se diz: 'Solo fértil promove germinação.'?",
     "opcoes": {
       "A": "Good dirt helps plants.",
-      "B": "Fertile soil promotes germination.",
-      "C": "Rich earth brings life.",
-      "D": "Healthy ground helps seeds."
+      "B": "Rich earth brings life.",
+      "C": "Healthy ground helps seeds.",
+      "D": "Fertile soil promotes germination."
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Capillary action defy gravity.'",
@@ -6173,45 +6257,45 @@ const quizIntermediario8 = [
     "pergunta": "Como se diz: 'Trepadeiras alcançam dossel florestal.'?",
     "opcoes": {
       "A": "Plants climb for height.",
-      "B": "Ivy searches for light.",
-      "C": "Vines reach forest floor.",
-      "D": "Vines reach forest canopy."
+      "B": "Vines reach forest canopy.",
+      "C": "Ivy searches for light.",
+      "D": "Vines reach forest floor."
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Stomata regulate gas exchange.'",
     "opcoes": {
-      "A": "Estômatos regulam trocas gasosas.",
-      "B": "Células controlam saída oxigênio.",
+      "A": "Células controlam saída oxigênio.",
+      "B": "Estômatos regulam trocas gasosas.",
       "C": "Folhas alteram níveis ar.",
       "D": "Poros gerenciam entrada carbono."
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz: 'Rizomas estocam energia vital.'?",
     "opcoes": {
       "A": "Roots keep food safe.",
-      "B": "Rhizomes store vital energy.",
-      "C": "Underground stems save food.",
+      "B": "Underground stems save food.",
+      "C": "Rhizomes store vital energy.",
       "D": "Tubers hold plant energy."
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'Pollen causes allergic reactions.'",
     "opcoes": {
-      "A": "Pólen gera espirros constantes.",
-      "B": "Flores causam muita coceira.",
-      "C": "Pólen causa reações alérgicas.",
+      "A": "Pólen causa reações alérgicas.",
+      "B": "Pólen gera espirros constantes.",
+      "C": "Flores causam muita coceira.",
       "D": "Pó fino irrita nariz."
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz: 'Biodiversidade indica saúde ecossistema.'?",
@@ -6225,7 +6309,7 @@ const quizIntermediario8 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario9 = [
+const quizIntermediario017 = [
   {
     "pergunta": "Traduza: 'Endemic species face habitat loss.'",
     "opcoes": {
@@ -6335,7 +6419,10 @@ const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario018 = [
+  
   {
     "pergunta": "Traduza: 'Inflorescence attracts diverse insects.'",
     "opcoes": {
@@ -6447,7 +6534,7 @@ const quizIntermediario9 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario10 = [
+const quizIntermediario019 = [
   {
     "pergunta": "Traduza: 'Xylem conducts water upward.'",
     "opcoes": {
@@ -6557,7 +6644,10 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+const quizIntermediario020 = [
+  
   {
     "pergunta": "Traduza: 'Deciduous foliage turns vibrant.'",
     "opcoes": {
@@ -6679,720 +6769,720 @@ const quizIntermediario10 = [
 export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Conifers release microscopic pollen grains.",
-    "opcoes": ["sementes", "polen", "coniferas", "liberam", "flores", "graos", "pequenos", "microscopicos", "ventos", "de", "nas", "pólen", "grãos", "coníferas"],
     "numero": "1",
+    "pergunta": "Conifers release microscopic pollen grains.",
+    "opcoes": ["coníferas", "liberam", "grãos", "de", "pólen", "microscópicos", "sementes", "flores", "ventos", "nas"],
     "resposta_correta": "coníferas liberam grãos de pólen microscópicos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A fotossíntese converte energia solar.",
-    "opcoes": ["converts", "energy", "solar", "moonlight", "photosynthesis", "creates", "plants", "power", "the", "converte", "green", "sunlight"],
     "numero": "2",
+    "pergunta": "A fotossíntese converte energia solar.",
+    "opcoes": ["photosynthesis", "converts", "solar", "energy", "moonlight", "creates", "plants", "power"],
     "resposta_correta": "photosynthesis converts solar energy"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous trees shed autumn leaves.",
-    "opcoes": ["perdem", "folhas", "arvores", "as", "caducifolias", "no", "outono", "verao", "galhos", "secas", "árvores", "caducifólias"],
     "numero": "3",
+    "pergunta": "Deciduous trees shed autumn leaves.",
+    "opcoes": ["árvores", "caducifólias", "perdem", "folhas", "no", "outono", "verão", "galhos", "secas", "as"],
     "resposta_correta": "árvores caducifólias perdem folhas no outono"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Manguezais protegem ecossistemas costeiros.",
-    "opcoes": ["protect", "forests", "mangroves", "coastal", "rivers", "islands", "ecosystems", "wildlife", "ocean", "stabilize"],
     "numero": "4",
+    "pergunta": "Manguezais protegem ecossistemas costeiros.",
+    "opcoes": ["mangroves", "protect", "coastal", "ecosystems", "forests", "rivers", "islands", "ocean"],
     "resposta_correta": "mangroves protect coastal ecosystems"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Stomata regulate leaf gas exchange.",
-    "opcoes": ["trocas", "regulam", "gasosas", "estomatos", "foliares", "ar", "oxigenio", "plantas", "nas", "vapor", "estômatos"],
     "numero": "5",
+    "pergunta": "Stomata regulate leaf gas exchange.",
+    "opcoes": ["estômatos", "regulam", "trocas", "gasosas", "foliares", "ar", "plantas", "nas", "vapor"],
     "resposta_correta": "estômatos regulam trocas gasosas foliares"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Suculentas armazenam água em tecidos.",
-    "opcoes": ["store", "leaves", "succulents", "in", "water", "tissues", "dry", "roots", "stem", "internal", "desert"],
     "numero": "6",
+    "pergunta": "Suculentas armazenam água em tecidos.",
+    "opcoes": ["succulents", "store", "water", "in", "tissues", "leaves", "dry", "roots", "desert"],
     "resposta_correta": "succulents store water in tissues"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mycorrhizae enhance nutrient uptake efficiency.",
-    "opcoes": ["micorrizas", "aumentam", "eficiencia", "nutrientes", "absorcao", "de", "solo", "raizes", "da", "fungos", "micorrizas", "absorção", "eficiência"],
     "numero": "7",
+    "pergunta": "Mycorrhizae enhance nutrient uptake efficiency.",
+    "opcoes": ["micorrizas", "aumentam", "a", "eficiência", "da", "absorção", "de", "nutrientes", "solo", "raízes", "fungos", "crescimento"],
     "resposta_correta": "micorrizas aumentam a eficiência da absorção de nutrientes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Epífitas crescem sobre troncos úmidos.",
-    "opcoes": ["trees", "epiphytes", "on", "grow", "moist", "trunks", "bark", "moss", "high", "forest", "rain"],
     "numero": "8",
+    "pergunta": "Epífitas crescem sobre troncos úmidos.",
+    "opcoes": ["epiphytes", "grow", "on", "moist", "trunks", "trees", "bark", "moss", "forest"],
     "resposta_correta": "epiphytes grow on moist trunks"
   },
   {
-    "pergunta": "Endemic flora faces imminent extinction.",
     "questionType": "traduza a frase",
-    "opcoes": ["enfrenta", "extincao", "flora", "iminente", "rara", "perigo", "local", "natureza", "a", "endemica", "extinção", "iminente", "endêmica"],
     "numero": "9",
+    "pergunta": "Endemic flora faces imminent extinction.",
+    "opcoes": ["flora", "endêmica", "enfrenta", "extinção", "iminente", "rara", "perigo", "local", "natureza"],
     "resposta_correta": "flora endêmica enfrenta extinção iminente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Polinizadores sustentam a diversidade genética.",
-    "opcoes": ["pollinators", "sustain", "genetic", "diversity", "nature", "bees", "forest", "life", "maintain", "growth", "the"],
     "numero": "10",
+    "pergunta": "Polinizadores sustentam a diversidade genética.",
+    "opcoes": ["pollinators", "sustain", "the", "genetic", "diversity", "nature", "bees", "forest", "life"],
     "resposta_correta": "pollinators sustain the genetic diversity"
   }
 ];
 export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Xylem conducts raw sap upwards.",
-    "opcoes": ["conduz", "seiva", "bruta", "xilema", "o", "para", "cima", "folhas", "tronco", "raizes", "água", "xilema", "seiva"],
     "numero": "1",
+    "pergunta": "Xylem conducts raw sap upwards.",
+    "opcoes": ["o", "xilema", "conduz", "seiva", "bruta", "para", "cima", "folhas", "tronco", "raízes", "água"],
     "resposta_correta": "o xilema conduz seiva bruta para cima"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Angiospermas produzem sementes protegidas.",
-    "opcoes": ["angiosperms", "produce", "protected", "seeds", "encased", "fruits", "flowers", "create", "inside", "growing", "seeds"],
     "numero": "2",
+    "pergunta": "Angiospermas produzem sementes protegidas.",
+    "opcoes": ["angiosperms", "produce", "protected", "seeds", "encased", "fruits", "flowers", "create"],
     "resposta_correta": "angiosperms produce protected seeds"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Stomata facilitate foliar gas exchange.",
-    "opcoes": ["estômatos", "facilitam", "trocas", "gasosas", "foliares", "ar", "oxigênio", "poros", "nas", "plantas", "trocas", "estômatos"],
     "numero": "3",
+    "pergunta": "Stomata facilitate foliar gas exchange.",
+    "opcoes": ["estômatos", "facilitam", "trocas", "gasosas", "foliares", "ar", "oxigênio", "poros", "nas"],
     "resposta_correta": "estômatos facilitam trocas gasosas foliares"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pistils receive airborne pollen grains.",
-    "opcoes": ["pistils", "receive", "airborne", "pollen", "grains", "flowers", "wind", "dust", "collect", "stigma", "pollen"],
     "numero": "4",
+    "pergunta": "Pistils receive airborne pollen grains.",
+    "opcoes": ["pistils", "receive", "airborne", "pollen", "grains", "flowers", "wind", "dust", "stigma"],
     "resposta_correta": "pistils receive airborne pollen grains"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Rizomas garantem sobrevivência em invernos.",
-    "opcoes": ["rhizomes", "ensure", "survival", "in", "winters", "roots", "cold", "keep", "plants", "growing", "winters"],
     "numero": "5",
+    "pergunta": "Rizomas garantem sobrevivência em invernos.",
+    "opcoes": ["rhizomes", "ensure", "survival", "in", "winters", "roots", "cold", "keep", "growing"],
     "resposta_correta": "rhizomes ensure survival in winters"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Chlorophyll absorbs red light waves.",
-    "opcoes": ["clorofila", "absorve", "ondas", "de", "luz", "vermelha", "solar", "verde", "energia", "cor", "luz", "ondas"],
     "numero": "6",
+    "pergunta": "Chlorophyll absorbs red light waves.",
+    "opcoes": ["clorofila", "absorve", "ondas", "de", "luz", "vermelha", "solar", "verde", "energia", "cor"],
     "resposta_correta": "clorofila absorve ondas de luz vermelha"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Herbaceous stems lack structural lignin.",
-    "opcoes": ["stems", "lack", "structural", "lignin", "herbaceous", "wood", "fiber", "plants", "soft", "no", "stems"],
     "numero": "7",
+    "pergunta": "Herbaceous stems lack structural lignin.",
+    "opcoes": ["herbaceous", "stems", "lack", "structural", "lignin", "wood", "fiber", "plants", "soft"],
     "resposta_correta": "herbaceous stems lack structural lignin"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mudas requerem solos ricos em nitrogênio.",
-    "opcoes": ["saplings", "require", "nitrogen-rich", "soils", "plants", "need", "earth", "dirt", "fertilizer", "growth", "soils"],
     "numero": "8",
+    "pergunta": "Mudas requerem solos ricos em nitrogênio.",
+    "opcoes": ["saplings", "require", "nitrogen-rich", "soils", "plants", "need", "earth", "fertilizer", "growth"],
     "resposta_correta": "saplings require nitrogen-rich soils"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Capillary action defies gravity forces.",
-    "opcoes": ["ação", "capilar", "desafia", "forças", "da", "gravidade", "água", "subida", "pressão", "física", "ação", "forças"],
     "numero": "9",
+    "pergunta": "Capillary action defies gravity forces.",
+    "opcoes": ["ação", "capilar", "desafia", "forças", "da", "gravidade", "água", "subida", "pressão", "física"],
     "resposta_correta": "ação capilar desafia forças da gravidade"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Inflorescências atraem diversos polinizadores nativos.",
-    "opcoes": ["inflorescences", "attract", "diverse", "native", "pollinators", "bees", "flowers", "birds", "many", "local", "pollinators"],
     "numero": "10",
+    "pergunta": "Inflorescências atraem diversos polinizadores nativos.",
+    "opcoes": ["inflorescences", "attract", "diverse", "native", "pollinators", "bees", "flowers", "birds", "local"],
     "resposta_correta": "inflorescences attract diverse native pollinators"
   }
 ];
 export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Phototropism directs growth toward light.",
-    "opcoes": ["direciona", "crescimento", "para", "a", "luz", "fototropismo", "o", "plantas", "folhas", "solar", "verde", "luz", "crescimento"],
     "numero": "1",
+    "pergunta": "Phototropism directs growth toward light.",
+    "opcoes": ["o", "fototropismo", "direciona", "o", "crescimento", "para", "a", "luz", "plantas", "folhas", "solar", "verde"],
     "resposta_correta": "o fototropismo direciona o crescimento para a luz"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Espécies invasoras ameaçam ecossistemas locais.",
-    "opcoes": ["invasive", "species", "threaten", "local", "ecosystems", "nature", "plants", "wildlife", "danger", "forests", "species"],
     "numero": "2",
+    "pergunta": "Espécies invasoras ameaçam ecossistemas locais.",
+    "opcoes": ["invasive", "species", "threaten", "local", "ecosystems", "nature", "plants", "wildlife", "danger"],
     "resposta_correta": "invasive species threaten local ecosystems"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Conifers bear cones instead flowers.",
-    "opcoes": ["coníferas", "produzem", "cones", "em", "vez", "de", "flores", "sementes", "pinheiros", "folhas", "nas", "coníferas", "de"],
     "numero": "3",
-    "resposta_correta": "coníferas produzem cones em vez de flores"
+    "pergunta": "Conifers bear cones instead flowers.",
+    "opcoes": ["coníferas", "produzem", "cones", "em", "vez", "de", "flores", "sementes", "pinheiros", "folhas", "nas"],
+    "resposta_correta": "coníferas produzzem cones em vez de flores"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Flores perenes florescem anualmente.",
-    "opcoes": ["perennial", "flowers", "bloom", "annually", "every", "year", "growth", "spring", "plants", "nature", "flowers"],
     "numero": "4",
+    "pergunta": "Flores perenes florescem anualmente.",
+    "opcoes": ["perennial", "flowers", "bloom", "annually", "every", "year", "growth", "spring"],
     "resposta_correta": "perennial flowers bloom annually"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous trees shed foliage seasonally.",
-    "opcoes": ["árvores", "caducifólias", "perdem", "folhagem", "sazonalmente", "as", "no", "inverno", "outono", "bosques", "folhagem", "árvores"],
     "numero": "5",
+    "pergunta": "Deciduous trees shed foliage seasonally.",
+    "opcoes": ["as", "árvores", "caducifólias", "perdem", "folhagem", "sazonalmente", "no", "inverno", "outono", "bosques"],
     "resposta_correta": "as árvores caducifólias perdem folhagem sazonalmente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Succulent leaves store vital moisture.",
-    "opcoes": ["folhas", "suculentas", "armazenam", "umidade", "vital", "água", "nas", "plantas", "deserto", "as", "umidade", "folhas"],
     "numero": "6",
+    "pergunta": "Succulent leaves store vital moisture.",
+    "opcoes": ["folhas", "suculentas", "armazenam", "umidade", "vital", "água", "nas", "plantas", "deserto"],
     "resposta_correta": "folhas suculentas armazenam umidade vital"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mangroves stabilize muddy coastal shorelines.",
-    "opcoes": ["mangroves", "stabilize", "muddy", "coastal", "shorelines", "trees", "ocean", "protect", "sand", "nature", "shorelines"],
     "numero": "7",
+    "pergunta": "Mangroves stabilize muddy coastal shorelines.",
+    "opcoes": ["mangroves", "stabilize", "muddy", "coastal", "shorelines", "trees", "ocean", "protect", "sand"],
     "resposta_correta": "mangroves stabilize muddy coastal shorelines"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Líquens indicam qualidade ar atmosférico.",
-    "opcoes": ["lichens", "indicate", "atmospheric", "air", "quality", "pollution", "moss", "nature", "clean", "smoke", "air"],
     "numero": "8",
+    "pergunta": "Líquens indicam qualidade ar atmosférico.",
+    "opcoes": ["lichens", "indicate", "atmospheric", "air", "quality", "pollution", "moss", "nature", "clean"],
     "resposta_correta": "lichens indicate atmospheric air quality"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Evergreen needles resist extreme frosts.",
-    "opcoes": ["agulhas", "perenes", "resistem", "a", "geadas", "extremas", "frio", "neve", "pinheiros", "nas", "geadas", "agulhas"],
     "numero": "9",
+    "pergunta": "Evergreen needles resist extreme frosts.",
+    "opcoes": ["agulhas", "perenes", "resistem", "a", "geadas", "extremas", "frio", "neve", "pinheiros", "nas"],
     "resposta_correta": "agulhas perenes resistem a geadas extremas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Fungi decompose fallen organic matter.",
-    "opcoes": ["fungi", "decompose", "fallen", "organic", "matter", "mushrooms", "soil", "clean", "debris", "nature", "matter"],
     "numero": "10",
+    "pergunta": "Fungi decompose fallen organic matter.",
+    "opcoes": ["fungi", "decompose", "fallen", "organic", "matter", "mushrooms", "soil", "clean", "debris"],
     "resposta_correta": "fungi decompose fallen organic matter"
   }
 ];
 export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Epiphytes absorb moisture from air.",
-    "opcoes": ["epífitas", "absorvem", "umidade", "do", "ar", "plantas", "chuva", "troncos", "nas", "florestas", "umidade", "epífitas", "ar"],
     "numero": "1",
+    "pergunta": "Epiphytes absorb moisture from air.",
+    "opcoes": ["epífitas", "absorvem", "umidade", "do", "ar", "plantas", "chuva", "troncos", "nas"],
     "resposta_correta": "epífitas absorvem umidade do ar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As raízes fixam plantas firmemente.",
-    "opcoes": ["roots", "fix", "plants", "firmly", "stems", "soil", "hold", "earth", "strongly", "deeply", "roots", "plants"],
     "numero": "2",
+    "pergunta": "As raízes fixam plantas firmemente.",
+    "opcoes": ["roots", "fix", "plants", "firmly", "soil", "hold", "earth", "deeply"],
     "resposta_correta": "roots fix plants firmly"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Stomata regulate leaf transpiration rates.",
-    "opcoes": ["estômatos", "regulam", "taxas", "de", "transpiração", "foliar", "ar", "água", "nas", "folhas", "taxas", "estômatos", "de"],
     "numero": "3",
+    "pergunta": "Stomata regulate leaf transpiration rates.",
+    "opcoes": ["estômatos", "regulam", "taxas", "de", "transpiração", "foliar", "ar", "água", "nas", "folhas"],
     "resposta_correta": "estômatos regulam taxas de transpiração foliar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pólen viaja através do vento.",
-    "opcoes": ["pollen", "travels", "through", "the", "wind", "air", "bees", "flowers", "moves", "fast", "pollen", "the"],
     "numero": "4",
+    "pergunta": "Pólen viaja através do vento.",
+    "opcoes": ["pollen", "travels", "through", "the", "wind", "air", "bees", "flowers", "moves"],
     "resposta_correta": "pollen travels through the wind"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Photosynthesis releases oxygen into atmosphere.",
-    "opcoes": ["fotossíntese", "libera", "oxigênio", "na", "atmosfera", "plantas", "ar", "luz", "produz", "verde", "oxigênio", "atmosfera"],
     "numero": "5",
+    "pergunta": "Photosynthesis releases oxygen into atmosphere.",
+    "opcoes": ["fotossíntese", "libera", "oxigênio", "na", "atmosfera", "plantas", "ar", "luz", "produz"],
     "resposta_correta": "fotossíntese libera oxigênio na atmosfera"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Saplings require nutrient-rich organic soil.",
-    "opcoes": ["mudas", "requerem", "solo", "orgânico", "rico", "em", "nutrientes", "terra", "plantas", "crescer", "solo", "nutrientes"],
     "numero": "6",
+    "pergunta": "Saplings require nutrient-rich organic soil.",
+    "opcoes": ["mudas", "requerem", "solo", "orgânico", "rico", "em", "nutrientes", "terra", "plantas", "crescer", "adubo"],
     "resposta_correta": "mudas requerem solo orgânico rico em nutrientes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Vascular tissues conduct vital fluids.",
-    "opcoes": ["tissues", "conduct", "vital", "fluids", "vascular", "water", "plants", "stems", "move", "internal", "tissues", "fluids"],
     "numero": "7",
+    "pergunta": "Vascular tissues conduct vital fluids.",
+    "opcoes": ["vascular", "tissues", "conduct", "vital", "fluids", "water", "stems", "move", "internal"],
     "resposta_correta": "vascular tissues conduct vital fluids"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Angiospermas produzem flores muito coloridas.",
-    "opcoes": ["angiosperms", "produce", "very", "colorful", "flowers", "plants", "seeds", "bright", "create", "nature", "flowers", "very"],
     "numero": "8",
+    "pergunta": "Angiospermas produzem flores muito coloridas.",
+    "opcoes": ["angiosperms", "produce", "very", "colorful", "flowers", "bright", "create", "nature", "seeds"],
     "resposta_correta": "angiosperms produce very colorful flowers"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous foliage provides natural mulch.",
-    "opcoes": ["folhagem", "caducifólia", "fornece", "cobertura", "morta", "natural", "solo", "folhas", "adubo", "mata", "folhagem", "natural"],
     "numero": "9",
+    "pergunta": "Deciduous foliage provides natural mulch.",
+    "opcoes": ["folhagem", "caducifólia", "fornece", "cobertura", "morta", "natural", "solo", "folhas", "adubo", "mata"],
     "resposta_correta": "folhagem caducifólia fornece cobertura morta natural"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Chlorophyll captures solar radiation efficiently.",
-    "opcoes": ["clorofila", "captura", "radiação", "solar", "eficientemente", "luz", "energia", "verde", "folhas", "absorve", "radiação", "clorofila"],
     "numero": "10",
+    "pergunta": "Chlorophyll captures solar radiation efficiently.",
+    "opcoes": ["clorofila", "captura", "radiação", "solar", "eficientemente", "luz", "energia", "verde", "absorve"],
     "resposta_correta": "clorofila captura radiação solar eficientemente"
   }
-];
+]; 
 export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Xylem transports water from roots.",
-    "opcoes": ["xilema", "transporta", "água", "das", "raízes", "solo", "caule", "subir", "folhas", "move", "raízes", "xilema", "água"],
     "numero": "1",
+    "pergunta": "Xylem transports water from roots.",
+    "opcoes": ["xilema", "transporta", "água", "das", "raízes", "solo", "caule", "subir", "folhas"],
     "resposta_correta": "xilema transporta água das raízes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Esporos garantem a reprodução assexuada.",
-    "opcoes": ["spores", "ensure", "asexual", "reproduction", "seeds", "growth", "plants", "life", "guarantee", "the", "spores", "reproduction"],
     "numero": "2",
+    "pergunta": "Esporos garantem a reprodução assexuada.",
+    "opcoes": ["spores", "ensure", "the", "asexual", "reproduction", "seeds", "growth", "plants", "guarantee"],
     "resposta_correta": "spores ensure the asexual reproduction"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Succulents possess thick water-storing leaves.",
-    "opcoes": ["suculentas", "possuem", "folhas", "grossas", "que", "armazenam", "água", "cactos", "plantas", "verdes", "folhas", "água", "suculentas"],
     "numero": "3",
+    "pergunta": "Succulents possess thick water-storing leaves.",
+    "opcoes": ["suculentas", "possuem", "folhas", "grossas", "que", "armazenam", "água", "cactos", "verdes", "plantas", "deserto"],
     "resposta_correta": "suculentas possuem folhas grossas que armazenam água"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pollinators sustain diverse forest ecosystems.",
-    "opcoes": ["pollinators", "sustain", "diverse", "forest", "ecosystems", "nature", "bees", "wildlife", "support", "jungle", "ecosystems", "pollinators"],
     "numero": "4",
+    "pergunta": "Pollinators sustain diverse forest ecosystems.",
+    "opcoes": ["pollinators", "sustain", "diverse", "forest", "ecosystems", "nature", "bees", "wildlife", "support"],
     "resposta_correta": "pollinators sustain diverse forest ecosystems"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Manguezais filtram sedimentos orgânicos finos.",
-    "opcoes": ["mangroves", "filter", "fine", "organic", "sediments", "trees", "mud", "coastal", "clean", "dirt", "sediments", "organic"],
     "numero": "5",
+    "pergunta": "Manguezais filtram sedimentos orgânicos finos.",
+    "opcoes": ["mangroves", "filter", "fine", "organic", "sediments", "trees", "mud", "coastal", "clean"],
     "resposta_correta": "mangroves filter fine organic sediments"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Rhizomes facilitate lateral vegetative spread.",
-    "opcoes": ["rizomas", "facilitam", "propagação", "vegetativa", "lateral", "raízes", "solo", "crescer", "plantas", "larga", "rizomas", "lateral"],
     "numero": "6",
+    "pergunta": "Rhizomes facilitate lateral vegetative spread.",
+    "opcoes": ["rizomas", "facilitam", "propagação", "vegetativa", "lateral", "raízes", "solo", "crescer", "larga"],
     "resposta_correta": "rizomas facilitam propagação vegetativa lateral"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous canopies provide seasonal shade.",
-    "opcoes": ["copas", "caducifólias", "oferecem", "sombra", "sazonal", "árvores", "folhas", "frescor", "natureza", "verão", "copas", "sombra"],
     "numero": "7",
+    "pergunta": "Deciduous canopies provide seasonal shade.",
+    "opcoes": ["copas", "caducifólias", "oferecem", "sombra", "sazonal", "árvores", "folhas", "frescor", "natureza"],
     "resposta_correta": "copas caducifólias oferecem sombra sazonal"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Lichen symbiotic relationship resists desiccation.",
-    "opcoes": ["lichen", "symbiotic", "relationship", "resists", "desiccation", "fungi", "algae", "nature", "dryness", "life", "lichen", "resists"],
     "numero": "8",
+    "pergunta": "Lichen symbiotic relationship resists desiccation.",
+    "opcoes": ["lichen", "symbiotic", "relationship", "resists", "desiccation", "fungi", "algae", "dryness", "life"],
     "resposta_correta": "lichen symbiotic relationship resists desiccation"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Inflorescências produzem néctar altamente nutritivo.",
-    "opcoes": ["inflorescences", "produce", "highly", "nutritious", "nectar", "flowers", "bees", "sweet", "food", "liquid", "nectar", "highly"],
     "numero": "9",
+    "pergunta": "Inflorescências produzem néctar altamente nutritivo.",
+    "opcoes": ["inflorescences", "produce", "highly", "nutritious", "nectar", "flowers", "bees", "sweet", "food"],
     "resposta_correta": "inflorescences produce highly nutritious nectar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Phototropism maximizes light energy absorption.",
-    "opcoes": ["fototropismo", "maximiza", "absorção", "de", "energia", "luminosa", "luz", "solar", "plantas", "verde", "absorção", "de", "energia"],
     "numero": "10",
+    "pergunta": "Phototropism maximizes light energy absorption.",
+    "opcoes": ["fototropismo", "maximiza", "absorção", "de", "energia", "luminosa", "luz", "solar", "plantas", "verde"],
     "resposta_correta": "fototropismo maximiza absorção de energia luminosa"
   }
 ];
 export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Epiphytes derive nutrients from rainfall.",
-    "opcoes": ["epífitas", "derivam", "nutrientes", "da", "água", "da", "chuva", "plantas", "ar", "troncos", "absorvem", "nutrientes", "da"],
     "numero": "1",
+    "pergunta": "Epiphytes derive nutrients from rainfall.",
+    "opcoes": ["epífitas", "derivam", "nutrientes", "da", "água", "da", "chuva", "plantas", "ar", "troncos", "absorvem"],
     "resposta_correta": "epífitas derivam nutrientes da água da chuva"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A polinização cruzada aumenta a variabilidade.",
-    "opcoes": ["cross-pollination", "increases", "the", "variability", "nature", "bees", "plants", "diversity", "genetic", "growth", "the", "variability"],
     "numero": "2",
+    "pergunta": "A polinização cruzada aumenta a variabilidade.",
+    "opcoes": ["cross-pollination", "increases", "the", "variability", "nature", "bees", "plants", "diversity"],
     "resposta_correta": "cross-pollination increases the variability"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Stomata facilitate carbon dioxide intake.",
-    "opcoes": ["estômatos", "facilitam", "entrada", "de", "dióxido", "de", "carbono", "ar", "folhas", "respiração", "gás", "dióxido", "de"],
     "numero": "3",
+    "pergunta": "Stomata facilitate carbon dioxide intake.",
+    "opcoes": ["estômatos", "facilitam", "entrada", "de", "dióxido", "de", "carbono", "ar", "folhas", "respiração", "gás"],
     "resposta_correta": "estômatos facilitam entrada de dióxido de carbono"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Evergreen forests maintain dense canopies.",
-    "opcoes": ["forests", "maintain", "dense", "canopies", "evergreen", "trees", "green", "leaves", "shade", "jungle", "forests", "maintain"],
     "numero": "4",
+    "pergunta": "Evergreen forests maintain dense canopies.",
+    "opcoes": ["evergreen", "forests", "maintain", "dense", "canopies", "trees", "green", "leaves", "shade"],
     "resposta_correta": "evergreen forests maintain dense canopies"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Manguezais estabilizam o solo lamacento.",
-    "opcoes": ["mangroves", "stabilize", "the", "muddy", "soil", "trees", "ocean", "coastal", "protect", "earth", "the", "soil"],
     "numero": "5",
+    "pergunta": "Manguezais estabilizam o solo lamacento.",
+    "opcoes": ["mangroves", "stabilize", "the", "muddy", "soil", "trees", "ocean", "coastal", "protect"],
     "resposta_correta": "mangroves stabilize the muddy soil"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Conifers possess needle-like protective leaves.",
-    "opcoes": ["coníferas", "possuem", "folhas", "protetoras em forma", "de", "agulha", "pinheiros", "galhos", "verdes", "frio", "de", "agulha", "folhas"],
     "numero": "6",
+    "pergunta": "Conifers possess needle-like protective leaves.",
+    "opcoes": ["coníferas", "possuem", "folhas", "protetoras em forma", "de", "agulha", "pinheiros", "galhos", "verdes", "frio"],
     "resposta_correta": "coníferas possuem folhas protetoras em forma de agulha"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Capillary action moves liquids upward.",
-    "opcoes": ["action", "moves", "liquids", "upward", "capillary", "water", "gravity", "rise", "flow", "plants", "liquids", "moves"],
     "numero": "7",
+    "pergunta": "Capillary action moves liquids upward.",
+    "opcoes": ["capillary", "action", "moves", "liquids", "upward", "water", "gravity", "rise", "flow"],
     "resposta_correta": "capillary action moves liquids upward"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Fungos decompõem detritos orgânicos complexos.",
-    "opcoes": ["fungi", "decompose", "complex", "organic", "debris", "mushrooms", "matter", "soil", "break", "nature", "debris", "organic"],
     "numero": "8",
+    "pergunta": "Fungos decompõem detritos orgânicos complexos.",
+    "opcoes": ["fungi", "decompose", "complex", "organic", "debris", "mushrooms", "matter", "soil", "break"],
     "resposta_correta": "fungi decompose complex organic debris"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Herbaceous plants lack woody stems.",
-    "opcoes": ["plantas", "herbáceas", "carecem", "de", "caules", "lenhosos", "mato", "verde", "fibras", "moles", "de", "caules", "plantas"],
     "numero": "9",
+    "pergunta": "Herbaceous plants lack woody stems.",
+    "opcoes": ["plantas", "herbáceas", "carecem", "de", "caules", "lenhosos", "mato", "verde", "fibras", "moles"],
     "resposta_correta": "plantas herbáceas carecem de caules lenhosos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Phototropism ensures optimal light exposure.",
-    "opcoes": ["phototropism", "ensures", "optimal", "light", "exposure", "plants", "sun", "growth", "needs", "green", "optimal", "exposure"],
     "numero": "10",
+    "pergunta": "Phototropism ensures optimal light exposure.",
+    "opcoes": ["phototropism", "ensures", "optimal", "light", "exposure", "plants", "sun", "growth", "needs"],
     "resposta_correta": "phototropism ensures optimal light exposure"
   }
 ];
 export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pistils capture airborne pollen grains.",
-    "opcoes": ["pistilos", "capturam", "grãos", "de", "pólen", "suspensos", "no", "ar", "flores", "vento", "pó", "pólen", "grãos", "no"],
     "numero": "1",
+    "pergunta": "Pistils capture airborne pollen grains.",
+    "opcoes": ["pistilos", "capturam", "grãos", "de", "pólen", "suspensos", "no", "ar", "flores", "vento", "pó", "folhas"],
     "resposta_correta": "pistilos capturam grãos de pólen suspensos no ar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As suculentas toleram aridez extrema.",
-    "opcoes": ["succulents", "tolerate", "extreme", "aridity", "cacti", "dryness", "heat", "desert", "weather", "survive", "aridity", "succulents"],
     "numero": "2",
+    "pergunta": "As suculentas toleram aridez extrema.",
+    "opcoes": ["succulents", "tolerate", "extreme", "aridity", "cacti", "dryness", "heat", "desert"],
     "resposta_correta": "succulents tolerate extreme aridity"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mycorrhizae enhance plant nutrient absorption.",
-    "opcoes": ["micorrizas", "aumentam", "a", "absorção", "de", "nutrientes", "vegetais", "raízes", "fungos", "solo", "absorção", "de", "micorrizas"],
     "numero": "3",
+    "pergunta": "Mycorrhizae enhance plant nutrient absorption.",
+    "opcoes": ["micorrizas", "aumentam", "a", "absorção", "de", "nutrientes", "vegetais", "raízes", "fungos", "solo", "água"],
     "resposta_correta": "micorrizas aumentam a absorção de nutrientes vegetais"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Vascular bundles transport essential minerals.",
-    "opcoes": ["bundles", "transport", "essential", "minerals", "vascular", "tubes", "water", "plants", "stems", "move", "minerals", "vascular"],
     "numero": "4",
+    "pergunta": "Feixes vasculares transportam minerais essenciais.",
+    "opcoes": ["vascular", "bundles", "transport", "essential", "minerals", "tubes", "water", "plants", "stems"],
     "resposta_correta": "vascular bundles transport essential minerals"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mudas precisam de luz filtrada.",
-    "opcoes": ["saplings", "need", "filtered", "light", "plants", "sunlight", "shade", "require", "growth", "indirect", "light", "saplings"],
     "numero": "5",
-    "resposta_correta": "saplings need filtered light"
+    "pergunta": "Saplings need filtered light.",
+    "opcoes": ["mudas", "precisam", "de", "luz", "filtrada", "plantas", "sol", "sombra", "crescimento"],
+    "resposta_correta": "mudas precisam de luz filtrada"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Rhizomes ensure winter plant survival.",
-    "opcoes": ["rizomas", "garantem", "a", "sobrevivência", "invernal", "das", "plantas", "raízes", "frio", "terra", "plantas", "sobrevivência", "a"],
     "numero": "6",
+    "pergunta": "Rhizomes ensure winter plant survival.",
+    "opcoes": ["rizomas", "garantem", "a", "sobrevivência", "invernal", "das", "plantas", "raízes", "frio", "terra", "vida"],
     "resposta_correta": "rizomas garantem a sobrevivência invernal das plantas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous leaves undergo color changes.",
-    "opcoes": ["leaves", "undergo", "color", "changes", "deciduous", "autumn", "fall", "turn", "red", "yellow", "leaves", "changes"],
     "numero": "7",
+    "pergunta": "Folhas caducifólias passam por mudanças de cor.",
+    "opcoes": ["deciduous", "leaves", "undergo", "color", "changes", "autumn", "fall", "turn", "red"],
     "resposta_correta": "deciduous leaves undergo color changes"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A clorofila reflete luz verde.",
-    "opcoes": ["chlorophyll", "reflects", "green", "light", "leaves", "absorbs", "color", "sun", "plants", "power", "light", "chlorophyll"],
     "numero": "8",
+    "pergunta": "A clorofila reflete luz verde.",
+    "opcoes": ["chlorophyll", "reflects", "green", "light", "leaves", "absorbs", "color", "sun"],
     "resposta_correta": "chlorophyll reflects green light"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mangrove roots stabilize coastal mud.",
-    "opcoes": ["raízes", "de", "mangue", "estabilizam", "lama", "costeira", "árvores", "areia", "oceanos", "terra", "lama", "de", "raízes"],
     "numero": "9",
+    "pergunta": "Mangrove roots stabilize coastal mud.",
+    "opcoes": ["raízes", "de", "mangue", "estabilizam", "lama", "costeira", "árvores", "areia", "oceanos", "terra"],
     "resposta_correta": "raízes de mangue estabilizam lama costeira"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pollinators facilitate plant genetic exchange.",
-    "opcoes": ["pollinators", "facilitate", "plant", "genetic", "exchange", "bees", "seeds", "life", "breeding", "nature", "exchange", "plant"],
     "numero": "10",
+    "pergunta": "Polinizadores facilitam a troca genética vegetal.",
+    "opcoes": ["pollinators", "facilitate", "plant", "genetic", "exchange", "bees", "seeds", "life", "breeding"],
     "resposta_correta": "pollinators facilitate plant genetic exchange"
   }
 ];
 export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Stomata regulate foliar gas exchange.",
-    "opcoes": ["estômatos", "regulam", "trocas", "gasosas", "foliares", "ar", "oxigênio", "poros", "plantas", "nas", "foliares", "trocas", "estômatos"],
     "numero": "1",
+    "pergunta": "Stomata regulate foliar gas exchange.",
+    "opcoes": ["estômatos", "regulam", "trocas", "gasosas", "foliares", "ar", "oxigênio", "poros", "plantas"],
     "resposta_correta": "estômatos regulam trocas gasosas foliares"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "As coníferas liberam pólen microscópico.",
-    "opcoes": ["conifers", "release", "microscopic", "pollen", "seeds", "dust", "trees", "small", "produce", "forest", "pollen", "microscopic"],
     "numero": "2",
+    "pergunta": "As coníferas liberam pólen microscópico.",
+    "opcoes": ["conifers", "release", "microscopic", "pollen", "seeds", "dust", "trees", "produce"],
     "resposta_correta": "conifers release microscopic pollen"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Capillary action defies gravity forces.",
-    "opcoes": ["ação", "capilar", "desafia", "forças", "da", "gravidade", "água", "subida", "pressão", "física", "ação", "forças", "da"],
     "numero": "3",
+    "pergunta": "Capillary action defies gravity forces.",
+    "opcoes": ["ação", "capilar", "desafia", "forças", "da", "gravidade", "água", "subida", "pressão", "física"],
     "resposta_correta": "ação capilar desafia forças da gravidade"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Saplings require nutrient-rich organic soils.",
-    "opcoes": ["saplings", "require", "nutrient-rich", "organic", "soils", "plants", "need", "earth", "dirt", "fertilizer", "soils", "organic"],
     "numero": "4",
+    "pergunta": "Mudas requerem solos orgânicos ricos em nutrientes.",
+    "opcoes": ["saplings", "require", "nutrient-rich", "organic", "soils", "plants", "need", "earth", "fertilizer"],
     "resposta_correta": "saplings require nutrient-rich organic soils"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Líquens colonizam superfícies rochosas áridas.",
-    "opcoes": ["lichens", "colonize", "arid", "rocky", "surfaces", "moss", "grow", "stones", "dry", "nature", "surfaces", "rocky"],
     "numero": "5",
-    "resposta_correta": "lichens colonize arid rocky surfaces"
+    "pergunta": "Lichens colonize arid rocky surfaces.",
+    "opcoes": ["líquens", "colonizam", "superfícies", "rochosas", "áridas", "musgo", "pedras", "natureza", "crescem"],
+    "resposta_correta": "líquens colonizam superfícies rochosas áridas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Angiosperms produce encased protected seeds.",
-    "opcoes": ["angiospermas", "produzem", "sementes", "protegidas", "encapsuladas", "flores", "frutos", "criam", "dentro", "folhas", "sementes", "protegidas"],
     "numero": "6",
-    "resposta_correta": "angiospermas produzem sementes encapsuladas protegidas"
+    "pergunta": "Angiospermas produzem sementes encapsuladas protegidas.",
+    "opcoes": ["angiosperms", "produce", "encased", "protected", "seeds", "flowers", "fruits", "create", "leaves"],
+    "resposta_correta": "angiosperms produce encased protected seeds"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Chlorophyll absorbs specific light wavelengths.",
-    "opcoes": ["clorofila", "absorve", "comprimentos", "de", "onda", "luminosos", "específicos", "luz", "energia", "cor", "comprimentos", "de", "onda"],
     "numero": "7",
+    "pergunta": "Chlorophyll absorbs specific light wavelengths.",
+    "opcoes": ["clorofila", "absorve", "comprimentos", "de", "onda", "luminosos", "específicos", "luz", "energia", "cor", "solar"],
     "resposta_correta": "clorofila absorve comprimentos de onda luminosos específicos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Herbaceous stems lack structural lignin.",
-    "opcoes": ["stems", "lack", "structural", "lignin", "herbaceous", "wood", "fiber", "plants", "soft", "no", "herbaceous", "stems"],
     "numero": "8",
+    "pergunta": "Caules herbáceos carecem de lignina estrutural.",
+    "opcoes": ["herbaceous", "stems", "lack", "structural", "lignin", "wood", "fiber", "plants", "soft"],
     "resposta_correta": "herbaceous stems lack structural lignin"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Inflorescências atraem diversos polinizadores locais.",
-    "opcoes": ["inflorescences", "attract", "diverse", "local", "pollinators", "bees", "flowers", "birds", "many", "nature", "pollinators", "diverse"],
     "numero": "9",
-    "resposta_correta": "inflorescences attract diverse local pollinators"
+    "pergunta": "Inflorescences attract diverse local pollinators.",
+    "opcoes": ["inflorescências", "atraem", "diversos", "polinizadores", "locais", "abelhas", "flores", "pássaros", "natureza"],
+    "resposta_correta": "inflorescências atraem diversos polinizadores locais"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous canopies provide seasonal shade.",
-    "opcoes": ["copas", "caducifólias", "oferecem", "sombra", "sazonal", "árvores", "folhas", "frescor", "mata", "verão", "copas", "sazonal"],
     "numero": "10",
-    "resposta_correta": "copas caducifólias oferecem sombra sazonal"
+    "pergunta": "Copas caducifólias oferecem sombra sazonal.",
+    "opcoes": ["deciduous", "canopies", "provide", "seasonal", "shade", "trees", "leaves", "summer", "coolness"],
+    "resposta_correta": "deciduous canopies provide seasonal shade"
   }
 ];
 export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Epiphytes flourish in humid environments.",
-    "opcoes": ["epífitas", "florescem", "em", "ambientes", "úmidos", "plantas", "nas", "matas", "florestas", "tropicais", "ambientes", "úmidos", "epífitas"],
     "numero": "1",
+    "pergunta": "Epiphytes flourish in humid environments.",
+    "opcoes": ["epífitas", "florescem", "em", "ambientes", "úmidos", "plantas", "nas", "matas", "florestas"],
     "resposta_correta": "epífitas florescem em ambientes úmidos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A fotossíntese converte radiação solar.",
-    "opcoes": ["photosynthesis", "converts", "solar", "radiation", "light", "energy", "sun", "plants", "power", "nature", "solar", "radiation"],
     "numero": "2",
+    "pergunta": "A fotossíntese converte radiação solar.",
+    "opcoes": ["photosynthesis", "converts", "solar", "radiation", "light", "energy", "sun", "plants"],
     "resposta_correta": "photosynthesis converts solar radiation"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Vascular tissues facilitate fluid transport.",
-    "opcoes": ["tecidos", "vasculares", "facilitam", "transporte", "de", "fluidos", "plantas", "água", "internos", "canais", "facilitam", "de", "fluidos"],
     "numero": "3",
-    "resposta_correta": "tecidos vasculares facilitam transporte de fluidos"
+    "pergunta": "Tecidos vasculares facilitam o transporte de fluidos.",
+    "opcoes": ["vascular", "tissues", "facilitate", "fluid", "transport", "plants", "water", "internal", "channels"],
+    "resposta_correta": "vascular tissues facilitate fluid transport"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mycorrhizae improve seedling survival rates.",
-    "opcoes": ["mycorrhizae", "improve", "seedling", "survival", "rates", "fungi", "growth", "plants", "life", "forest", "survival", "rates"],
     "numero": "4",
+    "pergunta": "Micorrizas melhoram as taxas de sobrevivência de mudas.",
+    "opcoes": ["mycorrhizae", "improve", "seedling", "survival", "rates", "fungi", "growth", "plants", "life"],
     "resposta_correta": "mycorrhizae improve seedling survival rates"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Rizomas permitem a colonização lateral.",
-    "opcoes": ["rhizomes", "allow", "the", "lateral", "colonization", "roots", "soil", "spread", "growth", "nature", "the", "lateral"],
     "numero": "5",
+    "pergunta": "Rizomas permitem a colonização lateral.",
+    "opcoes": ["rhizomes", "allow", "the", "lateral", "colonization", "roots", "soil", "spread", "growth"],
     "resposta_correta": "rhizomes allow the lateral colonization"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mangroves protect vulnerable coastal habitats.",
-    "opcoes": ["manguezais", "protegem", "habitats", "costeiros", "vulneráveis", "praias", "oceanos", "natureza", "ilhas", "terras", "vulneráveis", "habitats"],
     "numero": "6",
+    "pergunta": "Mangroves protect vulnerable coastal habitats.",
+    "opcoes": ["manguezais", "protegem", "habitats", "costeiros", "vulneráveis", "praias", "oceanos", "natureza", "ilhas"],
     "resposta_correta": "manguezais protegem habitats costeiros vulneráveis"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pollinators transfer vital genetic material.",
-    "opcoes": ["pollinators", "transfer", "vital", "genetic", "material", "bees", "pollen", "nature", "carry", "life", "genetic", "material"],
     "numero": "7",
+    "pergunta": "Polinizadores transferem material genético vital.",
+    "opcoes": ["pollinators", "transfer", "vital", "genetic", "material", "bees", "pollen", "nature", "carry"],
     "resposta_correta": "pollinators transfer vital genetic material"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Esporos garantem dispersão em fungos.",
-    "opcoes": ["spores", "ensure", "dispersal", "in", "fungi", "seeds", "mushrooms", "growth", "life", "nature", "spores", "fungi"],
     "numero": "8",
-    "resposta_correta": "spores ensure dispersal in fungi"
+    "pergunta": "Spores ensure dispersal in fungi.",
+    "opcoes": ["esporos", "garantem", "dispersão", "em", "fungos", "sementes", "cogumelos", "crescimento", "vida"],
+    "resposta_correta": "esporos garantem dispersão em fungos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Deciduous species lose autumn foliage.",
-    "opcoes": ["espécies", "caducifólias", "perdem", "folhagem", "de", "outono", "árvores", "no", "mata", "inverno", "outono", "espécies", "folhagem"],
     "numero": "9",
+    "pergunta": "Deciduous species lose autumn foliage.",
+    "opcoes": ["espécies", "caducifólias", "perdem", "folhagem", "de", "outono", "árvores", "no", "mata"],
     "resposta_correta": "espécies caducifólias perdem folhagem de outono"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Succulent stems store internal moisture.",
-    "opcoes": ["stems", "store", "internal", "moisture", "succulent", "water", "plants", "dry", "leaves", "desert", "internal", "stems"],
     "numero": "10",
+    "pergunta": "Caules suculentos armazenam umidade interna.",
+    "opcoes": ["succulent", "stems", "store", "internal", "moisture", "water", "plants", "dry", "leaves"],
     "resposta_correta": "succulent stems store internal moisture"
   }
 ];
 export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Phototropism directs growth toward sunlight.",
-    "opcoes": ["fototropismo", "direciona", "o", "crescimento", "para", "a", "luz", "solar", "plantas", "folhas", "verde", "luz", "crescimento", "o"],
     "numero": "1",
+    "pergunta": "Phototropism directs growth toward sunlight.",
+    "opcoes": ["o", "fototropismo", "direciona", "o", "crescimento", "para", "a", "luz", "solar", "plantas", "folhas", "verde", "raiz"],
     "resposta_correta": "o fototropismo direciona o crescimento para a luz solar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Endemic flora faces imminent extinction.",
-    "opcoes": ["flora", "endêmica", "enfrenta", "extinção", "iminente", "rara", "perigo", "local", "natureza", "a", "extinção", "iminente", "endêmica"],
     "numero": "2",
+    "pergunta": "Endemic flora faces imminent extinction.",
+    "opcoes": ["flora", "endêmica", "enfrenta", "extinção", "iminente", "rara", "perigo", "local", "natureza"],
     "resposta_correta": "flora endêmica enfrenta extinção iminente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Stomata facilitate foliar gas exchange.",
-    "opcoes": ["stomata", "facilitate", "foliar", "gas", "exchange", "leaves", "air", "pores", "breathe", "plants", "exchange", "stomata"],
     "numero": "3",
+    "pergunta": "Estômatos facilitam a troca gasosa foliar.",
+    "opcoes": ["stomata", "facilitate", "foliar", "gas", "exchange", "leaves", "air", "pores", "breathe"],
     "resposta_correta": "stomata facilitate foliar gas exchange"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Pistilos capturam grãos de pólen.",
-    "opcoes": ["pistils", "capture", "pollen", "grains", "flowers", "seeds", "collect", "stigma", "reproduction", "dust", "pollen", "grains"],
     "numero": "4",
-    "resposta_correta": "pistils capture pollen grains"
+    "pergunta": "Pistils capture pollen grains.",
+    "opcoes": ["pistilos", "capturam", "grãos", "de", "pólen", "flores", "sementes", "coletam"],
+    "resposta_correta": "pistilos capturam grãos de pólen"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Chlorophyll absorbs red light waves.",
-    "opcoes": ["clorofila", "absorve", "ondas", "de", "luz", "vermelha", "solar", "verde", "energia", "cor", "luz", "ondas"],
     "numero": "5",
+    "pergunta": "Chlorophyll absorbs red light waves.",
+    "opcoes": ["clorofila", "absorve", "ondas", "de", "luz", "vermelha", "solar", "verde", "energia", "cor"],
     "resposta_correta": "clorofila absorve ondas de luz vermelha"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Evergreen needles resist extreme frosts.",
-    "opcoes": ["evergreen", "needles", "resist", "extreme", "frosts", "trees", "pine", "cold", "winter", "green", "needles", "frosts"],
     "numero": "6",
+    "pergunta": "Agulhas perenes resistem a geadas extremas.",
+    "opcoes": ["evergreen", "needles", "resist", "extreme", "frosts", "trees", "pine", "cold", "winter"],
     "resposta_correta": "evergreen needles resist extreme frosts"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mudas requerem solos muito férteis.",
-    "opcoes": ["saplings", "require", "highly", "fertile", "soils", "plants", "need", "earth", "dirt", "growth", "soils", "highly"],
     "numero": "7",
-    "resposta_correta": "saplings require highly fertile soils"
+    "pergunta": "Saplings require highly fertile soils.",
+    "opcoes": ["mudas", "requerem", "solos", "altamente", "férteis", "plantas", "terra", "crescimento", "adubo"],
+    "resposta_correta": "mudas requerem solos altamente férteis"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Vascular bundles conduct vital nutrients.",
-    "opcoes": ["feixes", "vasculares", "conduzem", "nutrientes", "vitais", "água", "canais", "plantas", "tronco", "internos", "vitais", "nutrientes"],
     "numero": "8",
+    "pergunta": "Vascular bundles conduct vital nutrients.",
+    "opcoes": ["feixes", "vasculares", "conduzem", "nutrientes", "vitais", "água", "canais", "plantas", "tronco"],
     "resposta_correta": "feixes vasculares conduzem nutrientes vitais"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Capillary action defies gravity forces.",
-    "opcoes": ["capillary", "action", "defies", "gravity", "forces", "water", "physics", "rise", "pressure", "upward", "action", "forces"],
     "numero": "9",
+    "pergunta": "A ação capilar desafia as forças da gravidade.",
+    "opcoes": ["capillary", "action", "defies", "gravity", "forces", "water", "physics", "rise", "pressure"],
     "resposta_correta": "capillary action defies gravity forces"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Angiospermas produzem sementes muito protegidas.",
-    "opcoes": ["angiosperms", "produce", "highly", "protected", "seeds", "plants", "flowers", "fruits", "create", "inside", "seeds", "highly"],
     "numero": "10",
-    "resposta_correta": "angiosperms produce highly protected seeds"
+    "pergunta": "Angiosperms produce highly protected seeds.",
+    "opcoes": ["angiospermas", "produzem", "sementes", "altamente", "protegidas", "flores", "frutos", "plantas", "dentro"],
+    "resposta_correta": "angiospermas produzem sementes altamente protegidas"
   }
 ];

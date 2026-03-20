@@ -236,7 +236,7 @@ export const quiz1 = [
 
 
 
-export const quiz1 = [
+export const quiz01 = [
   {
     "pergunta": "Qual é a tradução de 'Nephew'?",
     "opcoes": {
@@ -346,7 +346,10 @@ export const quiz1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz02 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Basement'?",
     "opcoes": {
@@ -458,7 +461,7 @@ export const quiz1 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Como se diz 'Sogro' em inglês?",
     "opcoes": {
@@ -568,7 +571,10 @@ export const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz04 = [
+ 
   {
     "pergunta": "Como se diz 'Enteada' em inglês?",
     "opcoes": {
@@ -680,7 +686,7 @@ export const quiz2 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Como se diz 'Afilhado' em inglês?",
     "opcoes": {
@@ -790,7 +796,10 @@ export const quiz3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quiz06 = [
+ 
   {
     "pergunta": "Como se diz 'Travesseiro' em inglês?",
     "opcoes": {
@@ -902,7 +911,7 @@ export const quiz3 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Como se diz 'Padrinho' em inglês?",
     "opcoes": {
@@ -1012,7 +1021,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz08 = [
+  
   {
     "pergunta": "Como se diz 'Cunhada' em inglês?",
     "opcoes": {
@@ -1124,7 +1136,7 @@ export const quiz4 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Como se diz 'Padrinho' em inglês?",
     "opcoes": {
@@ -1234,7 +1246,10 @@ export const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz010 = [
+  
   {
     "pergunta": "Como se diz 'Cunhada' em inglês?",
     "opcoes": {
@@ -1346,7 +1361,7 @@ export const quiz5 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Como se diz 'Sogra' em inglês?",
     "opcoes": {
@@ -1456,7 +1471,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz012 = [
+  
   {
     "pergunta": "Como se diz 'Chaminé' em inglês?",
     "opcoes": {
@@ -1568,7 +1586,7 @@ export const quiz6 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Como se diz 'Sogro' em inglês?",
     "opcoes": {
@@ -1678,7 +1696,10 @@ export const quiz7 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz014 = [
+  
   {
     "pergunta": "Como se diz 'Cunhado' em inglês?",
     "opcoes": {
@@ -1790,7 +1811,7 @@ export const quiz7 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Qual é a tradução de 'Great-uncle'?",
     "opcoes": {
@@ -1900,7 +1921,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz016 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Plumbing'?",
     "opcoes": {
@@ -2012,7 +2036,7 @@ export const quiz8 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Como se diz 'Tataravô' em inglês?",
     "opcoes": {
@@ -2122,7 +2146,10 @@ export const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz018 = [
+  
   {
     "pergunta": "Como se diz 'Genro' em inglês?",
     "opcoes": {
@@ -2234,7 +2261,7 @@ export const quiz9 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Como se diz 'Enteada' em inglês?",
     "opcoes": {
@@ -2344,7 +2371,10 @@ export const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz020 = [
+ 
   {
     "pergunta": "Como se diz 'Gêmeos' em inglês?",
     "opcoes": {
@@ -2457,8 +2487,10 @@ export const quiz10 = [
   }
 ];
 
+
+
 /*-----------------------basico--------------------------------*/
-export const quizBasico1 = [
+export const quizBasico01 = [
 
   {
     "pergunta": "Traduza: This is my house.",
@@ -2578,7 +2610,10 @@ export const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+
+];
+export const quizBasico02 = [
 
   {
     "pergunta": "Traduza: The window is closed.",
@@ -2701,7 +2736,7 @@ export const quizBasico1 = [
   }
 
 ];
-export const quizBasico2 = [
+export const quizBasico03 = [
 
   {
     "pergunta": "Traduza: My mother is happy.",
@@ -2821,7 +2856,12 @@ export const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+
+];
+export const quizBasico04 = [
+
+
 
   {
     "pergunta": "Traduza: My parents are happy.",
@@ -2944,7 +2984,7 @@ export const quizBasico2 = [
   }
 
 ];
-export const quizBasico3 = [
+export const quizBasico05 = [
 
   {
     "pergunta": "Traduza: This is my grandmother.",
@@ -3064,7 +3104,11 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+
+];
+export const quizBasico06 = [
+
 
   {
     "pergunta": "Traduza: My parents are busy.",
@@ -3187,7 +3231,7 @@ export const quizBasico3 = [
   }
 
 ];
-export const quizBasico4 = [
+export const quizBasico07 = [
 
   {
     "pergunta": "Traduza: This is my nephew.",
@@ -3307,7 +3351,10 @@ export const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+
+];
+export const quizBasico08 = [
 
   {
     "pergunta": "Traduza: My parents are outside.",
@@ -3430,7 +3477,7 @@ export const quizBasico4 = [
   }
 
 ];
-export const quizBasico5 = [
+export const quizBasico09 = [
 
   {
     "pergunta": "Traduza: My father is reading a book.",
@@ -3550,8 +3597,9 @@ export const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
-
+  }
+];
+export const quizBasico010 = [
   {
     "pergunta": "Traduza: The door is open.",
     "opcoes": {
@@ -3673,7 +3721,7 @@ export const quizBasico5 = [
   }
 
 ];
-export const quizBasico6 = [
+export const quizBasico011 = [
 
   {
     "pergunta": "Traduza: My father is cooking.",
@@ -3793,7 +3841,12 @@ export const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+
+];
+export const quizBasico012 = [
+
+ 
 
   {
     "pergunta": "Traduza: The door is closed.",
@@ -3916,7 +3969,7 @@ export const quizBasico6 = [
   }
 
 ];
-export const quizBasico7 = [
+export const quizBasico013 = [
 
   {
     "pergunta": "Traduza: My father is washing the car.",
@@ -4036,7 +4089,12 @@ export const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+
+];
+export const quizBasico014 = [
+
+
 
   {
     "pergunta": "Traduza: The door is open.",
@@ -4159,7 +4217,7 @@ export const quizBasico7 = [
   }
 
 ];
-export const quizBasico8 = [
+export const quizBasico015 = [
 
   {
     "pergunta": "Traduza: My father is drinking tea.",
@@ -4279,7 +4337,11 @@ export const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+
+];
+export const quizBasico016 = [
+
 
   {
     "pergunta": "Traduza: The door is locked.",
@@ -4402,7 +4464,7 @@ export const quizBasico8 = [
   }
 
 ];
-export const quizBasico9 = [
+export const quizBasico017 = [
 
   {
     "pergunta": "Traduza: My father is cooking.",
@@ -4522,8 +4584,12 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
 
+];
+export const quizBasico018 = [
+
+ 
   {
     "pergunta": "Traduza: The sofa is comfortable.",
     "opcoes": {
@@ -4645,7 +4711,7 @@ export const quizBasico9 = [
   }
 
 ];
-export const quizBasico10 = [
+export const quizBasico019 = [
 
   {
     "pergunta": "Traduza: My father is reading the newspaper.",
@@ -4765,7 +4831,9 @@ export const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico020 = [
 
   {
     "pergunta": "Traduza: My uncle is fixing the car.",
@@ -4888,250 +4956,7 @@ export const quizBasico10 = [
   }
 
 ];
-export const quizBasico1010 = [
-
-  {
-    "pergunta": "Traduza: My father is reading the newspaper.",
-    "opcoes": {
-      "A": "Meu pai está lendo o jornal.",
-      "B": "Meu pai está dormindo.",
-      "C": "Meu pai está cozinhando.",
-      "D": "Meu pai está assistindo TV."
-    },
-    "numero": "1",
-    "resposta_correta": "A"
-  },
-
-  {
-    "pergunta": "Traduza: My mother is washing the dishes.",
-    "opcoes": {
-      "A": "Minha mãe está sorrindo.",
-      "B": "Minha mãe está lavando a louça.",
-      "C": "Minha mãe está dormindo.",
-      "D": "Minha mãe está lendo."
-    },
-    "numero": "2",
-    "resposta_correta": "B"
-  },
-
-  {
-    "pergunta": "Traduza: The children are playing outside.",
-    "opcoes": {
-      "A": "As crianças estão dormindo.",
-      "B": "As crianças estão estudando.",
-      "C": "As crianças estão brincando lá fora.",
-      "D": "As crianças estão comendo."
-    },
-    "numero": "3",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: The kitchen is clean.",
-    "opcoes": {
-      "A": "A cozinha está suja.",
-      "B": "A cozinha é pequena.",
-      "C": "A cozinha está limpa.",
-      "D": "A cozinha é velha."
-    },
-    "numero": "4",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: My brother is sleeping.",
-    "opcoes": {
-      "A": "Meu irmão está brincando.",
-      "B": "Meu irmão está lendo.",
-      "C": "Meu irmão está estudando.",
-      "D": "Meu irmão está dormindo."
-    },
-    "numero": "5",
-    "resposta_correta": "D"
-  },
-
-  {
-    "pergunta": "Traduza: The living room is comfortable.",
-    "opcoes": {
-      "A": "A sala de estar é confortável.",
-      "B": "A sala de estar está bagunçada.",
-      "C": "A sala de estar é pequena.",
-      "D": "A sala de estar é escura."
-    },
-    "numero": "6",
-    "resposta_correta": "A"
-  },
-
-  {
-    "pergunta": "Traduza: My sister is singing a song.",
-    "opcoes": {
-      "A": "Minha irmã está brincando.",
-      "B": "Minha irmã está cantando uma música.",
-      "C": "Minha irmã está lendo.",
-      "D": "Minha irmã está dormindo."
-    },
-    "numero": "7",
-    "resposta_correta": "B"
-  },
-
-  {
-    "pergunta": "Traduza: The bathroom is small.",
-    "opcoes": {
-      "A": "O banheiro é grande.",
-      "B": "O banheiro é pequeno.",
-      "C": "O banheiro está limpo.",
-      "D": "O banheiro está sujo."
-    },
-    "numero": "8",
-    "resposta_correta": "B"
-  },
-
-  {
-    "pergunta": "Traduza: My grandfather is sleeping.",
-    "opcoes": {
-      "A": "Meu avô está feliz.",
-      "B": "Meu avô está dormindo.",
-      "C": "Meu avô está lendo.",
-      "D": "Meu avô está triste."
-    },
-    "numero": "9",
-    "resposta_correta": "B"
-  },
-
-  {
-    "pergunta": "Traduza: The garden is full of flowers.",
-    "opcoes": {
-      "A": "O jardim está cheio de flores.",
-      "B": "O jardim está sujo.",
-      "C": "O jardim é pequeno.",
-      "D": "O jardim está barulhento."
-    },
-    "numero": "10",
-    "resposta_correta": "A"
-  },
-
-  {
-    "pergunta": "Traduza: My uncle is fixing the car.",
-    "opcoes": {
-      "A": "Meu tio está dormindo.",
-      "B": "Meu tio está lendo.",
-      "C": "Meu tio está consertando o carro.",
-      "D": "Meu tio está sorrindo."
-    },
-    "numero": "11",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: The bedroom is tidy.",
-    "opcoes": {
-      "A": "O quarto está bagunçado.",
-      "B": "O quarto está escuro.",
-      "C": "O quarto está limpo.",
-      "D": "O quarto é pequeno."
-    },
-    "numero": "12",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: My cousin is reading a book.",
-    "opcoes": {
-      "A": "Meu primo está dormindo.",
-      "B": "Meu primo está lendo um livro.",
-      "C": "Meu primo está triste.",
-      "D": "Meu primo está brincando."
-    },
-    "numero": "13",
-    "resposta_correta": "B"
-  },
-
-  {
-    "pergunta": "Traduza: The balcony is small.",
-    "opcoes": {
-      "A": "A varanda é pequena.",
-      "B": "A varanda é grande.",
-      "C": "A varanda está fechada.",
-      "D": "A varanda está suja."
-    },
-    "numero": "14",
-    "resposta_correta": "A"
-  },
-
-  {
-    "pergunta": "Traduza: My grandmother is smiling.",
-    "opcoes": {
-      "A": "Minha avó está triste.",
-      "B": "Minha avó está dormindo.",
-      "C": "Minha avó está sorrindo.",
-      "D": "Minha avó está lendo."
-    },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: My father is happy.",
-    "opcoes": {
-      "A": "Meu pai está lendo.",
-      "B": "Meu pai está dormindo.",
-      "C": "Meu pai está feliz.",
-      "D": "Meu pai está assistindo TV."
-    },
-    "numero": "16",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: The sofa is new.",
-    "opcoes": {
-      "A": "O sofá é confortável.",
-      "B": "O sofá é velho.",
-      "C": "O sofá é pequeno.",
-      "D": "O sofá é novo."
-    },
-    "numero": "17",
-    "resposta_correta": "D"
-  },
-
-  {
-    "pergunta": "Traduza: My aunt is smiling.",
-    "opcoes": {
-      "A": "Minha tia está cozinhando.",
-      "B": "Minha tia está dormindo.",
-      "C": "Minha tia está sorrindo.",
-      "D": "Minha tia está lendo."
-    },
-    "numero": "18",
-    "resposta_correta": "C"
-  },
-
-  {
-    "pergunta": "Traduza: The door is open.",
-    "opcoes": {
-      "A": "A porta está fechada.",
-      "B": "A porta está aberta.",
-      "C": "A porta está trancada.",
-      "D": "A porta está suja."
-    },
-    "numero": "19",
-    "resposta_correta": "B"
-  },
-
-  {
-    "pergunta": "Traduza: My brother is happy.",
-    "opcoes": {
-      "A": "Meu irmão está dormindo.",
-      "B": "Meu irmão está estudando.",
-      "C": "Meu irmão está brincando.",
-      "D": "Meu irmão está feliz."
-    },
-    "numero": "20",
-    "resposta_correta": "D"
-  }
-
-];
-export const quizBasico11 = [
+export const quizBasico021 = [
 
   {
     "pergunta": "Traduza: My father is watching TV.",
@@ -5251,8 +5076,12 @@ export const quizBasico11 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
 
+];
+export const quizBasico022 = [
+
+ 
   {
     "pergunta": "Traduza: My uncle is cooking.",
     "opcoes": {
@@ -5374,7 +5203,7 @@ export const quizBasico11 = [
   }
 
 ];
-export const quizBasico12 = [
+export const quizBasico023 = [
 
   {
     "pergunta": "Traduza: My father is drinking coffee.",
@@ -5494,8 +5323,11 @@ export const quizBasico12 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico024 = [
 
+ 
   {
     "pergunta": "Traduza: My uncle is smiling.",
     "opcoes": {
@@ -5617,7 +5449,7 @@ export const quizBasico12 = [
   }
 
 ];
-export const quizBasico13 = [
+export const quizBasico025 = [
 
   {
     "pergunta": "Traduza: My father is fixing the chair.",
@@ -5737,8 +5569,12 @@ export const quizBasico13 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
 
+];
+export const quizBasico026 = [
+
+  
   {
     "pergunta": "Traduza: My uncle is reading a book.",
     "opcoes": {
@@ -5860,7 +5696,7 @@ export const quizBasico13 = [
   }
 
 ];
-export const quizBasico14 = [
+export const quizBasico027 = [
 
   {
     "pergunta": "Traduza: My father is cleaning the table.",
@@ -5980,7 +5816,12 @@ export const quizBasico14 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+
+];
+export const quizBasico028 = [
+
+  
 
   {
     "pergunta": "Traduza: My uncle is fixing the car.",
@@ -6103,7 +5944,7 @@ export const quizBasico14 = [
   }
 
 ];
-export const quizBasico15 = [
+export const quizBasico029 = [
 
   {
     "pergunta": "Traduza: My father is reading a newspaper.",
@@ -6223,8 +6064,11 @@ export const quizBasico15 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico030 = [
 
+ 
   {
     "pergunta": "Traduza: My uncle is smiling.",
     "opcoes": {
@@ -6346,7 +6190,7 @@ export const quizBasico15 = [
   }
 
 ];
-export const quizBasico16 = [
+export const quizBasico031 = [
 
   {
     "pergunta": "Traduza: My father is reading a book.",
@@ -6466,8 +6310,12 @@ export const quizBasico16 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
 
+];
+export const quizBasico032 = [
+
+  
   {
     "pergunta": "Traduza: My uncle is reading a book.",
     "opcoes": {
@@ -6589,8 +6437,7 @@ export const quizBasico16 = [
   }
 
 ];
-
-export const quizBasico17 = [
+export const quizBasico033 = [
 
   {
     "pergunta": "Traduza: My father is fixing the window.",
@@ -6710,8 +6557,12 @@ export const quizBasico17 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
 
+];
+export const quizBasico034 = [
+
+ 
   {
     "pergunta": "Traduza: My uncle is reading a book.",
     "opcoes": {
@@ -6833,7 +6684,7 @@ export const quizBasico17 = [
   }
 
 ];
-export const quizBasico18 = [
+export const quizBasico035 = [
 
   {
     "pergunta": "Traduza: My father is painting the wall.",
@@ -6953,7 +6804,9 @@ export const quizBasico18 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico036 = [
 
   {
     "pergunta": "Traduza: My uncle is smiling.",
@@ -7564,7 +7417,7 @@ export const quizBasico20 = [
 ];
 
 /*-----------------------intermediario--------------------------------*/
-export const quizIntermediario1 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Minha madrasta cozinha muito bem'?",
     "opcoes": {
@@ -7674,7 +7527,10 @@ export const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario02 = [
+  
   {
     "pergunta": "Como se diz 'O encanamento está vazando'?",
     "opcoes": {
@@ -7786,8 +7642,7 @@ export const quizIntermediario1 = [
     "resposta_correta": "C"
   }
 ];
-
-export const quizIntermediario2 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'O teto está rachado'?",
     "opcoes": {
@@ -7897,7 +7752,10 @@ export const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario04 = [
+ 
   {
     "pergunta": "Como se diz 'O quintal é espaçoso'?",
     "opcoes": {
@@ -8009,7 +7867,7 @@ export const quizIntermediario2 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A dobradiça está enferrujada'?",
     "opcoes": {
@@ -8119,7 +7977,10 @@ export const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario06 = [
+ 
   {
     "pergunta": "Como se diz 'O exaustor está barulhento'?",
     "opcoes": {
@@ -8231,7 +8092,7 @@ export const quizIntermediario3 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'A fechadura está enferrujada'?",
     "opcoes": {
@@ -8341,7 +8202,10 @@ export const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario08 = [
+  
   {
     "pergunta": "Como se diz 'Meu tataravô era médico'?",
     "opcoes": {
@@ -8453,7 +8317,7 @@ export const quizIntermediario4 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario5 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'O corrimão está instável'?",
     "opcoes": {
@@ -8563,7 +8427,10 @@ export const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario010 = [
+  
   {
     "pergunta": "Como se diz 'O teto está rachado'?",
     "opcoes": {
@@ -8675,7 +8542,7 @@ export const quizIntermediario5 = [
     "resposta_correta": "B"
   }
 ];
-export const quizIntermediario6 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'O corrimão está instável'?",
     "opcoes": {
@@ -8785,7 +8652,10 @@ export const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario012 = [
+ 
   {
     "pergunta": "Como se diz 'O teto está rachado'?",
     "opcoes": {
@@ -8897,7 +8767,7 @@ export const quizIntermediario6 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'O teto está vazando'?",
     "opcoes": {
@@ -9007,7 +8877,10 @@ export const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario014 = [
+
   {
     "pergunta": "Como se diz 'A despensa está cheia'?",
     "opcoes": {
@@ -9119,8 +8992,7 @@ export const quizIntermediario7 = [
     "resposta_correta": "C"
   }
 ];
-
-export const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'A fiação é muito antiga'?",
     "opcoes": {
@@ -9230,7 +9102,10 @@ export const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizIntermediario016 = [
+  
   {
     "pergunta": "Como se diz 'O corrimão está solto'?",
     "opcoes": {
@@ -9452,229 +9327,10 @@ export const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'A calçada está molhada'?",
-    "opcoes": {
-      "A": "The street is wet",
-      "B": "The yard is wet",
-      "C": "The floor is wet",
-      "D": "The sidewalk is wet"
-    },
-    "numero": "11",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual a tradução de 'My sister-in-law is coming'?",
-    "opcoes": {
-      "A": "Minha nora está vindo",
-      "B": "Minha cunhada está vindo",
-      "C": "Minha sogra está vindo",
-      "D": "Sua cunhada está vindo"
-    },
-    "numero": "12",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'O quintal é espaçoso'?",
-    "opcoes": {
-      "A": "The garden is spacious",
-      "B": "The backyard is spacious",
-      "C": "The house is spacious",
-      "D": "The park is spacious"
-    },
-    "numero": "13",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual a tradução de 'The cabinets are wooden'?",
-    "opcoes": {
-      "A": "Os armários são de madeira",
-      "B": "As mesas são velhas",
-      "C": "Os armários são novos",
-      "D": "As cadeiras são madeira"
-    },
-    "numero": "14",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'Minha nora viajou ontem'?",
-    "opcoes": {
-      "A": "My niece traveled yesterday",
-      "B": "My daughter traveled yesterday",
-      "C": "My daughter-in-law traveled yesterday",
-      "D": "My sister traveled yesterday"
-    },
-    "numero": "15",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'The ceiling is high'?",
-    "opcoes": {
-      "A": "O teto é alto",
-      "B": "O telhado é alto",
-      "C": "A casa é alta",
-      "D": "O muro é alto"
-    },
-    "numero": "16",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'O pano de prato'?",
-    "opcoes": {
-      "A": "The table cloth",
-      "B": "The kitchen towel",
-      "C": "The dish towel",
-      "D": "The hand towel"
-    },
-    "numero": "17",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'My stepmother is kind'?",
-    "opcoes": {
-      "A": "Minha sogra é gentil",
-      "B": "Minha tia é gentil",
-      "C": "Minha vizinha é gentil",
-      "D": "Minha madrasta é gentil"
-    },
-    "numero": "18",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'A dobradiça está enferrujada'?",
-    "opcoes": {
-      "A": "The door is rusty",
-      "B": "The lock is rusty",
-      "C": "The hinge is rusty",
-      "D": "The key is rusty"
-    },
-    "numero": "19",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'Our neighborhood is quiet'?",
-    "opcoes": {
-      "A": "Nossa vizinhança é caluniosa",
-      "B": "Sua vizinhança é calma",
-      "C": "Nossa vizinhança é barulhenta",
-      "D": "Nossa vizinhança é silenciosa"
-    },
-    "numero": "20",
-    "resposta_correta": "D"
   }
 ];
 export const quizIntermediario10 = [
-  {
-    "pergunta": "Como se diz 'A hipoteca foi aprovada'?",
-    "opcoes": {
-      "A": "The rent was approved",
-      "B": "The mortgage was approved",
-      "C": "The house was approved",
-      "D": "The loan was approved"
-    },
-    "numero": "1",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual a tradução de 'My sister-in-law is helpful'?",
-    "opcoes": {
-      "A": "Minha cunhada é prestativa",
-      "B": "Minha sogra é prestativa",
-      "C": "Minha nora é prestativa",
-      "D": "Minha tia é prestativa"
-    },
-    "numero": "2",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'O corrimão está instável'?",
-    "opcoes": {
-      "A": "The stairs are unstable",
-      "B": "The wall is unstable",
-      "C": "The handle is unstable",
-      "D": "The handrail is unstable"
-    },
-    "numero": "3",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Qual a tradução de 'He is my great-uncle'?",
-    "opcoes": {
-      "A": "Ele é meu tio-avô",
-      "B": "Ele é meu bisavô",
-      "C": "Ele é meu tataravô",
-      "D": "Ele é meu padrinho"
-    },
-    "numero": "4",
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Como se diz 'A fiação é perigosa'?",
-    "opcoes": {
-      "A": "The cables are dangerous",
-      "B": "The lights are dangerous",
-      "C": "The wiring is dangerous",
-      "D": "The walls are dangerous"
-    },
-    "numero": "5",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'My goddaughter is newborn'?",
-    "opcoes": {
-      "A": "Minha neta é recém-nascida",
-      "B": "Minha afilhada é recém-nascida",
-      "C": "Minha sobrinha é recém-nascida",
-      "D": "Minha filha é recém-nascida"
-    },
-    "numero": "6",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Como se diz 'O sótão está trancado'?",
-    "opcoes": {
-      "A": "The basement is locked",
-      "B": "The room is locked",
-      "C": "The attic is locked",
-      "D": "The garage is locked"
-    },
-    "numero": "7",
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual a tradução de 'The cabinets are dusty'?",
-    "opcoes": {
-      "A": "As gavetas estão empoeiradas",
-      "B": "As mesas estão empoeiradas",
-      "C": "As prateleiras estão empoeiradas",
-      "D": "Os armários estão empoeirados"
-    },
-    "numero": "8",
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Como se diz 'Minha madrasta cozinha'?",
-    "opcoes": {
-      "A": "My godmother is cooking",
-      "B": "My stepmother is cooking",
-      "C": "My mother-in-law is cooking",
-      "D": "My aunt is cooking"
-    },
-    "numero": "9",
-    "resposta_correta": "B"
-  },
-  {
-    "pergunta": "Qual a tradução de 'The plumbing is noisy'?",
-    "opcoes": {
-      "A": "O encanamento é barulhento",
-      "B": "A torneira é barulhenta",
-      "C": "O ralo é barulhento",
-      "D": "A pia é barulhenta"
-    },
-    "numero": "10",
-    "resposta_correta": "A"
-  },
+ 
   {
     "pergunta": "Como se diz 'O teto está rachado'?",
     "opcoes": {
@@ -9794,69 +9450,70 @@ export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha bisavó é muito lúcida",
-    "opcoes": ["lucid", "great-grandmother", "grandfather", "my", "very", "is", "healthy", "stay", "was", "extremely"],
+    "opcoes": ["lucid", "great-grandmother", "grandfather", "my", "very", "is", "healthy", "sharp", "old"],
     "numero": "1",
     "resposta_correta": "my great-grandmother is very lucid"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Our inheritance belongs to everyone",
-    "opcoes": ["herança", "todos", "pertence", "nossa", "a", "família", "propriedade", "é", "de", "divisão"],
+    "opcoes": ["herança", "todos", "pertence", "nossa", "a", "família", "é", "de", "dinheiro"],
     "numero": "2",
     "resposta_correta": "nossa herança pertence a todos"
   },
   {
+    "questionType": "traduza a frase",
     "pergunta": "O encanamento requer manutenção constante",
-    "opcoes": ["constant", "needs", "plumbing", "maintenance", "the", "requires", "repair", "house", "system", "urgent"],
+    "opcoes": ["constant", "needs", "plumbing", "maintenance", "the", "requires", "repair", "system", "pipes"],
     "numero": "3",
     "resposta_correta": "the plumbing requires constant maintenance"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My sister-in-law is quite sophisticated",
-    "opcoes": ["bastante", "cunhada", "sofisticada", "minha", "é", "inteligente", "ela", "muito", "educada", "irmã"],
+    "opcoes": ["bastante", "cunhada", "sofisticada", "minha", "é", "inteligente", "elegante", "mulher", "irmã"],
     "numero": "4",
     "resposta_correta": "minha cunhada é bastante sofisticada"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "A fiação elétrica parece obsoleta",
-    "opcoes": ["seems", "obsolete", "electrical", "wiring", "the", "old", "dangerous", "system", "appears", "broken"],
+    "opcoes": ["seems", "obsolete", "electrical", "wiring", "the", "old", "dangerous", "system", "appears"],
     "numero": "5",
     "resposta_correta": "the electrical wiring seems obsolete"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Her stepson is exceptionally bright",
-    "opcoes": ["excepcionalmente", "enteado", "inteligente", "dela", "é", "seu", "brilhante", "muito", "talentoso", "filho"],
+    "opcoes": ["excepcionalmente", "enteado", "brilhante", "dela", "é", "seu", "muito", "talentoso", "filho"],
     "numero": "6",
-    "resposta_correta": "seu enteado é excepcionalmente inteligente"
+    "resposta_correta": "seu enteado é excepcionalmente brilhante"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Sua hipoteca foi finalmente quitada",
-    "opcoes": ["finally", "mortgage", "paid", "your", "was", "off", "house", "loan", "cleared", "completely"],
+    "opcoes": ["finally", "mortgage", "paid", "your", "was", "off", "loan", "cleared", "completely"],
     "numero": "7",
     "resposta_correta": "your mortgage was finally paid off"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The basement walls are damp",
-    "opcoes": ["porão", "paredes", "úmidas", "as", "do", "estão", "mofadas", "chão", "frio", "casa"],
+    "opcoes": ["porão", "paredes", "úmidas", "as", "do", "estão", "mofadas", "chão", "casa"],
     "numero": "8",
     "resposta_correta": "as paredes do porão estão úmidas"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha nora é médica obstetra",
-    "opcoes": ["daughter-in-law", "obstetrician", "doctor", "my", "is", "a", "wife", "surgeon", "she", "practitioner"],
+    "opcoes": ["daughter-in-law", "obstetrician", "doctor", "my", "is", "a", "surgeon", "hospital", "practitioner"],
     "numero": "9",
-    "resposta_correta": "my daughter-in-law is a doctor"
+    "resposta_correta": "my daughter-in-law is an obstetrician doctor"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The attic storage is overcrowded",
-    "opcoes": ["depósito", "sótão", "lotado", "o", "do", "está", "cheio", "espaço", "casa", "bagunçado"],
+    "opcoes": ["depósito", "sótão", "lotado", "o", "do", "está", "espaço", "coisas", "muito"],
     "numero": "10",
     "resposta_correta": "o depósito do sótão está lotado"
   }
@@ -9865,70 +9522,70 @@ export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "The foundation has structural cracks",
-    "opcoes": ["rachaduras", "telhado", "fundação", "casa", "possui", "a", "estruturais", "muro", "problemas", "tem", "antiga"],
+    "opcoes": ["fundação", "casa", "estruturais", "a", "muro", "rachaduras", "tem", "possui", "solo"],
     "numero": "1",
     "resposta_correta": "a fundação possui rachaduras estruturais"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha madrinha é muito benevolente",
-    "opcoes": ["benevolent", "godmother", "aunt", "my", "is", "very", "kind", "always", "extremely", "she", "so"],
+    "opcoes": ["kind", "my", "benevolent", "is", "aunt", "godmother", "very", "she", "generous"],
     "numero": "2",
     "resposta_correta": "my godmother is very benevolent"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Inheritance disputes tear families apart",
-    "opcoes": ["disputas", "famílias", "herança", "de", "destroem", "as", "brigas", "dinheiro", "unidas", "dividem", "paterna"],
+    "opcoes": ["de", "famílias", "as", "herança", "destroem", "disputas", "dividem", "justiça", "bens"],
     "numero": "3",
     "resposta_correta": "disputas de herança destroem famílias"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O tataravô era um aristocrata",
-    "opcoes": ["great-great-grandfather", "was", "aristocrat", "an", "the", "noble", "ancestor", "rich", "century", "born"],
+    "opcoes": ["an", "was", "the", "great-great-grandfather", "aristocrat", "noble", "history", "ancestor", "man"],
     "numero": "4",
     "resposta_correta": "the great-great-grandfather was an aristocrat"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Domestic chores require immense patience",
-    "opcoes": ["exigem", "domésticas", "paciência", "tarefas", "imensa", "limpeza", "casa", "muita", "rotina", "cansativas"],
+    "opcoes": ["tarefas", "exigem", "domésticas", "imensa", "paciência", "limpeza", "rotina", "cansativas", "muita"],
     "numero": "5",
     "resposta_correta": "tarefas domésticas exigem imensa paciência"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Seu enteado demonstra grande resiliência",
-    "opcoes": ["resilience", "demonstrates", "stepson", "great", "his", "shows", "strong", "bravery", "boy", "huge"],
+    "opcoes": ["demonstrates", "great", "stepson", "bravery", "resilience", "his", "strong", "shows", "boy"],
     "numero": "6",
     "resposta_correta": "his stepson demonstrates great resilience"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "A despensa está totalmente desorganizada",
-    "opcoes": ["totally", "disorganized", "pantry", "the", "is", "kitchen", "messy", "cabinet", "completely", "full"],
+    "opcoes": ["totally", "is", "pantry", "the", "disorganized", "messy", "completely", "cabinet", "dirty"],
     "numero": "7",
     "resposta_correta": "the pantry is totally disorganized"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Our neighborhood promotes social integration",
-    "opcoes": ["integração", "social", "nosso", "bairro", "promove", "vizinhança", "segurança", "a", "comunidade", "ajuda"],
+    "opcoes": ["promove", "bairro", "integração", "social", "nosso", "comunidade", "local", "vizinhança", "projeto"],
     "numero": "8",
     "resposta_correta": "nosso bairro promove integração social"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "A fiação elétrica exige cautela",
-    "opcoes": ["electrical", "requires", "caution", "the", "wiring", "danger", "needs", "system", "repairs", "care"],
+    "opcoes": ["caution", "wiring", "requires", "electrical", "the", "care", "house", "needs", "danger"],
     "numero": "9",
     "resposta_correta": "the electrical wiring requires caution"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Family bonds provide emotional security",
-    "opcoes": ["emocional", "familiares", "segurança", "laços", "proporcionam", "unidos", "amor", "estabilidade", "trazem", "fortes"],
+    "opcoes": ["segurança", "familiares", "emocional", "proporcionam", "laços", "unidos", "vida", "apoio", "trazem"],
     "numero": "10",
     "resposta_correta": "laços familiares proporcionam segurança emocional"
   }
@@ -9937,70 +9594,70 @@ export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Sua nora é arquiteta renomada",
-    "opcoes": ["renowned", "architect", "daughter-in-law", "his", "is", "a", "famous", "works", "very", "talented"],
+    "opcoes": ["his", "is", "a", "famous", "architect", "renowned", "talented", "daughter-in-law", "known"],
     "numero": "1",
     "resposta_correta": "his daughter-in-law is a renowned architect"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The mortgage rates are fluctuating",
-    "opcoes": ["taxas", "hipoteca", "oscilando", "as", "da", "estão", "juros", "casa", "altas", "variando", "valor"],
+    "opcoes": ["oscilando", "hipoteca", "as", "da", "estão", "juros", "taxas", "variando", "mensais"],
     "numero": "2",
     "resposta_correta": "as taxas da hipoteca estão oscilando"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O porão exala cheiro forte",
-    "opcoes": ["strong", "smell", "basement", "the", "exudes", "cellar", "stink", "old", "bad", "wet", "emits"],
+    "opcoes": ["the", "emits", "basement", "smell", "strong", "exudes", "old", "stink", "cellar"],
     "numero": "3",
     "resposta_correta": "the basement exudes strong smell"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My nephew inherited vast properties",
-    "opcoes": ["propriedades", "vastas", "meu", "herdou", "sobrinho", "casas", "muitas", "riqueza", "terras", "posses"],
+    "opcoes": ["herdou", "vastas", "meu", "riqueza", "sobrinho", "propriedades", "terras", "herança", "muitas"],
     "numero": "4",
     "resposta_correta": "meu sobrinho herdou vastas propriedades"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O encanamento antigo está vazando",
-    "opcoes": ["old", "leaking", "plumbing", "the", "is", "pipes", "broken", "wet", "system", "needs", "water"],
+    "opcoes": ["leaking", "the", "old", "is", "water", "pipes", "plumbing", "system", "repair"],
     "numero": "5",
     "resposta_correta": "the old plumbing is leaking"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Grandparents offer unconditional love always",
-    "opcoes": ["incondicional", "avós", "sempre", "amor", "oferecem", "pais", "carinho", "muito", "eterno", "paz"],
+    "opcoes": ["sempre", "oferecem", "amor", "incondicional", "família", "netos", "avós", "eterno", "carinho"],
     "numero": "6",
     "resposta_correta": "avós oferecem amor incondicional sempre"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The staircase design is innovative",
-    "opcoes": ["escada", "inovador", "design", "o", "da", "é", "moderno", "estilo", "bonito", "arquitetura"],
+    "opcoes": ["é", "inovador", "design", "o", "da", "escada", "moderno", "estilo", "projeto"],
     "numero": "7",
     "resposta_correta": "o design da escada é inovador"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha bisavó preserva memórias valiosas",
-    "opcoes": ["preserves", "valuable", "memories", "my", "great-grandmother", "keeps", "old", "history", "stories", "ancient"],
+    "opcoes": ["preserves", "keeps", "great-grandmother", "valuable", "my", "history", "memories", "life", "photos"],
     "numero": "8",
     "resposta_correta": "my great-grandmother preserves valuable memories"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "A vizinhança exige silêncio absoluto",
-    "opcoes": ["absolute", "silence", "neighborhood", "the", "demands", "requires", "quiet", "total", "area", "peace"],
+    "opcoes": ["absolute", "demands", "neighborhood", "the", "silence", "total", "requires", "peace", "quiet"],
     "numero": "9",
     "resposta_correta": "the neighborhood demands absolute silence"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My brother-in-law manages large estates",
-    "opcoes": ["grandes", "propriedades", "meu", "gerencia", "cunhado", "fazendas", "terras", "administra", "negócios", "luxo"],
+    "opcoes": ["gerencia", "meu", "grandes", "fazendas", "cunhado", "propriedades", "luxo", "administra", "negócios"],
     "numero": "10",
     "resposta_correta": "meu cunhado gerencia grandes propriedades"
   }
@@ -10009,71 +9666,70 @@ export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Our household expenses are increasing",
-    "opcoes": ["casa", "aumentando", "despesas", "estão", "nossas", "da", "limpeza", "fixas", "valor", "familiares"],
+    "opcoes": ["nossas", "casa", "aumentando", "da", "mensais", "estão", "despesas", "custos", "familiares"],
     "numero": "1",
     "resposta_correta": "nossas despesas da casa estão aumentando"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Meu enteado é muito proativo",
-    "pergunta_traducao": "My stepson is very proactive",
-    "opcoes": ["proactive", "stepson", "my", "is", "very", "son", "active", "always", "extremely", "smart"],
+    "opcoes": ["stepson", "is", "proactive", "my", "smart", "very", "efficient", "always", "extremely"],
     "numero": "2",
     "resposta_correta": "my stepson is very proactive"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The property requires urgent renovation",
-    "opcoes": ["reforma", "propriedade", "urgente", "requer", "a", "manutenção", "casa", "precisa", "geral", "pintura"],
+    "opcoes": ["a", "precisa", "requer", "geral", "reforma", "urgente", "propriedade", "obra", "manutenção"],
     "numero": "3",
     "resposta_correta": "a propriedade requer reforma urgente"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Sua afilhada estuda biologia marinha",
-    "opcoes": ["biology", "goddaughter", "marine", "his", "studies", "niece", "science", "is", "at", "college"],
+    "opcoes": ["studies", "marine", "his", "college", "biology", "goddaughter", "ocean", "science", "is"],
     "numero": "4",
     "resposta_correta": "his goddaughter studies marine biology"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The fireplace provides cozy warmth",
-    "opcoes": ["aconchegante", "lareira", "calor", "proporciona", "a", "fogo", "sala", "conforto", "traz", "muito"],
+    "opcoes": ["proporciona", "lareira", "a", "calor", "aconchegante", "inverno", "conforto", "clima", "traz"],
     "numero": "5",
     "resposta_correta": "a lareira proporciona calor aconchegante"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Ancestry research reveals surprising facts",
-    "opcoes": ["research", "ancestry", "reveals", "surprising", "facts", "history", "shows", "family", "past", "data"],
+    "opcoes": ["de", "revela", "pesquisa", "ancestralidade", "fatos", "história", "surpreendentes", "passado", "genealogia"],
     "numero": "6",
-    "resposta_correta": "ancestry research reveals surprising facts"
+    "resposta_correta": "pesquisa de ancestralidade revela fatos surpreendentes"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O telhado protege contra intempéries",
-    "opcoes": ["weather", "protects", "against", "roof", "the", "harsh", "rain", "house", "from", "storms"],
+    "opcoes": ["roof", "against", "weather", "protects", "the", "storms", "harsh", "safety", "building"],
     "numero": "7",
     "resposta_correta": "the roof protects against weather"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Family heritage defines our identity",
-    "opcoes": ["identidade", "familiar", "define", "nossa", "herança", "história", "passado", "cultura", "a", "valor"],
+    "opcoes": ["define", "familiar", "identidade", "herança", "nossa", "raízes", "cultura", "valor", "história"],
     "numero": "8",
-    "resposta_correta": "herança familiar define nossa identidade"
+    "resposta_correta": "herança familiar define nossa identity"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha cunhada comprou mobília rústica",
-    "opcoes": ["rustic", "sister-in-law", "furniture", "bought", "my", "house", "new", "table", "wood", "purchased"],
+    "opcoes": ["sister-in-law", "bought", "rustic", "furniture", "my", "purchased", "decor", "new", "wood"],
     "numero": "9",
     "resposta_correta": "my sister-in-law bought rustic furniture"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The kitchen island is multifunctional",
-    "opcoes": ["cozinha", "multifuncional", "ilha", "da", "é", "balcão", "espaço", "nova", "a", "prática"],
+    "opcoes": ["da", "é", "cozinha", "ilha", "a", "balcão", "multifuncional", "prática", "espaço"],
     "numero": "10",
     "resposta_correta": "a ilha da cozinha é multifuncional"
   }
@@ -10082,142 +9738,142 @@ export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Foster families provide crucial support",
-    "opcoes": ["apoio", "crucial", "oferecem", "famílias", "acolhedoras", "ajuda", "crianças", "trazem", "muito", "essencial"],
+    "opcoes": ["acolhedoras", "essencial", "famílias", "oferecem", "crucial", "base", "sociais", "apoio", "importante"],
     "numero": "1",
     "resposta_correta": "famílias acolhedoras oferecem apoio crucial"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O porão serve como estúdio",
-    "opcoes": ["basement", "serves", "studio", "as", "the", "a", "cellar", "used", "room", "is"],
+    "opcoes": ["serves", "as", "the", "basement", "office", "studio", "a", "room", "is"],
     "numero": "2",
-    "resposta_correta": "the basement serves as studio"
+    "resposta_correta": "the basement serves as a studio"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "His great-grandfather was remarkably resilient",
-    "opcoes": ["resiliente", "bisavô", "notavelmente", "seu", "era", "avô", "muito", "homem", "forte", "sempre"],
+    "opcoes": ["bisavô", "notavelmente", "seu", "homem", "era", "saudável", "resiliente", "forte", "muito"],
     "numero": "3",
     "resposta_correta": "seu bisavô era notavelmente resiliente"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The garden needs landscape design",
-    "opcoes": ["landscape", "garden", "design", "the", "needs", "yard", "new", "plants", "requires", "beautiful"],
+    "opcoes": ["precisa", "paisagismo", "jardim", "o", "requer", "projeto", "de", "novo", "plantas"],
     "numero": "4",
-    "resposta_correta": "the garden needs landscape design"
+    "resposta_correta": "o jardim precisa de projeto de paisagismo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha sogra aprecia antiguidades raras",
-    "opcoes": ["mother-in-law", "appreciates", "rare", "antiques", "my", "likes", "old", "objects", "buys", "valuable"],
+    "opcoes": ["appreciates", "antiques", "likes", "mother-in-law", "my", "valuable", "rare", "objects", "decor"],
     "numero": "5",
     "resposta_correta": "my mother-in-law appreciates rare antiques"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Household maintenance ensures safety always",
-    "opcoes": ["segurança", "manutenção", "garante", "doméstica", "sempre", "limpeza", "casa", "traz", "a", "total"],
+    "opcoes": ["manutenção", "doméstica", "segurança", "cuidado", "sempre", "prevenção", "garante", "casa", "total"],
     "numero": "6",
     "resposta_correta": "manutenção doméstica garante segurança sempre"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The hallway lighting is dim",
-    "opcoes": ["hallway", "lighting", "is", "dim", "the", "corridor", "dark", "lamps", "very", "room"],
+    "opcoes": ["fraca", "do", "está", "a", "iluminação", "luz", "ruim", "corredor", "baixa"],
     "numero": "7",
-    "resposta_correta": "the hallway lighting is dim"
+    "resposta_correta": "a iluminação do corredor está fraca"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nossos parentes moram no exterior",
-    "opcoes": ["relatives", "abroad", "live", "our", "stay", "family", "far", "parents", "country", "work"],
+    "opcoes": ["relatives", "abroad", "parents", "overseas", "our", "live", "travel", "stay", "home"],
     "numero": "8",
     "resposta_correta": "our relatives live abroad"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Domestic tranquility promotes mental health",
-    "opcoes": ["mental", "tranquilidade", "saúde", "doméstica", "promove", "paz", "casa", "ajuda", "bem-estar", "a"],
+    "opcoes": ["saúde", "mental", "paz", "tranquilidade", "vida", "doméstica", "ajuda", "harmonia", "promove"],
     "numero": "9",
     "resposta_correta": "tranquilidade doméstica promove saúde mental"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The staircase has oak banisters",
-    "opcoes": ["oak", "banisters", "the", "has", "staircase", "wood", "railing", "new", "made", "steps"],
+    "opcoes": ["carvalho", "tem", "de", "escada", "a", "corrimão", "madeira", "degraus", "novo"],
     "numero": "10",
-    "resposta_correta": "the staircase has oak banisters"
+    "resposta_correta": "a escada tem corrimão de carvalho"
   }
 ];
 export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Our genealogy reveals noble origins",
-    "opcoes": ["origens", "nobre", "revela", "genealogia", "nossa", "história", "família", "tem", "passado", "antigas", "nobres"],
+    "opcoes": ["nobres", "revela", "genealogia", "nossa", "história", "família", "origens", "nossa", "antigas"],
     "numero": "1",
     "resposta_correta": "nossa genealogia revela origens nobres"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O telhado requer reparos estruturais",
-    "opcoes": ["structural", "roof", "repairs", "requires", "the", "needs", "urgent", "house", "fixing", "major"],
+    "opcoes": ["the", "requires", "needs", "major", "structural", "roof", "repairs", "expert", "building"],
     "numero": "2",
     "resposta_correta": "the roof requires structural repairs"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Step-siblings share deep emotional bonds",
-    "opcoes": ["emocionais", "laços", "meio-irmãos", "compartilham", "profundos", "irmãos", "família", "têm", "muito", "fortes", "amizade"],
+    "opcoes": ["unidos", "compartilham", "meio-irmãos", "profundos", "laços", "emocionais", "irmãos", "família", "vida"],
     "numero": "3",
     "resposta_correta": "meio-irmãos compartilham profundos laços emocionais"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The attic ventilation is inadequate",
-    "opcoes": ["inadequate", "ventilation", "the", "attic", "is", "poor", "room", "air", "bad", "hot"],
+    "opcoes": ["inadequada", "do", "ar", "está", "ventilação", "sótão", "insuficiente", "a", "espaço"],
     "numero": "4",
-    "resposta_correta": "the attic ventilation is inadequate"
+    "resposta_correta": "a ventilação do sótão está inadequada"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha madrasta possui joias ancestrais",
-    "opcoes": ["ancestral", "jewelry", "stepmother", "possesses", "my", "has", "old", "gems", "expensive", "valuable"],
+    "opcoes": ["jewelry", "possesses", "has", "stepmother", "inherited", "my", "ancestral", "valuable", "family"],
     "numero": "5",
     "resposta_correta": "my stepmother possesses ancestral jewelry"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Interior decoration reflects personal style",
-    "opcoes": ["estilo", "pessoal", "reflete", "decoração", "interior", "casa", "a", "gosto", "moderno", "mostra"],
+    "opcoes": ["estilo", "pessoal", "decoração", "reflete", "interior", "gosto", "moderno", "ambientes", "mostra"],
     "numero": "6",
     "resposta_correta": "decoração interior reflete estilo pessoal"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The doorbell chime sounds melodic",
-    "opcoes": ["melodic", "sounds", "doorbell", "chime", "the", "bell", "nice", "rings", "music", "loud"],
+    "opcoes": ["da", "o", "melódico", "porta", "campainha", "toca", "parece", "som", "claro"],
     "numero": "7",
-    "resposta_correta": "the doorbell chime sounds melodic"
+    "resposta_correta": "o som da campainha parece melódico"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Sua afilhada demonstra imenso talento",
-    "opcoes": ["talent", "demonstrates", "goddaughter", "immense", "his", "shows", "great", "gift", "very", "girl"],
+    "opcoes": ["his", "immense", "demonstrates", "talent", "gift", "goddaughter", "shows", "bright", "artist"],
     "numero": "8",
     "resposta_correta": "his goddaughter demonstrates immense talent"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O condomínio proíbe animais exóticos",
-    "opcoes": ["exotic", "prohibits", "animals", "condo", "the", "pets", "rules", "ban", "large", "allowed"],
+    "opcoes": ["the", "condo", "prohibits", "allowed", "exotic", "rules", "animals", "building", "ban"],
     "numero": "9",
     "resposta_correta": "the condo prohibits exotic animals"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Domestic conflicts require mediation often",
-    "opcoes": ["mediação", "conflitos", "frequentemente", "domésticos", "exigem", "ajuda", "casa", "sempre", "pedem", "paz"],
+    "opcoes": ["exigem", "frequentemente", "domésticos", "conflitos", "mediação", "ajuda", "familiar", "resolver", "paz"],
     "numero": "10",
     "resposta_correta": "conflitos domésticos exigem mediação frequentemente"
   }
@@ -10226,70 +9882,70 @@ export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Modern architecture emphasizes open spaces",
-    "opcoes": ["espaços", "abertos", "enfatiza", "arquitetura", "moderna", "casa", "grandes", "estilo", "valoriza", "a"],
+    "opcoes": ["enfatiza", "moderna", "grandes", "abertos", "espaços", "estilo", "arquitetura", "valoriza", "projeto"],
     "numero": "1",
     "resposta_correta": "arquitetura moderna enfatiza espaços abertos"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My great-uncle collects vintage clocks",
-    "opcoes": ["vintage", "great-uncle", "clocks", "collects", "my", "old", "watches", "time", "has", "keeps"],
+    "opcoes": ["collects", "vintage", "watches", "my", "clocks", "time", "great-uncle", "antiques", "keeps"],
     "numero": "2",
     "resposta_correta": "my great-uncle collects vintage clocks"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O encanamento mestre está obstruído",
-    "opcoes": ["obstructed", "plumbing", "master", "the", "is", "blocked", "clogged", "broken", "water", "pipe"],
+    "opcoes": ["master", "is", "plumbing", "obstructed", "main", "the", "clogged", "pipe", "broken"],
     "numero": "3",
     "resposta_correta": "the master plumbing is obstructed"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Extended families celebrate together annually",
-    "opcoes": ["anualmente", "comemoram", "famílias", "juntas", "extensas", "parentes", "grandes", "festas", "sempre", "reunidos"],
+    "opcoes": ["comemoram", "extensas", "anualmente", "unidos", "famílias", "parentes", "juntas", "ano", "grandes"],
     "numero": "4",
     "resposta_correta": "famílias extensas comemoram juntas anualmente"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The pantry shelves are cluttered",
-    "opcoes": ["cluttered", "shelves", "pantry", "the", "are", "full", "messy", "cabinet", "items", "kitchen"],
+    "opcoes": ["shelves", "dirty", "the", "are", "messy", "pantry", "full", "cluttered", "food"],
     "numero": "5",
     "resposta_correta": "the pantry shelves are cluttered"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Her daughter-in-law is highly efficient",
-    "opcoes": ["altamente", "eficiente", "nora", "dela", "é", "muito", "mulher", "trabalha", "bastante", "inteligente"],
+    "opcoes": ["é", "nora", "eficiente", "altamente", "pessoa", "muito", "sua", "organizada", "inteligente"],
     "numero": "6",
     "resposta_correta": "sua nora é altamente eficiente"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The basement provides extra storage",
-    "opcoes": ["storage", "provides", "basement", "the", "extra", "cellar", "room", "space", "house", "adds"],
+    "opcoes": ["extra", "provides", "space", "basement", "useful", "the", "storage", "house", "adds"],
     "numero": "7",
     "resposta_correta": "the basement provides extra storage"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Nossos antepassados construíram esta mansão",
-    "opcoes": ["mansion", "built", "ancestors", "our", "this", "house", "home", "family", "made", "history"],
+    "opcoes": ["mansion", "history", "built", "our", "ancestors", "home", "this", "family", "place"],
     "numero": "8",
     "resposta_correta": "our ancestors built this mansion"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The hallway carpet is antique",
-    "opcoes": ["antigo", "corredor", "tapete", "o", "do", "é", "velho", "chão", "casa", "raro"],
+    "opcoes": ["antigo", "casa", "do", "é", "tapete", "piso", "o", "velho", "corredor"],
     "numero": "9",
     "resposta_correta": "o tapete do corredor é antigo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Foster parents need specific training",
-    "opcoes": ["training", "parents", "need", "foster", "specific", "care", "kids", "help", "require", "skills"],
+    "opcoes": ["specific", "parents", "need", "learn", "require", "foster", "training", "care", "skills"],
     "numero": "10",
     "resposta_correta": "foster parents need specific training"
   }
@@ -10298,70 +9954,70 @@ export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "O corrimão da escada é instável",
-    "opcoes": ["unstable", "handrail", "staircase", "the", "is", "stairs", "broken", "loose", "safety", "wood"],
+    "opcoes": ["staircase", "shaking", "the", "fixed", "handrail", "loose", "unstable", "is", "safety"],
     "numero": "1",
     "resposta_correta": "the staircase handrail is unstable"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Domestic stability fosters child development",
-    "opcoes": ["desenvolvimento", "estabilidade", "promove", "doméstica", "infantil", "crescimento", "ajuda", "casa", "a", "paz"],
+    "opcoes": ["a", "doméstica", "crescimento", "desenvolvimento", "familiar", "promove", "estabilidade", "paz", "infantil"],
     "numero": "2",
     "resposta_correta": "estabilidade doméstica promove desenvolvimento infantil"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My godson is remarkably polite",
-    "opcoes": ["polite", "remarkably", "godson", "my", "is", "very", "boy", "good", "extremely", "always"],
+    "opcoes": ["extremely", "is", "polite", "boy", "my", "remarkably", "always", "godson", "nice"],
     "numero": "3",
     "resposta_correta": "my godson is remarkably polite"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "A fiação elétrica precisa reparo",
-    "opcoes": ["repair", "wiring", "needs", "electrical", "the", "system", "urgent", "fix", "cables", "safety"],
+    "opcoes": ["wiring", "needs", "urgent", "the", "system", "repair", "electrical", "fix", "cables"],
     "numero": "4",
     "resposta_correta": "the electrical wiring needs repair"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Household appliances are increasingly smart",
-    "opcoes": ["inteligentes", "domésticos", "cada", "eletrodomésticos", "estão", "mais", "casa", "novos", "tecnologia", "vez"],
+    "opcoes": ["cada", "vez", "modernos", "estão", "eletrodomésticos", "tecnologia", "mais", "inteligentes", "aparelhos"],
     "numero": "5",
     "resposta_correta": "eletrodomésticos estão cada vez mais inteligentes"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The attic stairs are squeaky",
-    "opcoes": ["squeaky", "stairs", "attic", "the", "are", "noisy", "old", "steps", "broken", "wood"],
+    "opcoes": ["as", "velhas", "do", "estão", "sótão", "madeira", "rangendo", "casa", "escadas"],
     "numero": "6",
-    "resposta_correta": "the attic stairs are squeaky"
+    "resposta_correta": "as escadas do sótão estão rangendo"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha cunhada gerencia propriedades imobiliárias",
-    "opcoes": ["real", "sister-in-law", "estate", "manages", "my", "houses", "business", "works", "is", "selling"],
+    "opcoes": ["manages", "my", "real", "business", "sister-in-law", "estate", "houses", "works", "is"],
     "numero": "7",
     "resposta_correta": "my sister-in-law manages real estate"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The kitchen countertop is marble",
-    "opcoes": ["mármore", "cozinha", "bancada", "a", "de", "é", "pedra", "pia", "balcão", "da"],
+    "opcoes": ["da", "é", "bancada", "mármore", "cozinha", "pedra", "a", "pia", "de"],
     "numero": "8",
     "resposta_correta": "a bancada da cozinha é de mármore"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Your nephew studies nuclear physics",
-    "opcoes": ["physics", "nuclear", "nephew", "your", "studies", "science", "college", "at", "is", "boy"],
+    "opcoes": ["science", "nuclear", "studies", "nephew", "physics", "your", "energy", "boy", "at"],
     "numero": "9",
     "resposta_correta": "your nephew studies nuclear physics"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "A fundação da casa cedeu",
-    "opcoes": ["subsided", "foundation", "house", "the", "has", "broken", "cracked", "ground", "fell", "structure"],
+    "opcoes": ["house", "the", "sunk", "subsided", "foundation", "base", "has", "soil", "broken"],
     "numero": "10",
     "resposta_correta": "the house foundation has subsided"
   }
@@ -10370,70 +10026,70 @@ export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Estate planning ensures family wealth",
-    "opcoes": ["riqueza", "planejamento", "garante", "sucessório", "familiar", "herança", "dinheiro", "futuro", "a", "estudo"],
+    "opcoes": ["sucessório", "garante", "herança", "riqueza", "futuro", "planejamento", "bens", "familiar", "protege"],
     "numero": "1",
     "resposta_correta": "planejamento sucessório garante riqueza familiar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The garage serves as workshop",
-    "opcoes": ["workshop", "garage", "serves", "the", "as", "studio", "area", "used", "place", "is"],
+    "pergunta": "O porão serve como oficina",
+    "opcoes": ["workshop", "the", "serves", "a", "as", "room", "basement", "studio", "tools", "is"],
     "numero": "2",
-    "resposta_correta": "the garage serves as workshop"
+    "resposta_correta": "the basement serves as a workshop"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Meu bisavô foi um pioneiro",
-    "opcoes": ["pioneer", "great-grandfather", "was", "my", "a", "man", "brave", "history", "born", "ancestor"],
+    "opcoes": ["was", "great-grandfather", "hero", "born", "my", "pioneer", "a", "ancestor", "man"],
     "numero": "3",
     "resposta_correta": "my great-grandfather was a pioneer"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The chimney requires annual cleaning",
-    "opcoes": ["limpeza", "chaminé", "anual", "exige", "a", "reparo", "fogo", "casa", "precisa", "geral"],
+    "opcoes": ["chaminé", "reparo", "anual", "limpeza", "a", "exige", "precisa", "geral", "cuidado"],
     "numero": "4",
     "resposta_correta": "a chaminé exige limpeza anual"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Domestic labor laws protect workers",
-    "opcoes": ["workers", "domestic", "laws", "labor", "protect", "rights", "house", "help", "legal", "people"],
+    "opcoes": ["laws", "domestic", "rights", "labor", "rules", "workers", "protect", "legal", "safety"],
     "numero": "5",
     "resposta_correta": "domestic labor laws protect workers"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Sua afilhada é extremamente dedicada",
-    "opcoes": ["dedicated", "goddaughter", "extremely", "his", "is", "girl", "very", "smart", "always", "student"],
+    "opcoes": ["extremely", "his", "girl", "is", "dedicated", "hardworking", "goddaughter", "highly", "very"],
     "numero": "6",
     "resposta_correta": "his goddaughter is extremely dedicated"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The ceiling has ornate patterns",
-    "opcoes": ["ornamentados", "teto", "padrões", "o", "possui", "desenhos", "bonitos", "gesso", "casa", "tem"],
+    "opcoes": ["teto", "desenhos", "padrões", "o", "ornamentados", "possui", "gesso", "sala", "tem"],
     "numero": "7",
     "resposta_correta": "o teto possui padrões ornamentados"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Family disputes often involve inheritance",
-    "opcoes": ["inheritance", "disputes", "often", "family", "involve", "money", "problems", "fights", "usually", "laws"],
+    "opcoes": ["often", "inheritance", "legal", "family", "fights", "disputes", "usually", "assets", "involve"],
     "numero": "8",
     "resposta_correta": "family disputes often involve inheritance"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha sogra viaja bastante agora",
-    "opcoes": ["travels", "mother-in-law", "now", "my", "frequently", "trips", "goes", "always", "lot", "she"],
+    "opcoes": ["now", "my", "she", "frequently", "lot", "travels", "mother-in-law", "often", "abroad"],
     "numero": "9",
     "resposta_correta": "my mother-in-law travels frequently now"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The staircase lighting is solar",
-    "opcoes": ["solar", "iluminação", "escada", "da", "é", "luz", "painel", "sol", "a", "moderna"],
+    "opcoes": ["iluminação", "luz", "da", "solar", "escada", "é", "energia", "a", "sustentável", "moderna"],
     "numero": "10",
     "resposta_correta": "a iluminação da escada é solar"
   }
@@ -10442,70 +10098,70 @@ export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
     "pergunta": "Sustainable homes use renewable energy",
-    "opcoes": ["renovável", "casas", "utilizam", "sustentáveis", "energia", "solar", "ecológicas", "meio", "ambiente", "a"],
+    "opcoes": ["sustentáveis", "solar", "casas", "energia", "verde", "utilizam", "limpa", "renovável", "ecológicas"],
     "numero": "1",
     "resposta_correta": "casas sustentáveis utilizam energia renovável"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "My nephew won academic awards",
-    "opcoes": ["awards", "nephew", "won", "academic", "my", "school", "prizes", "boy", "got", "scholarship"],
+    "opcoes": ["scholarship", "awards", "prizes", "nephew", "won", "student", "my", "academic", "best"],
     "numero": "2",
     "resposta_correta": "my nephew won academic awards"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "O encanamento está emitindo ruídos",
-    "opcoes": ["noises", "plumbing", "is", "making", "the", "pipes", "sound", "water", "loud", "strange"],
+    "opcoes": ["is", "the", "sound", "plumbing", "making", "water", "pipes", "noises", "loud"],
     "numero": "3",
     "resposta_correta": "the plumbing is making noises"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Ancestral traditions unite current generations",
-    "opcoes": ["gerações", "ancestrais", "unem", "tradições", "atuais", "passado", "família", "povo", "histórias", "as"],
+    "opcoes": ["unem", "atuais", "família", "gerações", "tradições", "passado", "ancestrais", "as", "unidas"],
     "numero": "4",
     "resposta_correta": "tradições ancestrais unem gerações atuais"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The backyard landscape is breathtaking",
-    "opcoes": ["breathtaking", "landscape", "backyard", "the", "is", "beautiful", "garden", "view", "amazing", "yard"],
+    "opcoes": ["landscape", "the", "amazing", "backyard", "beautiful", "view", "breathtaking", "is", "garden"],
     "numero": "5",
     "resposta_correta": "the backyard landscape is breathtaking"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Seu enteado fala fluentemente chinês",
-    "opcoes": ["fluently", "stepson", "Chinese", "speaks", "his", "language", "talks", "very", "boy", "well"],
+    "opcoes": ["speaks", "language", "his", "well", "stepson", "Chinese", "learning", "fluently", "talks"],
     "numero": "6",
     "resposta_correta": "his stepson speaks Chinese fluently"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The basement air is stale",
-    "opcoes": ["viciado", "ar", "porão", "o", "do", "está", "ruim", "cheiro", "casa", "velho"],
+    "opcoes": ["viciado", "do", "está", "o", "velho", "ar", "pesado", "porão", "fechado", "casa"],
     "numero": "7",
     "resposta_correta": "o ar do porão está viciado"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Property taxes are quite high",
-    "opcoes": ["taxes", "property", "quite", "are", "high", "house", "tax", "cost", "very", "expensive"],
+    "opcoes": ["are", "tax", "quite", "property", "very", "taxes", "high", "expensive", "home"],
     "numero": "8",
     "resposta_correta": "property taxes are quite high"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "Minha bisavó adora contar histórias",
-    "opcoes": ["loves", "great-grandmother", "telling", "stories", "my", "likes", "tales", "old", "speaks", "family"],
+    "opcoes": ["loves", "my", "tales", "great-grandmother", "grandma", "stories", "history", "telling", "past"],
     "numero": "9",
     "resposta_correta": "my great-grandmother loves telling stories"
   },
   {
     "questionType": "traduza a frase",
     "pergunta": "The kitchen renovation cost thousands",
-    "opcoes": ["milhares", "reforma", "custou", "cozinha", "da", "dinheiro", "valor", "nova", "a", "caro"],
+    "opcoes": ["milhares", "da", "a", "valor", "reforma", "obra", "custou", "cozinha", "nova", "muito"],
     "numero": "10",
     "resposta_correta": "a reforma da cozinha custou milhares"
   }

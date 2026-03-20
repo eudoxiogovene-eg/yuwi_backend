@@ -1,68 +1,67 @@
 
-
-export const quiz1 = [
+export const quiz01 = [
   {
     "pergunta": "Como se diz 'Hospital' em inglês?",
     "opcoes": {
       "A": "Hotel",
-      "B": "Hospital",
-      "C": "House",
+      "B": "House",
+      "C": "Hospital",
       "D": "Hostel"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Doctor'?",
     "opcoes": {
-      "A": "Dentista",
+      "A": "Médico",
       "B": "Enfermeiro",
-      "C": "Médico",
+      "C": "Dentista",
       "D": "Paciente"
     },
     "numero": "2",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Ambulância' em inglês?",
     "opcoes": {
-      "A": "Ambulance",
-      "B": "Car",
-      "C": "Truck",
-      "D": "Bus"
+      "A": "Car",
+      "B": "Truck",
+      "C": "Bus",
+      "D": "Ambulance"
     },
     "numero": "3",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Nurse'?",
     "opcoes": {
-      "A": "Médico",
-      "B": "Cirurgião",
-      "C": "Secretário",
-      "D": "Enfermeiro"
+      "A": "Secretário",
+      "B": "Enfermeiro",
+      "C": "Médico",
+      "D": "Cirurgião"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Remédio' em inglês?",
     "opcoes": {
-      "A": "Candy",
-      "B": "Medicine",
+      "A": "Medicine",
+      "B": "Candy",
       "C": "Water",
       "D": "Food"
     },
     "numero": "5",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Pain'?",
     "opcoes": {
-      "A": "Pão",
-      "B": "Pena",
+      "A": "Pena",
+      "B": "Pano",
       "C": "Dor",
-      "D": "Pano"
+      "D": "Pão"
     },
     "numero": "6",
     "resposta_correta": "C"
@@ -70,159 +69,162 @@ export const quiz1 = [
   {
     "pergunta": "Como se diz 'Sangue' em inglês?",
     "opcoes": {
-      "A": "Blue",
-      "B": "Water",
-      "C": "Body",
-      "D": "Blood"
+      "A": "Water",
+      "B": "Blood",
+      "C": "Blue",
+      "D": "Body"
     },
     "numero": "7",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Patient'?",
     "opcoes": {
-      "A": "Paciente",
-      "B": "Parente",
-      "C": "Passageiro",
-      "D": "Patrão"
+      "A": "Parente",
+      "B": "Passageiro",
+      "C": "Patrão",
+      "D": "Paciente"
     },
     "numero": "8",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Emergência' em inglês?",
     "opcoes": {
-      "A": "Entrance",
-      "B": "Emergency",
+      "A": "Emergency",
+      "B": "Entrance",
       "C": "Elevator",
       "D": "Example"
     },
     "numero": "9",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Heart'?",
     "opcoes": {
-      "A": "Cabeça",
-      "B": "Mão",
-      "C": "Coração",
+      "A": "Coração",
+      "B": "Cabeça",
+      "C": "Mão",
       "D": "Fígado"
     },
     "numero": "10",
-    "resposta_correta": "C"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quiz02 = [
+ 
   {
     "pergunta": "Como se diz 'Farmácia' em inglês?",
     "opcoes": {
-      "A": "Bakery",
-      "B": "Market",
-      "C": "Library",
-      "D": "Pharmacy"
+      "A": "Library",
+      "B": "Bakery",
+      "C": "Pharmacy",
+      "D": "Market"
     },
     "numero": "11",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Health'?",
     "opcoes": {
-      "A": "Saúde",
-      "B": "Ajuda",
-      "C": "Felicidade",
-      "D": "Riqueza"
+      "A": "Ajuda",
+      "B": "Felicidade",
+      "C": "Riqueza",
+      "D": "Saúde"
     },
     "numero": "12",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Primeiros socorros' em inglês?",
     "opcoes": {
-      "A": "Fast help",
-      "B": "First aid",
-      "C": "Primary care",
+      "A": "Primary care",
+      "B": "Fast help",
+      "C": "First aid",
       "D": "First call"
     },
     "numero": "13",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a tradução de 'Help'?",
     "opcoes": {
-      "A": "Oi",
-      "B": "Saída",
-      "C": "Ajuda",
-      "D": "Perigo"
+      "A": "Perigo",
+      "B": "Ajuda",
+      "C": "Oi",
+      "D": "Saída"
     },
     "numero": "14",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Pílula / Comprimido' em inglês?",
     "opcoes": {
-      "A": "Paper",
-      "B": "Pen",
-      "C": "Phone",
-      "D": "Pill"
+      "A": "Pen",
+      "B": "Phone",
+      "C": "Pill",
+      "D": "Paper"
     },
     "numero": "15",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é a tradução de 'Surgery'?",
     "opcoes": {
-      "A": "Cirurgia",
-      "B": "Segurança",
+      "A": "Segurança",
+      "B": "Cirurgia",
       "C": "Sugerir",
       "D": "Surgir"
     },
     "numero": "16",
-    "resposta_correta": "A"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Termômetro' em inglês?",
     "opcoes": {
-      "A": "Telephone",
-      "B": "Thermometer",
+      "A": "Thermometer",
+      "B": "Telephone",
       "C": "Television",
       "D": "Table"
     },
     "numero": "17",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é a tradução de 'Fever'?",
     "opcoes": {
-      "A": "Fevereiro",
-      "B": "Fervura",
-      "C": "Febre",
+      "A": "Febre",
+      "B": "Fevereiro",
+      "C": "Fervura",
       "D": "Favor"
     },
     "numero": "18",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Exame' em inglês?",
     "opcoes": {
-      "A": "Exit",
-      "B": "Exercise",
-      "C": "Example",
-      "D": "Exam"
+      "A": "Example",
+      "B": "Exam",
+      "C": "Exercise",
+      "D": "Exit"
     },
     "numero": "19",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a tradução de 'Appointment'?",
     "opcoes": {
-      "A": "Consulta / Compromisso",
-      "B": "Apontamento",
-      "C": "Apartamento",
+      "A": "Apontamento",
+      "B": "Apartamento",
+      "C": "Consulta / Compromisso",
       "D": "Aprovação"
     },
     "numero": "20",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   }
 ];
-export const quiz2 = [
+export const quiz03 = [
   {
     "pergunta": "Qual é a tradução de 'Bandage'?",
     "opcoes": {
@@ -332,7 +334,10 @@ export const quiz2 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz04 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Virus'?",
     "opcoes": {
@@ -444,7 +449,7 @@ export const quiz2 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz3 = [
+export const quiz05 = [
   {
     "pergunta": "Qual é a tradução de 'Poison'?",
     "opcoes": {
@@ -554,7 +559,10 @@ export const quiz3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz06 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Backache'?",
     "opcoes": {
@@ -666,7 +674,7 @@ export const quiz3 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz4 = [
+export const quiz07 = [
   {
     "pergunta": "Qual é a tradução de 'Stretcher'?",
     "opcoes": {
@@ -776,7 +784,10 @@ export const quiz4 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz08 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Waitress'?",
     "opcoes": {
@@ -888,7 +899,7 @@ export const quiz4 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz5 = [
+export const quiz09 = [
   {
     "pergunta": "Qual é a tradução de 'Bone'?",
     "opcoes": {
@@ -998,7 +1009,10 @@ export const quiz5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz010 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Pill'?",
     "opcoes": {
@@ -1110,7 +1124,7 @@ export const quiz5 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz6 = [
+export const quiz011 = [
   {
     "pergunta": "Qual é a tradução de 'First aid kit'?",
     "opcoes": {
@@ -1220,7 +1234,10 @@ export const quiz6 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz012 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Throat'?",
     "opcoes": {
@@ -1332,7 +1349,7 @@ export const quiz6 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz7 = [
+export const quiz013 = [
   {
     "pergunta": "Qual é a tradução de 'Fever'?",
     "opcoes": {
@@ -1442,7 +1459,10 @@ export const quiz7 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz014 = [
+ 
   {
     "pergunta": "Qual é a tradução de 'Bandage'?",
     "opcoes": {
@@ -1554,7 +1574,7 @@ export const quiz7 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz8 = [
+export const quiz015 = [
   {
     "pergunta": "Como se diz 'Erupção cutânea / Manchas na pele' em inglês?",
     "opcoes": {
@@ -1664,7 +1684,10 @@ export const quiz8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quiz016 = [
+ 
   {
     "pergunta": "Como se diz 'Músculo' em inglês?",
     "opcoes": {
@@ -1776,7 +1799,7 @@ export const quiz8 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz9 = [
+export const quiz017 = [
   {
     "pergunta": "Qual é a tradução de 'X-ray'?",
     "opcoes": {
@@ -1886,7 +1909,10 @@ export const quiz9 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quiz018 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Scalpel'?",
     "opcoes": {
@@ -1998,7 +2024,7 @@ export const quiz9 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz10 = [
+export const quiz019 = [
   {
     "pergunta": "Qual é a tradução de 'Health insurance'?",
     "opcoes": {
@@ -2108,7 +2134,10 @@ export const quiz10 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quiz020 = [
+  
   {
     "pergunta": "Qual é a tradução de 'Ward'?",
     "opcoes": {
@@ -2224,7 +2253,7 @@ export const quiz10 = [
 /*-----------------------basico--------------------------------*/
 
 
-export const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Eu preciso de ajuda' em inglês?",
     "opcoes": {
@@ -2334,7 +2363,10 @@ export const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico02 = [
+  
   {
     "pergunta": "Como se diz 'Tome este remédio' em inglês?",
     "opcoes": {
@@ -2446,7 +2478,7 @@ export const quizBasico1 = [
     "resposta_correta": "A"
   }
 ];
-export const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Eu não consigo ver' em inglês?",
     "opcoes": {
@@ -2536,6 +2568,17 @@ export const quizBasico2 = [
     "resposta_correta": "A"
   },
   {
+    "pergunta": "Traduza: 'Look at my eyes'",
+    "opcoes": {
+      "A": "Feche os olhos",
+      "B": "Olhe nos meus olhos",
+      "C": "Abra os olhos",
+      "D": "Pisque os olhos"
+    },
+    "numero": "9",
+    "resposta_correta": "B"
+  },
+  {
     "pergunta": "Como se diz 'Respire fundo' em inglês?",
     "opcoes": {
       "A": "Breath is deep",
@@ -2545,7 +2588,10 @@ export const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizBasico04 = [
+  
   {
     "pergunta": "Traduza: 'Is the ambulance coming?'",
     "opcoes": {
@@ -2655,20 +2701,9 @@ export const quizBasico2 = [
     },
     "numero": "20",
     "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Traduza: 'Look at my eyes'",
-    "opcoes": {
-      "A": "Feche os olhos",
-      "B": "Olhe nos meus olhos",
-      "C": "Abra os olhos",
-      "D": "Pisque os olhos"
-    },
-    "numero": "9",
-    "resposta_correta": "B"
   }
 ];
-export const quizBasico3 = [
+export const quizBasico05 = [
   {
     "pergunta": "Traduza: 'Call the police now'",
     "opcoes": {
@@ -2778,7 +2813,10 @@ export const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico06 = [
+  
   {
     "pergunta": "Traduza: 'Stop the blood'",
     "opcoes": {
@@ -2890,7 +2928,7 @@ export const quizBasico3 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Como se diz 'Eu estou grávida' em inglês?",
     "opcoes": {
@@ -3000,7 +3038,10 @@ export const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico08 = [
+  
   {
     "pergunta": "Como se diz 'Aperte minha mão' em inglês?",
     "opcoes": {
@@ -3112,7 +3153,7 @@ export const quizBasico4 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'Estou com tontura' em inglês?",
     "opcoes": {
@@ -3222,7 +3263,10 @@ export const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico010 = [
+ 
   {
     "pergunta": "Como se diz 'Eu tenho convulsão' em inglês?",
     "opcoes": {
@@ -3334,7 +3378,7 @@ export const quizBasico5 = [
     "resposta_correta": "B"
   }
 ];
-export const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Não se mexa' em inglês?",
     "opcoes": {
@@ -3444,7 +3488,10 @@ export const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico012 = [
+ 
   {
     "pergunta": "Como se diz 'Aperte aqui' em inglês?",
     "opcoes": {
@@ -3556,7 +3603,7 @@ export const quizBasico6 = [
     "resposta_correta": "C"
   }
 ];
-export const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'Sinto muita dor' em inglês?",
     "opcoes": {
@@ -3666,7 +3713,10 @@ export const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico014 = [
+  
   {
     "pergunta": "Como se diz 'Aperte este botão' em inglês?",
     "opcoes": {
@@ -3778,7 +3828,7 @@ export const quizBasico7 = [
     "resposta_correta": "B"
   }
 ];
-export const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Sente-se aqui, por favor' em inglês?",
     "opcoes": {
@@ -3888,7 +3938,10 @@ export const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico016 = [
+  
   {
     "pergunta": "Como se diz 'Ligue para ele' em inglês?",
     "opcoes": {
@@ -4000,7 +4053,7 @@ export const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Traduza: 'Do you need help?'",
     "opcoes": {
@@ -4110,7 +4163,10 @@ export const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico018 = [
+ 
   {
     "pergunta": "Traduza: 'Do not swallow it'",
     "opcoes": {
@@ -4222,7 +4278,7 @@ export const quizBasico9 = [
     "resposta_correta": "D"
   }
 ];
-export const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'Onde está a dor?' em inglês?",
     "opcoes": {
@@ -4332,7 +4388,10 @@ export const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizBasico020 = [
+ 
   {
     "pergunta": "Como se diz 'Dê-me sua mão' em inglês?",
     "opcoes": {
@@ -4444,10 +4503,9 @@ export const quizBasico10 = [
     "resposta_correta": "A"
   }
 ];
-
 /*-----------------------intermediario--------------------------------*/
 
-export const quizIntermediario1 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'Patient is experiencing chest pain'",
     "opcoes": {
@@ -4557,7 +4615,10 @@ export const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario02 = [
+ 
   {
     "pergunta": "Traduza: 'He suffered a severe concussion'",
     "opcoes": {
@@ -4669,17 +4730,17 @@ export const quizIntermediario1 = [
     "resposta_correta": "D"
   }
 ];
-export const quizIntermediario2 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Ele sofreu uma fratura' em inglês?",
     "opcoes": {
       "A": "He has a bone",
-      "B": "He sustained a fracture",
-      "C": "He broke something now",
+      "B": "He broke something now",
+      "C": "He sustained a fracture",
       "D": "His leg is bad"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'The patient is non-responsive'",
@@ -4697,55 +4758,55 @@ export const quizIntermediario2 = [
     "opcoes": {
       "A": "The pain is jumping",
       "B": "The pain is hitting",
-      "C": "The pain is throbbing",
-      "D": "The pain is strong"
+      "C": "The pain is strong",
+      "D": "The pain is throbbing"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Check for any pupil dilation'",
     "opcoes": {
       "A": "Olhe para os olhos",
-      "B": "Veja se ele enxerga",
-      "C": "Verifique o brilho ocular",
-      "D": "Verifique qualquer dilatação pupilar"
+      "B": "Verifique qualquer dilatação pupilar",
+      "C": "Veja se ele enxerga",
+      "D": "Verifique o brilho ocular"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Aplique um torniquete' em inglês?",
     "opcoes": {
-      "A": "Use a tight band",
-      "B": "Apply a tourniquet",
+      "A": "Apply a tourniquet",
+      "B": "Use a tight band",
       "C": "Stop the blood now",
       "D": "Put a pressure bandage"
     },
     "numero": "5",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Elevate the injured limb'",
     "opcoes": {
-      "A": "Eleve o membro lesionado",
-      "B": "Lave o braço machucado",
-      "C": "Segure a perna ferida",
+      "A": "Lave o braço machucado",
+      "B": "Segure a perna ferida",
+      "C": "Eleve o membro lesionado",
       "D": "Mova a parte lesionada"
     },
     "numero": "6",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Ele está com náuseas' em inglês?",
     "opcoes": {
       "A": "He wants to vomit",
-      "B": "He feels very sick",
-      "C": "He is feeling nauseous",
+      "B": "He is feeling nauseous",
+      "C": "He feels very sick",
       "D": "He has stomach pain"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Administer the prescribed dosage'",
@@ -4761,25 +4822,28 @@ export const quizIntermediario2 = [
   {
     "pergunta": "Como se diz 'A esterilização é necessária' em inglês?",
     "opcoes": {
-      "A": "Sterilization is required",
-      "B": "Cleaning is very good",
-      "C": "Need to be clean",
-      "D": "Everything must be sterile"
+      "A": "Cleaning is very good",
+      "B": "Need to be clean",
+      "C": "Everything must be sterile",
+      "D": "Sterilization is required"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'He has high blood pressure'",
     "opcoes": {
-      "A": "Ele tem sangue quente",
-      "B": "Ele tem pressão alta",
+      "A": "Ele tem pressão alta",
+      "B": "Ele tem sangue quente",
       "C": "A pressão está subindo",
       "D": "Ele sofre do coração"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario04 = [
+ 
   {
     "pergunta": "Como se diz 'Aguarde a triagem' em inglês?",
     "opcoes": {
@@ -4795,12 +4859,12 @@ export const quizIntermediario2 = [
     "pergunta": "Traduza: 'Monitor the heart rate'",
     "opcoes": {
       "A": "Veja o coração bater",
-      "B": "Escute o peito dele",
-      "C": "Olhe para o monitor",
-      "D": "Monitore a frequência cardíaca"
+      "B": "Monitore a frequência cardíaca",
+      "C": "Escute o peito dele",
+      "D": "Olhe para o monitor"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Use luvas descartáveis' em inglês?",
@@ -4817,12 +4881,12 @@ export const quizIntermediario2 = [
     "pergunta": "Traduza: 'The patient is disoriented'",
     "opcoes": {
       "A": "O paciente está perdido",
-      "B": "O paciente está desorientado",
-      "C": "O paciente não sabe",
-      "D": "Paciente parece estar confuso"
+      "B": "O paciente não sabe",
+      "C": "Paciente parece estar confuso",
+      "D": "O paciente está desorientado"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Mantenha-o aquecido' em inglês?",
@@ -4839,110 +4903,110 @@ export const quizIntermediario2 = [
     "pergunta": "Traduza: 'The wound requires stitches'",
     "opcoes": {
       "A": "A ferida precisa fechar",
-      "B": "O corte é profundo",
+      "B": "A ferida requer pontos",
       "C": "A ferida precisa limpar",
-      "D": "A ferida requer pontos"
+      "D": "O corte é profundo"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'Ele está pálido' em inglês?",
     "opcoes": {
-      "A": "He looks very pale",
-      "B": "He is white now",
-      "C": "He has no color",
-      "D": "He is feeling cold"
+      "A": "He is white now",
+      "B": "He has no color",
+      "C": "He is feeling cold",
+      "D": "He looks very pale"
     },
     "numero": "17",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Is the pain radiating?'",
     "opcoes": {
-      "A": "A dor está forte?",
-      "B": "A dor está irradiando?",
+      "A": "A dor está irradiando?",
+      "B": "A dor está forte?",
       "C": "A dor está saindo?",
       "D": "Sente a dor aqui?"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Evite esforço físico' em inglês?",
     "opcoes": {
       "A": "Do not work out",
-      "B": "No hard movements now",
-      "C": "Avoid physical exertion",
+      "B": "Avoid physical exertion",
+      "C": "No hard movements now",
       "D": "Stay in your bed"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Check for internal bleeding'",
     "opcoes": {
       "A": "Veja o sangue dentro",
       "B": "Onde está o sangue?",
-      "C": "Procure por feridas internas",
-      "D": "Verifique se há hemorragia interna"
+      "C": "Verifique se há hemorragia interna",
+      "D": "Procure por feridas internas"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Inicie a ressuscitação' em inglês?",
     "opcoes": {
       "A": "Start the heart now",
-      "B": "Begin the resuscitation",
+      "B": "Do the chest push",
       "C": "Make him breathe again",
-      "D": "Do the chest push"
+      "D": "Begin the resuscitation"
     },
     "numero": "1",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'The patient feels drowsy'",
     "opcoes": {
-      "A": "O paciente sente sonolência",
-      "B": "O paciente está doente",
-      "C": "O paciente sente tontura",
-      "D": "O paciente está desmaiado"
+      "A": "O paciente sente tontura",
+      "B": "O paciente está desmaiado",
+      "C": "O paciente está doente",
+      "D": "O paciente sente sonolência"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Aplique esta pomada' em inglês?",
     "opcoes": {
       "A": "Use this cream here",
-      "B": "Put this on skin",
-      "C": "Apply this ointment",
+      "B": "Apply this ointment",
+      "C": "Put this on skin",
       "D": "Rub this medicine now"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Do you have blurry vision?'",
     "opcoes": {
-      "A": "Você enxerga bem agora?",
-      "B": "Seus olhos estão vermelhos?",
-      "C": "Você tem dor ocular?",
-      "D": "Você tem visão embaçada?"
+      "A": "Você tem visão embaçada?",
+      "B": "Você enxerga bem agora?",
+      "C": "Seus olhos estão vermelhos?",
+      "D": "Você tem dor ocular?"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A infecção se espalhou' em inglês?",
     "opcoes": {
       "A": "The infection has spread",
-      "B": "The bacteria is everywhere",
-      "C": "The wound is growing",
-      "D": "It is getting worse"
+      "B": "The wound is growing",
+      "C": "It is getting worse",
+      "D": "The bacteria is everywhere"
     },
     "numero": "5",
     "resposta_correta": "A"
@@ -4950,10 +5014,10 @@ export const quizIntermediario3 = [
   {
     "pergunta": "Traduza: 'He is breathing shallowly'",
     "opcoes": {
-      "A": "Ele está respirando rápido",
+      "A": "A respiração está fraca",
       "B": "Ele está respirando superficialmente",
       "C": "Ele mal consegue respirar",
-      "D": "A respiração está fraca"
+      "D": "Ele está respirando rápido"
     },
     "numero": "6",
     "resposta_correta": "B"
@@ -4961,24 +5025,24 @@ export const quizIntermediario3 = [
   {
     "pergunta": "Como se diz 'Verifique os reflexos' em inglês?",
     "opcoes": {
-      "A": "Look at his reaction",
-      "B": "Test the body movement",
-      "C": "Check the reflexes",
-      "D": "See if he moves"
+      "A": "Check the reflexes",
+      "B": "Look at his reaction",
+      "C": "See if he moves",
+      "D": "Test the body movement"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The patient is improving'",
     "opcoes": {
-      "A": "O paciente está acordando",
-      "B": "O paciente está falando",
-      "C": "O paciente está estável",
-      "D": "O paciente está melhorando"
+      "A": "O paciente está melhorando",
+      "B": "O paciente está acordando",
+      "C": "O paciente está falando",
+      "D": "O paciente está estável"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Limpe o local' em inglês?",
@@ -4994,35 +5058,38 @@ export const quizIntermediario3 = [
   {
     "pergunta": "Traduza: 'Is the injury life-threatening?'",
     "opcoes": {
-      "A": "A lesão é fatal?",
-      "B": "A lesão oferece risco?",
+      "A": "A lesão oferece risco?",
+      "B": "A lesão dói muito?",
       "C": "A lesão é grave?",
-      "D": "A lesão dói muito?"
+      "D": "A lesão é fatal?"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario06 = [
+ 
   {
     "pergunta": "Como se diz 'Ele desmaiou repentinamente' em inglês?",
     "opcoes": {
-      "A": "He fell down now",
+      "A": "He fainted suddenly",
       "B": "He lost consciousness fast",
-      "C": "He fainted suddenly",
-      "D": "He went to sleep"
+      "C": "He went to sleep",
+      "D": "He fell down now"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The bandage is tight'",
     "opcoes": {
-      "A": "O curativo está sujo",
-      "B": "O curativo está solto",
-      "C": "O curativo está caindo",
-      "D": "O curativo está apertado"
+      "A": "O curativo está apertado",
+      "B": "O curativo está caindo",
+      "C": "O curativo está sujo",
+      "D": "O curativo está solto"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Ele tem calafrios' em inglês?",
@@ -5038,31 +5105,31 @@ export const quizIntermediario3 = [
   {
     "pergunta": "Traduza: 'Does it hurt when coughing?'",
     "opcoes": {
-      "A": "Dói quando você fala?",
-      "B": "Dói ao tossir?",
-      "C": "A tosse está forte?",
-      "D": "Você sente dor agora?"
+      "A": "Dói ao tossir?",
+      "B": "A tosse está forte?",
+      "C": "Você sente dor agora?",
+      "D": "Dói quando você fala?"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'A dor diminuiu' em inglês?",
     "opcoes": {
-      "A": "The pain is gone",
-      "B": "No more pain now",
-      "C": "The pain has subsided",
-      "D": "Pain is very low"
+      "A": "The pain has subsided",
+      "B": "The pain is gone",
+      "C": "Pain is very low",
+      "D": "No more pain now"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Seek medical attention immediately'",
     "opcoes": {
-      "A": "Chame o médico logo",
-      "B": "Vá para o hospital",
-      "C": "Procure ajuda agora mesmo",
+      "A": "Procure ajuda agora mesmo",
+      "B": "Chame o médico logo",
+      "C": "Vá para o hospital",
       "D": "Busque atendimento médico imediatamente"
     },
     "numero": "16",
@@ -5073,8 +5140,8 @@ export const quizIntermediario3 = [
     "opcoes": {
       "A": "He looks extremely pale",
       "B": "He has white skin",
-      "C": "He is feeling sick",
-      "D": "He looks very tired"
+      "C": "He looks very tired",
+      "D": "He is feeling sick"
     },
     "numero": "17",
     "resposta_correta": "A"
@@ -5082,45 +5149,45 @@ export const quizIntermediario3 = [
   {
     "pergunta": "Traduza: 'He is shivering'",
     "opcoes": {
-      "A": "Ele está suando",
-      "B": "Ele está tremendo",
-      "C": "Ele está chorando",
-      "D": "Ele está gritando"
+      "A": "Ele está tremendo",
+      "B": "Ele está chorando",
+      "C": "Ele está gritando",
+      "D": "Ele está suando"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Pressione o ferimento' em inglês?",
     "opcoes": {
-      "A": "Hold the blood back",
-      "B": "Touch the injury now",
-      "C": "Apply pressure to wound",
-      "D": "Stop the wound now"
+      "A": "Apply pressure to wound",
+      "B": "Stop the wound now",
+      "C": "Hold the blood back",
+      "D": "Touch the injury now"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Check for any bruising'",
     "opcoes": {
-      "A": "Veja se há sangue",
+      "A": "Verifique se há hematomas",
       "B": "Procure por ossos quebrados",
       "C": "Veja se há cortes",
-      "D": "Verifique se há hematomas"
+      "D": "Veja se há sangue"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   }
 ];
-export const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'A pressão dele caiu' em inglês?",
     "opcoes": {
       "A": "His blood pressure dropped",
       "B": "The heart is slow",
-      "C": "He has low blood",
-      "D": "The pressure is down"
+      "C": "The pressure is down",
+      "D": "He has low blood"
     },
     "numero": "1",
     "resposta_correta": "A"
@@ -5128,10 +5195,10 @@ export const quizIntermediario4 = [
   {
     "pergunta": "Traduza: 'The patient is having seizures'",
     "opcoes": {
-      "A": "O paciente está tremendo",
+      "A": "O paciente está desmaiando",
       "B": "O paciente está tendo convulsões",
-      "C": "O paciente está passando mal",
-      "D": "O paciente está desmaiando"
+      "C": "O paciente está tremendo",
+      "D": "O paciente está passando mal"
     },
     "numero": "2",
     "resposta_correta": "B"
@@ -5140,9 +5207,9 @@ export const quizIntermediario4 = [
     "pergunta": "Como se diz 'O inchaço diminuiu' em inglês?",
     "opcoes": {
       "A": "The bump is gone",
-      "B": "No more red skin",
+      "B": "It is not big",
       "C": "The swelling has decreased",
-      "D": "It is not big"
+      "D": "No more red skin"
     },
     "numero": "3",
     "resposta_correta": "C"
@@ -5150,13 +5217,13 @@ export const quizIntermediario4 = [
   {
     "pergunta": "Traduza: 'Apply a sterile dressing'",
     "opcoes": {
-      "A": "Use uma roupa limpa",
-      "B": "Limpe bem o local",
-      "C": "Tampe a ferida logo",
-      "D": "Aplique um curativo estéril"
+      "A": "Limpe bem o local",
+      "B": "Use uma roupa limpa",
+      "C": "Aplique um curativo estéril",
+      "D": "Tampe a ferida logo"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Ele está muito confuso' em inglês?",
@@ -5174,8 +5241,8 @@ export const quizIntermediario4 = [
     "opcoes": {
       "A": "A dor está voltando?",
       "B": "A dor é intermitente?",
-      "C": "Sente dor o tempo todo?",
-      "D": "A dor é forte?"
+      "C": "A dor é forte?",
+      "D": "Sente dor o tempo todo?"
     },
     "numero": "6",
     "resposta_correta": "B"
@@ -5183,20 +5250,20 @@ export const quizIntermediario4 = [
   {
     "pergunta": "Como se diz 'Ele precisa de oxigênio' em inglês?",
     "opcoes": {
-      "A": "Give him some air",
-      "B": "Put air in him",
-      "C": "He requires supplemental oxygen",
-      "D": "Need oxygen for him"
+      "A": "He requires supplemental oxygen",
+      "B": "Give him some air",
+      "C": "Need oxygen for him",
+      "D": "Put air in him"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The pulse is very thready'",
     "opcoes": {
-      "A": "O coração parou agora",
-      "B": "O pulso está rápido",
-      "C": "O pulso está normal",
+      "A": "O pulso está rápido",
+      "B": "O pulso está normal",
+      "C": "O coração parou agora",
       "D": "O pulso está filiforme"
     },
     "numero": "8",
@@ -5216,43 +5283,46 @@ export const quizIntermediario4 = [
   {
     "pergunta": "Traduza: 'He sustained minor injuries'",
     "opcoes": {
-      "A": "Ele teve cortes profundos",
-      "B": "Ele sofreu ferimentos leves",
-      "C": "Ele está muito machucado",
-      "D": "Ele não sente nada"
+      "A": "Ele sofreu ferimentos leves",
+      "B": "Ele está muito machucado",
+      "C": "Ele não sente nada",
+      "D": "Ele teve cortes profundos"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario08 = [
+  
   {
     "pergunta": "Como se diz 'Aguarde a ambulância' em inglês?",
     "opcoes": {
-      "A": "Look for the car",
-      "B": "Stay for the help",
-      "C": "Await the ambulance arrival",
-      "D": "Wait for car doctor"
+      "A": "Await the ambulance arrival",
+      "B": "Look for the car",
+      "C": "Wait for car doctor",
+      "D": "Stay for the help"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Check for skin rash'",
     "opcoes": {
-      "A": "Veja se há sangue",
+      "A": "Verifique se há erupções",
       "B": "Procure por febre alta",
-      "C": "Veja se há cortes",
-      "D": "Verifique se há erupções"
+      "C": "Veja se há sangue",
+      "D": "Veja se há cortes"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Sinto uma pontada' em inglês?",
     "opcoes": {
       "A": "I feel sharp pain",
-      "B": "I have a needle",
+      "B": "I feel a point",
       "C": "It is very small",
-      "D": "I feel a point"
+      "D": "I have a needle"
     },
     "numero": "13",
     "resposta_correta": "A"
@@ -5260,43 +5330,43 @@ export const quizIntermediario4 = [
   {
     "pergunta": "Traduza: 'The symptoms are consistent'",
     "opcoes": {
-      "A": "Os sintomas são novos",
-      "B": "Os sintomas são consistentes",
-      "C": "Os sintomas estão ruins",
-      "D": "Sintomas mudaram de lugar"
+      "A": "Os sintomas são consistentes",
+      "B": "Os sintomas estão ruins",
+      "C": "Sintomas mudaram de lugar",
+      "D": "Os sintomas são novos"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Ele está pálido' em inglês?",
     "opcoes": {
-      "A": "He is white colored",
-      "B": "He looks very sick",
-      "C": "He appears quite pale",
+      "A": "He appears quite pale",
+      "B": "He is white colored",
+      "C": "He looks very sick",
       "D": "He has no energy"
     },
     "numero": "15",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Administer the medication orally'",
     "opcoes": {
-      "A": "Coloque o remédio aqui",
+      "A": "Administre o medicamento oralmente",
       "B": "Dê o remédio logo",
-      "C": "Beba muita água agora",
-      "D": "Administre o medicamento oralmente"
+      "C": "Coloque o remédio aqui",
+      "D": "Beba muita água agora"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Afrouxe as roupas' em inglês?",
     "opcoes": {
       "A": "Loosen any tight clothing",
-      "B": "Take off the shirt",
-      "C": "Open the clothes now",
-      "D": "Make the clothes big"
+      "B": "Open the clothes now",
+      "C": "Make the clothes big",
+      "D": "Take off the shirt"
     },
     "numero": "17",
     "resposta_correta": "A"
@@ -5304,38 +5374,38 @@ export const quizIntermediario4 = [
   {
     "pergunta": "Traduza: 'He is coughing blood'",
     "opcoes": {
-      "A": "Ele está com tosse",
-      "B": "Ele está tossindo sangue",
+      "A": "Ele está tossindo sangue",
+      "B": "Ele não para de tossir",
       "C": "Ele tem sangue seco",
-      "D": "Ele não para de tossir"
+      "D": "Ele está com tosse"
     },
     "numero": "18",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Mantenha-o deitado' em inglês?",
     "opcoes": {
-      "A": "Stay on the bed",
-      "B": "No more sitting up",
-      "C": "Keep him lying down",
-      "D": "Lay him here now"
+      "A": "Keep him lying down",
+      "B": "Stay on the bed",
+      "C": "Lay him here now",
+      "D": "No more sitting up"
     },
     "numero": "19",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The joint is swollen'",
     "opcoes": {
-      "A": "O osso quebrou",
+      "A": "A articulação está inchada",
       "B": "O braço está roxo",
       "C": "A perna está doendo",
-      "D": "A articulação está inchada"
+      "D": "O osso quebrou"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   }
 ];
-export const quizIntermediario5 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Traduza: 'The patient feels extreme fatigue'",
     "opcoes": {
@@ -5350,24 +5420,24 @@ export const quizIntermediario5 = [
   {
     "pergunta": "Como se diz 'A dor é insuportável' em inglês?",
     "opcoes": {
-      "A": "The pain is unbearable",
+      "A": "Pain is not good",
       "B": "The pain is very big",
-      "C": "Pain is not good",
-      "D": "I can't feel pain"
+      "C": "I can't feel pain",
+      "D": "The pain is unbearable"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Check for any numbness'",
     "opcoes": {
-      "A": "Veja se há sangue",
+      "A": "Verifique se há dormência",
       "B": "Verifique se há dor",
       "C": "Procure por febre alta",
-      "D": "Verifique se há dormência"
+      "D": "Veja se há sangue"
     },
     "numero": "3",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Ele precisa de maca' em inglês?",
@@ -5383,21 +5453,21 @@ export const quizIntermediario5 = [
   {
     "pergunta": "Traduza: 'Is the wound discharge clear?'",
     "opcoes": {
-      "A": "A secreção está clara?",
-      "B": "A ferida está limpa?",
-      "C": "O corte está aberto?",
+      "A": "A ferida está limpa?",
+      "B": "O corte está aberto?",
+      "C": "A secreção está clara?",
       "D": "O curativo saiu?"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Aplique gelo no local' em inglês?",
     "opcoes": {
-      "A": "Put cold water here",
+      "A": "Make the area cold",
       "B": "Apply ice to the area",
       "C": "Ice is good now",
-      "D": "Make the area cold"
+      "D": "Put cold water here"
     },
     "numero": "6",
     "resposta_correta": "B"
@@ -5405,47 +5475,50 @@ export const quizIntermediario5 = [
   {
     "pergunta": "Traduza: 'He has severe chest tightness'",
     "opcoes": {
-      "A": "Ele tem dor torácica",
-      "B": "Ele sente o peito quente",
-      "C": "Ele tem aperto no peito",
-      "D": "Ele não consegue tossir"
+      "A": "Ele sente o peito quente",
+      "B": "Ele não consegue tossir",
+      "C": "Ele tem dor torácica",
+      "D": "Ele tem aperto no peito"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Verifique a oxigenação' em inglês?",
     "opcoes": {
-      "A": "Look at the air",
+      "A": "Monitor the oxygen saturation",
       "B": "Need more oxygen now",
       "C": "Check the oxygen level",
-      "D": "Monitor the oxygen saturation"
+      "D": "Look at the air"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The infection is localized'",
     "opcoes": {
-      "A": "A infecção é localizada",
-      "B": "A infecção é grave",
-      "C": "A infecção se espalhou",
-      "D": "A infecção acabou"
+      "A": "A infecção se espalhou",
+      "B": "A infecção acabou",
+      "C": "A infecção é grave",
+      "D": "A infecção é localizada"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Evite esforço desnecessário' em inglês?",
     "opcoes": {
-      "A": "No more hard work",
-      "B": "Avoid unnecessary exertion",
+      "A": "Avoid unnecessary exertion",
+      "B": "No more hard work",
       "C": "Stay very still now",
       "D": "Don't move too much"
     },
     "numero": "10",
-    "resposta_correta": "B"
-  },
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario010 = [
+  
   {
     "pergunta": "Traduza: 'The symptoms are improving'",
     "opcoes": {
@@ -5461,12 +5534,12 @@ export const quizIntermediario5 = [
     "pergunta": "Como se diz 'Ele está desidratado' em inglês?",
     "opcoes": {
       "A": "He needs more juice",
-      "B": "He is very dry",
-      "C": "He has no water",
-      "D": "He is severely dehydrated"
+      "B": "He is severely dehydrated",
+      "C": "He is very dry",
+      "D": "He has no water"
     },
     "numero": "12",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Does it hurt to swallow?'",
@@ -5483,12 +5556,12 @@ export const quizIntermediario5 = [
     "pergunta": "Como se diz 'Mantenha as mãos limpas' em inglês?",
     "opcoes": {
       "A": "Wash your hands now",
-      "B": "Keep your hands sanitized",
-      "C": "Hands must be clean",
-      "D": "Sanitize hands please"
+      "B": "Hands must be clean",
+      "C": "Sanitize hands please",
+      "D": "Keep your hands sanitized"
     },
     "numero": "14",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'The patient is stable'",
@@ -5505,12 +5578,12 @@ export const quizIntermediario5 = [
     "pergunta": "Como se diz 'Ele sofreu uma queda' em inglês?",
     "opcoes": {
       "A": "He fell down there",
-      "B": "He had a trip",
+      "B": "He sustained a fall",
       "C": "He is on floor",
-      "D": "He sustained a fall"
+      "D": "He had a trip"
     },
     "numero": "16",
-    "resposta_correta": "D"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Check the surgical incision'",
@@ -5526,9 +5599,9 @@ export const quizIntermediario5 = [
   {
     "pergunta": "Como se diz 'Use luvas descartáveis' em inglês?",
     "opcoes": {
-      "A": "Put on clean hands",
+      "A": "Wear medical gloves now",
       "B": "Use disposable gloves",
-      "C": "Wear medical gloves now",
+      "C": "Put on clean hands",
       "D": "Get some new gloves"
     },
     "numero": "18",
@@ -5537,10 +5610,10 @@ export const quizIntermediario5 = [
   {
     "pergunta": "Traduza: 'The pain is radiating'",
     "opcoes": {
-      "A": "A dor é forte",
-      "B": "A dor é localizada",
+      "A": "A dor é localizada",
+      "B": "A dor parou agora",
       "C": "A dor está irradiando",
-      "D": "A dor parou agora"
+      "D": "A dor é forte"
     },
     "numero": "19",
     "resposta_correta": "C"
@@ -5549,15 +5622,15 @@ export const quizIntermediario5 = [
     "pergunta": "Como se diz 'Aguarde o diagnóstico' em inglês?",
     "opcoes": {
       "A": "Wait for the result",
-      "B": "See the doctor soon",
-      "C": "Doctor will tell you",
-      "D": "Await the diagnosis"
+      "B": "Doctor will tell you",
+      "C": "Await the diagnosis",
+      "D": "See the doctor soon"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario6 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Houve uma reação adversa' em inglês?",
     "opcoes": {
@@ -5572,13 +5645,13 @@ export const quizIntermediario6 = [
   {
     "pergunta": "Traduza: 'Provide your medical history'",
     "opcoes": {
-      "A": "Forneça seu histórico médico",
-      "B": "Diga suas doenças antigas",
-      "C": "Traga seus exames hoje",
-      "D": "Escreva sobre sua saúde"
+      "A": "Diga suas doenças antigas",
+      "B": "Traga seus exames hoje",
+      "C": "Escreva sobre sua saúde",
+      "D": "Forneça seu histórico médico"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'A tontura é frequente?' em inglês?",
@@ -5638,24 +5711,24 @@ export const quizIntermediario6 = [
   {
     "pergunta": "Traduza: 'He has a persistent cough'",
     "opcoes": {
-      "A": "Ele tosse muito forte",
+      "A": "Ele tem tosse persistente",
       "B": "A tosse não para",
       "C": "Ele está tossindo sangue",
-      "D": "Ele tem tosse persistente"
+      "D": "Ele tosse muito forte"
     },
     "numero": "8",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Mantenha o jejum' em inglês?",
     "opcoes": {
-      "A": "Maintain the fasting state",
-      "B": "Do not eat anything",
-      "C": "Stay without food now",
-      "D": "No water or food"
+      "A": "Do not eat anything",
+      "B": "Stay without food now",
+      "C": "No water or food",
+      "D": "Maintain the fasting state"
     },
     "numero": "9",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Is the vision distorted?'",
@@ -5667,17 +5740,20 @@ export const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario012 = [
+  
   {
     "pergunta": "Como se diz 'Ele está com calafrios' em inglês?",
     "opcoes": {
-      "A": "He feels very cold",
-      "B": "He is shaking much",
-      "C": "He is experiencing chills",
+      "A": "He is experiencing chills",
+      "B": "He feels very cold",
+      "C": "He is shaking much",
       "D": "He has low temperature"
     },
     "numero": "11",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'The condition is terminal'",
@@ -5772,14 +5848,14 @@ export const quizIntermediario6 = [
     "opcoes": {
       "A": "Ele vai demorar muito",
       "B": "Ele está melhorando pouco",
-      "C": "A melhora é devagar",
-      "D": "A recuperação é lenta"
+      "C": "A recuperação é lenta",
+      "D": "A melhora é devagar"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'A ferida está cicatrizando' em inglês?",
     "opcoes": {
@@ -5794,57 +5870,57 @@ export const quizIntermediario7 = [
   {
     "pergunta": "Traduza: 'The patient is severely dehydrated'",
     "opcoes": {
-      "A": "O paciente está muito desidratado",
-      "B": "O paciente precisa de água",
-      "C": "O paciente está com sede",
-      "D": "O paciente está sem líquidos"
+      "A": "O paciente precisa de água",
+      "B": "O paciente está com sede",
+      "C": "O paciente está sem líquidos",
+      "D": "O paciente está muito desidratado"
     },
     "numero": "2",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Sinto uma dormência' em inglês?",
     "opcoes": {
-      "A": "I feel some sleep",
-      "B": "My body is dead",
-      "C": "I feel some numbness",
+      "A": "I feel some numbness",
+      "B": "I feel some sleep",
+      "C": "My body is dead",
       "D": "I cannot feel pain"
     },
     "numero": "3",
-    "resposta_correta": "C"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Apply the topical ointment'",
     "opcoes": {
       "A": "Use o remédio forte",
       "B": "Passe o creme agora",
-      "C": "Limpe a pele bem",
-      "D": "Aplique a pomada tópica"
+      "C": "Aplique a pomada tópica",
+      "D": "Limpe a pele bem"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Ele tem asma grave' em inglês?",
     "opcoes": {
-      "A": "He has severe asthma",
-      "B": "He cannot breathe well",
-      "C": "His lungs are bad",
-      "D": "He has strong asthma"
+      "A": "He cannot breathe well",
+      "B": "His lungs are bad",
+      "C": "He has strong asthma",
+      "D": "He has severe asthma"
     },
     "numero": "5",
-    "resposta_correta": "A"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Is there any visible bruising?'",
     "opcoes": {
-      "A": "Tem algum corte aparente?",
-      "B": "Há algum hematoma visível?",
+      "A": "Há algum hematoma visível?",
+      "B": "Tem algum corte aparente?",
       "C": "Onde está o sangue?",
       "D": "A pele está roxa?"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Evite esforço físico' em inglês?",
@@ -5889,7 +5965,10 @@ export const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario014 = [
+  
   {
     "pergunta": "Como se diz 'Monitore os batimentos' em inglês?",
     "opcoes": {
@@ -5970,8 +6049,8 @@ export const quizIntermediario7 = [
   {
     "pergunta": "Traduza: 'Does it hurt elsewhere?'",
     "opcoes": {
-      "A": "Dói em outro lugar?",
-      "B": "Dói mais em cima?",
+      "A": "Dói mais em cima?",
+      "B": "Dói em outro lugar?",
       "C": "Onde dói agora?",
       "D": "Dói tudo aqui?"
     },
@@ -5992,16 +6071,16 @@ export const quizIntermediario7 = [
   {
     "pergunta": "Traduza: 'Check the respiratory rhythm'",
     "opcoes": {
-      "A": "Veja como ele respira",
+      "A": "Verifique o ritmo respiratório",
       "B": "A respiração está lenta",
       "C": "Escute os pulmões dele",
-      "D": "Verifique o ritmo respiratório"
+      "D": "Veja como ele respira"
     },
     "numero": "20",
-    "resposta_correta": "D"
+    "resposta_correta": "A"
   }
 ];
-export const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'A inflamação é grave' em inglês?",
     "opcoes": {
@@ -6111,7 +6190,10 @@ export const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario016 = [
+  
   {
     "pergunta": "Como se diz 'Ele tem dores abdominais' em inglês?",
     "opcoes": {
@@ -6223,17 +6305,17 @@ export const quizIntermediario8 = [
     "resposta_correta": "B"
   }
 ];
-export const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'O inchaço é visível' em inglês?",
     "opcoes": {
-      "A": "The bump is here",
-      "B": "It is very big",
-      "C": "The swelling is visible",
+      "A": "It is very big",
+      "B": "The swelling is visible",
+      "C": "The bump is here",
       "D": "Look at the skin"
     },
     "numero": "1",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'The patient feels dizzy'",
@@ -6250,23 +6332,23 @@ export const quizIntermediario9 = [
     "pergunta": "Como se diz 'Ele precisa de maca' em inglês?",
     "opcoes": {
       "A": "Bring the medical table",
-      "B": "He requires a stretcher",
-      "C": "He needs a bed",
-      "D": "Get the chair now"
+      "B": "He needs a bed",
+      "C": "Get the chair now",
+      "D": "He requires a stretcher"
     },
     "numero": "3",
-    "resposta_correta": "B"
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Check for any numbness'",
     "opcoes": {
       "A": "Veja se há sangue",
       "B": "Procure por febre alta",
-      "C": "Sente alguma dor aqui?",
-      "D": "Verifique se há dormência"
+      "C": "Verifique se há dormência",
+      "D": "Sente alguma dor aqui?"
     },
     "numero": "4",
-    "resposta_correta": "D"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'A dor é constante' em inglês?",
@@ -6283,23 +6365,23 @@ export const quizIntermediario9 = [
     "pergunta": "Traduza: 'He is breathing shallowly'",
     "opcoes": {
       "A": "Ele respira muito rápido",
-      "B": "Ele está respirando superficialmente",
-      "C": "A respiração parou agora",
+      "B": "A respiração parou agora",
+      "C": "Ele está respirando superficialmente",
       "D": "Ele mal consegue falar"
     },
     "numero": "6",
-    "resposta_correta": "B"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Como se diz 'Aplique pressão constante' em inglês?",
     "opcoes": {
       "A": "Hold the wound tight",
-      "B": "Stop the blood now",
-      "C": "Apply constant pressure",
+      "B": "Apply constant pressure",
+      "C": "Stop the blood now",
       "D": "Push the injury hard"
     },
     "numero": "7",
-    "resposta_correta": "C"
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'The condition is stable'",
@@ -6307,7 +6389,7 @@ export const quizIntermediario9 = [
       "A": "Ele está melhorando muito",
       "B": "O caso é grave",
       "C": "Ele está quase bom",
-      "D": "A condição é estável"
+      "D": "A condition is stable"
     },
     "numero": "8",
     "resposta_correta": "D"
@@ -6315,25 +6397,28 @@ export const quizIntermediario9 = [
   {
     "pergunta": "Como se diz 'Ele está muito fraco' em inglês?",
     "opcoes": {
-      "A": "He is extremely weak",
-      "B": "He has no power",
-      "C": "He feels very small",
-      "D": "He is not strong"
+      "A": "He has no power",
+      "B": "He feels very small",
+      "C": "He is not strong",
+      "D": "He is extremely weak"
     },
-    "numero": "10",
-    "resposta_correta": "A"
+    "numero": "9",
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Traduza: 'Is the pain radiating?'",
     "opcoes": {
-      "A": "A dor é aguda?",
-      "B": "A dor está irradiando?",
+      "A": "A dor está irradiando?",
+      "B": "A dor é aguda?",
       "C": "Onde dói mais agora?",
       "D": "A dor parou aqui?"
     },
-    "numero": "11",
-    "resposta_correta": "B"
-  },
+    "numero": "10",
+    "resposta_correta": "A"
+  }
+];
+export const quizIntermediario018 = [
+  
   {
     "pergunta": "Como se diz 'Verifique os sinais vitais' em inglês?",
     "opcoes": {
@@ -6342,19 +6427,19 @@ export const quizIntermediario9 = [
       "C": "Check the vital signs",
       "D": "Monitor the body now"
     },
-    "numero": "12",
+    "numero": "11",
     "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza: 'He suffered a concussion'",
     "opcoes": {
       "A": "Ele quebrou o braço",
-      "B": "Ele teve um corte",
+      "B": "Ele sofreu uma concussão",
       "C": "Ele caiu de costas",
-      "D": "Ele sofreu uma concussão"
+      "D": "Ele teve um corte"
     },
-    "numero": "13",
-    "resposta_correta": "D"
+    "numero": "12",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Como se diz 'A infecção é grave' em inglês?",
@@ -6364,30 +6449,30 @@ export const quizIntermediario9 = [
       "C": "It is very dirty",
       "D": "The wound is rotten"
     },
-    "numero": "14",
+    "numero": "13",
     "resposta_correta": "A"
   },
   {
     "pergunta": "Traduza: 'Apply a sterile dressing'",
     "opcoes": {
       "A": "Limpe bem o local",
-      "B": "Aplique um curativo estéril",
-      "C": "Tampe a ferida logo",
-      "D": "Use uma gaze limpa"
+      "B": "Tampe a ferida logo",
+      "C": "Use uma gaze limpa",
+      "D": "Apply a sterile dressing"
     },
-    "numero": "15",
-    "resposta_correta": "B"
+    "numero": "14",
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Mantenha-o deitado' em inglês?",
     "opcoes": {
       "A": "No more sitting up",
-      "B": "Stay on the floor",
-      "C": "Keep him lying down",
+      "B": "Keep him lying down",
+      "C": "Stay on the floor",
       "D": "Lay him here now"
     },
-    "numero": "16",
-    "resposta_correta": "C"
+    "numero": "15",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'Does it hurt elsewhere?'",
@@ -6397,30 +6482,30 @@ export const quizIntermediario9 = [
       "C": "Onde dói agora?",
       "D": "Dói em outro lugar?"
     },
-    "numero": "17",
+    "numero": "16",
     "resposta_correta": "D"
   },
   {
     "pergunta": "Como se diz 'Evite esforço físico' em inglês?",
     "opcoes": {
-      "A": "Avoid physical exertion",
-      "B": "Do not work out",
+      "A": "Do not work out",
+      "B": "Avoid physical exertion",
       "C": "Stay in your bed",
       "D": "No hard movements now"
     },
-    "numero": "18",
-    "resposta_correta": "A"
+    "numero": "17",
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Traduza: 'The patient is non-responsive'",
     "opcoes": {
-      "A": "O paciente não fala",
-      "B": "O paciente não responde",
+      "A": "O paciente não responde",
+      "B": "O paciente não fala",
       "C": "O paciente está dormindo",
       "D": "Paciente está sem reação"
     },
-    "numero": "19",
-    "resposta_correta": "B"
+    "numero": "18",
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Como se diz 'Tire a temperatura' em inglês?",
@@ -6430,7 +6515,7 @@ export const quizIntermediario9 = [
       "C": "Take the temperature now",
       "D": "Check the fever level"
     },
-    "numero": "20",
+    "numero": "19",
     "resposta_correta": "C"
   },
   {
@@ -6438,14 +6523,14 @@ export const quizIntermediario9 = [
     "opcoes": {
       "A": "Ele está com tosse",
       "B": "A tosse está forte",
-      "C": "Ele não para de tossir",
-      "D": "Ele está tossindo sangue"
+      "C": "Ele está tossindo sangue",
+      "D": "Ele não para de tossir"
     },
-    "numero": "21",
-    "resposta_correta": "D"
+    "numero": "20",
+    "resposta_correta": "C"
   }
 ];
-export const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'O paciente recebeu alta' em inglês?",
     "opcoes": {
@@ -6555,7 +6640,10 @@ export const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario020 = [
+  
   {
     "pergunta": "Como se diz 'Ele está inconsciente' em inglês?",
     "opcoes": {
@@ -6673,720 +6761,720 @@ export const quizIntermediario10 = [
 export const quizAvancado1 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "The patient is stable",
-    "opcoes": ["está", "médico", "paciente", "crítico", "o", "estável", "doente", "ruim", "muito", "estado"],
     "numero": "1",
+    "pergunta": "The patient is stable.",
+    "opcoes": ["o", "paciente", "está", "estável", "médico", "crítico", "doente", "ruim"],
     "resposta_correta": "o paciente está estável"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Aplique pressão no ferimento",
-    "opcoes": ["apply", "the", "clean", "wound", "on", "pressure", "stop", "to", "hold", "cut"],
     "numero": "2",
-    "resposta_correta": "apply pressure to wound"
+    "pergunta": "Aplique pressão no ferimento.",
+    "opcoes": ["apply", "pressure", "to", "the", "wound", "clean", "stop", "hold", "cut"],
+    "resposta_correta": "apply pressure to the wound"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He needs supplemental oxygen",
-    "opcoes": ["oxigênio", "ar", "de", "precisa", "ele", "suplementar", "falta", "respirar", "ajuda", "agora"],
     "numero": "3",
-    "resposta_correta": "ele precisa de oxigênio"
+    "pergunta": "He needs supplemental oxygen.",
+    "opcoes": ["ele", "precisa", "de", "oxigênio", "suplementar", "ar", "falta", "respirar", "ajuda"],
+    "resposta_correta": "ele precisa de oxigênio suplementar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mantenha a cabeça imobilizada",
-    "opcoes": ["still", "head", "neck", "keep", "the", "immobilized", "straight", "down", "hold", "position"],
     "numero": "4",
+    "pergunta": "Mantenha a cabeça imobilizada.",
+    "opcoes": ["keep", "the", "head", "immobilized", "still", "neck", "straight", "position"],
     "resposta_correta": "keep the head immobilized"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check the vital signs",
-    "opcoes": ["os", "sinais", "verifique", "médico", "vitais", "pulso", "olhe", "pressão", "corretos", "agora"],
     "numero": "5",
+    "pergunta": "Check the vital signs.",
+    "opcoes": ["verifique", "os", "sinais", "vitais", "médico", "pulso", "olhe", "pressão"],
     "resposta_correta": "verifique os sinais vitais"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Avoid any sudden movements",
-    "opcoes": ["rápidos", "bruscos", "não", "evite", "qualquer", "movimento", "corra", "pare", "faça", "total"],
     "numero": "6",
+    "pergunta": "Avoid any sudden movements.",
+    "opcoes": ["evite", "qualquer", "movimento", "brusco", "rápidos", "não", "corra", "pare"],
     "resposta_correta": "evite qualquer movimento brusco"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Houve uma reação adversa",
-    "opcoes": ["reaction", "an", "occurred", "bad", "occurred", "adverse", "medicine", "strong", "allergy", "happened"],
     "numero": "7",
+    "pergunta": "Houve uma reação adversa.",
+    "opcoes": ["an", "adverse", "reaction", "occurred", "bad", "medicine", "strong", "allergy"],
     "resposta_correta": "an adverse reaction occurred"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Monitor the heart rate",
-    "opcoes": ["frequência", "a", "coração", "cardíaca", "monitore", "ritmo", "veja", "pulsação", "peito", "lenta"],
     "numero": "8",
+    "pergunta": "Monitor the heart rate.",
+    "opcoes": ["monitore", "a", "frequência", "cardíaca", "ritmo", "veja", "pulsação", "peito"],
     "resposta_correta": "monitore a frequência cardíaca"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The wound requires stitches",
-    "opcoes": ["pontos", "requer", "a", "fechar", "ferida", "corte", "profundo", "limpar", "precisa", "médico"],
     "numero": "9",
+    "pergunta": "The wound requires stitches.",
+    "opcoes": ["a", "ferida", "requer", "pontos", "corte", "profundo", "limpar", "médico"],
     "resposta_correta": "a ferida requer pontos"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Inicie a ressuscitação agora",
-    "opcoes": ["resuscitation", "start", "immediately", "heart", "the", "now", "begin", "breathe", "chest", "fast"],
     "numero": "10",
+    "pergunta": "Inicie a ressuscitação agora.",
+    "opcoes": ["start", "the", "resuscitation", "now", "immediately", "heart", "begin", "chest"],
     "resposta_correta": "start the resuscitation now"
   }
 ];
 export const quizAvancado2 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "The patient feels nauseous",
-    "opcoes": ["doente", "sente", "vômito", "está", "náuseas", "o", "paciente", "com", "muito", "ruim"],
     "numero": "1",
+    "pergunta": "The patient feels nauseous.",
+    "opcoes": ["o", "paciente", "sente", "náuseas", "vômito", "está", "com", "muito"],
     "resposta_correta": "o paciente sente náuseas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Aplique a pomada tópica",
-    "opcoes": ["ointment", "apply", "cream", "skin", "the", "use", "topical", "medication", "rub", "surface"],
     "numero": "2",
+    "pergunta": "Aplique a pomada tópica.",
+    "opcoes": ["apply", "the", "topical", "ointment", "cream", "skin", "use", "rub"],
     "resposta_correta": "apply the topical ointment"
   },
   {
-    "pergunta": "The pain has subsided",
     "questionType": "traduza a frase",
-    "opcoes": ["diminuiu", "dor", "forte", "a", "parou", "acabou", "cedeu", "sentir", "muito", "local"],
     "numero": "3",
-    "resposta_correta": "a dor tem diminuído"
+    "pergunta": "The pain has subsided.",
+    "opcoes": ["a", "dor", "diminuiu", "parou", "cedeu", "forte", "sentir"],
+    "resposta_correta": "a dor diminuiu"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Elevate the injured limb",
-    "opcoes": ["braço", "membro", "lesionado", "perna", "eleve", "o", "machucado", "subir", "parte", "corpo"],
     "numero": "4",
+    "pergunta": "Elevate the injured limb.",
+    "opcoes": ["eleve", "o", "membro", "lesionado", "braço", "perna", "machucado", "subir"],
     "resposta_correta": "eleve o membro lesionado"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Verifique a dilatação pupilar",
-    "opcoes": ["dilation", "pupil", "eyes", "check", "for", "look", "any", "the", "vision", "see"],
     "numero": "5",
+    "pergunta": "Verifique a dilatação pupilar.",
+    "opcoes": ["check", "the", "pupil", "dilation", "eyes", "look", "vision", "see"],
     "resposta_correta": "check the pupil dilation"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Maintain the fasting state",
-    "opcoes": ["o", "comida", "mantenha", "água", "fique", "jejum", "estado", "sem", "de", "comer"],
     "numero": "6",
-    "resposta_correta": "mantenha o estado jejum"
+    "pergunta": "Maintain the fasting state.",
+    "opcoes": ["mantenha", "o", "estado", "de", "jejum", "comida", "água", "fique", "sem"],
+    "resposta_correta": "mantenha o estado de jejum"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Seek medical help immediately",
-    "opcoes": ["agora", "imediatamente", "médico", "socorro", "ajuda", "busque", "hospital", "doutor", "chame", "urgente"],
     "numero": "7",
+    "pergunta": "Seek medical help immediately.",
+    "opcoes": ["busque", "ajuda", "médica", "imediatamente", "socorro", "hospital", "chame", "urgente"],
     "resposta_correta": "busque ajuda médica imediatamente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O curativo está apertado",
-    "opcoes": ["the", "dressing", "tight", "too", "bandage", "is", "loose", "clean", "wound", "stuck"],
     "numero": "8",
+    "pergunta": "O curativo está apertado.",
+    "opcoes": ["the", "dressing", "is", "tight", "bandage", "too", "loose", "clean"],
     "resposta_correta": "the dressing is tight"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has low temperature",
-    "opcoes": ["está", "temperatura", "baixa", "frio", "ele", "tem", "corpo", "graus", "muito", "calor"],
     "numero": "9",
+    "pergunta": "He has low temperature.",
+    "opcoes": ["ele", "tem", "temperatura", "baixa", "está", "frio", "corpo", "graus"],
     "resposta_correta": "ele tem temperatura baixa"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Limpe a incisão cirúrgica",
-    "opcoes": ["incision", "clean", "the", "cut", "surgical", "wash", "area", "medical", "sterile", "around"],
     "numero": "10",
+    "pergunta": "Limpe a incisão cirúrgica.",
+    "opcoes": ["clean", "the", "surgical", "incision", "cut", "wash", "area", "sterile"],
     "resposta_correta": "clean the surgical incision"
   }
 ];
 export const quizAvancado3 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "He feels extremely drowsy",
-    "opcoes": ["sente", "está", "extrema", "ele", "muito", "sonolência", "cansado", "fraco", "sono", "com"],
     "numero": "1",
+    "pergunta": "He feels extremely drowsy.",
+    "opcoes": ["ele", "sente", "extrema", "sonolência", "está", "muito", "cansado", "fraco"],
     "resposta_correta": "ele sente extrema sonolência"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Verifique hemorragia interna agora",
-    "opcoes": ["bleeding", "for", "check", "now", "blood", "internal", "immediately", "stop", "inside", "any"],
     "numero": "2",
+    "pergunta": "Verifique hemorragia interna agora.",
+    "opcoes": ["check", "for", "internal", "bleeding", "now", "blood", "immediately", "stop", "inside"],
     "resposta_correta": "check for internal bleeding now"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The patient is disoriented",
-    "opcoes": ["paciente", "confuso", "está", "o", "desorientado", "muito", "perdido", "estado", "ruim", "ele"],
     "numero": "3",
+    "pergunta": "The patient is disoriented.",
+    "opcoes": ["o", "paciente", "está", "desorientado", "confuso", "muito", "perdido", "estado"],
     "resposta_correta": "o paciente está desorientado"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Measure the blood pressure",
-    "opcoes": ["a", "pressão", "veja", "meça", "arterial", "sangue", "coração", "correta", "agora", "alta"],
     "numero": "4",
+    "pergunta": "Measure the blood pressure.",
+    "opcoes": ["meça", "a", "pressão", "arterial", "veja", "sangue", "coração", "agora"],
     "resposta_correta": "meça a pressão arterial"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A ferida está infectada",
-    "opcoes": ["wound", "the", "bad", "infected", "injury", "is", "skin", "dirty", "red", "hurts"],
     "numero": "5",
+    "pergunta": "A ferida está infectada.",
+    "opcoes": ["the", "wound", "is", "infected", "injury", "bad", "skin", "dirty"],
     "resposta_correta": "the wound is infected"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Loosen any tight clothing",
-    "opcoes": ["as", "tire", "roupas", "aperte", "afrouxe", "justas", "qualquer", "peças", "largas", "muito"],
     "numero": "6",
+    "pergunta": "Loosen any tight clothing.",
+    "opcoes": ["afrouxe", "qualquer", "roupa", "justa", "as", "tire", "aperte", "peças"],
     "resposta_correta": "afrouxe qualquer roupa justa"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the pain radiating?",
-    "opcoes": ["está", "irradiando", "forte", "a", "dor", "parada", "localizada", "subindo", "agora", "sentindo"],
     "numero": "7",
+    "pergunta": "Is the pain radiating?",
+    "opcoes": ["a", "dor", "está", "irradiando", "forte", "parada", "localizada", "sentindo"],
     "resposta_correta": "a dor está irradiando"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Aplique gelo na articulação",
-    "opcoes": ["joint", "apply", "ice", "to", "the", "cold", "on", "leg", "area", "swelling"],
     "numero": "8",
-    "resposta_correta": "apply ice to joint"
+    "pergunta": "Aplique gelo na articulação.",
+    "opcoes": ["apply", "ice", "to", "the", "joint", "cold", "on", "area", "swelling"],
+    "resposta_correta": "apply ice to the joint"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has shallow breathing",
-    "opcoes": ["está", "tem", "ele", "respiração", "superficial", "fraca", "curta", "ar", "pulmão", "com"],
     "numero": "9",
+    "pergunta": "He has shallow breathing.",
+    "opcoes": ["ele", "tem", "respiração", "superficial", "está", "fraca", "curta", "ar"],
     "resposta_correta": "ele tem respiração superficial"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mantenha o oxigênio ligado",
-    "opcoes": ["keep", "oxygen", "on", "the", "air", "running", "flow", "use", "hold", "started"],
     "numero": "10",
+    "pergunta": "Mantenha o oxigênio ligado.",
+    "opcoes": ["keep", "the", "oxygen", "on", "air", "running", "flow", "started"],
     "resposta_correta": "keep the oxygen on"
   }
 ];
 export const quizAvancado4 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "He is having seizures",
-    "opcoes": ["ele", "tendo", "tremendo", "convulsões", "está", "ataque", "muito", "com", "corpo", "agora"],
     "numero": "1",
+    "pergunta": "He is having seizures.",
+    "opcoes": ["ele", "está", "tendo", "convulsões", "tremendo", "ataque", "com", "corpo"],
     "resposta_correta": "ele está tendo convulsões"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Verifique a visão turva",
-    "opcoes": ["vision", "check", "for", "eyes", "blurred", "look", "distorted", "the", "see", "any"],
     "numero": "2",
+    "pergunta": "Verifique a visão turva.",
+    "opcoes": ["check", "for", "blurred", "vision", "eyes", "look", "distorted", "the"],
     "resposta_correta": "check for blurred vision"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The patient is unresponsive",
-    "opcoes": ["paciente", "o", "responde", "está", "dormindo", "não", "unresponsive", "estado", "grave", "morto"],
     "numero": "3",
+    "pergunta": "The patient is unresponsive.",
+    "opcoes": ["o", "paciente", "não", "responde", "está", "dormindo", "estado", "grave"],
     "resposta_correta": "o paciente não responde"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Massage the sternum area",
-    "opcoes": ["a", "massageie", "área", "osso", "peito", "do", "esterno", "local", "coração", "forte"],
     "numero": "4",
-    "resposta_correta": "massageie a área esterno"
+    "pergunta": "Massage the sternum area.",
+    "opcoes": ["massageie", "a", "área", "do", "esterno", "osso", "peito", "local", "forte"],
+    "resposta_correta": "massageie a área do esterno"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O sangramento parou agora",
-    "opcoes": ["bleeding", "the", "now", "stopped", "has", "blood", "ended", "wound", "controlled", "fast"],
     "numero": "5",
+    "pergunta": "O sangramento parou agora.",
+    "opcoes": ["the", "bleeding", "stopped", "now", "blood", "ended", "wound", "controlled"],
     "resposta_correta": "the bleeding stopped now"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Apply the sterile dressing",
-    "opcoes": ["estéril", "curativo", "o", "ferida", "aplique", "limpo", "ponha", "gaze", "na", "limpa"],
     "numero": "6",
+    "pergunta": "Apply the sterile dressing.",
+    "opcoes": ["aplique", "o", "curativo", "estéril", "ferida", "limpo", "ponha", "gaze"],
     "resposta_correta": "aplique o curativo estéril"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the heartbeat regular?",
-    "opcoes": ["cardíaco", "o", "ritmo", "está", "coração", "regular", "normal", "batimento", "veja", "lento"],
     "numero": "7",
+    "pergunta": "Is the heartbeat regular?",
+    "opcoes": ["o", "batimento", "está", "regular", "cardíaco", "ritmo", "coração", "normal"],
     "resposta_correta": "o batimento está regular"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check for airway obstruction",
-    "opcoes": ["check", "for", "obstruction", "throat", "airway", "block", "nose", "lungs", "any", "look"],
     "numero": "8",
+    "pergunta": "Verifique obstrução das vias aéreas.",
+    "opcoes": ["check", "for", "airway", "obstruction", "throat", "block", "nose", "lungs"],
     "resposta_correta": "check for airway obstruction"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He sustained head trauma",
-    "opcoes": ["ele", "sofreu", "trauma", "cabeça", "na", "craniano", "bateu", "grave", "ferimento", "teve"],
     "numero": "9",
-    "resposta_correta": "ele sofreu trauma cabeça"
+    "pergunta": "He sustained head trauma.",
+    "opcoes": ["ele", "sofreu", "trauma", "na", "cabeça", "craniano", "bateu", "grave", "ferimento"],
+    "resposta_correta": "ele sofreu trauma na cabeça"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Perform the chest compressions",
-    "opcoes": ["as", "compressões", "faça", "torácicas", "peito", "massagem", "realize", "fortes", "agora", "coração"],
     "numero": "10",
+    "pergunta": "Perform the chest compressions.",
+    "opcoes": ["realize", "as", "compressões", "torácicas", "peito", "massagem", "fortes", "agora"],
     "resposta_correta": "realize as compressões torácicas"
   }
 ];
 export const quizAvancado5 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "The pain is unbearable",
-    "opcoes": ["está", "a", "forte", "dor", "insuportável", "ruim", "muito", "sentir", "local", "aguda"],
     "numero": "1",
+    "pergunta": "The pain is unbearable.",
+    "opcoes": ["a", "dor", "está", "insuportável", "forte", "ruim", "muito", "aguda"],
     "resposta_correta": "a dor está insuportável"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check for abdominal tenderness",
-    "opcoes": ["sensibilidade", "abdominal", "check", "for", "tenderness", "pain", "stomach", "area", "look", "any"],
     "numero": "2",
+    "pergunta": "Verifique a sensibilidade abdominal.",
+    "opcoes": ["check", "for", "abdominal", "tenderness", "pain", "stomach", "area", "look"],
     "resposta_correta": "check for abdominal tenderness"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He needs medical sedation",
-    "opcoes": ["sedação", "ele", "médica", "precisa", "de", "dormir", "remédio", "agora", "ajuda", "forte"],
     "numero": "3",
-    "resposta_correta": "ele precisa de sedação"
+    "pergunta": "He needs medical sedation.",
+    "opcoes": ["ele", "precisa", "de", "sedação", "médica", "dormir", "remédio", "ajuda", "forte"],
+    "resposta_correta": "ele precisa de sedação médica"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Provide the discharge instructions",
-    "opcoes": ["as", "de", "forneça", "instruções", "alta", "papel", "saída", "médico", "leia", "hospital"],
     "numero": "4",
-    "resposta_correta": "forneça as instruções alta"
+    "pergunta": "Provide the discharge instructions.",
+    "opcoes": ["forneça", "as", "instruções", "de", "alta", "papel", "saída", "médico", "hospital"],
+    "resposta_correta": "forneça as instruções de alta"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A hemorragia foi controlada",
-    "opcoes": ["bleeding", "the", "hemorrhage", "was", "controlled", "blood", "stopped", "now", "fixed", "wound"],
     "numero": "5",
+    "pergunta": "A hemorragia foi controlada.",
+    "opcoes": ["the", "hemorrhage", "was", "controlled", "bleeding", "blood", "stopped", "wound"],
     "resposta_correta": "the hemorrhage was controlled"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Monitor the respiratory rate",
-    "opcoes": ["frequência", "a", "monitore", "respiratória", "ar", "pulmão", "ritmo", "veja", "lenta", "respiração"],
     "numero": "6",
+    "pergunta": "Monitor the respiratory rate.",
+    "opcoes": ["monitore", "a", "frequência", "respiratória", "ar", "pulmão", "ritmo", "respiração"],
     "resposta_correta": "monitore a frequência respiratória"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Apply ice to swelling",
-    "opcoes": ["no", "gelo", "aplique", "inchaço", "local", "frio", "água", "ponha", "pele", "área"],
     "numero": "7",
+    "pergunta": "Apply ice to swelling.",
+    "opcoes": ["aplique", "gelo", "no", "inchaço", "local", "frio", "ponha", "área"],
     "resposta_correta": "aplique gelo no inchaço"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the pulse thready?",
-    "opcoes": ["pulse", "is", "heartbeat", "the", "thready", "weak", "fast", "slow", "feel", "rhythm"],
     "numero": "8",
+    "pergunta": "O pulso está filiforme?",
+    "opcoes": ["is", "the", "pulse", "thready", "heartbeat", "weak", "fast", "slow"],
     "resposta_correta": "is the pulse thready"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He is severely dehydrated",
-    "opcoes": ["está", "muito", "ele", "desidratado", "água", "seco", "com", "sede", "estado", "grave"],
     "numero": "9",
+    "pergunta": "He is severely dehydrated.",
+    "opcoes": ["ele", "está", "muito", "desidratado", "água", "seco", "sede", "grave"],
     "resposta_correta": "ele está muito desidratado"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Keep the patient warm",
-    "opcoes": ["o", "mantenha", "paciente", "aquecido", "quente", "cama", "cobertor", "estável", "corpo", "lugar"],
     "numero": "10",
+    "pergunta": "Keep the patient warm.",
+    "opcoes": ["mantenha", "o", "paciente", "aquecido", "quente", "cobertor", "estável", "lugar"],
     "resposta_correta": "mantenha o paciente aquecido"
   }
 ];
 export const quizAvancado6 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has thoracic trauma",
-    "opcoes": ["ele", "tem", "trauma", "torácico", "no", "peito", "sofreu", "grave", "ferimento", "costelas"],
     "numero": "1",
+    "pergunta": "He has thoracic trauma.",
+    "opcoes": ["ele", "tem", "trauma", "torácico", "no", "peito", "grave", "ferimento"],
     "resposta_correta": "ele tem trauma torácico"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Verifique a obstrução aérea",
-    "opcoes": ["check", "for", "airway", "obstruction", "throat", "block", "lungs", "nose", "any", "breathing"],
     "numero": "2",
+    "pergunta": "Verifique a obstrução aérea.",
+    "opcoes": ["check", "for", "airway", "obstruction", "throat", "block", "lungs", "breathing"],
     "resposta_correta": "check for airway obstruction"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The pulse is irregular",
-    "opcoes": ["o", "pulso", "está", "irregular", "batimento", "fraco", "coração", "ritmo", "muito", "lento"],
     "numero": "3",
+    "pergunta": "The pulse is irregular.",
+    "opcoes": ["o", "pulso", "está", "irregular", "batimento", "fraco", "ritmo", "lento"],
     "resposta_correta": "o pulso está irregular"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Maintain constant spinal alignment",
-    "opcoes": ["mantenha", "alinhamento", "espinal", "constante", "coluna", "reta", "cabeça", "imobilizada", "corpo", "sempre"],
     "numero": "4",
+    "pergunta": "Maintain constant spinal alignment.",
+    "opcoes": ["mantenha", "alinhamento", "espinal", "constante", "coluna", "reta", "imobilizada", "corpo"],
     "resposta_correta": "mantenha alinhamento espinal constante"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O paciente requer intubação",
-    "opcoes": ["patient", "requires", "intubation", "the", "needs", "emergency", "air", "tube", "breathing", "now"],
     "numero": "5",
+    "pergunta": "O paciente requer intubação.",
+    "opcoes": ["the", "patient", "requires", "intubation", "needs", "emergency", "tube", "breathing"],
     "resposta_correta": "the patient requires intubation"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Administer the emergency medication",
-    "opcoes": ["administre", "a", "medicação", "emergência", "de", "remédio", "agora", "dose", "certa", "urgente"],
     "numero": "6",
-    "resposta_correta": "administre a medicação emergência"
+    "pergunta": "Administer the emergency medication.",
+    "opcoes": ["administre", "a", "medicação", "de", "emergência", "remédio", "dose", "urgente", "agora"],
+    "resposta_correta": "administre a medicação de emergência"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the bleeding internal?",
-    "opcoes": ["o", "sangramento", "é", "interno", "hemorragia", "está", "dentro", "grave", "ferimento", "muito"],
     "numero": "7",
+    "pergunta": "Is the bleeding internal?",
+    "opcoes": ["o", "sangramento", "é", "interno", "hemorragia", "está", "grave", "dentro"],
     "resposta_correta": "o sangramento é interno"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Assess the consciousness level",
-    "opcoes": ["avalie", "o", "nível", "consciência", "de", "estado", "veja", "como", "acordado", "está"],
     "numero": "8",
-    "resposta_correta": "avalie o nível consciência"
+    "pergunta": "Assess the consciousness level.",
+    "opcoes": ["avalie", "o", "nível", "de", "consciência", "estado", "veja", "como", "acordado"],
+    "resposta_correta": "avalie o nível de consciência"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Ele tem múltiplas fraturas",
-    "opcoes": ["he", "has", "multiple", "fractures", "many", "broken", "bones", "severe", "injury", "legs"],
     "numero": "9",
+    "pergunta": "Ele tem múltiplas fraturas.",
+    "opcoes": ["he", "has", "multiple", "fractures", "many", "broken", "bones", "severe"],
     "resposta_correta": "he has multiple fractures"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Monitor the oxygen saturation",
-    "opcoes": ["monitore", "a", "saturação", "oxigênio", "de", "ar", "nível", "veja", "pulmão", "sempre"],
     "numero": "10",
-    "resposta_correta": "monitore a saturação oxigênio"
+    "pergunta": "Monitor the oxygen saturation.",
+    "opcoes": ["monitore", "a", "saturação", "de", "oxigênio", "ar", "nível", "pulmão", "veja"],
+    "resposta_correta": "monitore a saturação de oxigênio"
   }
 ];
 export const quizAvancado7 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has septic shock",
-    "opcoes": ["ele", "está", "com", "choque", "séptico", "infecção", "grave", "sangue", "pressão", "ruim"],
     "numero": "1",
+    "pergunta": "He has septic shock.",
+    "opcoes": ["ele", "está", "com", "choque", "séptico", "infecção", "grave", "sangue", "pressão"],
     "resposta_correta": "ele está com choque séptico"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Inicie a ressuscitação volêmica",
-    "opcoes": ["start", "the", "fluid", "resuscitation", "water", "give", "blood", "immediately", "now", "emergency"],
     "numero": "2",
+    "pergunta": "Inicie a ressuscitação volêmica.",
+    "opcoes": ["start", "the", "fluid", "resuscitation", "water", "give", "blood", "immediately"],
     "resposta_correta": "start the fluid resuscitation"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The heartbeat is faint",
-    "opcoes": ["o", "batimento", "está", "fraco", "coração", "lento", "parado", "sumindo", "difícil", "ritmo"],
     "numero": "3",
+    "pergunta": "The heartbeat is faint.",
+    "opcoes": ["o", "batimento", "está", "fraco", "coração", "lento", "parado", "ritmo"],
     "resposta_correta": "o batimento está fraco"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Avoid any airway suction",
-    "opcoes": ["avoid", "any", "airway", "suction", "nose", "clean", "block", "no", "throat", "stop"],
     "numero": "4",
-    "resposta_correta": "avoid any airway suction"
+    "pergunta": "Avoid any airway suction.",
+    "opcoes": ["evite", "qualquer", "sucção", "das", "vias", "aéreas", "limpe", "nariz", "parar", "boca"],
+    "resposta_correta": "evite qualquer sucção das vias aéreas"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O paciente está cianótico",
-    "opcoes": ["patient", "is", "cyanotic", "the", "blue", "skin", "cold", "breathing", "turning", "pale"],
     "numero": "5",
+    "pergunta": "O paciente está cianótico.",
+    "opcoes": ["the", "patient", "is", "cyanotic", "blue", "skin", "cold", "breathing"],
     "resposta_correta": "the patient is cyanotic"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check for arterial bleeding",
-    "opcoes": ["verifique", "se", "há", "sangramento", "arterial", "veja", "sangue", "corte", "pulsação", "grave"],
     "numero": "6",
-    "resposta_correta": "verifique sangramento arterial"
+    "pergunta": "Check for arterial bleeding.",
+    "opcoes": ["verifique", "se", "há", "sangramento", "arterial", "sangue", "corte", "pulsação", "grave"],
+    "resposta_correta": "verifique se há sangramento arterial"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He needs immediate surgery",
-    "opcoes": ["ele", "precisa", "de", "cirurgia", "imediata", "agora", "operar", "hospital", "urgente", "médico"],
     "numero": "7",
-    "resposta_correta": "ele precisa cirurgia imediata"
+    "pergunta": "He needs immediate surgery.",
+    "opcoes": ["ele", "precisa", "de", "cirurgia", "imediata", "agora", "hospital", "urgente", "médico"],
+    "resposta_correta": "ele precisa de cirurgia imediata"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Apply a tight tourniquet",
-    "opcoes": ["aplique", "um", "torniquete", "apertado", "sangue", "pare", "perna", "braço", "forte", "curativo"],
     "numero": "8",
+    "pergunta": "Apply a tight tourniquet.",
+    "opcoes": ["aplique", "um", "torniquete", "apertado", "sangue", "perna", "braço", "forte"],
     "resposta_correta": "aplique um torniquete apertado"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Maintain constant spinal protection",
-    "opcoes": ["mantenha", "proteção", "espinal", "constante", "coluna", "reta", "pescoço", "imóvel", "sempre", "corpo"],
     "numero": "9",
+    "pergunta": "Maintain constant spinal protection.",
+    "opcoes": ["mantenha", "proteção", "espinal", "constante", "coluna", "reta", "pescoço", "imóvel"],
     "resposta_correta": "mantenha proteção espinal constante"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the condition critical?",
-    "opcoes": ["a", "condição", "é", "crítica", "estado", "ruim", "está", "grave", "paciente", "agora"],
     "numero": "10",
+    "pergunta": "Is the condition critical?",
+    "opcoes": ["a", "condição", "é", "crítica", "estado", "está", "grave", "paciente"],
     "resposta_correta": "a condição é crítica"
   }
 ];
 export const quizAvancado8 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has respiratory distress",
-    "opcoes": ["ele", "tem", "desconforto", "respiratório", "falta", "ar", "pulmão", "está", "com", "grave"],
     "numero": "1",
+    "pergunta": "He has respiratory distress.",
+    "opcoes": ["ele", "tem", "desconforto", "respiratório", "falta", "ar", "pulmão", "está"],
     "resposta_correta": "ele tem desconforto respiratório"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Verifique a resposta pupilar",
-    "opcoes": ["check", "pupil", "response", "the", "eyes", "look", "for", "vision", "light", "any"],
     "numero": "2",
+    "pergunta": "Verifique a resposta pupilar.",
+    "opcoes": ["check", "the", "pupil", "response", "eyes", "look", "for", "vision"],
     "resposta_correta": "check the pupil response"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The patient is conscious",
-    "opcoes": ["paciente", "o", "está", "consciente", "acordado", "bem", "fala", "estável", "ainda", "lugar"],
     "numero": "3",
+    "pergunta": "The patient is conscious.",
+    "opcoes": ["o", "paciente", "está", "consciente", "acordado", "bem", "fala", "estável"],
     "resposta_correta": "o paciente está consciente"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Maintain strict spinal precautions",
-    "opcoes": ["mantenha", "precauções", "espinais", "estritas", "coluna", "cuidado", "pescoço", "imóvel", "sempre", "corpo"],
     "numero": "4",
+    "pergunta": "Maintain strict spinal precautions.",
+    "opcoes": ["mantenha", "estritas", "precauções", "espinais", "coluna", "cuidado", "pescoço", "imóvel"],
     "resposta_correta": "mantenha estritas precauções espinais"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O hematoma está crescendo",
-    "opcoes": ["the", "bruising", "is", "growing", "blood", "skin", "dark", "spreading", "wound", "large"],
     "numero": "5",
+    "pergunta": "O hematoma está crescendo.",
+    "opcoes": ["the", "bruising", "is", "growing", "blood", "skin", "dark", "spreading"],
     "resposta_correta": "the bruising is growing"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check for allergic reaction",
-    "opcoes": ["verifique", "se", "há", "reação", "alérgica", "pele", "veja", "remédio", "alergia", "grave"],
     "numero": "6",
-    "resposta_correta": "verifique se reação alérgica"
+    "pergunta": "Check for allergic reaction.",
+    "opcoes": ["verifique", "se", "há", "reação", "alérgica", "pele", "veja", "alergia", "grave"],
+    "resposta_correta": "verifique se há reação alérgica"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He needs a stretcher",
-    "opcoes": ["ele", "precisa", "de", "maca", "cama", "transporte", "ajuda", "agora", "cadeira", "hospital"],
     "numero": "7",
+    "pergunta": "He needs a stretcher.",
+    "opcoes": ["ele", "precisa", "de", "maca", "cama", "transporte", "ajuda", "agora"],
     "resposta_correta": "ele precisa de maca"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Apply the neck collar",
-    "opcoes": ["coloque", "o", "colar", "cervical", "pescoço", "imobilize", "aplique", "cabeça", "suporte", "estável"],
     "numero": "8",
-    "resposta_correta": "coloque o colar cervical"
+    "pergunta": "Aplique o colar cervical.",
+    "opcoes": ["apply", "the", "neck", "collar", "cervical", "place", "head", "stable", "support"],
+    "resposta_correta": "apply the neck collar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the airway obstructed?",
-    "opcoes": ["a", "via", "está", "obstruída", "aérea", "bloqueada", "garganta", "ar", "pulmão", "passagem"],
     "numero": "9",
+    "pergunta": "Is the airway obstructed?",
+    "opcoes": ["a", "via", "aérea", "está", "obstruída", "bloqueada", "garganta", "passagem"],
     "resposta_correta": "a via aérea está obstruída"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Monitor the blood glucose",
-    "opcoes": ["monitore", "a", "glicose", "sanguínea", "sangue", "açúcar", "nível", "veja", "teste", "sempre"],
     "numero": "10",
+    "pergunta": "Monitor the blood glucose.",
+    "opcoes": ["monitore", "a", "glicose", "sanguínea", "sangue", "açúcar", "nível", "veja"],
     "resposta_correta": "monitore a glicose sanguínea"
   }
 ];
 export const quizAvancado9 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check for pulmonary edema",
-    "opcoes": ["verifique", "se", "há", "edema", "pulmonar", "pulmão", "água", "nos", "veja", "ar"],
     "numero": "1",
-    "resposta_correta": "verifique se edema pulmonar"
+    "pergunta": "Check for pulmonary edema.",
+    "opcoes": ["verifique", "se", "há", "edema", "pulmonar", "pulmão", "água", "nos", "veja"],
+    "resposta_correta": "verifique se há edema pulmonar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Estabeleça acesso venoso agora",
-    "opcoes": ["establish", "venous", "access", "now", "vein", "get", "line", "blood", "immediately", "start"],
     "numero": "2",
+    "pergunta": "Estabeleça acesso venoso agora.",
+    "opcoes": ["establish", "venous", "access", "now", "vein", "get", "line", "blood"],
     "resposta_correta": "establish venous access now"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "The cardiac output is low",
-    "opcoes": ["o", "débito", "cardíaco", "está", "baixo", "coração", "fluxo", "sangue", "ritmo", "lento"],
     "numero": "3",
+    "pergunta": "The cardiac output is low.",
+    "opcoes": ["o", "débito", "cardíaco", "está", "baixo", "fluxo", "sangue", "ritmo", "lento"],
     "resposta_correta": "o débito cardíaco está baixo"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Perform a thoracic decompression",
-    "opcoes": ["realize", "uma", "descompressão", "torácica", "peito", "agulha", "alívio", "ar", "pulmão", "faça"],
     "numero": "4",
+    "pergunta": "Perform a thoracic decompression.",
+    "opcoes": ["realize", "uma", "descompressão", "torácica", "agulha", "alívio", "ar", "pulmão"],
     "resposta_correta": "realize uma descompressão torácica"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "A saturação está caindo",
-    "opcoes": ["oxygen", "saturation", "is", "dropping", "low", "falling", "level", "air", "the", "down"],
     "numero": "5",
+    "pergunta": "A saturação está caindo.",
+    "opcoes": ["the", "saturation", "is", "dropping", "oxygen", "low", "falling", "level"],
     "resposta_correta": "the saturation is dropping"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Maintain the cervical immobilization",
-    "opcoes": ["mantenha", "a", "imobilização", "cervical", "pescoço", "colar", "cabeça", "reta", "sempre", "estável"],
     "numero": "6",
+    "pergunta": "Maintain the cervical immobilization.",
+    "opcoes": ["mantenha", "a", "imobilização", "cervical", "pescoço", "colar", "cabeça", "reta"],
     "resposta_correta": "mantenha a imobilização cervical"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the hemorrhage arterial?",
-    "opcoes": ["a", "hemorragia", "é", "arterial", "sangramento", "sangue", "está", "forte", "veia", "grave"],
     "numero": "7",
+    "pergunta": "Is the hemorrhage arterial?",
+    "opcoes": ["a", "hemorragia", "é", "arterial", "sangramento", "sangue", "forte", "veia"],
     "resposta_correta": "a hemorragia é arterial"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Provide high-flow oxygen",
-    "opcoes": ["forneça", "oxigênio", "de", "alto", "fluxo", "ar", "máscara", "muito", "ajuda", "agora"],
     "numero": "8",
-    "resposta_correta": "forneça oxigênio alto fluxo"
+    "pergunta": "Provide high-flow oxygen.",
+    "opcoes": ["forneça", "oxigênio", "de", "alto", "fluxo", "ar", "máscara", "muito", "ajuda"],
+    "resposta_correta": "forneça oxigênio de alto fluxo"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Ele tem ferimentos internos",
-    "opcoes": ["he", "has", "internal", "injuries", "blood", "wounds", "inside", "severe", "hurt", "damage"],
     "numero": "9",
+    "pergunta": "Ele tem ferimentos internos.",
+    "opcoes": ["he", "has", "internal", "injuries", "blood", "wounds", "severe", "hurt"],
     "resposta_correta": "he has internal injuries"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Assess the neurological status",
-    "opcoes": ["avalie", "o", "estado", "neurológico", "cérebro", "nível", "consciência", "veja", "como", "está"],
     "numero": "10",
+    "pergunta": "Assess the neurological status.",
+    "opcoes": ["avalie", "o", "estado", "neurológico", "cérebro", "nível", "consciência", "veja"],
     "resposta_correta": "avalie o estado neurológico"
   }
 ];
 export const quizAvancado10 = [
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has anaphylactic shock",
-    "opcoes": ["ele", "está", "com", "choque", "anafilático", "alergia", "grave", "reação", "corpo", "ruim"],
     "numero": "1",
+    "pergunta": "He has anaphylactic shock.",
+    "opcoes": ["ele", "está", "com", "choque", "anafilático", "alergia", "grave", "reação", "corpo"],
     "resposta_correta": "ele está com choque anafilático"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Mantenha o campo estéril",
-    "opcoes": ["keep", "the", "sterile", "field", "area", "clean", "surgical", "place", "hold", "sanitized"],
     "numero": "2",
+    "pergunta": "Mantenha o campo estéril.",
+    "opcoes": ["keep", "the", "sterile", "field", "area", "clean", "surgical", "place"],
     "resposta_correta": "keep the sterile field"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Check for cardiac tamponade",
-    "opcoes": ["verifique", "se", "há", "tamponamento", "cardíaco", "coração", "sangue", "pressão", "veja", "grave"],
     "numero": "3",
-    "resposta_correta": "verifique se tamponamento cardíaco"
+    "pergunta": "Check for cardiac tamponade.",
+    "opcoes": ["verifique", "se", "há", "tamponamento", "cardíaco", "coração", "sangue", "pressão", "grave"],
+    "resposta_correta": "verifique se há tamponamento cardíaco"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Administer the prescribed epinephrine",
-    "opcoes": ["administre", "a", "adrenalina", "prescrita", "epinefrina", "dose", "remédio", "agora", "injeção", "urgente"],
     "numero": "4",
+    "pergunta": "Administer the prescribed epinephrine.",
+    "opcoes": ["administre", "a", "epinefrina", "prescrita", "adrenalina", "dose", "remédio", "agora"],
     "resposta_correta": "administre a epinefrina prescrita"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "O paciente está estável",
-    "opcoes": ["patient", "is", "stable", "the", "now", "well", "fine", "condition", "still", "good"],
     "numero": "5",
+    "pergunta": "O paciente está estável.",
+    "opcoes": ["the", "patient", "is", "stable", "now", "well", "fine", "condition"],
     "resposta_correta": "the patient is stable"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Avoid any cross contamination",
-    "opcoes": ["evite", "qualquer", "contaminação", "cruzada", "sujeira", "infecção", "limpe", "não", "toque", "perigo"],
     "numero": "6",
+    "pergunta": "Avoid any cross contamination.",
+    "opcoes": ["evite", "qualquer", "contaminação", "cruzada", "sujeira", "infecção", "limpe", "toque"],
     "resposta_correta": "evite qualquer contaminação cruzada"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Is the heartbeat regular?",
-    "opcoes": ["heartbeat", "is", "the", "regular", "rhythm", "fast", "slow", "normal", "heart", "beating"],
     "numero": "7",
-    "resposta_correta": "is the heartbeat regular"
+    "pergunta": "Is the heartbeat regular?",
+    "opcoes": ["o", "batimento", "está", "regular", "ritmo", "coração", "normal", "beating"],
+    "resposta_correta": "o batimento está regular"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Assess the capillary refill",
-    "opcoes": ["avalie", "o", "enchimento", "capilar", "sangue", "pele", "veja", "circulação", "dedo", "tempo"],
     "numero": "8",
+    "pergunta": "Assess the capillary refill.",
+    "opcoes": ["avalie", "o", "enchimento", "capilar", "sangue", "pele", "circulação", "dedo"],
     "resposta_correta": "avalie o enchimento capilar"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "He has severe hypothermia",
-    "opcoes": ["ele", "tem", "hipotermia", "grave", "frio", "corpo", "baixa", "está", "com", "temperatura"],
     "numero": "9",
+    "pergunta": "He has severe hypothermia.",
+    "opcoes": ["ele", "tem", "hipotermia", "grave", "frio", "corpo", "está", "temperatura"],
     "resposta_correta": "ele tem hipotermia grave"
   },
   {
     "questionType": "traduza a frase",
-    "pergunta": "Monitor the urinary output",
-    "opcoes": ["monitore", "o", "débito", "urinário", "urina", "líquido", "veja", "rim", "saída", "sempre"],
     "numero": "10",
+    "pergunta": "Monitor the urinary output.",
+    "opcoes": ["monitore", "o", "débito", "urinário", "urina", "líquido", "veja", "rim"],
     "resposta_correta": "monitore o débito urinário"
   }
 ];
