@@ -12,4 +12,8 @@ routes.get('/getExercises',Exercise__Controlers.index)
 routes.get('/getExercise/:exercicioId',Exercise__Controlers.show)
 routes.put('/updateExercise/:exercicioId',Exercise__Controlers.update)
 
-export const Exercise__routes=routes
+
+routes.get('/findexercisesbyquiz/:quizId',Exercise__Controlers.findExercisesByQuizController)
+routes.get('/deleteexercisesbyquiz/:quiz',Exercise__Controlers.deleteExerciseByQuizController)
+routes.delete('/deletemanyexercisesbyquizzes',Exercise__Controlers.deletemanyExerciseByQuizController)
+export const Exercise__routes=routes 

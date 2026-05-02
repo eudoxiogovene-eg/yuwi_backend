@@ -32,7 +32,7 @@ export const getArea= async(id:string)=>{
     }
     return area
 }
-
+  
 export const getAreas= async()=>{
 
     //await Areas.deleteMany()

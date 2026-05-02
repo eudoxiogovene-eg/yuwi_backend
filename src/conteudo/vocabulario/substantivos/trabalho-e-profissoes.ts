@@ -1,7 +1,7 @@
 
 
 
-export const quiz01 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Qual é a tradução de 'Teacher'?",
     "opcoes": {
@@ -113,7 +113,7 @@ export const quiz01 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz02 = [
+export const quizIniciante02 = [
  
   {
     "pergunta": "Qual é a tradução de 'Farmer'?",
@@ -226,7 +226,7 @@ export const quiz02 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz03 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Qual é a tradução de 'Butcher'?",
     "opcoes": {
@@ -338,7 +338,7 @@ export const quiz03 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz04 = [
+export const quizIniciante04 = [
   
   {
     "pergunta": "Qual é a tradução de 'Writer'?",
@@ -451,7 +451,7 @@ export const quiz04 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz05 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Qual é a tradução de 'Gardener'?",
     "opcoes": {
@@ -563,7 +563,7 @@ export const quiz05 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz06 = [
+export const quizIniciante06 = [
  
   {
     "pergunta": "Qual é a tradução de 'Translator'?",
@@ -676,7 +676,7 @@ export const quiz06 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz07 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Qual é a tradução de 'Electrician'?",
     "opcoes": {
@@ -788,7 +788,7 @@ export const quiz07 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz08= [
+export const quizIniciante08= [
   
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
@@ -901,7 +901,7 @@ export const quiz08= [
     "resposta_correta": "C"
   }
 ];
-export const quiz09 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Qual é a tradução de 'Surgeon'?",
     "opcoes": {
@@ -1013,7 +1013,7 @@ export const quiz09 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz010 = [
+export const quizIniciante010 = [
   
   {
     "pergunta": "Qual é a tradução de 'Accountant'?",
@@ -1126,7 +1126,7 @@ export const quiz010 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz011 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Qual é a tradução de 'Electrician'?",
     "opcoes": {
@@ -1238,7 +1238,7 @@ export const quiz011 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz012 = [
+export const quizIniciante012 = [
   
   {
     "pergunta": "Qual é a tradução de 'Surveyor'?",
@@ -1351,7 +1351,7 @@ export const quiz012 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz013 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
     "opcoes": {
@@ -1463,7 +1463,7 @@ export const quiz013 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz014 = [
+export const quizIniciante014 = [
   
   {
     "pergunta": "Qual é a tradução de 'Fisherman'?",
@@ -1576,7 +1576,7 @@ export const quiz014 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Qual é a tradução de 'Secretary'?",
     "opcoes": {
@@ -1688,7 +1688,7 @@ export const quiz015 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz016 = [
+export const quizIniciante016 = [
   
   {
     "pergunta": "Qual é a tradução de 'Librarian'?",
@@ -1801,7 +1801,7 @@ export const quiz016 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Qual é a tradução de 'Receptionist'?",
     "opcoes": {
@@ -1913,7 +1913,7 @@ export const quiz017 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz018 = [
+export const quizIniciante018 = [
  
   {
     "pergunta": "Qual é a tradução de 'Carpenter'?",
@@ -2026,7 +2026,7 @@ export const quiz018 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Qual é a tradução de 'Lawyer'?",
     "opcoes": {
@@ -2138,7 +2138,7 @@ export const quiz019 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz020 = [
+export const quizIniciante020 = [
  
   {
     "pergunta": "Qual é a tradução de 'Nurse'?",
@@ -3157,7 +3157,7 @@ export const quizBasico08 = [
 export const quizBasico09 = [
   {
     "pergunta": "Qual a tradução de 'He is very competent'?",
-    "options": {
+    "opcoes": {
       "A": "Ele é muito rápido",
       "B": "Ele trabalha muito",
       "C": "Ele é muito competente",
@@ -3168,7 +3168,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Como se diz 'Aumente o desempenho' em inglês?",
-    "options": {
+    "opcoes": {
       "A": "Improve your work",
       "B": "Increase the performance",
       "C": "Work more now",
@@ -3179,7 +3179,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Qual a tradução de 'I handle global clients'?",
-    "options": {
+    "opcoes": {
       "A": "Eu vejo clientes novos",
       "B": "Eu busco clientes globais",
       "C": "Eu trabalho com vendas",
@@ -3190,7 +3190,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Como se diz 'Onde está o almoxarifado?'?",
-    "options": {
+    "opcoes": {
       "A": "Where is the office?",
       "B": "Where is the warehouse?",
       "C": "Where is the factory?",
@@ -3201,7 +3201,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Qual a tradução de 'They require high standards'?",
-    "options": {
+    "opcoes": {
       "A": "Eles exigem altos padrões",
       "B": "Eles buscam muita qualidade",
       "C": "Eles fazem coisas boas",
@@ -3212,7 +3212,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Como se diz 'Evite erros no processo'?",
-    "options": {
+    "opcoes": {
       "A": "Don't make mistakes",
       "B": "Watch the process now",
       "C": "Avoid errors in process",
@@ -3223,7 +3223,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Qual a tradução de 'She is very ambitious'?",
-    "options": {
+    "opcoes": {
       "A": "Ela trabalha muito",
       "B": "Ela quer crescer",
       "C": "Ela gosta de desafios",
@@ -3234,7 +3234,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Como se diz 'Quem aprova o orçamento?'?",
-    "options": {
+    "opcoes": {
       "A": "Who approves the budget?",
       "B": "Who has the money?",
       "C": "Who pays the bills?",
@@ -3245,7 +3245,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Qual a tradução de 'This industry is competitive'?",
-    "options": {
+    "opcoes": {
       "A": "Esta empresa é difícil",
       "B": "Esta indústria é competitiva",
       "C": "O mercado é competitivo",
@@ -3256,7 +3256,7 @@ export const quizBasico09 = [
   },
   {
     "pergunta": "Como se diz 'Mantenha o foco agora'?",
-    "options": {
+    "opcoes": {
       "A": "Keep the focus now",
       "B": "Look at the screen",
       "C": "Work very hard now",
@@ -3270,7 +3270,7 @@ export const quizBasico010 = [
   
   {
     "pergunta": "Qual a tradução de 'I provide expert advice'?",
-    "options": {
+    "opcoes": {
       "A": "Eu dou bons conselhos",
       "B": "Eu sou um consultor",
       "C": "Eu ensino o trabalho",
@@ -3281,7 +3281,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Como se diz 'Onde fica a saída?'?",
-    "options": {
+    "opcoes": {
       "A": "Where is the door?",
       "B": "Is here the exit?",
       "C": "I need the exit",
@@ -3292,7 +3292,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Qual a tradução de 'The workforce is skilled'?",
-    "options": {
+    "opcoes": {
       "A": "O time é bom",
       "B": "A equipe é qualificada",
       "C": "Os funcionários são rápidos",
@@ -3303,7 +3303,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Como se diz 'Nós valorizamos seu esforço'?",
-    "options": {
+    "opcoes": {
       "A": "You are very talented",
       "B": "We need your help",
       "C": "We value your effort",
@@ -3314,7 +3314,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Qual a tradução de 'He manages several departments'?",
-    "options": {
+    "opcoes": {
       "A": "Ele gerencia vários departamentos",
       "B": "Ele conhece os departamentos",
       "C": "Ele ajuda os departamentos",
@@ -3325,7 +3325,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Como se diz 'Assine seu nome aqui'?",
-    "options": {
+    "opcoes": {
       "A": "Write your name here",
       "B": "Put your signature here",
       "C": "Is this your name?",
@@ -3336,7 +3336,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Qual a tradução de 'Is your internship paid?'?",
-    "options": {
+    "opcoes": {
       "A": "Você recebe pelo estágio?",
       "B": "Seu estágio é remunerado?",
       "C": "Onde é seu estágio?",
@@ -3347,7 +3347,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Como se diz 'Eles superaram as metas'?",
-    "options": {
+    "opcoes": {
       "A": "They worked very well",
       "B": "They did a job",
       "C": "They exceeded the goals",
@@ -3358,7 +3358,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Qual a tradução de 'I attend weekly meetings'?",
-    "options": {
+    "opcoes": {
       "A": "Eu vou a palestras",
       "B": "Eu estudo toda semana",
       "C": "Eu participo de reuniões semanais",
@@ -3369,7 +3369,7 @@ export const quizBasico010 = [
   },
   {
     "pergunta": "Como se diz 'Onde está o estoque?'?",
-    "options": {
+    "opcoes": {
       "A": "Where is the inventory?",
       "B": "Where are the products?",
       "C": "Is there any stock?",
@@ -4051,7 +4051,7 @@ export const quizBasico016 = [
       "D": "Eu estudo toda semana"
     },
     "numero": "20",
-    "screenshot": "B"
+    "resposta_correta": "B"
   }
 ];
 export const quizBasico017 = [
@@ -4507,7 +4507,7 @@ export const quizBasico020 = [
 /*-----------------------intermediario--------------------------------*/
 
 
-const quizIntermediario01 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'O prazo expira amanhã'",
     "opcoes": {
@@ -4619,7 +4619,7 @@ const quizIntermediario01 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario02 = [
+export const quizIntermediario02 = [
   
   {
     "pergunta": "Como se diz 'Trabalhar horas extras'?",
@@ -4732,7 +4732,7 @@ const quizIntermediario02 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario03 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Traduza: 'O investimento rendeu lucros'",
     "opcoes": {
@@ -4844,7 +4844,7 @@ const quizIntermediario03 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario04 = [
+export const quizIntermediario04 = [
   
   {
     "pergunta": "Traduza: 'The workshop was useful'",
@@ -4957,7 +4957,7 @@ const quizIntermediario04 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario05 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Equilíbrio entre vida e trabalho'?",
     "opcoes": {
@@ -5069,7 +5069,7 @@ const quizIntermediario05 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario06 = [
+export const quizIntermediario06 = [
   
   {
     "pergunta": "Como se diz 'Uma oportunidade de emprego'?",
@@ -5182,7 +5182,7 @@ const quizIntermediario06 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario07 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Aprimorar o fluxo de trabalho'?",
     "opcoes": {
@@ -5294,7 +5294,7 @@ const quizIntermediario07 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario08 = [
+export const quizIntermediario08 = [
   
   {
     "pergunta": "Como se diz 'Delegar autoridade agora'?",
@@ -5407,7 +5407,7 @@ const quizIntermediario08 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario09 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Aumentar a margem'?",
     "opcoes": {
@@ -5519,7 +5519,7 @@ const quizIntermediario09 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario010 = [
+export const quizIntermediario010 = [
  
   {
     "pergunta": "Como se diz 'Um ativo valioso'?",
@@ -5632,7 +5632,7 @@ const quizIntermediario010 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario011 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Traduza: 'The liability is significant'",
     "opcoes": {
@@ -5744,7 +5744,7 @@ const quizIntermediario011 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario012 = [
+export const quizIntermediario012 = [
 
   {
     "pergunta": "Traduza: 'He is a consultant'",
@@ -5857,7 +5857,7 @@ const quizIntermediario012 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario013 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Aumentar a participação de mercado'?",
     "opcoes": {
@@ -5969,7 +5969,7 @@ const quizIntermediario013 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario014 = [
+export const quizIntermediario014 = [
   
   {
     "pergunta": "Como se diz 'Uma reunião estratégica'?",
@@ -6082,7 +6082,7 @@ const quizIntermediario014 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario015 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'Mitigar riscos operacionais'?",
     "opcoes": {
@@ -6194,7 +6194,7 @@ const quizIntermediario015 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario016 = [
+export const quizIntermediario016 = [
   
   {
     "pergunta": "Como se diz 'Uma vantagem competitiva'?",
@@ -6307,7 +6307,7 @@ const quizIntermediario016 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario017 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Traduza: 'O faturamento anual caiu'",
     "opcoes": {
@@ -6419,7 +6419,7 @@ const quizIntermediario017 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario018 = [
+export const quizIntermediario018 = [
  
   {
     "pergunta": "Traduza: 'I submitted the report'",

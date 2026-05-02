@@ -1,5 +1,5 @@
 
-
+/*
 import {db_connection} from "../db/config"
 
 
@@ -13,20 +13,23 @@ import {ExerciseData} from "../repositories/exercise.repository"
 
 import { 
     quizIniciante01,quizIniciante02,quizIniciante03,quizIniciante04,quizIniciante05,
+    quizIniciante06,quizIniciante07,quizIniciante08,quizIniciante09,quizIniciante010,
+    quizIniciante011,quizIniciante012,quizIniciante013,quizIniciante014,quizIniciante015,
+    quizIniciante016,quizIniciante017,quizIniciante018,quizIniciante019,quizIniciante020,
+    quizIniciante021,quizIniciante022,quizIniciante023,quizIniciante024,quizIniciante025,
+    quizIniciante026,quizIniciante027,quizIniciante028,quizIniciante029,quizIniciante030,
+    quizIniciante031,quizIniciante032,quizIniciante033,quizIniciante034,quizIniciante035,quizIniciante036,
+    quizIniciante037,quizIniciante038,quizIniciante039,quizIniciante040,
     
-} from "../conteudo/dia_a_dia/casa-e-vida-domestica"
-
-import { 
-    quizBasico1,quizBasico2,
-    quizBasico3,quizBasico4
-} from "../conteudo/vocabulario/substantivos/casa_familia"
+} from "../conteudo/dia_a_dia/rotina-pessoal"
 
 
-const quiz=quizIniciante02 
+
+const quiz=quizIniciante040
 
 
 async function seed(){
-    const quizId= "69b428a151445bb3e12190df"
+    const quizId= "69cc2981cfd4c6958545dc51"
    
     
 
@@ -80,3 +83,6 @@ async function seed(){
         return   console.log("houve um erro "+erro.message)    
 }) 
 
+
+
+*/

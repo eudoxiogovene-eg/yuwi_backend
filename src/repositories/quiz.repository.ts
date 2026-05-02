@@ -11,13 +11,14 @@ export interface QuizData{
     level:string
     
 }
+
 interface FilterQuizData{
     category:string
     subCategory:string
     area:string,
     level:string
 }
-interface FilterQuizSemAreaData{
+export interface FilterQuizSemAreaData{
     category:string
     subCategory:string
     level:string
@@ -98,6 +99,11 @@ export const filterQuiz=async(data:FilterQuizData)=>{
     if(quizzes.length==0){
         throw new Error("quizzes nao encontrados")
     }
+    // const ids= quizzes.map((quizz)=>{
+    //   return quizz._id.toString()
+    // })
+
+    // console.log(ids)
     return quizzes
 }
 
@@ -111,4 +117,52 @@ export const filterQuizSemArea=async(data:FilterQuizSemAreaData)=>{
         throw new Error("quizzes nao encontrados")
     }
     return quizzes
+}
+export const deleteQuizByFilter=async(data:FilterQuizData)=>{
+    const quizzes= await Quiz.deleteMany({
+        category:data.category,
+        subCategory:data.subCategory,
+        area:data.area,
+        level:data.level
+    })
+ 
+    return quizzes
+}
+
+export const deleteQuizSemAreaByFilter=async(data:FilterQuizSemAreaData)=>{
+    const quizzes= await Quiz.deleteMany({
+        category:data.category,
+        subCategory:data.subCategory,
+        level:data.level
+    })
+   
+    return quizzes
+}
+export const createManyQuizzesSemArea= async(quizzes:Omit<QuizData,"id"|"area">[])=>{
+    //console.log(quizzes)
+        try {
+            const result = await Quiz.insertMany(quizzes, {
+            ordered: false
+            })
+            return result
+    } catch (error: any) {
+        if (error.code === 11000) {
+        console.log("alguns quizzes já existiam")
+        }
+    }
+}
+export const createManyQuizzes= async(quizzes:Omit<QuizData,"id">[])=>{
+    
+        try {
+            const result = await Quiz.insertMany(quizzes, {
+            ordered: false
+            })
+            return result
+    } catch (error: any) {
+        if (error.code === 11000) {
+      
+        console.log("alguns quizzes já existiam")
+        
+        }
+    }
 }

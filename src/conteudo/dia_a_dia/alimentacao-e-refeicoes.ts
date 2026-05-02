@@ -562,7 +562,7 @@ export const quizIniciante05 = [
     "resposta_correta": "A"
   }
 ];
-export const quizniciante06 = [
+export const quizIniciante06 = [
   {
     "pergunta": "Como se diz 'queijo' em inglês?",
     "opcoes": {
@@ -3399,7 +3399,7 @@ export const quizIniciante030 = [
       "A": "Olive oil",
       "B": "Vinegar",
       "C": "Soy sauce",
-      "DE": "Ketchup"
+      "D": "Ketchup"
     },
     "numero": "3",
     "resposta_correta": "A"
@@ -5767,7 +5767,7 @@ export const quizBasico011 = [
       "D": "Can I have some red wine?"
     },
     "numero": "3",
-    "res_correta": "C"
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Traduza para o português: 'I am allergic to all dairy products.'",

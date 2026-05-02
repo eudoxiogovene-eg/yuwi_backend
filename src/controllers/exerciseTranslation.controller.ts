@@ -6,7 +6,8 @@ import {Request,Response,} from "express"
 import {
     createExerciseTranslation,ExerciseTranslationData,
     getExerciseTranslation,getExercisesTranslation,
-    updateExerciseTranslation,findExerciseTranslationsByQuiz
+    updateExerciseTranslation,findExerciseTranslationsByQuiz,
+    deleteExercisesByQuiz
 } from "../repositories/exerciseTranslation.repository"
 import {exerciseTranslationSchema,exerciseTranslationUpdateSchema} from "../validations/exerciseTranslation.schema.validation"
 
@@ -82,7 +83,18 @@ export const ExerciseTranslation__Controlers ={
        } catch (error:any) {
            return res.status(400).json({message:error.message})
        }
-   },
+    },
+     async deleteExerciseTranslationsByQuizController(req:Request,res:Response){
+       const {quiz} = req.params 
+       
+      
+       try {
+           const exercicios= await deleteExercisesByQuiz(quiz.toString())
+           return res.status(200).json({message:"exercicios deletados com sucesso",dado:exercicios})
+       } catch (error:any) {
+           return res.status(400).json({message:error.message})
+       }
+    },
 
  
 }

@@ -236,7 +236,7 @@ export const quiz1 = [
 
 
 
-export const quiz01 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Qual é a tradução de 'Nephew'?",
     "opcoes": {
@@ -348,7 +348,7 @@ export const quiz01 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz02 = [
+export const quizIniciante02 = [
  
   {
     "pergunta": "Qual é a tradução de 'Basement'?",
@@ -461,7 +461,7 @@ export const quiz02 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz03 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Como se diz 'Sogro' em inglês?",
     "opcoes": {
@@ -573,7 +573,7 @@ export const quiz03 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz04 = [
+export const quizIniciante04 = [
  
   {
     "pergunta": "Como se diz 'Enteada' em inglês?",
@@ -686,7 +686,7 @@ export const quiz04 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz05 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Como se diz 'Afilhado' em inglês?",
     "opcoes": {
@@ -798,7 +798,7 @@ export const quiz05 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz06 = [
+export const quizIniciante06 = [
  
   {
     "pergunta": "Como se diz 'Travesseiro' em inglês?",
@@ -911,7 +911,7 @@ export const quiz06 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz07 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Como se diz 'Padrinho' em inglês?",
     "opcoes": {
@@ -1023,7 +1023,7 @@ export const quiz07 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz08 = [
+export const quizIniciante08 = [
   
   {
     "pergunta": "Como se diz 'Cunhada' em inglês?",
@@ -1136,7 +1136,7 @@ export const quiz08 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz09 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Como se diz 'Padrinho' em inglês?",
     "opcoes": {
@@ -1248,7 +1248,7 @@ export const quiz09 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz010 = [
+export const quizIniciante010 = [
   
   {
     "pergunta": "Como se diz 'Cunhada' em inglês?",
@@ -1361,7 +1361,7 @@ export const quiz010 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz011 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Como se diz 'Sogra' em inglês?",
     "opcoes": {
@@ -1473,7 +1473,7 @@ export const quiz011 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz012 = [
+export const quizIniciante012 = [
   
   {
     "pergunta": "Como se diz 'Chaminé' em inglês?",
@@ -1586,7 +1586,7 @@ export const quiz012 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz013 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Como se diz 'Sogro' em inglês?",
     "opcoes": {
@@ -1698,7 +1698,7 @@ export const quiz013 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz014 = [
+export const quizIniciante014 = [
   
   {
     "pergunta": "Como se diz 'Cunhado' em inglês?",
@@ -1811,7 +1811,7 @@ export const quiz014 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Qual é a tradução de 'Great-uncle'?",
     "opcoes": {
@@ -1923,7 +1923,7 @@ export const quiz015 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz016 = [
+export const quizIniciante016 = [
  
   {
     "pergunta": "Qual é a tradução de 'Plumbing'?",
@@ -2036,7 +2036,7 @@ export const quiz016 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Como se diz 'Tataravô' em inglês?",
     "opcoes": {
@@ -2148,7 +2148,7 @@ export const quiz017 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz018 = [
+export const quizIniciante018 = [
   
   {
     "pergunta": "Como se diz 'Genro' em inglês?",
@@ -2261,7 +2261,7 @@ export const quiz018 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Como se diz 'Enteada' em inglês?",
     "opcoes": {
@@ -2373,7 +2373,7 @@ export const quiz019 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz020 = [
+export const quizIniciante020 = [
  
   {
     "pergunta": "Como se diz 'Gêmeos' em inglês?",
@@ -6929,7 +6929,7 @@ export const quizBasico036 = [
   }
 
 ];
-export const quizBasico19 = [
+export const quizBasico037 = [
 
   {
     "pergunta": "Traduza: My father is cleaning the car.",
@@ -7049,7 +7049,10 @@ export const quizBasico19 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+
+];
+export const quizBasico038 = [
 
   {
     "pergunta": "Traduza: My uncle is cooking.",
@@ -7172,7 +7175,7 @@ export const quizBasico19 = [
   }
 
 ];
-export const quizBasico20 = [
+export const quizBasico039 = [
 
   {
     "pergunta": "Traduza: My father is reading a newspaper.",
@@ -7292,7 +7295,10 @@ export const quizBasico20 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+
+];
+export const quizBasico040 = [
 
   {
     "pergunta": "Traduza: My uncle is smiling.",
@@ -9217,7 +9223,7 @@ export const quizIntermediario016 = [
     "resposta_correta": "C"
   }
 ];
-export const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'O porão está mofado'?",
     "opcoes": {
@@ -9329,7 +9335,7 @@ export const quizIntermediario9 = [
     "resposta_correta": "B"
   }
 ];
-export const quizIntermediario10 = [
+export const quizIntermediario018 = [
  
   {
     "pergunta": "Como se diz 'O teto está rachado'?",
@@ -9423,7 +9429,7 @@ export const quizIntermediario10 = [
     "pergunta": "Como se diz 'O porão está úmido'?",
     "opcoes": {
       "A": "The basement is damp",
-      "Pos": "The attic is damp",
+      "B": "The attic is damp",
       "C": "The room is damp",
       "D": "The cellar is damp"
     },

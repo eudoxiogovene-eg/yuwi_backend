@@ -3,7 +3,11 @@
 import {Request,Response,} from "express"
 
 
-import {ExerciseData,createExercise,getExercises,getExercise,updateExercise} from "../repositories/exercise.repository"
+import {
+    ExerciseData,createExercise,getExercises,
+    getExercise,updateExercise,deleteExerciseByQuiz,
+    findExercisesByQuiz,DeleteManyExercisesQuizByQuizzes
+} from "../repositories/exercise.repository"
 import {exerciseSchema,exerciseUpdateSchema} from "../validations/exercise.schema.validation"
 
 
@@ -74,6 +78,40 @@ export const Exercise__Controlers ={
             return res.status(400).json({message:error.message})
         }
     },
+    async deleteExerciseByQuizController(req:Request,res:Response){
+       const {quiz} = req.params 
+       const id=quiz.toString()
+      
+       try {
+           const exerciciodeletado= await deleteExerciseByQuiz(id)
+           return res.status(200).json({message:"exercicios deletados com sucesso",dado:exerciciodeletado})
+       } catch (error:any) {
+           return res.status(400).json({message:error.message})
+       }
+    },
 
+     async findExercisesByQuizController(req:Request,res:Response){
+       const {quizId} = req.params 
+       const id=quizId.toString()
+      
+       try {
+           const exercicio= await findExercisesByQuiz(id)
+           return res.status(200).json({message:"exercicio encontrado com sucesso",dado:exercicio})
+       } catch (error:any) {
+           return res.status(400).json({message:error.message})
+       }
+   },
+   async deletemanyExerciseByQuizController(req:Request,res:Response){
+   
+           const {data} =req.body
+          
+           
+           try {
+               const quizzesDeleted= await DeleteManyExercisesQuizByQuizzes(data)
+               return res.status(200).json({data:quizzesDeleted})
+           } catch (error:any) {
+               return res.status(400).json({message:error.message})             
+           }
+   },
  
 }

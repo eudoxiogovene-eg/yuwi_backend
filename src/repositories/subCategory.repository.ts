@@ -76,3 +76,10 @@ export const getSubCategoryByCategory= async(category_id:string)=>{
     }
     return subCategoryes
 }
+
+export const deleteSubCategoryByCategory= async(category_id:string)=>{
+    const subCategoryesDeleted= await SubCategories.deleteMany({
+        category:category_id
+    })
+    return subCategoryesDeleted
+}

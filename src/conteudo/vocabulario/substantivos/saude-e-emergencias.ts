@@ -1,5 +1,5 @@
 
-export const quiz01 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Hospital' em inglês?",
     "opcoes": {
@@ -111,7 +111,7 @@ export const quiz01 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz02 = [
+export const quizIniciante02 = [
  
   {
     "pergunta": "Como se diz 'Farmácia' em inglês?",
@@ -224,7 +224,7 @@ export const quiz02 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz03 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Qual é a tradução de 'Bandage'?",
     "opcoes": {
@@ -336,7 +336,7 @@ export const quiz03 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz04 = [
+export const quizIniciante04 = [
   
   {
     "pergunta": "Qual é a tradução de 'Virus'?",
@@ -449,7 +449,7 @@ export const quiz04 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz05 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Qual é a tradução de 'Poison'?",
     "opcoes": {
@@ -561,7 +561,7 @@ export const quiz05 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz06 = [
+export const quizIniciante06 = [
   
   {
     "pergunta": "Qual é a tradução de 'Backache'?",
@@ -674,7 +674,7 @@ export const quiz06 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz07 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Qual é a tradução de 'Stretcher'?",
     "opcoes": {
@@ -786,7 +786,7 @@ export const quiz07 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz08 = [
+export const quizIniciante08 = [
   
   {
     "pergunta": "Qual é a tradução de 'Waitress'?",
@@ -899,7 +899,7 @@ export const quiz08 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz09 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Qual é a tradução de 'Bone'?",
     "opcoes": {
@@ -1011,7 +1011,7 @@ export const quiz09 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz010 = [
+export const quizIniciante010 = [
   
   {
     "pergunta": "Qual é a tradução de 'Pill'?",
@@ -1124,7 +1124,7 @@ export const quiz010 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz011 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Qual é a tradução de 'First aid kit'?",
     "opcoes": {
@@ -1236,7 +1236,7 @@ export const quiz011 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz012 = [
+export const quizIniciante012 = [
   
   {
     "pergunta": "Qual é a tradução de 'Throat'?",
@@ -1349,7 +1349,7 @@ export const quiz012 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz013 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Qual é a tradução de 'Fever'?",
     "opcoes": {
@@ -1461,7 +1461,7 @@ export const quiz013 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz014 = [
+export const quizIniciante014 = [
  
   {
     "pergunta": "Qual é a tradução de 'Bandage'?",
@@ -1574,7 +1574,7 @@ export const quiz014 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Como se diz 'Erupção cutânea / Manchas na pele' em inglês?",
     "opcoes": {
@@ -1686,7 +1686,7 @@ export const quiz015 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz016 = [
+export const quizIniciante016 = [
  
   {
     "pergunta": "Como se diz 'Músculo' em inglês?",
@@ -1799,7 +1799,7 @@ export const quiz016 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Qual é a tradução de 'X-ray'?",
     "opcoes": {
@@ -1911,7 +1911,7 @@ export const quiz017 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz018 = [
+export const quizIniciante018 = [
   
   {
     "pergunta": "Qual é a tradução de 'Scalpel'?",
@@ -2024,7 +2024,7 @@ export const quiz018 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Qual é a tradução de 'Health insurance'?",
     "opcoes": {
@@ -2136,7 +2136,7 @@ export const quiz019 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz020 = [
+export const quizIniciante020 = [
   
   {
     "pergunta": "Qual é a tradução de 'Ward'?",

@@ -11,12 +11,24 @@ import {ExercisesTranslation} from "../models/exerciseTranslation.model"
 
 
 export const deleteAllRepository= async ()=>{
-  await Categories.deleteMany()
-  await SubCategories.deleteMany()
-  await Areas.deleteMany()
-  await Levels.deleteMany()
-  await Quiz.deleteMany()
-  await Exercises.deleteMany()
-  await ExercisesTranslation.deleteMany()
+  //await Categories.deleteMany()
+  //await SubCategories.deleteMany()
+  //await Areas.deleteMany()
+  //await Levels.deleteMany()
+  //await Quiz.deleteMany()
+  //await Exercises.deleteMany()
+  //await ExercisesTranslation.deleteMany()
+
+
+  //await Quiz.collection.drop()
+
+  await Categories.collection.drop()
+  await SubCategories.collection.drop()
+  await Areas.collection.drop()
+  await Levels.collection.drop()
+  await Quiz.collection.drop()
+  await Exercises.collection.drop()
+  await ExercisesTranslation.collection.drop()
+  
   return
 }

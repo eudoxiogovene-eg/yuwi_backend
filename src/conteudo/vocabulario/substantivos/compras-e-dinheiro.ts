@@ -289,7 +289,7 @@ export const quizIniciante05 = [
   },
   {
     "pergunta": "Como se diz 'Balcão de informações' em inglês?",
-    "opcoes": { "A": "Help desk", ",B": "Information desk", "C": "Front desk", "D": "Service desk" },
+    "opcoes": { "A": "Help desk", "B": "Information desk", "C": "Front desk", "D": "Service desk" },
     "numero": "7",
     "resposta_correta": "B"
   },
@@ -1725,7 +1725,7 @@ export const quizBasico05 = [
     "pergunta": "Qual a tradução de 'Withdraw some cash'?",
     "opcoes": {
       "A": "Sacar algum dinheiro",
-      ",B": "Guardar o troco",
+      "B": "Guardar o troco",
       "C": "Pagar com notas",
       "D": "Pedir um empréstimo"
     },

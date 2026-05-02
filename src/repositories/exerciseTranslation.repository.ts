@@ -47,7 +47,7 @@ export const getExerciseTranslation= async(id:string)=>{
 }
 
 export const getExercisesTranslation= async()=>{
-    
+    // await ExercisesTranslation.deleteMany()
     const exercices= await ExercisesTranslation.find()
     if(!exercices.length){
         throw new Error("ainda nao ha exercicios cadastrados")
@@ -132,4 +132,8 @@ export const createManyExercisesTranslations= async(exercises:Omit<ExerciseTrans
       console.log("alguns exercícios já existiam")
     }
   }
+}
+export const deleteExercisesByQuiz= async (quiz:string)=>{
+    const exerciseDeleted= await ExercisesTranslation.deleteMany({quiz:quiz})
+    return exerciseDeleted
 }

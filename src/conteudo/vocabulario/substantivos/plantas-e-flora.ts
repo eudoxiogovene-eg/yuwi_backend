@@ -2,7 +2,7 @@
 
 
 
-export const quiz01 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Árvore' em inglês?",
     "opcoes": {
@@ -114,7 +114,7 @@ export const quiz01 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz02 = [
+export const quizIniciante02 = [
  
   {
     "pergunta": "Como se diz 'Rosa' (a flor) em inglês?",
@@ -227,7 +227,7 @@ export const quiz02 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz03 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Como se diz 'Semente' em inglês?",
     "opcoes": {
@@ -339,7 +339,7 @@ export const quiz03 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz04 = [
+export const quizIniciante04 = [
   
   {
     "pergunta": "Como se diz 'Samambaia' em inglês?",
@@ -452,7 +452,7 @@ export const quiz04 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz05 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Como se diz 'Pinheiro' em inglês?",
     "opcoes": {
@@ -564,7 +564,7 @@ export const quiz05 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz06 = [
+export const quizIniciante06 = [
   
   {
     "pergunta": "Como se diz 'Pomar' em inglês?",
@@ -677,7 +677,7 @@ export const quiz06 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz07 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Como se diz 'Gira-sol' em inglês?",
     "opcoes": {
@@ -789,7 +789,7 @@ export const quiz07 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz08 = [
+export const quizIniciante08 = [
   
   {
     "pergunta": "Como se diz 'Pólen' em inglês?",
@@ -902,7 +902,7 @@ export const quiz08 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz09 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Como se diz 'Pétala' em inglês?",
     "opcoes": {
@@ -1014,7 +1014,7 @@ export const quiz09 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz010 = [
+export const quizIniciante010 = [
  
   {
     "pergunta": "Como se diz 'Hera' (planta trepadeira) em inglês?",
@@ -1127,7 +1127,7 @@ export const quiz010 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz011 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Como se diz 'Pinheiro' em inglês?",
     "opcoes": {
@@ -1239,7 +1239,7 @@ export const quiz011 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz012 = [
+export const quizIniciante012 = [
  
   {
     "pergunta": "Como se diz 'Caule' em inglês?",
@@ -1352,7 +1352,7 @@ export const quiz012 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz013 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Como se diz 'Semente' em inglês?",
     "opcoes": {
@@ -1464,7 +1464,7 @@ export const quiz013 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz014 = [
+export const quizIniciante014 = [
   
   {
     "pergunta": "Como se diz 'Pomar' em inglês?",
@@ -1577,7 +1577,7 @@ export const quiz014 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Como se diz 'Grama' em inglês?",
     "opcoes": {
@@ -1689,7 +1689,7 @@ export const quiz015 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz016 = [
+export const quizIniciante016 = [
  
   {
     "pergunta": "Como se diz 'Regador' em inglês?",
@@ -1802,7 +1802,7 @@ export const quiz016 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Como se diz 'Pétala' em inglês?",
     "opcoes": {
@@ -1914,7 +1914,7 @@ export const quiz017 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz018 = [
+export const quizIniciante018 = [
   
   {
     "pergunta": "Como se diz 'Solo' em inglês?",
@@ -2027,7 +2027,7 @@ export const quiz018 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Como se diz 'Tronco' em inglês?",
     "opcoes": {
@@ -2139,7 +2139,7 @@ export const quiz019 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz020 = [
+export const quizIniciante020 = [
   
   {
     "pergunta": "Como se diz 'Estufa' em inglês?",
@@ -2932,7 +2932,7 @@ export const quizBasico06 = [
 export const quizBasico07 = [
   {
     "pergunta": "Traduza: 'Deciduous foliage turns orange.'",
-    "options": {
+    "opcoes": {
       "A": "Folhas verdes ficam laranjas.",
       "B": "Folhagem caducifólia torna-se laranja.",
       "C": "Árvores grandes ficam laranjas.",
@@ -2943,7 +2943,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Como se diz: 'Plantas perenes resistem geadas.'?",
-    "options": {
+    "opcoes": {
       "A": "Perennials withstand frosts.",
       "B": "Flowers survive cold snow.",
       "C": "Plants resist winter ice.",
@@ -2954,7 +2954,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Traduza: 'Pollination ensures species survival.'",
-    "options": {
+    "opcoes": {
       "A": "Natureza ajuda plantas novas.",
       "B": "Abelhas garantem vida nova.",
       "C": "Flores precisam de pólen.",
@@ -2965,7 +2965,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Como se diz: 'Sementes germinam sob solo.'?",
-    "options": {
+    "opcoes": {
       "A": "Seeds grow inside dirt.",
       "B": "Seeds start under earth.",
       "C": "Seeds germinate beneath soil.",
@@ -2976,7 +2976,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Traduza: 'Chlorophyll captures solar energy.'",
-    "options": {
+    "opcoes": {
       "A": "Clorofila captura energia solar.",
       "B": "Plantas usam luz solar.",
       "C": "Folhas pegam calor solar.",
@@ -2987,7 +2987,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Como se diz: 'Samambaias produzem esporos minúsculos.'?",
-    "options": {
+    "opcoes": {
       "A": "Ferns have small seeds.",
       "B": "Ferns make little dust.",
       "C": "Ferns drop microscopic spores.",
@@ -2998,7 +2998,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Traduza: 'Saplings require consistent watering.'",
-    "options": {
+    "opcoes": {
       "A": "Árvores precisam muita água.",
       "B": "Plantas querem água constante.",
       "C": "Mudas requerem rega consistente.",
@@ -3009,7 +3009,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Como se diz: 'Solo argiloso retém umidade.'?",
-    "options": {
+    "opcoes": {
       "A": "Wet soil keeps water.",
       "B": "Dirt holds much water.",
       "C": "Ground stays very wet.",
@@ -3020,7 +3020,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Traduza: 'Vines climb vertical surfaces.'",
-    "options": {
+    "opcoes": {
       "A": "Trepadeiras escalam superfícies verticais.",
       "B": "Plantas sobem em paredes.",
       "C": "Heras crescem em muros.",
@@ -3031,7 +3031,7 @@ export const quizBasico07 = [
   },
   {
     "pergunta": "Como se diz: 'Arbustos densos florescem anualmente.'?",
-    "options": {
+    "opcoes": {
       "A": "Bushes flower every year.",
       "B": "Dense shrubs bloom annually.",
       "C": "Thick plants bloom yearly.",
@@ -3045,7 +3045,7 @@ export const quizBasico08 = [
   
   {
     "pergunta": "Traduza: 'Roots absorb essential nutrients.'",
-    "options": {
+    "opcoes": {
       "A": "Raízes pegam comida boa.",
       "B": "Plantas bebem água mineral.",
       "C": "Raízes absorvem nutrientes essenciais.",
@@ -3056,7 +3056,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Como se diz: 'Pragas danificam colheitas orgânicas.'?",
-    "options": {
+    "opcoes": {
       "A": "Insects eat healthy food.",
       "B": "Bugs destroy green plants.",
       "C": "Pests hurt farm crops.",
@@ -3067,7 +3067,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Traduza: 'Nectar attracts hungry hummingbirds.'",
-    "options": {
+    "opcoes": {
       "A": "Néctar atrai beija-flores famintos.",
       "B": "Doce chama pássaros pequenos.",
       "C": "Flores alimentam beija-flores famintos.",
@@ -3078,7 +3078,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Como se diz: 'Botões florais murcham rapidamente.'?",
-    "options": {
+    "opcoes": {
       "A": "Flowers die very fast.",
       "B": "Flower buds wither quickly.",
       "C": "Buds dry up soon.",
@@ -3089,7 +3089,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Traduza: 'Ecosystems depend on biodiversity.'",
-    "options": {
+    "opcoes": {
       "A": "Natureza precisa muitas plantas.",
       "B": "Ecossistemas dependem da biodiversidade.",
       "C": "Florestas dependem de animais.",
@@ -3100,7 +3100,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Como se diz: 'Salgueiros habitam margens úmidas.'?",
-    "options": {
+    "opcoes": {
       "A": "Willows live near lakes.",
       "B": "Trees grow in mud.",
       "C": "Willows inhabit damp banks.",
@@ -3111,7 +3111,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Traduza: 'Greenhouses regulate internal temperature.'",
-    "options": {
+    "opcoes": {
       "A": "Estufas regulam temperatura interna.",
       "B": "Casas verdes controlam calor.",
       "C": "Estufas mantêm ar quente.",
@@ -3122,7 +3122,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Como se diz: 'Espinhos afiados protegem caules.'?",
-    "options": {
+    "opcoes": {
       "A": "Sharp thorns defend plants.",
       "B": "Hard thorns protect wood.",
       "C": "Big thorns guard flowers.",
@@ -3133,7 +3133,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Traduza: 'Autumn winds scatter seeds.'",
-    "options": {
+    "opcoes": {
       "A": "Ventos frios levam folhas.",
       "B": "Natureza espalha sementes secas.",
       "C": "Ventos outonais espalham sementes.",
@@ -3144,7 +3144,7 @@ export const quizBasico08 = [
   },
   {
     "pergunta": "Como se diz: 'Heras cobrem carvalhos centenários.'?",
-    "options": {
+    "opcoes": {
       "A": "Vines grow on trees.",
       "B": "Ivy covers ancient oaks.",
       "C": "Moss covers old oaks.",
@@ -3437,7 +3437,7 @@ export const quizBasico011 = [
   },
   {
     "pergunta": "Como se diz: 'Solo fértil promove crescimento.'?",
-    "order": {
+    "opcoes": {
       "A": "Rich earth brings life.",
       "B": "Healthy soil helps seeds.",
       "C": "Fertile soil promotes growth.",
@@ -4508,7 +4508,7 @@ export const quizBasico020 = [
 /*-----------------------intermediario--------------------------------*/
 
 
-const quizIntermediario01 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'Photosynthesis sustains terrestrial life.'",
     "opcoes": {
@@ -4620,7 +4620,7 @@ const quizIntermediario01 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario02 = [
+export const quizIntermediario02 = [
   
   {
     "pergunta": "Traduza: 'Chlorophyll captures radiant energy.'",
@@ -4733,7 +4733,7 @@ const quizIntermediario02 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario03 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Traduza: 'Vascular tissues transport essential sap.'",
     "opcoes": {
@@ -4815,7 +4815,7 @@ const quizIntermediario03 = [
     "pergunta": "Como se diz: 'Polinização cruzada aumenta variabilidade.'?",
     "opcoes": {
       "A": "Bees mix different flowers.",
-      "Arr": "Nature needs pollen mix.",
+      "B": "Nature needs pollen mix.",
       "C": "Cross-pollination increases variability.",
       "D": "Pollinators help plant diversity."
     },
@@ -4845,7 +4845,7 @@ const quizIntermediario03 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario04 = [
+export const quizIntermediario04 = [
   
   {
     "pergunta": "Traduza: 'Bark shields internal vascular cambium.'",
@@ -5295,7 +5295,7 @@ export const quizIntermediario07 = [
     "resposta_correta": "A"
   }
 ];
-export const quizIntermediari08 = [
+export const quizIntermediario08 = [
  
   {
     "pergunta": "Traduza: 'Ancient conifers survive frosts.'",
@@ -5408,7 +5408,7 @@ export const quizIntermediari08 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario09 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Traduza: 'Endemic flora faces extinction.'",
     "opcoes": {
@@ -5520,7 +5520,7 @@ const quizIntermediario09 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario010 = [
+export const quizIntermediario010 = [
   
   {
     "pergunta": "Traduza: 'Saplings require nutrient-rich soil.'",
@@ -5633,7 +5633,7 @@ const quizIntermediario010 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario011 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Traduza: 'Mangroves stabilize coastal ecosystems.'",
     "opcoes": {
@@ -5745,7 +5745,7 @@ const quizIntermediario011 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario012 = [
+export const quizIntermediario012 = [
  
   {
     "pergunta": "Traduza: 'Succulents tolerate severe aridity.'",
@@ -5858,7 +5858,7 @@ const quizIntermediario012 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario013 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Traduza: 'Capillary action moves water.'",
     "opcoes": {
@@ -5971,7 +5971,7 @@ const quizIntermediario013 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario014 = [
+export const quizIntermediario014 = [
  
   {
     "pergunta": "Traduza: 'Vascular tissues conduct fluids.'",
@@ -6309,7 +6309,7 @@ export const quizIntermediario016 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario017 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Traduza: 'Endemic species face habitat loss.'",
     "opcoes": {
@@ -6421,7 +6421,7 @@ const quizIntermediario017 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario018 = [
+export const quizIntermediario018 = [
   
   {
     "pergunta": "Traduza: 'Inflorescence attracts diverse insects.'",
@@ -6534,7 +6534,7 @@ const quizIntermediario018 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario019 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Traduza: 'Xylem conducts water upward.'",
     "opcoes": {
@@ -6646,7 +6646,7 @@ const quizIntermediario019 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario020 = [
+export const quizIntermediario020 = [
   
   {
     "pergunta": "Traduza: 'Deciduous foliage turns vibrant.'",

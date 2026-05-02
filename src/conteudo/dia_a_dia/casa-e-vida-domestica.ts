@@ -1595,7 +1595,7 @@ export const quizIniciante014 = [
 
 
 
-const quizIniciante015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Como se diz 'Eu lavo a roupa' em inglês?",
     "opcoes": {
@@ -1707,7 +1707,7 @@ const quizIniciante015 = [
     "resposta_correta": "A"
   }
 ];
-const quizIniciante016 = [
+export const quizIniciante016 = [
  
   {
     "pergunta": "Como se diz 'Eu mudo os móveis de lugar'?",
@@ -1822,7 +1822,7 @@ const quizIniciante016 = [
 ];
 
 
-const quizIniciante017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Como se diz 'Eu acordo cedo' em inglês?",
     "opcoes": {
@@ -1934,7 +1934,7 @@ const quizIniciante017 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante018 = [
+export const quizIniciante018 = [
  
   {
     "pergunta": "Traduza: 'I am in the bathroom'.",
@@ -2050,7 +2050,7 @@ const quizIniciante018 = [
 
 
 
-const quizIniciante019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Como se diz 'Eu ligo o aquecedor' em inglês?",
     "opcoes": {
@@ -2163,7 +2163,7 @@ const quizIniciante019 = [
   }
 ];
 
-const quizIniciante020 = [
+export const quizIniciante020 = [
  
   {
     "pergunta": "Como se diz 'Eu passeio com o cão'?",
@@ -2278,7 +2278,7 @@ const quizIniciante020 = [
 ];
 
 
-const quizIniciante021 = [
+export const quizIniciante021 = [
   {
     "pergunta": "Como se diz 'Despensa' em inglês?",
     "opcoes": {
@@ -2390,7 +2390,7 @@ const quizIniciante021 = [
     "resposta_correta": "B"
   }
 ];
-const quizIniciante022 = [
+export const quizIniciante022 = [
  
   {
     "pergunta": "Como se diz 'Torneira' em inglês?",
@@ -2505,7 +2505,7 @@ const quizIniciante022 = [
 ];
 
 
-const quizIniciante023 = [
+export const quizIniciante023 = [
   {
     "pergunta": "Como se diz 'Máquina de lavar louça' em inglês?",
     "opcoes": {
@@ -2617,7 +2617,7 @@ const quizIniciante023 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante024 = [
+export const quizIniciante024 = [
   
   {
     "pergunta": "Como se diz 'Espelho' em inglês?",
@@ -2732,7 +2732,7 @@ const quizIniciante024 = [
 ];
 
 
-const quizIniciante025 = [
+export const quizIniciante025 = [
   {
     "pergunta": "Como se diz 'Chaleira' em inglês?",
     "opcoes": {
@@ -2844,7 +2844,7 @@ const quizIniciante025 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante026 = [
+export const quizIniciante026 = [
  
   {
     "pergunta": "Como se diz 'Campainha' em inglês?",
@@ -2959,7 +2959,7 @@ const quizIniciante026 = [
 ];
 
 
-const quizIniciante027 = [
+export const quizIniciante027 = [
   {
     "pergunta": "Como se diz 'Eu limpo a mesa da cozinha' em inglês?",
     "opcoes": {
@@ -3071,7 +3071,7 @@ const quizIniciante027 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante028 = [
+export const quizIniciante028 = [
   
   {
     "pergunta": "Como se diz 'Eu ligo a luz do quarto' em inglês?",
@@ -3185,7 +3185,7 @@ const quizIniciante028 = [
   }
 ];
 
-const quizIniciante029 = [
+export const quizIniciante029 = [
   {
     "pergunta": "Como se diz 'Eu lavo a louça depois do jantar' em inglês?",
     "opcoes": {
@@ -3297,7 +3297,7 @@ const quizIniciante029 = [
     "resposta_correta": "A"
   }
 ];
-const quizIniciante030 = [
+export const quizIniciante030 = [
   
   {
     "pergunta": "Como se diz 'Eu mudo os móveis de lugar' em inglês?",
@@ -3412,7 +3412,7 @@ const quizIniciante030 = [
 ];
 
 
-const quizIniciante031 = [
+export const quizIniciante031 = [
   {
     "pergunta": "Como se diz 'Eu conserto a torneira' em inglês?",
     "opcoes": {
@@ -3524,7 +3524,7 @@ const quizIniciante031 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante032 = [
+export const quizIniciante032 = [
  
   {
     "pergunta": "Como se diz 'Eu abro a cortina' em inglês?",
@@ -3639,7 +3639,7 @@ const quizIniciante032 = [
 ];
 
 
-const quizIniciante033 = [
+export const quizIniciante033 = [
   {
     "pergunta": "Como se diz 'Eu rego as plantas da varanda' em inglês?",
     "opcoes": {
@@ -3751,7 +3751,7 @@ const quizIniciante033 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante034 = [
+export const quizIniciante034 = [
  
   {
     "pergunta": "Como se diz 'Eu encontro o controle remoto' em inglês?",
@@ -3866,7 +3866,7 @@ const quizIniciante034 = [
 ];
 
 
-const quizIniciante035 = [
+export const quizIniciante035 = [
   {
     "pergunta": "Como se diz 'Eu limpo o espelho do banheiro' em inglês?",
     "opcoes": {
@@ -3978,7 +3978,7 @@ const quizIniciante035 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante036 = [
+export const quizIniciante036 = [
   
   {
     "pergunta": "Como se diz 'Eu encontro o controle remoto' em inglês?",
@@ -4093,7 +4093,7 @@ const quizIniciante036 = [
 ];
 
 
-const quizIniciante037 = [
+export const quizIniciante037 = [
   {
     "pergunta": "Como se diz 'Eu abro a torneira do banheiro' em inglês?",
     "opcoes": {
@@ -4205,7 +4205,7 @@ const quizIniciante037 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante038 = [
+export const quizIniciante038 = [
  
   {
     "pergunta": "Como se diz 'Eu troco a bateria do controle' em inglês?",
@@ -4320,7 +4320,7 @@ const quizIniciante038 = [
 ];
 
 
-const quizIniciante039 = [
+export const quizIniciante039 = [
   {
     "pergunta": "Como se diz 'Eu dobro os lençóis limpos' em inglês?",
     "opcoes": {
@@ -4413,7 +4413,7 @@ const quizIniciante039 = [
     "pergunta": "Como se diz 'O teto da cozinha é alto' em inglês?",
     "opcoes": {
       "A": "The kitchen floor is high",
-      "/B": "The kitchen ceiling is high",
+      "B": "The kitchen ceiling is high",
       "C": "The kitchen wall is high",
       "D": "The kitchen door is high"
     },
@@ -4432,7 +4432,7 @@ const quizIniciante039 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante040 = [
+export const quizIniciante040 = [
  
   {
     "pergunta": "Como se diz 'Eu troco a lâmpada da sala' em inglês?",
@@ -4548,7 +4548,7 @@ const quizIniciante040 = [
 
 /*-----------------------basico--------------------------------*/
 
-const quizBasico01 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Eu preciso trocar as lâmpadas do corredor' em inglês?",
     "opcoes": {
@@ -4660,7 +4660,7 @@ const quizBasico01 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico02 = [
+export const quizBasico02 = [
   
   {
     "pergunta": "Como se diz 'A maçaneta da porta está solta' em inglês?",
@@ -4773,7 +4773,7 @@ const quizBasico02 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico03 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Eu preciso esvaziar a máquina de lavar louça' em inglês?",
     "opcoes": {
@@ -4885,7 +4885,7 @@ const quizBasico03 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico04 = [
+export const quizBasico04 = [
   
   {
     "pergunta": "Como se diz 'Eu penduro as roupas no varal' em inglês?",
@@ -4998,7 +4998,7 @@ const quizBasico04 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico05 = [
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'O encanador está consertando o vazamento' em inglês?",
     "opcoes": {
@@ -5110,7 +5110,7 @@ const quizBasico05 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico06 = [
+export const quizBasico06 = [
   
   {
     "pergunta": "Como se diz 'A escada de mão está no sótão' em inglês?",
@@ -5223,7 +5223,7 @@ const quizBasico06 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico07 = [
+export const quizBasico07 = [
   {
     "pergunta": "Como se diz 'Eu preciso passar o aspirador de pó no tapete' em inglês?",
     "opcoes": {
@@ -5335,7 +5335,7 @@ const quizBasico07 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico08 = [
+export const quizBasico08 = [
  
   {
     "pergunta": "Como se diz 'Eu conserto a prateleira com um martelo' em inglês?",
@@ -5448,7 +5448,7 @@ const quizBasico08 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico09 = [
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'A torneira do banheiro está pingando' em inglês?",
     "opcoes": {
@@ -5560,7 +5560,7 @@ const quizBasico09 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico010 = [
+export const quizBasico010 = [
   
   {
     "pergunta": "Como se diz 'Eu consertei a cerca ontem' em inglês?",
@@ -5673,7 +5673,7 @@ const quizBasico010 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico011 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'O teto do porão é muito baixo' em inglês?",
     "opcoes": {
@@ -5689,7 +5689,7 @@ const quizBasico011 = [
     "pergunta": "Traduza: 'I need to sharpen the kitchen knives'.",
     "opcoes": {
       "A": "Eu preciso lavar as facas da cozinha.",
-      ",B": "Eu preciso comprar facas de cozinha novas.",
+      "B": "Eu preciso comprar facas de cozinha novas.",
       "C": "Eu preciso afiar as facas da cozinha.",
       "D": "Eu preciso guardar as facas na gaveta."
     },
@@ -5785,7 +5785,7 @@ const quizBasico011 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico012 = [
+export const quizBasico012 = [
  
   {
     "pergunta": "Como se diz 'O cano está vazando água' em inglês?",
@@ -5898,7 +5898,7 @@ const quizBasico012 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico013 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'A secadora de roupas é muito barulhenta' em inglês?",
     "opcoes": {
@@ -6010,7 +6010,7 @@ const quizBasico013 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico014 = [
+export const quizBasico014 = [
   
   {
     "pergunta": "Como se diz 'Eu tiro o pó das prateleiras toda semana' em inglês?",
@@ -6123,7 +6123,7 @@ const quizBasico014 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico015 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'O encanador encontrou um cano quebrado' em inglês?",
     "opcoes": {
@@ -6235,7 +6235,7 @@ const quizBasico015 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico016 = [
+export const quizBasico016 = [
  
   {
     "pergunta": "Como se diz 'A maçaneta da porta está solta' em inglês?",
@@ -6348,7 +6348,7 @@ const quizBasico016 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico017 = [
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'O teto da sala tem uma mancha' em inglês?",
     "opcoes": {
@@ -6460,7 +6460,7 @@ const quizBasico017 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico018 = [
+export const quizBasico018 = [
   
   {
     "pergunta": "Como se diz 'Eu preciso aparar a grama' em inglês?",
@@ -6573,7 +6573,7 @@ const quizBasico018 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico019 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'A escada de madeira está na garagem' em inglês?",
     "opcoes": {
@@ -6685,7 +6685,7 @@ const quizBasico019 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico020 = [
+export const quizBasico020 = [
   
   {
     "pergunta": "Como se diz 'A pia está cheia de louça suja' em inglês?",
@@ -6798,7 +6798,7 @@ const quizBasico020 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico021 = [
+export const quizBasico021 = [
   {
     "pergunta": "Como se diz 'A campainha sem fio parou de funcionar' em inglês?",
     "opcoes": {
@@ -6910,7 +6910,7 @@ const quizBasico021 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico022 = [
+export const quizBasico022 = [
   
   {
     "pergunta": "Como se diz 'Eu preciso passar o aspirador no tapete' em inglês?",
@@ -7023,7 +7023,7 @@ const quizBasico022 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico023 = [
+export const quizBasico023 = [
   {
     "pergunta": "Como se diz 'A entrada da garagem precisa de uma limpeza' em inglês?",
     "opcoes": {
@@ -7135,7 +7135,7 @@ const quizBasico023 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico024 = [
+export const quizBasico024 = [
   
   {
     "pergunta": "Como se diz 'O porão tem um teto alto' em inglês?",
@@ -7248,7 +7248,7 @@ const quizBasico024 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico025 = [
+export const quizBasico025 = [
   {
     "pergunta": "Como se diz 'A tábua de cortar é de madeira' em inglês?",
     "opcoes": {
@@ -7360,7 +7360,7 @@ const quizBasico025 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico026 = [
+export const quizBasico026 = [
  
   {
     "pergunta": "Como se diz 'A lavanderia fica atrás da cozinha' em inglês?",
@@ -7473,7 +7473,7 @@ const quizBasico026 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico027 = [
+export const quizBasico027 = [
   {
     "pergunta": "Como se diz 'O interruptor de luz está quebrado' em inglês?",
     "opcoes": {
@@ -7585,7 +7585,7 @@ const quizBasico027 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico028 = [
+export const quizBasico028 = [
   
   {
     "pergunta": "Como se diz 'A campainha é muito alta' em inglês?",
@@ -7698,7 +7698,7 @@ const quizBasico028 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico029 = [
+export const quizBasico029 = [
   {
     "pergunta": "Como se diz 'A lavanderia é pequena, mas organizada' em inglês?",
     "opcoes": {
@@ -7810,7 +7810,7 @@ const quizBasico029 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico030 = [
+export const quizBasico030 = [
   
   {
     "pergunta": "Como se diz 'O porão é o lugar mais frio' em inglês?",
@@ -7923,7 +7923,7 @@ const quizBasico030 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico031 = [
+export const quizBasico031 = [
   {
     "pergunta": "Como se diz 'A prateleira da garagem está cheia de latas de tinta' em inglês?",
     "opcoes": {
@@ -8035,7 +8035,7 @@ const quizBasico031 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico032 = [
+export const quizBasico032 = [
   
   {
     "pergunta": "Como se diz 'Eu preciso trocar as pilhas da lanterna' em inglês?",
@@ -8148,7 +8148,7 @@ const quizBasico032 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico033 = [
+export const quizBasico033 = [
   {
     "pergunta": "Como se diz 'A lâmpada do corredor queimou' em inglês?",
     "opcoes": {
@@ -8260,7 +8260,7 @@ const quizBasico033 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico034 = [
+export const quizBasico034 = [
   
   {
     "pergunta": "Como se diz 'O jardim da frente está muito bonito' em inglês?",
@@ -8373,7 +8373,7 @@ const quizBasico034 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico035 = [
+export const quizBasico035 = [
   {
     "pergunta": "Como se diz 'O telhado está precisando de reparos' em inglês?",
     "opcoes": {
@@ -8485,7 +8485,7 @@ const quizBasico035 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico036 = [
+export const quizBasico036 = [
   
   {
     "pergunta": "Como se diz 'Eu instalei um sistema de segurança' em inglês?",
@@ -8598,7 +8598,7 @@ const quizBasico036 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico037 = [
+export const quizBasico037 = [
   {
     "pergunta": "Como se diz 'Eu preciso polir os móveis de madeira' em inglês?",
     "opcoes": {
@@ -8710,7 +8710,7 @@ const quizBasico037 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico038 = [
+export const quizBasico038 = [
   
   {
     "pergunta": "Como se diz 'A casa está em reforma' em inglês?",
@@ -8823,7 +8823,7 @@ const quizBasico038 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico039 = [
+export const quizBasico039 = [
   {
     "pergunta": "Como se diz 'A campainha está muito alta' em inglês?",
     "opcoes": {
@@ -8935,7 +8935,7 @@ const quizBasico039 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico040 = [
+export const quizBasico040 = [
   
   {
     "pergunta": "Como se diz 'A torneira da cozinha está pingando' em inglês?",
@@ -9050,7 +9050,7 @@ const quizBasico040 = [
 ];
 
 /*-----------------------intermediario--------------------------------*/
-const quizIntermediario01 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Nós decidimos reformar (renovar) a cozinha antiga' usando um phrasal verb?",
     "opcoes": {
@@ -9162,7 +9162,7 @@ const quizIntermediario01 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario02 = [
+export const quizIntermediario02 = [
  
   {
     "pergunta": "Como se diz 'O encanador instalou uma nova torneira misturadora' em inglês?",
@@ -9275,7 +9275,7 @@ const quizIntermediario02 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario03 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'A fiação está com mau contato' em inglês?",
     "opcoes": {
@@ -9387,7 +9387,7 @@ const quizIntermediario03 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario04 = [
+export const quizIntermediario04 = [
   
   {
     "pergunta": "Como se diz 'A tinta está começando a descascar' em inglês?",
@@ -9502,7 +9502,7 @@ const quizIntermediario04 = [
 ];
 
 
-const quizIntermediario05 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A torneira está a pingar e precisa de uma nova anilha' em inglês?",
     "opcoes": {
@@ -9614,7 +9614,7 @@ const quizIntermediario05 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario06 = [
+export const quizIntermediario06 = [
  
   {
     "pergunta": "Como se diz 'A casa está equipada com aquecimento central' em inglês?",
@@ -9729,7 +9729,7 @@ const quizIntermediario06 = [
 ];
 
 
-const quizIntermediario07 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'O ralo do chuveiro está entupido' em inglês?",
     "opcoes": {
@@ -9841,7 +9841,7 @@ const quizIntermediario07 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario08 = [
+export const quizIntermediario08 = [
   
   {
     "pergunta": "Qual é o termo para 'entulho' de construção em inglês?",
@@ -9957,7 +9957,7 @@ const quizIntermediario08 = [
 
 
 
-const quizIntermediario09 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'A taxa de condomínio aumentou este mês' em inglês?",
     "opcoes": {
@@ -10069,7 +10069,7 @@ const quizIntermediario09 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario010 = [
+export const quizIntermediario010 = [
  
   {
     "pergunta": "Traduza: 'You should bleed the radiators once a year'.",
@@ -10184,7 +10184,7 @@ const quizIntermediario010 = [
 ];
 
 
-const quizIntermediario011 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'A fechadura está emperrada' em inglês?",
     "opcoes": {
@@ -10296,7 +10296,7 @@ const quizIntermediario011 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario012 = [
+export const quizIntermediario012 = [
   
   {
     "pergunta": "Traduza: 'The property is semi-detached'.",
@@ -10412,7 +10412,7 @@ const quizIntermediario012 = [
 
 
 
-const quizIntermediario013 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'A lâmpada está piscando' em inglês?",
     "opcoes": {
@@ -10524,7 +10524,7 @@ const quizIntermediario013 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario014 = [
+export const quizIntermediario014 = [
  
   {
     "pergunta": "Como se diz 'A pressão da água está baixa' em inglês?",
@@ -10639,7 +10639,7 @@ const quizIntermediario014 = [
 ];
 
 
-const quizIntermediario015 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'A casa está infestada de cupins' em inglês?",
     "opcoes": {
@@ -10751,7 +10751,7 @@ const quizIntermediario015 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario016 = [
+export const quizIntermediario016 = [
  
   {
     "pergunta": "Como se diz 'A casa tem uma claraboia no corredor' em inglês?",
@@ -10867,7 +10867,7 @@ const quizIntermediario016 = [
 
 
 
-const quizIntermediario017 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'A casa tem um sistema de ar-condicionado central' em inglês?",
     "opcoes": {
@@ -10979,7 +10979,7 @@ const quizIntermediario017 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario018= [
+export const quizIntermediario018= [
  
   {
     "pergunta": "Como se diz 'O rodapé precisa de calafetagem' em inglês?",
@@ -11094,7 +11094,7 @@ const quizIntermediario018= [
 ];
 
 
-const quizIntermediario019 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'A casa tem painéis solares no telhado' em inglês?",
     "opcoes": {
@@ -11206,7 +11206,7 @@ const quizIntermediario019 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario020 = [
+export const quizIntermediario020 = [
   
   {
     "pergunta": "Como se diz 'O ralo do quintal está entupido com folhas' em inglês?",
@@ -11322,7 +11322,7 @@ const quizIntermediario020 = [
 
 
 
-const quizIntermediario021 = [
+export const quizIntermediario021 = [
   {
     "pergunta": "Como se diz 'A apólice de seguro cobre danos por inundação' em inglês?",
     "opcoes": {
@@ -11434,7 +11434,7 @@ const quizIntermediario021 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario022 = [
+export const quizIntermediario022 = [
 
   {
     "pergunta": "Como se diz 'A casa tem um sistema de segurança 24 horas' em inglês?",
@@ -11549,7 +11549,7 @@ const quizIntermediario022 = [
 ];
 
 
-const quizIntermediario023 = [
+export const quizIntermediario023 = [
   {
     "pergunta": "Como se diz 'A casa tem uma viga de sustentação exposta' em inglês?",
     "opcoes": {
@@ -11661,7 +11661,7 @@ const quizIntermediario023 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario024 = [
+export const quizIntermediario024 = [
  
   {
     "pergunta": "Como se diz 'O teto tem uma sanca de gesso' em inglês?",
@@ -11775,7 +11775,7 @@ const quizIntermediario024 = [
   }
 ];
 
-const quizIntermediario025 = [
+export const quizIntermediario025 = [
   {
     "pergunta": "Como se diz 'A casa tem um sótão que pode ser convertido' em inglês?",
     "opcoes": {
@@ -11887,7 +11887,7 @@ const quizIntermediario025 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario026 = [
+export const quizIntermediario026 = [
  
   {
     "pergunta": "Como se diz 'A casa tem uma despensa espaçosa' em inglês?",
@@ -12001,7 +12001,7 @@ const quizIntermediario026 = [
   }
 ];
 
-const quizIntermediario027 = [
+export const quizIntermediario027 = [
   {
     "pergunta": "Como se diz 'A parede tem uma textura de grafiato' em inglês?",
     "opcoes": {
@@ -12113,7 +12113,7 @@ const quizIntermediario027 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario028 = [
+export const quizIntermediario028 = [
   
   {
     "pergunta": "Como se diz 'As telhas são de barro cozido' em inglês?",
@@ -12227,7 +12227,7 @@ const quizIntermediario028 = [
   }
 ];
 
-const quizIntermediario029 = [
+export const quizIntermediario029 = [
   {
     "pergunta": "Como se diz 'A casa tem um sótão habitável' em inglês?",
     "opcoes": {
@@ -12339,7 +12339,7 @@ const quizIntermediario029 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario030 = [
+export const quizIntermediario030 = [
   
   {
     "pergunta": "Como se diz 'A caldeira precisa ser sangrada' (retirar o ar) em inglês?",
@@ -12454,7 +12454,7 @@ const quizIntermediario030 = [
 ];
 
 
-const quizIntermediario031 = [
+export const quizIntermediario031 = [
   {
     "pergunta": "Como se diz 'A escada tem degraus de carvalho' em inglês?",
     "opcoes": {
@@ -12566,7 +12566,7 @@ const quizIntermediario031 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario032 = [
+export const quizIntermediario032 = [
   
   {
     "pergunta": "Como se diz 'As telhas estão cobertas de musgo' em inglês?",
@@ -12682,7 +12682,7 @@ const quizIntermediario032 = [
 
 
 
-const quizIntermediario033 = [
+export const quizIntermediario033 = [
   {
     "pergunta": "Como se diz 'A casa precisa de uma fiação nova' em inglês?",
     "opcoes": {
@@ -12794,7 +12794,7 @@ const quizIntermediario033 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario034 = [
+export const quizIntermediario034 = [
  
   {
     "pergunta": "Como se diz 'A calha está entupida com folhas' em inglês?",
@@ -12910,7 +12910,7 @@ const quizIntermediario034 = [
 
 
 
-const quizIntermediario035 = [
+export const quizIntermediario035 = [
   {
     "pergunta": "Como se diz 'O piso de madeira precisa de raspagem e verniz' em inglês?",
     "opcoes": {
@@ -13022,7 +13022,7 @@ const quizIntermediario035 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario036 = [
+export const quizIntermediario036 = [
   {
     "pergunta": "Como se diz 'As dobradiças da porta precisam de lubrificação' em inglês?",
     "opcoes": {
@@ -13135,7 +13135,7 @@ const quizIntermediario036 = [
   }
 ];
 
-const quizIntermediario037 = [
+export const quizIntermediario037 = [
   {
     "pergunta": "Como se diz 'A casa tem uma fossa séptica nos fundos' em inglês?",
     "opcoes": {
@@ -13247,7 +13247,7 @@ const quizIntermediario037 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario038 = [
+export const quizIntermediario038 = [
  
   {
     "pergunta": "Como se diz 'A fiação elétrica precisa ser substituída' em inglês?",
@@ -13362,7 +13362,7 @@ const quizIntermediario038 = [
 ];
 
 
-const quizIntermediario039 = [
+export const quizIntermediario039 = [
   {
     "pergunta": "Como se diz 'A fachada da casa tem revestimento de madeira' em inglês?",
     "opcoes": {
@@ -13474,7 +13474,7 @@ const quizIntermediario039 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario040 = [
+export const quizIntermediario040 = [
  
   {
     "pergunta": "Como se diz 'O parapeito da janela precisa de pintura' em inglês?",

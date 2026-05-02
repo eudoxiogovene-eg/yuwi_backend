@@ -1,4 +1,4 @@
-const quiz01 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Café da manhã' em inglês?",
     "opcoes": {
@@ -110,7 +110,7 @@ const quiz01 = [
     "resposta_correta": "A"
   }
 ];
-const quiz02 = [
+export const quizIniciante02 = [
  
   {
     "pergunta": "O que você usa para tomar sopa? (Em inglês)",
@@ -223,7 +223,7 @@ const quiz02 = [
     "resposta_correta": "D"
   }
 ];
-const quiz03 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Como se diz 'Azeite de oliva' em inglês?",
     "opcoes": {
@@ -335,7 +335,7 @@ const quiz03 = [
     "resposta_correta": "A"
   }
 ];
-const quiz04 = [
+export const quizIniciante04 = [
   
   {
     "pergunta": "Como se traduz 'Laranja' (a fruta)?",
@@ -448,7 +448,7 @@ const quiz04 = [
     "resposta_correta": "D"
   }
 ];
-const quiz05 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Como se diz 'Mel' em inglês?",
     "opcoes": {
@@ -560,7 +560,7 @@ const quiz05 = [
     "resposta_correta": "D"
   }
 ];
-const quiz06 = [
+export const quizIniciante06 = [
   
   {
     "pergunta": "O que significa 'Shrimp' em português?",
@@ -673,7 +673,7 @@ const quiz06 = [
     "resposta_correta": "D"
   }
 ];
-const quiz07 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Como se diz 'Vinho tinto' em inglês?",
     "opcoes": {
@@ -785,7 +785,7 @@ const quiz07 = [
     "resposta_correta": "C"
   }
 ];
-const quiz08 = [
+export const quizIniciante08 = [
   
   {
     "pergunta": "O que significa a bebida 'Draft beer'?",
@@ -898,7 +898,7 @@ const quiz08 = [
     "resposta_correta": "A"
   }
 ];
-const quiz09 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Como se diz 'Chá de ervas' em inglês?",
     "opcoes": {
@@ -1010,7 +1010,7 @@ const quiz09 = [
     "resposta_correta": "A"
   }
 ];
-const quiz010 = [
+export const quizIniciante010 = [
  
   {
     "pergunta": "O termo 'Espresso' refere-se a:",
@@ -1123,7 +1123,7 @@ const quiz010 = [
     "resposta_correta": "D"
   }
 ];
-const quiz011 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Como se diz 'Lagosta' em inglês?",
     "opcoes": {
@@ -1235,7 +1235,7 @@ const quiz011 = [
     "resposta_correta": "A"
   }
 ];
-const quiz012 = [
+export const quizIniciante012 = [
  
   {
     "pergunta": "Qual é a tradução de 'Milkshake'?",
@@ -1348,7 +1348,7 @@ const quiz012 = [
     "resposta_correta": "D"
   }
 ];
-const quiz013 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Como se diz 'Torta' (geralmente doce) em inglês?",
     "opcoes": {
@@ -1460,7 +1460,7 @@ const quiz013 = [
     "resposta_correta": "B"
   }
 ];
-const quiz014 = [
+export const quizIniciante014 = [
   
   {
     "pergunta": "O que significa a palavra 'Pancake'?",
@@ -1574,7 +1574,7 @@ const quiz014 = [
     "resposta_correta": "D"
   }
 ];
-const quiz015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Como se diz 'Carne de cordeiro' em inglês?",
     "opcoes": {
@@ -1686,7 +1686,7 @@ const quiz015 = [
     "resposta_correta": "B"
   }
 ];
-const quiz016 = [
+export const quizIniciante016 = [
 
   {
     "pergunta": "O que significa 'Whipped cream'?",
@@ -1799,7 +1799,7 @@ const quiz016 = [
     "resposta_correta": "D"
   }
 ];
-const quiz017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Como se diz 'Beterraba' em inglês?",
     "opcoes": {
@@ -1911,7 +1911,7 @@ const quiz017 = [
     "resposta_correta": "B"
   }
 ];
-const quiz018 = [
+export const quizIniciante018 = [
   
  
   {
@@ -2025,7 +2025,7 @@ const quiz018 = [
     "resposta_correta": "D"
   }
 ];
-const quiz019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Como se diz 'Carne de porco' em inglês?",
     "opcoes": {
@@ -2137,7 +2137,7 @@ const quiz019 = [
     "resposta_correta": "B"
   }
 ];
-const quiz020 = [
+export const quizIniciante020 = [
   
   {
     "pergunta": "Como se diz 'Lasanha' em inglês?",
@@ -2250,7 +2250,7 @@ const quiz020 = [
     "resposta_correta": "D"
   }
 ];
-const quiz021 = [
+export const quizIniciante021 = [
   {
     "pergunta": "Como se diz 'Torrada' em inglês?",
     "opcoes": { "A": "Toast", "B": "Bread", "C": "Cracker", "D": "Biscuit" },
@@ -2312,7 +2312,7 @@ const quiz021 = [
     "resposta_correta": "A"
   }
 ];
-const quiz022 = [
+export const quizIniciante022 = [
  
   {
     "pergunta": "O termo 'Raw' significa:",
@@ -2375,7 +2375,7 @@ const quiz022 = [
     "resposta_correta": "D"
   }
 ];
-const quiz023 = [
+export const quizIniciante023 = [
   {
     "pergunta": "Como se diz 'Gema de ovo' em inglês?",
     "opcoes": { "A": "Egg white", "B": "Egg shell", "C": "Egg yolk", "D": "Boiled egg" },
@@ -2437,7 +2437,7 @@ const quiz023 = [
     "resposta_correta": "C"
   }
 ];
-const quiz024 = [
+export const quizIniciante024 = [
  
   {
     "pergunta": "Qual é a tradução de 'Peanut butter'?",
@@ -2500,7 +2500,7 @@ const quiz024 = [
     "resposta_correta": "D"
   }
 ];
-const quiz025 = [
+export const quizIniciante025 = [
   {
     "pergunta": "Como se diz 'Alho' em inglês?",
     "opcoes": { "A": "Garlic", "B": "Onion", "C": "Ginger", "D": "Pepper" },
@@ -2562,11 +2562,11 @@ const quiz025 = [
     "resposta_correta": "A"
   }
 ];
-const quiz026 = [
+export const quizIniciante026 = [
  
   {
     "pergunta": "O que significa 'Shrimp'?",
-    "opcoes": { "A": "Lagosta", "0": "Lula", "C": "Camarão", "D": "Ostra" },
+    "opcoes": { "A": "Lagosta", "B": "Lula", "C": "Camarão", "D": "Ostra" },
     "numero": "11",
     "resposta_correta": "C"
   },
@@ -2625,7 +2625,7 @@ const quiz026 = [
     "resposta_correta": "D"
   }
 ];
-const quiz027 = [
+export const quizIniciante027 = [
   {
     "pergunta": "Como se diz 'Lasanha' em inglês?",
     "opcoes": { "A": "Spaghetti", "B": "Pasta", "C": "Lasagna", "D": "Noodles" },
@@ -2687,7 +2687,7 @@ const quiz027 = [
     "resposta_correta": "D"
   }
 ];
-const quiz028 = [
+export const quizIniciante028 = [
  
   {
     "pergunta": "Como se diz 'Lagosta' em inglês?",
@@ -2750,7 +2750,7 @@ const quiz028 = [
     "resposta_correta": "D"
   }
 ];
-const quiz029 = [
+export const quizIniciante029 = [
   {
     "pergunta": "Como se diz 'Azeite de oliva' em inglês?",
     "opcoes": { "A": "Vinegar", "B": "Butter", "C": "Olive oil", "D": "Sunflower oil" },
@@ -2812,7 +2812,7 @@ const quiz029 = [
     "resposta_correta": "C"
   }
 ];
-const quiz030 = [
+export const quizIniciante030 = [
   
   {
     "pergunta": "Qual é a tradução de 'Draft beer'?",
@@ -2877,7 +2877,7 @@ const quiz030 = [
 ];
 
 /*-----------------------basico--------------------------------*/
-const quizBasico01 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Onde está o cardápio?' em inglês?",
     "opcoes": {
@@ -2989,7 +2989,7 @@ const quizBasico01 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico02 = [
+export const quizBasico02 = [
  
   {
     "pergunta": "Como se diz 'Eu não tenho uma faca'?",
@@ -3102,7 +3102,7 @@ const quizBasico02 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico03 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Eu não bebo álcool' em inglês?",
     "opcoes": {
@@ -3140,7 +3140,7 @@ const quizBasico03 = [
     "pergunta": "O que significa 'We need more napkins'?",
     "opcoes": {
       "A": "Nós temos guardanapos",
-      " destitute": "Onde estão os guardanapos?",
+      "B": "Onde estão os guardanapos?",
       "C": "Os guardanapos estão limpos",
       "D": "Nós precisamos de mais guardanapos"
     },
@@ -3214,7 +3214,7 @@ const quizBasico03 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico04 = [
+export const quizBasico04 = [
   
   {
     "pergunta": "Como se diz 'Passe-me o açúcar, por favor'?",
@@ -3327,7 +3327,7 @@ const quizBasico04 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico05 = [
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'O chá está muito doce' em inglês?",
     "opcoes": {
@@ -3439,7 +3439,7 @@ const quizBasico05 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico06 = [
+export const quizBasico06 = [
   
   {
     "pergunta": "Como se diz 'Eu preciso de um garfo novo'?",
@@ -3552,7 +3552,7 @@ const quizBasico06 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico07 = [
+export const quizBasico07 = [
   {
     "pergunta": "Como se diz 'Eu preciso de um guardanapo' em inglês?",
     "opcoes": { "A": "I have a napkin", "B": "I need a napkin", "C": "Where is the napkin?", "D": "The napkin is dirty" },
@@ -3614,7 +3614,7 @@ const quizBasico07 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico08 = [
+export const quizBasico08 = [
   
   {
     "pergunta": "Como se diz 'A colher está suja'?",
@@ -3677,7 +3677,7 @@ const quizBasico08 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico09 = [
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'Eu preciso comprar leite' em inglês?",
     "opcoes": { "A": "I have to buy milk", "B": "I need to buy milk", "C": "I want to drink milk", "D": "There is no milk" },
@@ -3739,7 +3739,7 @@ const quizBasico09 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico010 = [
+export const quizBasico010 = [
   
   {
     "pergunta": "Como se diz 'A comida está muito apimentada'?",
@@ -3802,7 +3802,7 @@ const quizBasico010 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico011 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Eu bebo café com leite' em inglês?",
     "opcoes": { "A": "I drink coffee with sugar", "B": "I drink coffee with milk", "C": "I want black coffee", "D": "Coffee and milk is good" },
@@ -3864,7 +3864,7 @@ const quizBasico011 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico012 = [
+export const quizBasico012 = [
  
   {
     "pergunta": "Qual é a tradução de 'I prefer black tea'?",
@@ -3933,7 +3933,7 @@ const quizBasico012 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico013 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'Eu quero café sem açúcar' em inglês?",
     "opcoes": { "A": "I want coffee with sugar", "B": "I drink black coffee", "C": "I want coffee without sugar", "D": "There is no sugar" },
@@ -3996,7 +3996,7 @@ const quizBasico013 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico014 = [
+export const quizBasico014 = [
 
   {
     "pergunta": "Como se diz 'Nós temos uma mesa no jardim'?",
@@ -4059,7 +4059,7 @@ const quizBasico014 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico015 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Eu não quero gelo, obrigado' em inglês?",
     "opcoes": {
@@ -4171,7 +4171,7 @@ const quizBasico015 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico016 = [
+export const quizBasico016 = [
   
   {
     "pergunta": "Como se diz 'Onde você janta?'?",
@@ -4284,7 +4284,7 @@ const quizBasico016 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico017 = [
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'Onde você almoça?' em inglês?",
     "opcoes": {
@@ -4396,7 +4396,7 @@ const quizBasico017 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico018 = [
+export const quizBasico018 = [
  
   {
     "pergunta": "Como se diz 'Eu não bebo chá'?",
@@ -4509,7 +4509,7 @@ const quizBasico018 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico019 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'A faca está limpa' em inglês?",
     "opcoes": {
@@ -4621,7 +4621,7 @@ const quizBasico019 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico020 = [
+export const quizBasico020 = [
   
   {
     "pergunta": "Como se diz 'Tem uma colher na mesa'?",
@@ -4734,7 +4734,7 @@ const quizBasico020 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico021 = [
+export const quizBasico021 = [
   {
     "pergunta": "Como se diz 'Eu não bebo leite gelado' em inglês?",
     "opcoes": {
@@ -4846,7 +4846,7 @@ const quizBasico021 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico022 = [
+export const quizBasico022 = [
   
   {
     "pergunta": "Como se diz 'O sal não está na mesa'?",
@@ -4959,7 +4959,7 @@ const quizBasico022 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico023 = [
+export const quizBasico023 = [
   {
     "pergunta": "Como se diz 'Este copo está vazio' em inglês?",
     "opcoes": {
@@ -5071,7 +5071,7 @@ const quizBasico023 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico024 = [
+export const quizBasico024 = [
  
   {
     "pergunta": "Como se diz 'Passe-me o sal e a pimenta'?",
@@ -5184,7 +5184,7 @@ const quizBasico024 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico025 = [
+export const quizBasico025 = [
   {
     "pergunta": "Como se diz 'Eu quero uma garrafa de cerveja' em inglês?",
     "opcoes": {
@@ -5296,7 +5296,7 @@ const quizBasico025 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico026 = [
+export const quizBasico026 = [
   
   {
     "pergunta": "Como se diz 'Eu não gosto de peixe'?",
@@ -5409,7 +5409,7 @@ const quizBasico026 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico027 = [
+export const quizBasico027 = [
   {
     "pergunta": "Como se diz 'Eu não gosto de alho' em inglês?",
     "opcoes": {
@@ -5521,7 +5521,7 @@ const quizBasico027 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico028 = [
+export const quizBasico028 = [
  
   {
     "pergunta": "Como se diz 'Eu bebo café preto'?",
@@ -5634,7 +5634,7 @@ const quizBasico028 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico029 = [
+export const quizBasico029 = [
   {
     "pergunta": "Como se diz 'Eu prefiro ovos fritos' em inglês?",
     "opcoes": {
@@ -5746,7 +5746,7 @@ const quizBasico029 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico030 = [
+export const quizBasico030 = [
  
   {
     "pergunta": "Como se diz 'A cerveja é artesanal'?",
@@ -5859,7 +5859,7 @@ const quizBasico030 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico031 = [
+export const quizBasico031 = [
   {
     "pergunta": "Como se diz 'Eu quero água sem gelo, por favor' em inglês?",
     "opcoes": {
@@ -5971,7 +5971,7 @@ const quizBasico031 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico032 = [
+export const quizBasico032 = [
   
   {
     "pergunta": "Como se diz 'O sal e a pimenta estão aqui'?",
@@ -6084,7 +6084,7 @@ const quizBasico032 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico033 = [
+export const quizBasico033 = [
   {
     "pergunta": "Como se diz 'Onde fica o banheiro?' (essencial em restaurantes) em inglês?",
     "opcoes": {
@@ -6196,7 +6196,7 @@ const quizBasico033 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico034 = [
+export const quizBasico034 = [
   
   {
     "pergunta": "Como se diz 'A colher está suja'?",
@@ -6312,7 +6312,7 @@ const quizBasico034 = [
 
 /*-----------------------intermediario--------------------------------*/
 
-const quizIntermediario01 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Eu estou cozinhando o jantar porque estou com fome'?",
     "opcoes": {
@@ -6424,7 +6424,7 @@ const quizIntermediario01 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario02 = [
+export const quizIntermediario02 = [
  
   {
     "pergunta": "Como se diz 'A comida cheira bem, apesar de parecer estranha'?",
@@ -6537,7 +6537,7 @@ const quizIntermediario02 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario03 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Eu costumava comer carne, mas agora sou vegetariano'?",
     "opcoes": {
@@ -6649,7 +6649,7 @@ const quizIntermediario03 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario04 = [
+export const quizIntermediario04 = [
  
   {
     "pergunta": "Como se diz 'Apesar do preço, o serviço foi excelente'?",
@@ -6762,7 +6762,7 @@ const quizIntermediario04 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario05 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A comida foi servida fria' em inglês?",
     "opcoes": {
@@ -6874,7 +6874,7 @@ const quizIntermediario05 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario06 = [
+export const quizIntermediario06 = [
  
   {
     "pergunta": "Como se diz 'A menos que você reserve, não haverá mesas'?",
@@ -6987,7 +6987,7 @@ const quizIntermediario06 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario07 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Nós acabamos o leite' (no sentido de 'acabou o estoque')?",
     "opcoes": {
@@ -7099,7 +7099,7 @@ const quizIntermediario07 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario08 = [
+export const quizIntermediario08 = [
  
   {
     "pergunta": "Como se diz 'Eu não costumava gostar de comida japonesa'?",
@@ -7212,7 +7212,7 @@ const quizIntermediario08 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario09 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'A carne deve estar deliciosa, o cheiro está ótimo'?",
     "opcoes": {
@@ -7324,7 +7324,7 @@ const quizIntermediario09 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario010 = [
+export const quizIntermediario010 = [
  
   {
     "pergunta": "Qual é a tradução de 'The soup is a bit bland, it needs more salt'?",
@@ -7437,7 +7437,7 @@ const quizIntermediario010 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario011 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Eu gostaria de reclamar sobre o serviço, por favor'?",
     "opcoes": {
@@ -7549,7 +7549,7 @@ const quizIntermediario011 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario012 = [
+export const quizIntermediario012 = [
   
   {
     "pergunta": "Como se diz 'A massa foi feita à mão pelo chef'?",
@@ -7662,7 +7662,7 @@ const quizIntermediario012 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario013 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'O restaurante é extremamente caro, no entanto, a comida vale a pena'?",
     "opcoes": {
@@ -7774,7 +7774,7 @@ const quizIntermediario013 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario014 = [
+export const quizIntermediario014 = [
   
   {
     "pergunta": "Qual é a tradução de 'I forgot to check the expiration date'?",
@@ -7887,7 +7887,7 @@ const quizIntermediario014 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario015 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'O jantar é por minha conta hoje'?",
     "opcoes": {
@@ -7999,7 +7999,7 @@ const quizIntermediario015 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario016 = [
+export const quizIntermediario016 = [
  
   {
     "pergunta": "Como se diz 'O serviço deixou a desejar desta vez'?",
@@ -8112,7 +8112,7 @@ const quizIntermediario016 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario017 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'A massa deve descansar por meia hora antes de abrir'?",
     "opcoes": {
@@ -8224,7 +8224,7 @@ const quizIntermediario017 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario018 = [
+export const quizIntermediario018 = [
   
   {
     "pergunta": "O que significa 'The meat is slightly tough'?",
@@ -8337,7 +8337,7 @@ const quizIntermediario018 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario019 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'Você poderia bater as claras em neve?'?",
     "opcoes": {
@@ -8449,7 +8449,7 @@ const quizIntermediario019 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario020 = [
+export const quizIntermediario020 = [
  
   {
     "pergunta": "Qual é a tradução de 'Help yourself to some more wine'?",
@@ -8562,7 +8562,7 @@ const quizIntermediario020 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario021 = [
+export const quizIntermediario021 = [
   {
     "pergunta": "Qual é a tradução de 'The catering service was hired for the wedding'?",
     "opcoes": {
@@ -8674,7 +8674,7 @@ const quizIntermediario021 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario022 = [
+export const quizIntermediario022 = [
   
   {
     "pergunta": "Qual é a tradução de 'I'm afraid this milk has gone off'?",
@@ -8787,7 +8787,7 @@ const quizIntermediario022 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario023 = [
+export const quizIntermediario023 = [
   {
     "pergunta": "Como se diz 'Contanto que você siga a receita, o bolo sairá perfeito'?",
     "opcoes": {
@@ -8899,7 +8899,7 @@ const quizIntermediario023 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario024 = [
+export const quizIntermediario024 = [
   
   {
     "pergunta": "Como se diz 'Onde você guarda os abridores de lata?'?",
@@ -9012,7 +9012,7 @@ const quizIntermediario024 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario025 = [
+export const quizIntermediario025 = [
   {
     "pergunta": "Como se diz 'A comida está na mesa, vamos atacar!' (expressão informal)?",
     "opcoes": {
@@ -9124,7 +9124,7 @@ const quizIntermediario025 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario026 = [
+export const quizIntermediario026 = [
  
   {
     "pergunta": "Como se diz 'Este vinho é muito encorpado para o meu gosto'?",
@@ -9237,7 +9237,7 @@ const quizIntermediario026 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario027 = [
+export const quizIntermediario027 = [
   {
     "pergunta": "Qual é a tradução de 'I need to have my kitchen remodeled'?",
     "opcoes": {
@@ -9349,7 +9349,7 @@ const quizIntermediario027 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario028 = [
+export const quizIntermediario028 = [
   
   {
     "pergunta": "Qual é a tradução de 'The soup is rather bland, it lacks seasoning'?",
@@ -9462,7 +9462,7 @@ const quizIntermediario028 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario029 = [
+export const quizIntermediario029 = [
   {
     "pergunta": "Como se diz 'Você deve ralar o queijo por cima da massa'?",
     "opcoes": {
@@ -9574,7 +9574,7 @@ const quizIntermediario029 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario030 = [
+export const quizIntermediario030 = [
   
   {
     "pergunta": "Como se diz 'Não se esqueça de untar a forma'?",
@@ -9687,7 +9687,7 @@ const quizIntermediario030 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario031 = [
+export const quizIntermediario031 = [
   {
     "pergunta": "Como se diz 'O molho vai engrossar conforme esfria'?",
     "opcoes": {
@@ -9799,7 +9799,7 @@ const quizIntermediario031 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario032 = [
+export const quizIntermediario032 = [
  
   {
     "pergunta": "Como se diz 'A massa deve ser esticada bem fina'?",
@@ -9912,7 +9912,7 @@ const quizIntermediario032 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario033 = [
+export const quizIntermediario033 = [
   {
     "pergunta": "Qual é a tradução de 'I prefer to sauté the onions until they are translucent'?",
     "opcoes": {
@@ -10024,7 +10024,7 @@ const quizIntermediario033 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario034 = [
+export const quizIntermediario034 = [
   
   {
     "pergunta": "Qual é a tradução de 'The soup is a bit too thick for my liking'?",
@@ -10137,7 +10137,7 @@ const quizIntermediario034 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario035 = [
+export const quizIntermediario035 = [
   {
     "pergunta": "Como se diz 'A receita pede duas colheres de sopa de mel'?",
     "opcoes": {
@@ -10249,7 +10249,7 @@ const quizIntermediario035 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario036 = [
+export const quizIntermediario036 = [
   
   {
     "pergunta": "Como se diz 'Onde fica a seção de congelados?'?",
@@ -10362,7 +10362,7 @@ const quizIntermediario036 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario037 = [
+export const quizIntermediario037 = [
   {
     "pergunta": "Como se diz 'A proporção ideal é de duas partes de água para uma de arroz'?",
     "opcoes": {
@@ -10474,7 +10474,7 @@ const quizIntermediario037 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario038 = [
+export const quizIntermediario038 = [
   
   {
     "pergunta": "Como se diz 'Eu esqueci o frango no forno e ele ressecou'?",
@@ -10587,7 +10587,7 @@ const quizIntermediario038 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario039 = [
+export const quizIntermediario039 = [
   {
     "pergunta": "Como se diz 'Aqueça a frigideira até que o óleo comece a soltar fumaça'?",
     "opcoes": {
@@ -10699,7 +10699,7 @@ const quizIntermediario039 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario040 = [
+export const quizIntermediario040 = [
  
   {
     "pergunta": "Como se diz 'Onde fica o ralo da pia?'?",

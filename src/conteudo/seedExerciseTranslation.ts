@@ -1,5 +1,5 @@
 
-
+/*
 import {db_connection} from "../db/config"
 
 
@@ -49,7 +49,7 @@ async function seed(){
                 return console.log("este quiz ja foi usado")
             }
             await createManyExercisesTranslations(exercises)
-            console.log("cadastro de quiz e questoes realizado com sucesso")
+            console.log("cadastro questoes realizado com sucesso")
         } catch (error:any) {
             console.log("houve um erro "+ error.message)
         }
@@ -64,3 +64,5 @@ async function seed(){
         return   console.log("houve um erro "+erro.message)    
 }) 
 
+
+*/

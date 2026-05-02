@@ -13,6 +13,7 @@ export const Areas__Controlers ={
     
    async store(req:Request,res:Response){
      const {name,category,subCategory}=req.body
+    
         try {
             await areaSchema.validate(req.body)
             const categoryExist= await findCategoryByName(category)

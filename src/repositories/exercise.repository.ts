@@ -54,7 +54,7 @@ export const getExercise= async(id:string)=>{
 }
 
 export const getExercises= async()=>{
-    
+    // await Exercises.deleteMany()
     const exercices= await Exercises.find()
     if(!exercices.length){
         throw new Error("ainda nao ha exercicios cadastrados")
@@ -139,3 +139,26 @@ export const createManyExercise= async(exercises:Omit<ExerciseData,"id"|"numeroN
   }
 }
 
+
+export const deleteExerciseByQuiz= async (quiz:string)=>{
+    const exerciseDeleted= await Exercises.deleteMany({quiz:quiz})
+    return exerciseDeleted
+}
+
+export const findExercisesByQuiz= async(quiz:string)=>{ 
+ 
+    const quizExerciseExist= await Exercises.find({
+        quiz
+    })
+    return quizExerciseExist
+}
+
+export const DeleteManyExercisesQuizByQuizzes= async (data:string[])=>{
+    const quizzes= await Exercises.deleteMany({
+    quiz: { $in: data }
+  });
+
+    
+     return quizzes 
+     
+}

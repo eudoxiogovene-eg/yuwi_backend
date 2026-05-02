@@ -1,5 +1,5 @@
 
-export const quiz01 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Cachorro' em inglês?",
     "opcoes": {
@@ -111,7 +111,7 @@ export const quiz01 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz02 = [
+export const quizIniciante02 = [
  
   {
     "pergunta": "Como se diz 'Coelho' em inglês?",
@@ -224,7 +224,7 @@ export const quiz02 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz03 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Qual é a tradução de 'Frog'?",
     "opcoes": {
@@ -336,7 +336,7 @@ export const quiz03 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz04 = [
+export const quizIniciante04 = [
  
   {
     "pergunta": "Qual é a tradução de 'Chicken'?",
@@ -449,7 +449,7 @@ export const quiz04 = [
     "resposta_correta": "B"
   }
 ];
-export const quiz05 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Qual é a tradução de 'Shark'?",
     "opcoes": {
@@ -561,7 +561,7 @@ export const quiz05 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz06 = [
+export const quizIniciante06 = [
  
   {
     "pergunta": "Qual é a tradução de 'Turkey'?",
@@ -674,7 +674,7 @@ export const quiz06 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz07 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Como se diz 'Abelha' em inglês?",
     "opcoes": {
@@ -786,7 +786,7 @@ export const quiz07 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz08 = [
+export const quizIniciante08 = [
  
   {
     "pergunta": "Como se diz 'Sapo' em inglês?",
@@ -899,7 +899,7 @@ export const quiz08 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz09 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Qual é a tradução de 'Deer'?",
     "opcoes": {
@@ -1011,7 +1011,7 @@ export const quiz09 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz010 = [
+export const quizIniciante010 = [
  
   {
     "pergunta": "Qual é a tradução de 'Fox'?",
@@ -1124,7 +1124,7 @@ export const quiz010 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz011 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Qual é a tradução de 'Eagle'?",
     "opcoes": {
@@ -1236,7 +1236,7 @@ export const quiz011 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz012 = [
+export const quizIniciante012 = [
  
   {
     "pergunta": "Qual é a tradução de 'Ant'?",
@@ -1349,7 +1349,7 @@ export const quiz012 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz013 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Qual é a tradução de 'Shark'?",
     "opcoes": {
@@ -1461,7 +1461,7 @@ export const quiz013 = [
     "resposta_correta": "C"
   }
 ];
-export const quiz014 = [
+export const quizIniciante014 = [
  
   {
     "pergunta": "Qual é a tradução de 'Turtle'?",
@@ -1574,7 +1574,7 @@ export const quiz014 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz015 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Qual é a tradução de 'Giraffe'?",
     "opcoes": {
@@ -1686,7 +1686,7 @@ export const quiz015 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz016 = [
+export const quizIniciante016 = [
   
   {
     "pergunta": "Qual é a tradução de 'Butterfly'?",
@@ -1799,7 +1799,7 @@ export const quiz016 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz017 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Qual é a tradução de 'Butterfly'?",
     "opcoes": {
@@ -1911,7 +1911,7 @@ export const quiz017 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz018 = [
+export const quizIniciante018 = [
   
   {
     "pergunta": "Qual é a tradução de 'Whale'?",
@@ -2024,7 +2024,7 @@ export const quiz018 = [
     "resposta_correta": "D"
   }
 ];
-export const quiz019 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Qual é a tradução de 'Owl'?",
     "opcoes": {
@@ -2136,7 +2136,7 @@ export const quiz019 = [
     "resposta_correta": "A"
   }
 ];
-export const quiz020 = [
+export const quizIniciante020 = [
  
   {
     "pergunta": "Qual é a tradução de 'Sheep'?",
@@ -2887,7 +2887,7 @@ export const quizBasico06 = [
     "pergunta": "Como se diz 'Ursos hibernam no inverno'?",
     "opcoes": {
       "A": "Bears sleep in winter",
-      "Total B": "Bears hibernate in winter",
+      "B": "Bears hibernate in winter",
       "C": "The bear is sleeping",
       "D": "Bears hibernate during winter"
     },
@@ -4639,7 +4639,7 @@ export const quizIntermediario02 = [
     "pergunta": "Como se diz 'Recifes de coral abrigam peixes'?",
     "opcoes": {
       "A": "Corals have many fish",
-      "|B": "Fish live in corals",
+      "B": "Fish live in corals",
       "C": "Coral reefs shelter fish",
       "D": "Reefs are fish homes"
     },
@@ -6012,7 +6012,7 @@ export const quizIntermediario014 = [
     "opcoes": {
       "A": "Parasitas vivem nos outros",
       "B": "Hospedeiros sofrem com parasitas",
-      "**C**": "Parasitas exploram seus hospedeiros",
+      "C": "Parasitas exploram seus hospedeiros",
       "D": "Exploração feita por parasitas"
     },
     "numero": "14",
@@ -7365,7 +7365,7 @@ export const quizAvancado9 = [
     "numero": "4",
     "pergunta": "As abelhas detectam campos magnéticos",
     "opcoes": ["Bees", "detect", "magnetic", "fields", "honey", "pollen", "fly", "nature"],
-    "照顾_correta": "bees detect magnetic fields"
+    "resposta_correta": "bees detect magnetic fields"
   },
   {
     "questionType": "traduza a frase",
@@ -7482,3 +7482,10 @@ export const quizAvancado10 = [
     "resposta_correta": "exoskeleton limits body growth"
   }
 ];
+
+
+
+
+
+
+

@@ -14,5 +14,7 @@ routes.put('/updateQuiz/:quizId',Quiz__Controlers.update)
 routes.post('/createQuizSemArea',Quiz__Controlers.createQuizSemArea)
 routes.post('/filterQuiz',Quiz__Controlers.filterQuizController)
 routes.post('/filterQuizSemArea',Quiz__Controlers.filterQuizSemAreaController)
+routes.delete('/deleteQuizzesbyfilter',Quiz__Controlers.deleteQuizByFilterController)
+routes.delete('/deleteQuizzesSemAreaByFilter',Quiz__Controlers.deleteQuizSemAreaByFilterController)
 
 export const Quiz__routes=routes   
