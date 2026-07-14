@@ -1,4 +1,4 @@
-const quizIniciante1 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Onde está o metrô?'",
     "opcoes": {
@@ -108,7 +108,10 @@ const quizIniciante1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante02 = [
+  
   {
     "pergunta": "Como se diz 'Onde estacionar?'",
     "opcoes": {
@@ -220,7 +223,7 @@ const quizIniciante1 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante2 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Traduza: 'Watch your speed.'",
     "opcoes": {
@@ -330,7 +333,10 @@ const quizIniciante2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante04 = [
+ 
   {
     "pergunta": "Traduza: 'The tire is flat.'",
     "opcoes": {
@@ -442,7 +448,7 @@ const quizIniciante2 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante3 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Como se diz 'Aonde está o motorista?'",
     "opcoes": {
@@ -552,7 +558,10 @@ const quizIniciante3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante06 = [
+ 
   {
     "pergunta": "Como se diz 'Onde está o porto?'",
     "opcoes": {
@@ -664,7 +673,7 @@ const quizIniciante3 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante4 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Traduza: 'Check the oil.'",
     "opcoes": {
@@ -774,7 +783,10 @@ const quizIniciante4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante08 = [
+  
   {
     "pergunta": "Traduza: 'The airport is big.'",
     "opcoes": {
@@ -886,7 +898,7 @@ const quizIniciante4 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante5 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Como se diz 'Aonde fica a balsa?'",
     "opcoes": {
@@ -996,7 +1008,10 @@ const quizIniciante5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante010 = [
+ 
   {
     "pergunta": "Como se diz 'Onde estacionar?'",
     "opcoes": {
@@ -1108,7 +1123,7 @@ const quizIniciante5 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante6 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Traduza: 'Watch the speed.'",
     "opcoes": {
@@ -1218,7 +1233,10 @@ const quizIniciante6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante012 = [
+  
   {
     "pergunta": "Traduza: 'The runway is clear.'",
     "opcoes": {
@@ -1330,7 +1348,7 @@ const quizIniciante6 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante7 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Traduza: 'The train is fast.'",
     "opcoes": {
@@ -1440,7 +1458,10 @@ const quizIniciante7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante014 = [
+ 
   {
     "pergunta": "Traduza: 'Check the fuel.'",
     "opcoes": {
@@ -1552,7 +1573,7 @@ const quizIniciante7 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante8 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Traduza: 'The battery is low.'",
     "opcoes": {
@@ -1662,7 +1683,10 @@ const quizIniciante8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante016 = [
+  
   {
     "pergunta": "Traduza: 'The bus stopped.'",
     "opcoes": {
@@ -1774,7 +1798,7 @@ const quizIniciante8 = [
     "resposta_correta": "C"
   }
 ];
-const quizIniciante9 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Como se diz 'Aonde fica a balsa?'",
     "opcoes": {
@@ -1884,7 +1908,10 @@ const quizIniciante9 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizIniciante018 = [
+  
   {
     "pergunta": "Como se diz 'Aonde fica a garagem?'",
     "opcoes": {
@@ -1996,7 +2023,7 @@ const quizIniciante9 = [
     "resposta_correta": "B"
   }
 ];
-const quizIniciante10 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Traduza: 'Watch the speed.'",
     "opcoes": {
@@ -2106,7 +2133,10 @@ const quizIniciante10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante020 = [
+  
   {
     "pergunta": "Traduza: 'The horn is loud.'",
     "opcoes": {
@@ -2218,9 +2248,11 @@ const quizIniciante10 = [
     "resposta_correta": "D"
   }
 ];
+
+
 /*-----------------------basico--------------------------------*/
 
-const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Traduza: 'The subway is crowded.'",
     "opcoes": {
@@ -2330,7 +2362,10 @@ const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico02 = [
+ 
   {
     "pergunta": "Traduza: 'The bridge is narrow.'",
     "opcoes": {
@@ -2442,7 +2477,7 @@ const quizBasico1 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'O sinal está vermelho'?",
     "opcoes": {
@@ -2552,7 +2587,10 @@ const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizBasico04 = [
+ 
   {
     "pergunta": "Como se diz 'Preciso de um guincho'?",
     "opcoes": {
@@ -2664,7 +2702,7 @@ const quizBasico2 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico3 = [
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'Onde está o farol?'",
     "opcoes": {
@@ -2774,7 +2812,10 @@ const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico06 = [
+
   {
     "pergunta": "Como se diz 'Cuidado com os ciclistas'?",
     "opcoes": {
@@ -2886,7 +2927,7 @@ const quizBasico3 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Traduza: 'One-way traffic only.'",
     "opcoes": {
@@ -2996,7 +3037,10 @@ const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizBasico08 = [
+ 
   {
     "pergunta": "Traduza: 'The engine is loud.'",
     "opcoes": {
@@ -3108,7 +3152,7 @@ const quizBasico4 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Traduza: 'Check the coolant level.'",
     "opcoes": {
@@ -3219,7 +3263,10 @@ const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico010 = [
+ 
   {
     "pergunta": "Traduza: 'Low tire pressure detected.'",
     "opcoes": {
@@ -3331,7 +3378,7 @@ const quizBasico5 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Vire à esquerda agora'?",
     "opcoes": {
@@ -3441,7 +3488,10 @@ const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico012 = [
+ 
   {
     "pergunta": "Como se diz 'Vire na próxima esquina'?",
     "opcoes": {
@@ -3553,7 +3603,7 @@ const quizBasico6 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'Onde fica o acostamento?'",
     "opcoes": {
@@ -3663,7 +3713,10 @@ const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico014 = [
+  
   {
     "pergunta": "Como se diz 'O pneu está murcho'?",
     "opcoes": {
@@ -3775,7 +3828,7 @@ const quizBasico7 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Traduza: 'The road is narrow.'",
     "opcoes": {
@@ -3885,7 +3938,10 @@ const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico016 = [
+ 
   {
     "pergunta": "Traduza: 'The truck is empty.'",
     "opcoes": {
@@ -3997,7 +4053,7 @@ const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'Onde fica a ciclovia?'",
     "opcoes": {
@@ -4107,7 +4163,10 @@ const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico018 = [
+  
   {
     "pergunta": "Como se diz 'Cuidado com o radar'?",
     "opcoes": {
@@ -4219,7 +4278,7 @@ const quizBasico9 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Traduza: 'Check the oil level.'",
     "opcoes": {
@@ -4329,7 +4388,10 @@ const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico020 = [
+  
   {
     "pergunta": "Traduza: 'The engine is loud.'",
     "opcoes": {
@@ -4441,8 +4503,12 @@ const quizBasico10 = [
     "resposta_correta": "D"
   }
 ];
+
+
+
+
 /*-----------------------intermediario--------------------------------*/
-const quizIntermediario1 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Traduza: 'The hydraulic system failed.'",
     "opcoes": {
@@ -4552,7 +4618,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario02 = [
+  
   {
     "pergunta": "Traduza: 'The bridge has tolls.'",
     "opcoes": {
@@ -4664,7 +4733,7 @@ const quizIntermediario1 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario2 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Onde fica a rotatória?'",
     "opcoes": {
@@ -4774,7 +4843,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario04 = [
+ 
   {
     "pergunta": "Como se diz 'Onde fica o acostamento?'",
     "opcoes": {
@@ -4886,7 +4958,7 @@ const quizIntermediario2 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Onde fica o guincho?'",
     "opcoes": {
@@ -4996,7 +5068,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario06 = [
+  
   {
     "pergunta": "Como se diz 'O sinal está vermelho'?",
     "opcoes": {
@@ -5108,7 +5183,7 @@ const quizIntermediario3 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Traduza: 'The engine is overheating.'",
     "opcoes": {
@@ -5218,7 +5293,10 @@ const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario08 = [
+  
   {
     "pergunta": "Traduza: 'The transmission is slipping.'",
     "opcoes": {
@@ -5330,7 +5408,7 @@ const quizIntermediario4 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario5 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Onde fica o acostamento?'",
     "opcoes": {
@@ -5440,7 +5518,10 @@ const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario010 = [
+  
   {
     "pergunta": "Como se diz 'Onde está o recibo?'",
     "opcoes": {
@@ -5552,7 +5633,7 @@ const quizIntermediario5 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario6 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Vire à direita aqui'?",
     "opcoes": {
@@ -5662,7 +5743,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario012 = [
+ 
   {
     "pergunta": "Como se diz 'Cuidado com a curva'?",
     "opcoes": {
@@ -5774,7 +5858,7 @@ const quizIntermediario6 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Onde fica o terminal?' em inglês?",
     "opcoes": {
@@ -5884,7 +5968,10 @@ const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario014 = [
+  
   {
     "pergunta": "Como se diz 'Mantenha-se à direita'?",
     "opcoes": {
@@ -5996,7 +6083,7 @@ const quizIntermediario7 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Traduza: 'The brakes are overheating.'",
     "opcoes": {
@@ -6106,7 +6193,10 @@ const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario016 = [
+ 
   {
     "pergunta": "Traduza: 'Unauthorized vehicles will-be towed.'",
     "opcoes": {
@@ -6218,7 +6308,7 @@ const quizIntermediario8 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'Onde fica a ciclovia?'",
     "opcoes": {
@@ -6328,7 +6418,10 @@ const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario018 = [
+ 
   {
     "pergunta": "Como se diz 'Cuidado com o radar'?",
     "opcoes": {
@@ -6440,7 +6533,7 @@ const quizIntermediario9 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Traduza: 'Check the coolant level.'",
     "opcoes": {
@@ -6550,7 +6643,9 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario020 = [
   {
     "pergunta": "Traduza: 'The engine is loud.'",
     "opcoes": {
@@ -6662,6 +6757,8 @@ const quizIntermediario10 = [
     "resposta_correta": "D"
   }
 ];
+
+
 /*-----------------------avancado--------------------------------*/
 export const quizAvancado1 = [
   {

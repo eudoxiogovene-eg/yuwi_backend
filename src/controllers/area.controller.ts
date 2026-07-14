@@ -3,8 +3,8 @@
 import {Request,Response,} from "express"
 
 
-import {createArea,getAreas,getArea,UpdateArea} from "../repositories/area.repository"
-import {areaSchema } from "../validations/area.schema.validation"
+import {createArea,getAreas,getArea,UpdateArea,filterAreaCategoryAndSubCategory} from "../repositories/area.repository"
+import {areaSchema,filterAreaBySubcategoryAndCategorySchema } from "../validations/area.schema.validation"
 import {findCategoryByName} from "../repositories/category.repository"
 import {findSubCategoryByNameAndCategory} from "../repositories/subCategory.repository"
 
@@ -73,6 +73,30 @@ export const Areas__Controlers ={
            return res.status(400).json({message:error.message})
        }
    },
-
+    async filterAreaController(req:Request,res:Response){
+       const {category,subCategory}=req.body
+         try {
+               await filterAreaBySubcategoryAndCategorySchema.validate(req.body)
+   
+               const categoryExist= await findCategoryByName(category)
+               const category_id=categoryExist._id.toString()
+               const subCategoryExist= await findSubCategoryByNameAndCategory({
+                   name:subCategory,
+                   category:category_id
+               })
+               const subCategory_id=subCategoryExist._id.toString()
+   
+               const areas= await filterAreaCategoryAndSubCategory({
+                   category:category_id,
+                   subCategory:subCategory_id,
+               })      
+               return res.status(200).json({
+                   message:" areas encontradas com sucesso com sucesso",
+                   data:areas   
+               }) 
+           } catch (error:any) {
+               return res.status(400).json({message:error.message})
+           }
+    },
  
 }

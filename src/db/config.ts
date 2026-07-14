@@ -10,5 +10,6 @@ dotenv.config()
 const {MONGO_URL,MONGO_URL_PRODUCTION}:any=process.env 
 
 
-export const db_connection=  mongoose.connect(MONGO_URL_PRODUCTION)     
+export const db_connection=  mongoose.connect(MONGO_URL_PRODUCTION)      
      
+//Yuwí: Aprenda Inglês em Casa

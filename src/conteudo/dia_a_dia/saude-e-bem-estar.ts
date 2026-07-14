@@ -2731,7 +2731,7 @@ export const quizBasico05 = [
     "pergunta": "Traduza: 'Chronic back pain.'",
     "opcoes": {
       "A": "Dor nas costas forte.",
-      "|B": "Problema na coluna agora.",
+      "B": "Problema na coluna agora.",
       "C": "Minhas costas doem muito.",
       "D": "Dor crônica nas costas."
     },

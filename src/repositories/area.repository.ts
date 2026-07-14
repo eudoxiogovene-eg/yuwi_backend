@@ -69,3 +69,11 @@ export const findAreaByNameCategoryAndSubCategory= async({name,category,subCateg
     }
     return areaExist
 }
+
+export const filterAreaCategoryAndSubCategory= async({category,subCategory}:Omit<AreaData,"id"|"name">)=>{
+    const areaExist= await Areas.find({category,subCategory})
+    if(areaExist.length==0){
+        throw new Error("areas nao encontradas")
+    }
+    return areaExist
+}

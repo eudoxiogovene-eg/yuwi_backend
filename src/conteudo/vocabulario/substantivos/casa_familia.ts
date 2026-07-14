@@ -8,6 +8,31 @@ export const quizInfo={
   quizNUmber:1
 }
 
+const test=[
+ {
+      "pergunta": "Qual é a tradução de 'Meadow'?",
+      "opcoes": {
+        "A": "Montanha",
+        "B": "Floresta",
+        "C": "Prado",
+        "D": "Deserto"
+      },
+      "numero": "2",
+      "resposta_correta": "C"
+    },
+    {
+      "pergunta": "Qual é a tradução de 'Husband'?",
+      "opcoes": {
+        "A": "Marido",
+        "B": "Esposa",
+        "C": "Irmão",
+        "D": "Pai"
+      },
+      "numero": "1",
+      "resposta_correta": "A"
+    },
+
+]
 /*
 export const quiz1 = [
   {

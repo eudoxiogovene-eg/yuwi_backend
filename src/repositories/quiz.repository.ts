@@ -116,6 +116,10 @@ export const filterQuizSemArea=async(data:FilterQuizSemAreaData)=>{
     if(quizzes.length==0){
         throw new Error("quizzes nao encontrados")
     }
+    // const ids=quizzes.map((quiz)=>{
+    //     return quiz?._id.toString()
+    // })
+    // console.log(ids)
     return quizzes
 }
 export const deleteQuizByFilter=async(data:FilterQuizData)=>{

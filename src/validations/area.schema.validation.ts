@@ -8,3 +8,7 @@ export const areaSchema=yup.object().shape({
     category:yup.string().required('o campo categoria e obrigatorio'),
     subCategory:yup.string().required('o campo subcategoria e obrigatorio'),
 })
+export const filterAreaBySubcategoryAndCategorySchema=yup.object().shape({
+    category:yup.string().required('o campo  categoria e obrigatorio e obrigatorio'),
+    subCategory:yup.string().required('o campo subCategoria  obrigatorio'),
+})

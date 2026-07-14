@@ -23,15 +23,21 @@ async function seed(){
     //básico
     //Intermediário
     //avançado
+
+    //sentidos e percepções
+    //sentimentos e emoções
+    //tempo e datas
+    //transporte e veículos
+    //transportes públicos / cidade
     
     const data={
         category:"vocabulário",
         subCategory:"substantivos",
-        area:"viagens e turismo",
-        level:"avançado"
+        area:"transportes públicos / cidade",
+        level:"iniciante"
     }
 
-    const limite=10
+    const limite=20
    
     
 

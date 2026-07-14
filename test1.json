@@ -1,0 +1,1842 @@
+{
+  "export const quizIniciante 01": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Snow",
+      "alternativa_b": "Wind",
+      "alternativa_c": "Rain",
+      "alternativa_d": "Cloud",
+      "pergunta": "Como se diz 'Chuva' em inglês?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Sol",
+      "alternativa_b": "Lua",
+      "alternativa_c": "Estrela",
+      "alternativa_d": "Céu",
+      "pergunta": "Qual é a tradução de 'Sun'?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Storm",
+      "alternativa_b": "Fog",
+      "alternativa_c": "Dust",
+      "alternativa_d": "Wind",
+      "pergunta": "Como se diz 'Vento' em inglês?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Chuva",
+      "alternativa_b": "Nuvem",
+      "alternativa_c": "Trovão",
+      "alternativa_d": "Gelo",
+      "pergunta": "Qual é a tradução de 'Cloud'?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Snow",
+      "alternativa_b": "Ice",
+      "alternativa_c": "Hail",
+      "alternativa_d": "Mist",
+      "pergunta": "Como se diz 'Neve' em inglês?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Terra",
+      "alternativa_b": "Mar",
+      "alternativa_c": "Céu",
+      "alternativa_d": "Ar",
+      "pergunta": "Qual é a tradução de 'Sky'?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Thunder",
+      "alternativa_b": "Lightning",
+      "alternativa_c": "Storm",
+      "alternativa_d": "Bolt",
+      "pergunta": "Como se diz 'Relâmpago' em inglês?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Brisa",
+      "alternativa_b": "Calor",
+      "alternativa_c": "Frio",
+      "alternativa_d": "Tempestade",
+      "pergunta": "Qual é a tradução de 'Storm'?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Dry",
+      "alternativa_b": "Wet",
+      "alternativa_c": "Clear",
+      "alternativa_d": "Fog",
+      "pergunta": "Como se diz 'Névoa/Neblina' em inglês?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Lua",
+      "alternativa_b": "Sol",
+      "alternativa_c": "Planeta",
+      "alternativa_d": "Cometa",
+      "pergunta": "Qual é a tradução de 'Moon'?"
+    }
+  ],
+  "export const quizIniciante 02": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Sky",
+      "alternativa_b": "Galaxy",
+      "alternativa_c": "Star",
+      "alternativa_d": "Light",
+      "pergunta": "Como se diz 'Estrela' em inglês?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Raio",
+      "alternativa_b": "Trovão",
+      "alternativa_c": "Terremoto",
+      "alternativa_d": "Onda",
+      "pergunta": "Qual é a tradução de 'Thunder'?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Air",
+      "alternativa_b": "Fire",
+      "alternativa_c": "Earth",
+      "alternativa_d": "Water",
+      "pergunta": "Como se diz 'Ar' em inglês?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Chuva Forte",
+      "alternativa_b": "Sol Poente",
+      "alternativa_c": "Madrugada",
+      "alternativa_d": "Arco-íris",
+      "pergunta": "Qual é a tradução de 'Rainbow'?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Cold",
+      "alternativa_b": "Frost",
+      "alternativa_c": "Ice",
+      "alternativa_d": "Snow",
+      "pergunta": "Como se diz 'Gelo' em inglês?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Frio",
+      "alternativa_b": "Calor",
+      "alternativa_c": "Umidade",
+      "alternativa_d": "Vento",
+      "pergunta": "Qual é a tradução de 'Heat'?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Tide",
+      "alternativa_b": "River",
+      "alternativa_c": "Lake",
+      "alternativa_d": "Wave",
+      "pergunta": "Como se diz 'Onda' em inglês?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Terra",
+      "alternativa_b": "Fogo",
+      "alternativa_c": "Pedra",
+      "alternativa_d": "Areia",
+      "pergunta": "Qual é a tradução de 'Earth' (elemento natural)?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Dust",
+      "alternativa_b": "Mud",
+      "alternativa_c": "Dirt",
+      "alternativa_d": "Clay",
+      "pergunta": "Como se diz 'Lama' em inglês?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Raiz",
+      "alternativa_b": "Caule",
+      "alternativa_c": "Folha",
+      "alternativa_d": "Flor",
+      "pergunta": "Qual é a tradução de 'Leaf'?"
+    }
+  ],
+  "export const quizIniciante 03": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Orvalho",
+      "alternativa_b": "Geada",
+      "alternativa_c": "Granizo",
+      "alternativa_d": "Neblina",
+      "pergunta": "Qual é a tradução de 'Frost'?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Sunset",
+      "alternativa_b": "Sunny",
+      "alternativa_c": "Sunshine",
+      "alternativa_d": "Sunrise",
+      "pergunta": "Como se diz 'Nascer do sol' em inglês?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Montanha",
+      "alternativa_b": "Monte",
+      "alternativa_c": "Colina",
+      "alternativa_d": "Vale",
+      "pergunta": "Qual é a tradução de 'Mountain'?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Sea",
+      "alternativa_b": "River",
+      "alternativa_c": "Ocean",
+      "alternativa_d": "Lake",
+      "pergunta": "Como se diz 'Oceano' em inglês?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Floresta",
+      "alternativa_b": "Deserto",
+      "alternativa_c": "Selva",
+      "alternativa_d": "Pântano",
+      "pergunta": "Qual é a tradução de 'Desert'?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Island",
+      "alternativa_b": "Land",
+      "alternativa_c": "Beach",
+      "alternativa_d": "Coast",
+      "pergunta": "Como se diz 'Ilha' em inglês?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Seca",
+      "alternativa_b": "Chuva",
+      "alternativa_c": "Onda",
+      "alternativa_d": "Enchente",
+      "pergunta": "Qual é a tradução de 'Flood'?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Nightfall",
+      "alternativa_b": "Sunrise",
+      "alternativa_c": "Sunset",
+      "alternativa_d": "Afternoon",
+      "pergunta": "Como se diz 'Pôr do sol' em inglês?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Neve",
+      "alternativa_b": "Gelo",
+      "alternativa_c": "Vento",
+      "alternativa_d": "Granizo",
+      "pergunta": "Qual é a tradução de 'Hail'?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Mountain",
+      "alternativa_b": "Volcano",
+      "alternativa_c": "Fire",
+      "alternativa_d": "Lava",
+      "pergunta": "Como se diz 'Vulcão' em inglês?"
+    }
+  ],
+  "export const quizIniciante 04": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Brisa",
+      "alternativa_b": "Vendaval",
+      "alternativa_c": "Tempestade",
+      "alternativa_d": "Ar",
+      "pergunta": "Qual é a tradução de 'Breeze'?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Lake",
+      "alternativa_b": "Stream",
+      "alternativa_c": "River",
+      "alternativa_d": "Pond",
+      "pergunta": "Como se diz 'Rio' em inglês?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Areia",
+      "alternativa_b": "Poeira",
+      "alternativa_c": "Terra",
+      "alternativa_d": "Pedra",
+      "pergunta": "Qual é a tradução de 'Dust'?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Rock",
+      "alternativa_b": "Hole",
+      "alternativa_c": "Stone",
+      "alternativa_d": "Cave",
+      "pergunta": "Como se diz 'Caverna' em inglês?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Floresta",
+      "alternativa_b": "Campo",
+      "alternativa_c": "Jardim",
+      "alternativa_d": "Parque",
+      "pergunta": "Qual é a tradução de 'Forest'?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Dryness",
+      "alternativa_b": "Wet",
+      "alternativa_c": "Humidity",
+      "alternativa_d": "Rain",
+      "pergunta": "Como se diz 'Umidade' em inglês?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Lagoa",
+      "alternativa_b": "Riacho",
+      "alternativa_c": "Fonte",
+      "alternativa_d": "Cachoeira",
+      "pergunta": "Qual é a tradução de 'Waterfall'?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Dust",
+      "alternativa_b": "Sand",
+      "alternativa_c": "Mud",
+      "alternativa_d": "Dirt",
+      "pergunta": "Como se diz 'Areia' em inglês?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Mar",
+      "alternativa_c": "Lago",
+      "alternativa_d": "Lagoa",
+      "pergunta": "Qual é a tradução de 'Lake'?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Lightning",
+      "alternativa_b": "Thunder",
+      "alternativa_c": "Storm",
+      "alternativa_d": "Flash",
+      "pergunta": "Como se diz 'Relâmpago' em inglês?"
+    }
+  ],
+  "export const quizIniciante 05": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Earthquake",
+      "alternativa_b": "Landslide",
+      "alternativa_c": "Tsunami",
+      "alternativa_d": "Storm",
+      "pergunta": "Como se diz 'Terremoto' em inglês?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Montanha",
+      "alternativa_b": "Floresta",
+      "alternativa_c": "Prado",
+      "alternativa_d": "Deserto",
+      "pergunta": "Qual é a tradução de 'Meadow'?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Beach",
+      "alternativa_b": "Island",
+      "alternativa_c": "Ocean",
+      "alternativa_d": "Coast",
+      "pergunta": "Como se diz 'Costa' em inglês?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Fumaça",
+      "alternativa_b": "Névoa",
+      "alternativa_c": "Gelo",
+      "alternativa_d": "Chuva",
+      "pergunta": "Qual é a tradução de 'Mist'?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Lake",
+      "alternativa_b": "Puddle",
+      "alternativa_c": "River",
+      "alternativa_d": "Pond",
+      "pergunta": "Como se diz 'Poça' em inglês?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Tronco",
+      "alternativa_b": "Galho",
+      "alternativa_c": "Folha",
+      "alternativa_d": "Raiz",
+      "pergunta": "Qual é a tradução de 'Root'?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Sky",
+      "alternativa_b": "Space",
+      "alternativa_c": "Cloud",
+      "alternativa_d": "Star",
+      "pergunta": "Como se diz 'Céu' em inglês?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Praia",
+      "alternativa_b": "Rio",
+      "alternativa_c": "Pântano",
+      "alternativa_d": "Lago",
+      "pergunta": "Qual é a tradução de 'Swamp'?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Hurricane",
+      "alternativa_b": "Storm",
+      "alternativa_c": "Tornado",
+      "alternativa_d": "Wind",
+      "pergunta": "Como se diz 'Tornado' em inglês?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Flor",
+      "alternativa_b": "Fruta",
+      "alternativa_c": "Semente",
+      "alternativa_d": "Grama",
+      "pergunta": "Qual é a tradução de 'Flower'?"
+    }
+  ],
+  "export const quizIniciante 06": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Drought",
+      "alternativa_b": "Rain",
+      "alternativa_c": "Wave",
+      "alternativa_d": "Flood",
+      "pergunta": "Como se diz 'Enchente' em inglês?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Luz",
+      "alternativa_b": "Sombra",
+      "alternativa_c": "Calor",
+      "alternativa_d": "Escuro",
+      "pergunta": "Qual é a tradução de 'Shade'?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Valley",
+      "alternativa_b": "Hill",
+      "alternativa_c": "Mountain",
+      "alternativa_d": "Peak",
+      "pergunta": "Como se diz 'Vale' em inglês?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Areia",
+      "alternativa_b": "Lama",
+      "alternativa_c": "Madeira",
+      "alternativa_d": "Rocha",
+      "pergunta": "Qual é a tradução de 'Rock'?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Rain",
+      "alternativa_b": "Mist",
+      "alternativa_c": "Dew",
+      "alternativa_d": "Frost",
+      "pergunta": "Como se diz 'Orvalho' em inglês?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Vento",
+      "alternativa_b": "Tempestade",
+      "alternativa_c": "Nuvem",
+      "alternativa_d": "Raio",
+      "pergunta": "Qual é a tradução de 'Storm'?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Sand",
+      "alternativa_b": "Mud",
+      "alternativa_c": "Soil",
+      "alternativa_d": "Dust",
+      "pergunta": "Como se diz 'Poeira' em inglês?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Luz solar",
+      "alternativa_b": "Calor",
+      "alternativa_c": "Verão",
+      "alternativa_d": "Sol",
+      "pergunta": "Qual é a tradução de 'Sunlight'?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Storm",
+      "alternativa_b": "Breeze",
+      "alternativa_c": "Wind",
+      "alternativa_d": "Gale",
+      "pergunta": "Como se diz 'Brisa' em inglês?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Lago",
+      "alternativa_b": "Mar",
+      "alternativa_c": "Oceano",
+      "alternativa_d": "Rio",
+      "pergunta": "Qual é a tradução de 'Ocean'?"
+    }
+  ],
+  "export const quizIniciante 07": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Praia",
+      "alternativa_b": "Montanha",
+      "alternativa_c": "Vale",
+      "alternativa_d": "Penhasco",
+      "pergunta": "Qual é a tradução de 'Cliff'?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Thunder",
+      "alternativa_b": "Lightning",
+      "alternativa_c": "Storm",
+      "alternativa_d": "Rain",
+      "pergunta": "Como se diz 'Relâmpago' em inglês?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Solo/Terra",
+      "alternativa_b": "Planta",
+      "alternativa_c": "Pedra",
+      "alternativa_d": "Raiz",
+      "pergunta": "Qual é a tradução de 'Soil'?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Time",
+      "alternativa_b": "Season",
+      "alternativa_c": "Climate",
+      "alternativa_d": "Weather",
+      "pergunta": "Como se diz 'Clima' em inglês?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Mar",
+      "alternativa_b": "Areia",
+      "alternativa_c": "Onda",
+      "alternativa_d": "Vento",
+      "pergunta": "Qual é a tradução de 'Wave'?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Seed",
+      "alternativa_b": "Root",
+      "alternativa_c": "Leaf",
+      "alternativa_d": "Stem",
+      "pergunta": "Como se diz 'Semente' em inglês?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Onda",
+      "alternativa_b": "Rio",
+      "alternativa_c": "Corrente",
+      "alternativa_d": "Maré",
+      "pergunta": "Qual é a tradução de 'Tide'?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Cold",
+      "alternativa_b": "Ice",
+      "alternativa_c": "Snow",
+      "alternativa_d": "Frost",
+      "pergunta": "Como se diz 'Gelo' em inglês?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Árvore",
+      "alternativa_b": "Arbusto",
+      "alternativa_c": "Grama",
+      "alternativa_d": "Flor",
+      "pergunta": "Qual é a tradução de 'Bush'?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Snowfall",
+      "alternativa_b": "Ice storm",
+      "alternativa_c": "Hail",
+      "alternativa_d": "Blizzard",
+      "pergunta": "Como se diz 'Tempestade de neve' em inglês?"
+    }
+  ],
+  "export const quizIniciante 08": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Grama",
+      "alternativa_b": "Folha",
+      "alternativa_c": "Terra",
+      "alternativa_d": "Planta",
+      "pergunta": "Qual é a tradução de 'Grass'?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "C",
+      "alternativa_a": "World",
+      "alternativa_b": "Space",
+      "alternativa_c": "Planet",
+      "alternativa_d": "Star",
+      "pergunta": "Como se diz 'Planeta' em inglês?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Lagoa",
+      "alternativa_c": "Oceano",
+      "alternativa_d": "Cachoeira",
+      "pergunta": "Qual é a tradução de 'Pond'?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Smoke",
+      "alternativa_b": "Gas",
+      "alternativa_c": "Cloud",
+      "alternativa_d": "Steam",
+      "pergunta": "Como se diz 'Vapor' em inglês?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Pedra",
+      "alternativa_b": "Rocha",
+      "alternativa_c": "Areia",
+      "alternativa_d": "Metal",
+      "pergunta": "Qual é a tradução de 'Stone'?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Mountain",
+      "alternativa_b": "Peak",
+      "alternativa_c": "Hill",
+      "alternativa_d": "Valley",
+      "pergunta": "Como se diz 'Colina' em inglês?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Chama",
+      "alternativa_b": "Fogo",
+      "alternativa_c": "Fumaça",
+      "alternativa_d": "Calor",
+      "pergunta": "Qual é a tradução de 'Flame'?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Heat",
+      "alternativa_b": "Sun",
+      "alternativa_c": "Dry",
+      "alternativa_d": "Drought",
+      "pergunta": "Como se diz 'Seca' (período sem chuva) em inglês?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Folha",
+      "alternativa_b": "Galho",
+      "alternativa_c": "Raiz",
+      "alternativa_d": "Tronco",
+      "pergunta": "Qual é a tradução de 'Branch'?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Ice",
+      "alternativa_b": "Snow",
+      "alternativa_c": "Hail",
+      "alternativa_d": "Rain",
+      "pergunta": "Como se diz 'Granizo' em inglês?"
+    }
+  ],
+  "export const quizIniciante 09": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Natureza",
+      "alternativa_b": "Clima",
+      "alternativa_c": "Meio ambiente",
+      "alternativa_d": "Mundo",
+      "pergunta": "Qual é a tradução de 'Environment'?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Mud",
+      "alternativa_b": "Sand",
+      "alternativa_c": "Dust",
+      "alternativa_d": "Dirt",
+      "pergunta": "Como se diz 'Lama' em inglês?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Lago",
+      "alternativa_c": "Mar",
+      "alternativa_d": "Riacho",
+      "pergunta": "Qual é a tradução de 'Stream'?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Smoke",
+      "alternativa_b": "Fire",
+      "alternativa_c": "Hot",
+      "alternativa_d": "Burn",
+      "pergunta": "Como se diz 'Fogo' em inglês?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Paisagem",
+      "alternativa_b": "Jardim",
+      "alternativa_c": "Terra",
+      "alternativa_d": "Horizonte",
+      "pergunta": "Qual é a tradução de 'Landscape'?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Wind",
+      "alternativa_b": "Breeze",
+      "alternativa_c": "Storm",
+      "alternativa_d": "Gale",
+      "pergunta": "Como se diz 'Vendaval/Vento forte' em inglês?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Pedra",
+      "alternativa_b": "Argila/Barro",
+      "alternativa_c": "Solo",
+      "alternativa_d": "Areia",
+      "pergunta": "Qual é a tradução de 'Clay'?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "C",
+      "alternativa_a": "River",
+      "alternativa_b": "Lake",
+      "alternativa_c": "Waterfall",
+      "alternativa_d": "Spring",
+      "pergunta": "Como se diz 'Cachoeira' em inglês?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Bosque",
+      "alternativa_b": "Floresta",
+      "alternativa_c": "Selva",
+      "alternativa_d": "Campo",
+      "pergunta": "Qual é a tradução de 'Forest'?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Quake",
+      "alternativa_b": "Tremor",
+      "alternativa_c": "Wave",
+      "alternativa_d": "Earthquake",
+      "pergunta": "Como se diz 'Terremoto' em inglês?"
+    }
+  ],
+  "export const quizIniciante 010": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Tempo (clima)",
+      "alternativa_b": "Hora",
+      "alternativa_c": "Estação",
+      "alternativa_d": "Céu",
+      "pergunta": "Qual é a tradução de 'Weather'?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Hill",
+      "alternativa_b": "Valley",
+      "alternativa_c": "Plain",
+      "alternativa_d": "Field",
+      "pergunta": "Como se diz 'Planície' em inglês?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Raiz",
+      "alternativa_b": "Folha",
+      "alternativa_c": "Galho",
+      "alternativa_d": "Tronco",
+      "pergunta": "Qual é a tradução de 'Trunk'?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Fire",
+      "alternativa_b": "Smoke",
+      "alternativa_c": "Ash",
+      "alternativa_d": "Cloud",
+      "pergunta": "Como se diz 'Fumaça' em inglês?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Ilha",
+      "alternativa_b": "Mar",
+      "alternativa_c": "Costa",
+      "alternativa_d": "Areia",
+      "pergunta": "Qual é a tradução de 'Coast'?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Sunrise",
+      "alternativa_b": "Sunset",
+      "alternativa_c": "Sunny",
+      "alternativa_d": "Sunlight",
+      "pergunta": "Como se diz 'Nascer do sol' em inglês?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Brisa",
+      "alternativa_b": "Vento muito forte",
+      "alternativa_c": "Chuva",
+      "alternativa_d": "Nevoeiro",
+      "pergunta": "Qual é a tradução de 'Gale'?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Thunder",
+      "alternativa_b": "Storm",
+      "alternativa_c": "Flash",
+      "alternativa_d": "Lightning",
+      "pergunta": "Como se diz 'Relâmpago' em inglês?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Seca",
+      "alternativa_b": "Enchente",
+      "alternativa_c": "Chuva",
+      "alternativa_d": "Tempestade",
+      "pergunta": "Qual é a tradução de 'Drought'?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Sun",
+      "alternativa_b": "Light",
+      "alternativa_c": "Ray",
+      "alternativa_d": "Beam",
+      "pergunta": "Como se diz 'Raio (de luz)' em inglês?"
+    }
+  ],
+  "export const quizIniciante 011": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Ice",
+      "alternativa_b": "Frost",
+      "alternativa_c": "Snow",
+      "alternativa_d": "Dew",
+      "pergunta": "Como se diz 'Geada' em inglês?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Cachoeira",
+      "alternativa_b": "Montanha",
+      "alternativa_c": "Buraco",
+      "alternativa_d": "Caverna",
+      "pergunta": "Qual é a tradução de 'Cave'?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Shade",
+      "alternativa_b": "Dark",
+      "alternativa_c": "Cloud",
+      "alternativa_d": "Sun",
+      "pergunta": "Como se diz 'Sombra' em inglês?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Mar",
+      "alternativa_b": "Lago",
+      "alternativa_c": "Oceano",
+      "alternativa_d": "Rio",
+      "pergunta": "Qual é a tradução de 'Ocean'?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Soil",
+      "alternativa_b": "Earth",
+      "alternativa_c": "Ground",
+      "alternativa_d": "Dirt",
+      "pergunta": "Como se diz 'Solo' em inglês?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Vento",
+      "alternativa_b": "Chuva",
+      "alternativa_c": "Tempestade de neve",
+      "alternativa_d": "Gelo",
+      "pergunta": "Qual é a tradução de 'Blizzard'?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Lake",
+      "alternativa_b": "River",
+      "alternativa_c": "Field",
+      "alternativa_d": "Swamp",
+      "pergunta": "Como se diz 'Pântano' em inglês?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Areia",
+      "alternativa_b": "Onda",
+      "alternativa_c": "Maré",
+      "alternativa_d": "Vento",
+      "pergunta": "Qual é a tradução de 'Wave'?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Mountain",
+      "alternativa_b": "Volcano",
+      "alternativa_c": "Fire",
+      "alternativa_d": "Rock",
+      "pergunta": "Como se diz 'Vulcão' em inglês?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Chuva",
+      "alternativa_b": "Névoa",
+      "alternativa_c": "Gelo",
+      "alternativa_d": "Orvalho",
+      "pergunta": "Qual é a tradução de 'Dew'?"
+    }
+  ],
+  "export const quizIniciante 012": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Air",
+      "alternativa_b": "Wind",
+      "alternativa_c": "Gas",
+      "alternativa_d": "Sky",
+      "pergunta": "Como se diz 'Ar' em inglês?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Lago",
+      "alternativa_c": "Poça",
+      "alternativa_d": "Mar",
+      "pergunta": "Qual é a tradução de 'Puddle'?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Hill",
+      "alternativa_b": "Mountain",
+      "alternativa_c": "Valley",
+      "alternativa_d": "Cliff",
+      "pergunta": "Como se diz 'Penhasco' em inglês?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Trovão",
+      "alternativa_b": "Relâmpago",
+      "alternativa_c": "Chuva",
+      "alternativa_d": "Vento",
+      "pergunta": "Qual é a tradução de 'Lightning'?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "C",
+      "alternativa_a": "River",
+      "alternativa_b": "Lake",
+      "alternativa_c": "Stream",
+      "alternativa_d": "Ocean",
+      "pergunta": "Como se diz 'Riacho' em inglês?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Estrela",
+      "alternativa_b": "Lua",
+      "alternativa_c": "Sol",
+      "alternativa_d": "Planeta",
+      "pergunta": "Qual é a tradução de 'Star'?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Cold",
+      "alternativa_b": "Heat",
+      "alternativa_c": "Warm",
+      "alternativa_d": "Sun",
+      "pergunta": "Como se diz 'Calor' em inglês?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Lama",
+      "alternativa_b": "Areia",
+      "alternativa_c": "Terra",
+      "alternativa_d": "Poeira",
+      "pergunta": "Qual é a tradução de 'Dust'?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Rainbow",
+      "alternativa_b": "Raincloud",
+      "alternativa_c": "Sunbeam",
+      "alternativa_d": "Skyline",
+      "pergunta": "Como se diz 'Arco-íris' em inglês?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Floresta",
+      "alternativa_b": "Deserto",
+      "alternativa_c": "Prado/Campo",
+      "alternativa_d": "Montanha",
+      "pergunta": "Qual é a tradução de 'Meadow'?"
+    }
+  ],
+  "export const quizIniciante 013": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Onda",
+      "alternativa_b": "Costa",
+      "alternativa_c": "Mar",
+      "alternativa_d": "Maré",
+      "pergunta": "Qual é a tradução de 'Tide'?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Wind",
+      "alternativa_b": "Storm",
+      "alternativa_c": "Rain",
+      "alternativa_d": "Cloud",
+      "pergunta": "Como se diz 'Tempestade' em inglês?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Céu",
+      "alternativa_b": "Sol",
+      "alternativa_c": "Nuvem",
+      "alternativa_d": "Ar",
+      "pergunta": "Qual é a tradução de 'Sky'?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Flood",
+      "alternativa_b": "Storm",
+      "alternativa_c": "Earthquake",
+      "alternativa_d": "Tornado",
+      "pergunta": "Como se diz 'Terremoto' em inglês?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Árvore",
+      "alternativa_b": "Arbusto",
+      "alternativa_c": "Folha",
+      "alternativa_d": "Grama",
+      "pergunta": "Qual é a tradução de 'Bush'?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Snow",
+      "alternativa_b": "Ice",
+      "alternativa_c": "Rain",
+      "alternativa_d": "Hail",
+      "pergunta": "Como se diz 'Granizo' em inglês?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Lama",
+      "alternativa_b": "Poeira",
+      "alternativa_c": "Areia",
+      "alternativa_d": "Pedra",
+      "pergunta": "Qual é a tradução de 'Mud'?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "C",
+      "alternativa_a": "River",
+      "alternativa_b": "Lake",
+      "alternativa_c": "Waterfall",
+      "alternativa_d": "Ocean",
+      "pergunta": "Como se diz 'Cachoeira' em inglês?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Mar",
+      "alternativa_b": "Rio",
+      "alternativa_c": "Lagoa",
+      "alternativa_d": "Poça",
+      "pergunta": "Qual é a tradução de 'Pond'?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Stone",
+      "alternativa_b": "Rock",
+      "alternativa_c": "Sand",
+      "alternativa_d": "Clay",
+      "pergunta": "Como se diz 'Pedra' em inglês?"
+    }
+  ],
+  "export const quizIniciante 014": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Floresta",
+      "alternativa_b": "Praia",
+      "alternativa_c": "Campo",
+      "alternativa_d": "Deserto",
+      "pergunta": "Qual é a tradução de 'Desert'?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Gale",
+      "alternativa_b": "Breeze",
+      "alternativa_c": "Wind",
+      "alternativa_d": "Storm",
+      "pergunta": "Como se diz 'Brisa' em inglês?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Luz solar",
+      "alternativa_b": "Calor",
+      "alternativa_c": "Verão",
+      "alternativa_d": "Dia",
+      "pergunta": "Qual é a tradução de 'Sunlight'?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Gas",
+      "alternativa_b": "Smoke",
+      "alternativa_c": "Cloud",
+      "alternativa_d": "Steam",
+      "pergunta": "Como se diz 'Vapor' em inglês?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Seca",
+      "alternativa_b": "Umidade",
+      "alternativa_c": "Chuva",
+      "alternativa_d": "Frio",
+      "pergunta": "Qual é a tradução de 'Humidity'?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Root",
+      "alternativa_b": "Branch",
+      "alternativa_c": "Leaf",
+      "alternativa_d": "Stem",
+      "pergunta": "Como se diz 'Folha' em inglês?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Cinza",
+      "alternativa_b": "Fogo",
+      "alternativa_c": "Fumaça",
+      "alternativa_d": "Carvão",
+      "pergunta": "Qual é a tradução de 'Ash'?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Rain",
+      "alternativa_b": "Sky",
+      "alternativa_c": "Cloud",
+      "alternativa_d": "Sun",
+      "pergunta": "Como se diz 'Nuvem' em inglês?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Ilha",
+      "alternativa_b": "Oceano",
+      "alternativa_c": "Rio",
+      "alternativa_d": "Costa/Margem",
+      "pergunta": "Qual é a tradução de 'Shore'?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Lake",
+      "alternativa_b": "River",
+      "alternativa_c": "Sea",
+      "alternativa_d": "Stream",
+      "pergunta": "Como se diz 'Rio' em inglês?"
+    }
+  ],
+  "export const quizIniciante 015": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Air",
+      "alternativa_b": "Wind",
+      "alternativa_c": "Storm",
+      "alternativa_d": "Cloud",
+      "pergunta": "Como se diz 'Vento' em inglês?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Fogo",
+      "alternativa_b": "Água",
+      "alternativa_c": "Terra",
+      "alternativa_d": "Ar",
+      "pergunta": "Qual é a tradução de 'Fire'?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Ice",
+      "alternativa_b": "Rain",
+      "alternativa_c": "Snow",
+      "alternativa_d": "Hail",
+      "pergunta": "Como se diz 'Neve' em inglês?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Montanha",
+      "alternativa_b": "Vale",
+      "alternativa_c": "Plano",
+      "alternativa_d": "Colina",
+      "pergunta": "Qual é a tradução de 'Hill'?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Moon",
+      "alternativa_b": "Sun",
+      "alternativa_c": "Star",
+      "alternativa_d": "Sky",
+      "pergunta": "Como se diz 'Lua' em inglês?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Lago",
+      "alternativa_c": "Mar",
+      "alternativa_d": "Lagoa",
+      "pergunta": "Qual é a tradução de 'Lake'?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Tree",
+      "alternativa_b": "Flower",
+      "alternativa_c": "Grass",
+      "alternativa_d": "Bush",
+      "pergunta": "Como se diz 'Grama' em inglês?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Monte",
+      "alternativa_b": "Serra",
+      "alternativa_c": "Cume",
+      "alternativa_d": "Vale",
+      "pergunta": "Qual é a tradução de 'Valley'?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Rain",
+      "alternativa_b": "Snow",
+      "alternativa_c": "Mist",
+      "alternativa_d": "Fog",
+      "pergunta": "Como se diz 'Chuva' em inglês?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Costa",
+      "alternativa_b": "Ilha",
+      "alternativa_c": "Praia",
+      "alternativa_d": "Terra",
+      "pergunta": "Qual é a tradução de 'Island'?"
+    }
+  ],
+  "export const quizIniciante 016": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Lightning",
+      "alternativa_b": "Storm",
+      "alternativa_c": "Thunder",
+      "alternativa_d": "Bolt",
+      "pergunta": "Como se diz 'Trovão' em inglês?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Poeira",
+      "alternativa_b": "Lama",
+      "alternativa_c": "Pedra",
+      "alternativa_d": "Areia",
+      "pergunta": "Qual é a tradução de 'Sand'?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Earth",
+      "alternativa_b": "Mars",
+      "alternativa_c": "World",
+      "alternativa_d": "Sun",
+      "pergunta": "Como se diz 'Terra' (planeta) em inglês?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Jardim",
+      "alternativa_b": "Floresta",
+      "alternativa_c": "Campo",
+      "alternativa_d": "Parque",
+      "pergunta": "Qual é a tradução de 'Forest'?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Sunlight",
+      "alternativa_b": "Rain",
+      "alternativa_c": "Rainbow",
+      "alternativa_d": "Sky",
+      "pergunta": "Como se diz 'Arco-íris' em inglês?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Areia",
+      "alternativa_b": "Lama",
+      "alternativa_c": "Solo",
+      "alternativa_d": "Rocha",
+      "pergunta": "Qual é a tradução de 'Rock'?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Seed",
+      "alternativa_b": "Root",
+      "alternativa_c": "Leaf",
+      "alternativa_d": "Branch",
+      "pergunta": "Como se diz 'Semente' em inglês?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Lua",
+      "alternativa_b": "Sol",
+      "alternativa_c": "Estrela",
+      "alternativa_d": "Céu",
+      "pergunta": "Qual é a tradução de 'Sun'?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Sea",
+      "alternativa_b": "River",
+      "alternativa_c": "Ocean",
+      "alternativa_d": "Lake",
+      "pergunta": "Como se diz 'Oceano' em inglês?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Chuva",
+      "alternativa_b": "Vento",
+      "alternativa_c": "Gelo",
+      "alternativa_d": "Neblina",
+      "pergunta": "Qual é a tradução de 'Fog'?"
+    }
+  ],
+  "export const quizIniciante 017": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Leaf",
+      "alternativa_b": "Stem",
+      "alternativa_c": "Root",
+      "alternativa_d": "Trunk",
+      "pergunta": "Como se diz 'Raiz' em inglês?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Vale",
+      "alternativa_b": "Penhasco",
+      "alternativa_c": "Praia",
+      "alternativa_d": "Montanha",
+      "pergunta": "Qual é a tradução de 'Cliff'?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Rain",
+      "alternativa_b": "Storm",
+      "alternativa_c": "Wave",
+      "alternativa_d": "Flood",
+      "pergunta": "Como se diz 'Enchente' em inglês?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Planície",
+      "alternativa_b": "Montanha",
+      "alternativa_c": "Deserto",
+      "alternativa_d": "Floresta",
+      "pergunta": "Qual é a tradução de 'Plain'?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Heat",
+      "alternativa_b": "Sun",
+      "alternativa_c": "Dry",
+      "alternativa_d": "Drought",
+      "pergunta": "Como se diz 'Seca' em inglês?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Natureza",
+      "alternativa_b": "Clima",
+      "alternativa_c": "Meio ambiente",
+      "alternativa_d": "Mundo",
+      "pergunta": "Qual é a tradução de 'Environment'?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Breeze",
+      "alternativa_b": "Gale",
+      "alternativa_c": "Rain",
+      "alternativa_d": "Snow",
+      "pergunta": "Como se diz 'Vendaval' em inglês?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Névoa",
+      "alternativa_b": "Gelo",
+      "alternativa_c": "Chuva",
+      "alternativa_d": "Vento",
+      "pergunta": "Qual é a tradução de 'Mist'?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Stone",
+      "alternativa_b": "Clay",
+      "alternativa_c": "Sand",
+      "alternativa_d": "Dust",
+      "pergunta": "Como se diz 'Barro/Argila' em inglês?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Mar",
+      "alternativa_c": "Lagoa",
+      "alternativa_d": "Cachoeira",
+      "pergunta": "Qual é a tradução de 'Waterfall'?"
+    }
+  ],
+  "export const quizIniciante 018": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Sunlight",
+      "alternativa_b": "Moonlight",
+      "alternativa_c": "Starry",
+      "alternativa_d": "Sunny",
+      "pergunta": "Como se diz 'Luz solar' em inglês?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Trovão",
+      "alternativa_b": "Vento",
+      "alternativa_c": "Relâmpago",
+      "alternativa_d": "Chuva",
+      "pergunta": "Qual é a tradução de 'Lightning'?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Hill",
+      "alternativa_b": "Mountain",
+      "alternativa_c": "Rock",
+      "alternativa_d": "Volcano",
+      "pergunta": "Como se diz 'Vulcão' em inglês?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Ar",
+      "alternativa_b": "Céu",
+      "alternativa_c": "Vento",
+      "alternativa_d": "Espaço",
+      "pergunta": "Qual é a tradução de 'Air'?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Dirt",
+      "alternativa_b": "Mud",
+      "alternativa_c": "Dust",
+      "alternativa_d": "Sand",
+      "pergunta": "Como se diz 'Lama' em inglês?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Lago",
+      "alternativa_b": "Oceano",
+      "alternativa_c": "Riacho",
+      "alternativa_d": "Mar",
+      "pergunta": "Qual é a tradução de 'Stream'?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Dryness",
+      "alternativa_b": "Humidity",
+      "alternativa_c": "Water",
+      "alternativa_d": "Rain",
+      "pergunta": "Como se diz 'Umidade' em inglês?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Neve",
+      "alternativa_b": "Chuva",
+      "alternativa_c": "Gelo",
+      "alternativa_d": "Granizo",
+      "pergunta": "Qual é a tradução de 'Hail'?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Coast",
+      "alternativa_b": "Island",
+      "alternativa_c": "Beach",
+      "alternativa_d": "Sea",
+      "pergunta": "Como se diz 'Costa' em inglês?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Lua",
+      "alternativa_b": "Sol",
+      "alternativa_c": "Estrela",
+      "alternativa_d": "Céu",
+      "pergunta": "Qual é a tradução de 'Star'?"
+    }
+  ],
+  "export const quizIniciante 019": [
+    {
+      "numero": "1",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Nature",
+      "alternativa_b": "Natural",
+      "alternativa_c": "Land",
+      "alternativa_d": "Green",
+      "pergunta": "Como se diz 'Natureza' em inglês?"
+    },
+    {
+      "numero": "2",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Rio",
+      "alternativa_b": "Lago",
+      "alternativa_c": "Poça",
+      "alternativa_d": "Oceano",
+      "pergunta": "Qual é a tradução de 'Puddle'?"
+    },
+    {
+      "numero": "3",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Snowing",
+      "alternativa_b": "Icy",
+      "alternativa_c": "Cold",
+      "alternativa_d": "Blizzard",
+      "pergunta": "Como se diz 'Tempestade de neve' em inglês?"
+    },
+    {
+      "numero": "4",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Gelo",
+      "alternativa_b": "Geada",
+      "alternativa_c": "Neve",
+      "alternativa_d": "Frio",
+      "pergunta": "Qual é a tradução de 'Frost'?"
+    },
+    {
+      "numero": "5",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Tree",
+      "alternativa_b": "Bush",
+      "alternativa_c": "Leaf",
+      "alternativa_d": "Branch",
+      "pergunta": "Como se diz 'Arbusto' em inglês?"
+    },
+    {
+      "numero": "6",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Vento",
+      "alternativa_b": "Chuva",
+      "alternativa_c": "Tornado",
+      "alternativa_d": "Furacão",
+      "pergunta": "Qual é a tradução de 'Hurricane'?"
+    },
+    {
+      "numero": "7",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Sunrise",
+      "alternativa_b": "Sunset",
+      "alternativa_c": "Sunshine",
+      "alternativa_d": "Daylight",
+      "pergunta": "Como se diz 'Nascer do sol' em inglês?"
+    },
+    {
+      "numero": "8",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Céu",
+      "alternativa_b": "Ar",
+      "alternativa_c": "Chão/Solo",
+      "alternativa_d": "Mar",
+      "pergunta": "Qual é a tradução de 'Ground'?"
+    },
+    {
+      "numero": "9",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Sunrise",
+      "alternativa_b": "Morning",
+      "alternativa_c": "Sunset",
+      "alternativa_d": "Night",
+      "pergunta": "Como se diz 'Pôr do sol' em inglês?"
+    },
+    {
+      "numero": "10",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Chama",
+      "alternativa_b": "Fumaça",
+      "alternativa_c": "Cinza",
+      "alternativa_d": "Calor",
+      "pergunta": "Qual é a tradução de 'Flame'?"
+    }
+  ],
+  "export const quizIniciante 020": [
+    {
+      "numero": "11",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Wave",
+      "alternativa_b": "Sea",
+      "alternativa_c": "Ocean",
+      "alternativa_d": "Tide",
+      "pergunta": "Como se diz 'Maré' em inglês?"
+    },
+    {
+      "numero": "12",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Sol",
+      "alternativa_b": "Brilho do sol",
+      "alternativa_c": "Calor",
+      "alternativa_d": "Verão",
+      "pergunta": "Qual é a tradução de 'Sunshine'?"
+    },
+    {
+      "numero": "13",
+      "alternativa_correcta": "A",
+      "alternativa_a": "World",
+      "alternativa_b": "Earth",
+      "alternativa_c": "Planet",
+      "alternativa_d": "Space",
+      "pergunta": "Como se diz 'Mundo' em inglês?"
+    },
+    {
+      "numero": "14",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Vento",
+      "alternativa_b": "Tempestade",
+      "alternativa_c": "Nuvem",
+      "alternativa_d": "Tornado",
+      "pergunta": "Qual é a tradução de 'Tornado'?"
+    },
+    {
+      "numero": "15",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Branch",
+      "alternativa_b": "Leaf",
+      "alternativa_c": "Trunk",
+      "alternativa_d": "Root",
+      "pergunta": "Como se diz 'Tronco' (de árvore) em inglês?"
+    },
+    {
+      "numero": "16",
+      "alternativa_correcta": "B",
+      "alternativa_a": "Fogo",
+      "alternativa_b": "Fumaça",
+      "alternativa_c": "Calor",
+      "alternativa_d": "Cinza",
+      "pergunta": "Qual é a tradução de 'Smoke'?"
+    },
+    {
+      "numero": "17",
+      "alternativa_correcta": "D",
+      "alternativa_a": "Hill",
+      "alternativa_b": "Valley",
+      "alternativa_c": "Mountain",
+      "alternativa_d": "Peak",
+      "pergunta": "Como se diz 'Cume/Pico' em inglês?"
+    },
+    {
+      "numero": "18",
+      "alternativa_correcta": "A",
+      "alternativa_a": "Céu",
+      "alternativa_b": "Ar",
+      "alternativa_c": "Espaço",
+      "alternativa_d": "Nuvem",
+      "pergunta": "Qual é a tradução de 'Sky'?"
+    },
+    {
+      "numero": "19",
+      "alternativa_correcta": "B",
+      "alternativa_a": "River",
+      "alternativa_b": "Stream",
+      "alternativa_c": "Lake",
+      "alternativa_d": "Pond",
+      "pergunta": "Como se diz 'Riacho' em inglês?"
+    },
+    {
+      "numero": "20",
+      "alternativa_correcta": "C",
+      "alternativa_a": "Chuva",
+      "alternativa_b": "Sol",
+      "alternativa_c": "Arco-íris",
+      "alternativa_d": "Céu",
+      "pergunta": "Qual é a tradução de 'Rainbow'?"
+    }
+  ]
+}

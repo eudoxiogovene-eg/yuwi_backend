@@ -25,10 +25,15 @@ async function seed(){
     //básico
     //Intermediário
     //avançado
+
+    //tempo, clima e agenda
+    //tecnologia no dia a dia
+    //trabalho e profissão
+    //transporte e mobilidade
     
     const data={
         category:"dia-a-dia",
-        subCategory:"alimentação e refeições",
+        subCategory:"transporte e mobilidade",
         level:"avançado"
     }
 

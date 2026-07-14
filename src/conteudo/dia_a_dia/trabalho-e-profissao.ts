@@ -1,4 +1,4 @@
-const quizIniciante1 = [
+export const quizIniciante01 = [
   {
     "pergunta": "Como se diz 'Onde está meu chefe?'?",
     "opcoes": {
@@ -108,7 +108,10 @@ const quizIniciante1 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante02 = [
+ 
   {
     "pergunta": "Como se diz 'Este é meu currículo'?",
     "opcoes": {
@@ -220,7 +223,7 @@ const quizIniciante1 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante2 = [
+export const quizIniciante03 = [
   {
     "pergunta": "Como se diz 'Procure um emprego'?",
     "opcoes": {
@@ -330,7 +333,10 @@ const quizIniciante2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante04 = [
+  
   {
     "pergunta": "Como se diz 'Preciso de ajuda'?",
     "opcoes": {
@@ -442,7 +448,7 @@ const quizIniciante2 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante3 = [
+export const quizIniciante05 = [
   {
     "pergunta": "Como se diz 'A mesa está limpa'?",
     "opcoes": {
@@ -552,7 +558,10 @@ const quizIniciante3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante06 = [
+  
   {
     "pergunta": "Como se diz 'Eu quero férias'?",
     "opcoes": {
@@ -664,7 +673,7 @@ const quizIniciante3 = [
     "resposta_correta": "B"
   }
 ];
-const quizIniciante4 = [
+export const quizIniciante07 = [
   {
     "pergunta": "Como se diz 'Abra o documento'?",
     "opcoes": {
@@ -774,7 +783,10 @@ const quizIniciante4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante08 = [
+ 
   {
     "pergunta": "Como se diz 'Onde é a fábrica?'?",
     "opcoes": {
@@ -886,7 +898,7 @@ const quizIniciante4 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante5 = [
+export const quizIniciante09 = [
   {
     "pergunta": "Como se diz 'Onde está o contrato?'?",
     "opcoes": {
@@ -996,7 +1008,10 @@ const quizIniciante5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante010 = [
+  
   {
     "pergunta": "Como se diz 'Eu perdi a chave'?",
     "opcoes": {
@@ -1108,7 +1123,7 @@ const quizIniciante5 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante6 = [
+export const quizIniciante011 = [
   {
     "pergunta": "Como se diz 'Onde está o dinheiro?'?",
     "opcoes": {
@@ -1218,7 +1233,10 @@ const quizIniciante6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante012 = [
+ 
   {
     "pergunta": "Como se diz 'Assine o recibo'?",
     "opcoes": {
@@ -1234,7 +1252,7 @@ const quizIniciante6 = [
     "pergunta": "Traduza: 'Fix the error'",
     "opcoes": {
       "A": "Veja o erro",
-      "|B": "Mude o erro",
+      "B": "Mude o erro",
       "C": "Ignore o erro",
       "D": "Corrija o erro"
     },
@@ -1330,7 +1348,7 @@ const quizIniciante6 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante7 = [
+export const quizIniciante013 = [
   {
     "pergunta": "Como se diz 'A equipe treinou'?",
     "opcoes": {
@@ -1440,7 +1458,10 @@ const quizIniciante7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante014 = [
+ 
   {
     "pergunta": "Como se diz 'Assine o formulário'?",
     "opcoes": {
@@ -1552,7 +1573,7 @@ const quizIniciante7 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante8 = [
+export const quizIniciante015 = [
   {
     "pergunta": "Como se diz 'Onde está a impressora?'?",
     "opcoes": {
@@ -1662,7 +1683,10 @@ const quizIniciante8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante016 = [
+ 
   {
     "pergunta": "Como se diz 'Abra o portão'?",
     "opcoes": {
@@ -1774,7 +1798,7 @@ const quizIniciante8 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante9 = [
+export const quizIniciante017 = [
   {
     "pergunta": "Como se diz 'Use o uniforme'?",
     "opcoes": {
@@ -1884,7 +1908,10 @@ const quizIniciante9 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante018 = [
+ 
   {
     "pergunta": "Como se diz 'Eu quero treinamento'?",
     "opcoes": {
@@ -1996,7 +2023,7 @@ const quizIniciante9 = [
     "resposta_correta": "D"
   }
 ];
-const quizIniciante10 = [
+export const quizIniciante019 = [
   {
     "pergunta": "Como se diz 'Onde está o contrato?'?",
     "opcoes": {
@@ -2106,7 +2133,10 @@ const quizIniciante10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIniciante020 = [
+  
   {
     "pergunta": "Como se diz 'Assine este papel'?",
     "opcoes": {
@@ -2219,8 +2249,10 @@ const quizIniciante10 = [
   }
 ];
 
+
+
 /*-----------------------basico--------------------------------*/
-const quizBasico1 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Preciso do relatório mensal'?",
     "opcoes": {
@@ -2330,7 +2362,10 @@ const quizBasico1 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizBasico02 = [
+ 
   {
     "pergunta": "Como se diz 'Verifique seu correio eletrônico'?",
     "opcoes": {
@@ -2442,7 +2477,7 @@ const quizBasico1 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico2 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Aumente as vendas anuais'?",
     "opcoes": {
@@ -2552,7 +2587,10 @@ const quizBasico2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico04 = [
+  
   {
     "pergunta": "Como se diz 'A reunião foi cancelada'?",
     "opcoes": {
@@ -2664,7 +2702,7 @@ const quizBasico2 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico3 = [
+export const quizBasico05 = [
   {
     "pergunta": "Como se diz 'A produção está atrasada'?",
     "opcoes": {
@@ -2774,7 +2812,10 @@ const quizBasico3 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizBasico06 = [
+ 
   {
     "pergunta": "Como se diz 'O fornecedor é confiável'?",
     "opcoes": {
@@ -2886,7 +2927,7 @@ const quizBasico3 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico4 = [
+export const quizBasico07 = [
   {
     "pergunta": "Como se diz 'Reduza os custos fixos'?",
     "opcoes": {
@@ -2996,7 +3037,10 @@ const quizBasico4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico08 = [
+  
   {
     "pergunta": "Como se diz 'A dívida é grande'?",
     "opcoes": {
@@ -3108,7 +3152,7 @@ const quizBasico4 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico5 = [
+export const quizBasico09 = [
   {
     "pergunta": "Como se diz 'Melhore o ambiente profissional'?",
     "opcoes": {
@@ -3218,7 +3262,10 @@ const quizBasico5 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico010 = [
+  
   {
     "pergunta": "Como se diz 'Envie o currículo agora'?",
     "opcoes": {
@@ -3330,7 +3377,7 @@ const quizBasico5 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico6 = [
+export const quizBasico011 = [
   {
     "pergunta": "Como se diz 'Aumente a satisfação cliente'?",
     "opcoes": {
@@ -3440,7 +3487,10 @@ const quizBasico6 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizBasico012 = [
+ 
   {
     "pergunta": "Como se diz 'Mostre os novos produtos'?",
     "opcoes": {
@@ -3552,7 +3602,7 @@ const quizBasico6 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico7 = [
+export const quizBasico013 = [
   {
     "pergunta": "Como se diz 'Proteja os dados sensíveis'?",
     "opcoes": {
@@ -3662,7 +3712,10 @@ const quizBasico7 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico014 = [
+ 
   {
     "pergunta": "Como se diz 'O servidor caiu'?",
     "opcoes": {
@@ -3774,7 +3827,7 @@ const quizBasico7 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico8 = [
+export const quizBasico015 = [
   {
     "pergunta": "Como se diz 'Aumente o reconhecimento marca'?",
     "opcoes": {
@@ -3884,7 +3937,10 @@ const quizBasico8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico016 = [
+  
   {
     "pergunta": "Como se diz 'Analise os resultados mensais'?",
     "opcoes": {
@@ -3996,7 +4052,7 @@ const quizBasico8 = [
     "resposta_correta": "D"
   }
 ];
-const quizBasico9 = [
+export const quizBasico017 = [
   {
     "pergunta": "Como se diz 'Defina a visão estratégica'?",
     "opcoes": {
@@ -4106,7 +4162,10 @@ const quizBasico9 = [
     },
     "numero": "10",
     "resposta_correta": "C"
-  },
+  }
+];
+export const quizBasico018 = [
+ 
   {
     "pergunta": "Como se diz 'Fortaleça a cultura organizacional'?",
     "opcoes": {
@@ -4218,7 +4277,7 @@ const quizBasico9 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico10 = [
+export const quizBasico019 = [
   {
     "pergunta": "Como se diz 'Priorize as tarefas urgentes'?",
     "opcoes": {
@@ -4328,7 +4387,10 @@ const quizBasico10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizBasico020 = [
+
   {
     "pergunta": "Como se diz 'Melhore o foco mental'?",
     "opcoes": {
@@ -4440,8 +4502,11 @@ const quizBasico10 = [
     "resposta_correta": "D"
   }
 ];
+
+
+
 /*-----------------------intermediario--------------------------------*/
-const quizIntermediario1 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Aumentamos a produtividade anual'?",
     "opcoes": {
@@ -4551,7 +4616,10 @@ const quizIntermediario1 = [
     },
     "numero": "10",
     "resposta_correta": "D"
-  },
+  }
+];
+export const quizIntermediario02 = [
+ 
   {
     "pergunta": "Como se diz 'Minimize o desperdício material'?",
     "opcoes": {
@@ -4663,7 +4731,7 @@ const quizIntermediario1 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario2 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Recrutamos talentos altamente qualificados'?",
     "opcoes": {
@@ -4773,7 +4841,10 @@ const quizIntermediario2 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario04 = [
+ 
   {
     "pergunta": "Como se diz 'O desempenho foi excepcional'?",
     "opcoes": {
@@ -4885,7 +4956,7 @@ const quizIntermediario2 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario3 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Aumente a margem de lucro'?",
     "opcoes": {
@@ -4995,7 +5066,10 @@ const quizIntermediario3 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario06 = [
+ 
   {
     "pergunta": "Como se diz 'A inflação afetou custos'?",
     "opcoes": {
@@ -5107,7 +5181,7 @@ const quizIntermediario3 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario4 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Criptografe os dados confidenciais'?",
     "opcoes": {
@@ -5217,7 +5291,10 @@ const quizIntermediario4 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario08 = [
+  
   {
     "pergunta": "Como se diz 'Limpe o cache navegador'?",
     "opcoes": {
@@ -5329,7 +5406,7 @@ const quizIntermediario4 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario5 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Aumente a taxa de conversão'?",
     "opcoes": {
@@ -5439,7 +5516,10 @@ const quizIntermediario5 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario010 = [
+
   {
     "pergunta": "Como se diz 'O reembolso foi processado'?",
     "opcoes": {
@@ -5551,7 +5631,7 @@ const quizIntermediario5 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario6 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'Otimize a cadeia de suprimentos'?",
     "opcoes": {
@@ -5661,7 +5741,10 @@ const quizIntermediario6 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario012 = [
+
   {
     "pergunta": "Como se diz 'Melhore a eficiência da frota'?",
     "opcoes": {
@@ -5773,7 +5856,7 @@ const quizIntermediario6 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario7 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Aumente o reconhecimento marca'?",
     "opcoes": {
@@ -5883,7 +5966,10 @@ const quizIntermediario7 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario014 = [
+ 
   {
     "pergunta": "Como se diz 'Melhore o design embalagem'?",
     "opcoes": {
@@ -5995,7 +6081,7 @@ const quizIntermediario7 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario8 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'Cumpra o prazo final'?",
     "opcoes": {
@@ -6105,7 +6191,10 @@ const quizIntermediario8 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario016 = [
+  
   {
     "pergunta": "Como se diz 'Mitigue os gargalos produtividade'?",
     "opcoes": {
@@ -6217,7 +6306,7 @@ const quizIntermediario8 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario9 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'Cumpra as regulamentações locais'?",
     "opcoes": {
@@ -6327,7 +6416,10 @@ const quizIntermediario9 = [
     },
     "numero": "10",
     "resposta_correta": "A"
-  },
+  }
+];
+export const quizIntermediario018 = [
+  
   {
     "pergunta": "Como se diz 'Evite sanções econômicas'?",
     "opcoes": {
@@ -6439,7 +6531,7 @@ const quizIntermediario9 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario10 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'Aumente a vantagem competitiva'?",
     "opcoes": {
@@ -6549,7 +6641,10 @@ const quizIntermediario10 = [
     },
     "numero": "10",
     "resposta_correta": "B"
-  },
+  }
+];
+export const quizIntermediario020 = [
+  
   {
     "pergunta": "Como se diz 'Reduza a dependência externa'?",
     "opcoes": {
@@ -6661,6 +6756,9 @@ const quizIntermediario10 = [
     "resposta_correta": "D"
   }
 ];
+
+
+
 /*-----------------------avancado--------------------------------*/
 export const quizAvancado1 = [
   {

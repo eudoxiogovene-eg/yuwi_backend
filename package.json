@@ -12,7 +12,8 @@
     "seedQuizSemArea":"tsx watch ./src/seed/seedQuizSemArea.ts",
     "seedQuiz":"tsx watch ./src/seed/seedQuiz.ts",
     "newSeedExercise":"tsx watch ./src/seed/newSeedExercise.ts",
-    "newSeedExerciseTranslation":"tsx watch ./src/seed/newSeedExerciseTranslation.ts"
+    "newSeedExerciseTranslation":"tsx watch ./src/seed/newSeedExerciseTranslation.ts",
+    "quizOrganize":"tsx watch ./src/seed/quizOrganize.ts"
     
   },
   "keywords": [],

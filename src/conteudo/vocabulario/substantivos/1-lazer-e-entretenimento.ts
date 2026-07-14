@@ -4505,7 +4505,7 @@ export const quizBasico020 = [
 
 
 /*-----------------------intermediario--------------------------------*/
-const quizIntermediario01 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'A performance foi emocionante'?",
     "opcoes": {
@@ -4617,7 +4617,7 @@ const quizIntermediario01 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario02 = [
+export const quizIntermediario02 = [
   
   {
     "pergunta": "Como se diz 'Onde fica o camarote?'?",
@@ -4730,7 +4730,7 @@ const quizIntermediario02 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario03 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Eu já vi esse filme'?",
     "opcoes": {
@@ -4842,7 +4842,7 @@ const quizIntermediario03 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario04 = [
+export const quizIntermediario04 = [
  
   {
     "pergunta": "Como se diz 'Eles estão ensaiando agora'?",
@@ -4955,7 +4955,7 @@ const quizIntermediario04 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario05 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'A exposição termina amanhã'?",
     "opcoes": {
@@ -5067,7 +5067,7 @@ const quizIntermediario05 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario06 = [
+export const quizIntermediario06 = [
   
   {
     "pergunta": "Como se diz 'A entrada é permitida'?",
@@ -5180,7 +5180,7 @@ const quizIntermediario06 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario07 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'O show foi cancelado'?",
     "opcoes": {
@@ -5292,7 +5292,7 @@ const quizIntermediario07 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario08 = [
+export const quizIntermediario08 = [
   
   {
     "pergunta": "Como se diz 'Eu pratico ioga'?",
@@ -5405,7 +5405,7 @@ const quizIntermediario08 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario09 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'Eu aprecio artes visuais'?",
     "opcoes": {
@@ -5517,7 +5517,7 @@ const quizIntermediario09 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario010 = [
+export const quizIntermediario010 = [
   
   {
     "pergunta": "Como se diz 'Nós deveríamos ir agora'?",
@@ -5630,7 +5630,7 @@ const quizIntermediario010 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario011 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'O ensaio foi longo'?",
     "opcoes": {
@@ -5742,7 +5742,7 @@ const quizIntermediario011 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario012 = [
+export const quizIntermediario012 = [
  
   {
     "pergunta": "Como se diz 'Eu prefiro filmes legendados'?",
@@ -5855,7 +5855,7 @@ const quizIntermediario012 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario013 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'O evento foi adiado'?",
     "opcoes": {
@@ -5967,7 +5967,7 @@ const quizIntermediario013 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario014 = [
+export const quizIntermediario014 = [
  
   {
     "pergunta": "Como se diz 'Nós deveríamos acampar'?",

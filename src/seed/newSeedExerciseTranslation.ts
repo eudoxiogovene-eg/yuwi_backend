@@ -11,7 +11,7 @@ import {typeQuizChoose} from "./typeQuizChoose"
 import { 
     quizAvancado1,quizAvancado2,quizAvancado3,quizAvancado4,quizAvancado5,
     quizAvancado6,quizAvancado7,quizAvancado8,quizAvancado9,quizAvancado10
-} from "../conteudo/vocabulario/substantivos/viagens-e-turismo"
+} from "../conteudo/vocabulario/substantivos/transporte-publico-e-cidades"
 
 
 const quizzes=[
@@ -20,16 +20,25 @@ const quizzes=[
 ]
 
 
+
+
+    //sentidos e percepções
+    //sentimentos e emoções
+    //tempo e datas
+    //transporte e veículos
+    //transportes públicos / cidade
+
+
 const typeQuiz=[
     {
         category:"dia-a-dia",
-        subCategory:"alimentação e refeições",
+        subCategory:"transporte e mobilidade",
         level:"avançado"
     },
     {
         category:"vocabulário",
         subCategory:"substantivos",
-        area:"viagens e turismo",
+        area:"transportes públicos / cidade",
         level:"avançado"
     }
 ]
@@ -38,8 +47,6 @@ const typeQuiz=[
 
 
 async function seed(){
-  
-  
     try {  
 
     const response= await typeQuizChoose(typeQuiz[1])
@@ -58,6 +65,7 @@ async function seed(){
                     findQuizExerciseTranslation(response[count]._id.toString()),
                     findQuizExercise(response[count]._id.toString())
                 ])
+              //  console.log(quizExerciseTranslationExist)
                 if(quizExerciseTranslationExist ||quizExerciseExist){
                      console.log("este quiz ja foi usado")
                      console.log(`Este quiz (${response[count]._id.toString()}) já foi usado`);

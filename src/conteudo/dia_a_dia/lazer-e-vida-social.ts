@@ -2252,7 +2252,7 @@ export const quizIniciante020 = [
 
 
 /*-----------------------basico--------------------------------*/
-const quizBasico01 = [
+export const quizBasico01 = [
   {
     "pergunta": "Como se diz 'Você quer sair hoje?' em inglês?",
     "opcoes": {
@@ -2364,7 +2364,7 @@ const quizBasico01 = [
     "resposta_correta": "A"
   }
 ];
-const quizBasico02 = [
+export const quizBasico02 = [
  
   {
     "pergunta": "Como se diz 'Isso é muito emocionante' em inglês?",
@@ -2477,7 +2477,7 @@ const quizBasico02 = [
     "resposta_correta": "C"
   }
 ];
-const quizBasico03 = [
+export const quizBasico03 = [
   {
     "pergunta": "Como se diz 'Estou ansioso por isso' em inglês?",
     "opcoes": {
@@ -2589,7 +2589,7 @@ const quizBasico03 = [
     "resposta_correta": "B"
   }
 ];
-const quizBasico04 = [
+export const quizBasico04 = [
   
   {
     "pergunta": "Como se diz 'Você vem sempre aqui?' em inglês?",
@@ -4506,7 +4506,7 @@ export const quizBasico020 = [
 
 
 /*-----------------------intermediario--------------------------------*/
-const quizIntermediario01 = [
+export const quizIntermediario01 = [
   {
     "pergunta": "Como se diz 'Vamos colocar o papo em dia?' em inglês?",
     "opcoes": {
@@ -4618,13 +4618,13 @@ const quizIntermediario01 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario02 = [
+export const quizIntermediario02 = [
   
   {
     "pergunta": "Como se diz 'Apareça qualquer hora' em inglês?",
     "opcoes": {
       "A": "Appear any hour",
-      "|B": "Show any time",
+      "B": "Show any time",
       "C": "Drop by anytime",
       "D": "Come at any hour"
     },
@@ -4731,7 +4731,7 @@ const quizIntermediario02 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario03 = [
+export const quizIntermediario03 = [
   {
     "pergunta": "Como se diz 'Apareça sem avisar' em inglês?",
     "opcoes": {
@@ -4843,7 +4843,7 @@ const quizIntermediario03 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario04 = [
+export const quizIntermediario04 = [
  
   {
     "pergunta": "Como se diz 'A diversão acabou' em inglês?",
@@ -4956,7 +4956,7 @@ const quizIntermediario04 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario05 = [
+export const quizIntermediario05 = [
   {
     "pergunta": "Como se diz 'Vamos agitar as coisas' em inglês?",
     "opcoes": {
@@ -5068,7 +5068,7 @@ const quizIntermediario05 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario06 = [
+export const quizIntermediario06 = [
  
   {
     "pergunta": "Como se diz 'Que coincidência!' em inglês?",
@@ -5181,7 +5181,7 @@ const quizIntermediario06 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario07 = [
+export const quizIntermediario07 = [
   {
     "pergunta": "Como se diz 'Apareça sem compromisso' em inglês?",
     "opcoes": {
@@ -5293,7 +5293,7 @@ const quizIntermediario07 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario08 = [
+export const quizIntermediario08 = [
 
   {
     "pergunta": "Como se diz 'Isso é fascinante' em inglês?",
@@ -5406,7 +5406,7 @@ const quizIntermediario08 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario09 = [
+export const quizIntermediario09 = [
   {
     "pergunta": "Como se diz 'A diversão mal começou' em inglês?",
     "opcoes": {
@@ -5518,7 +5518,7 @@ const quizIntermediario09 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario010 = [
+export const quizIntermediario010 = [
  
   {
     "pergunta": "Como se diz 'Qual o seu passatempo?' em inglês?",
@@ -5631,7 +5631,7 @@ const quizIntermediario010 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario011 = [
+export const quizIntermediario011 = [
   {
     "pergunta": "Como se diz 'A festa está bombando' em inglês?",
     "opcoes": {
@@ -5743,7 +5743,7 @@ const quizIntermediario011 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario012 = [
+export const quizIntermediario012 = [
 
   {
     "pergunta": "Como se diz 'Vamos cair fora' em inglês?",
@@ -5856,7 +5856,7 @@ const quizIntermediario012 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario013 = [
+export const quizIntermediario013 = [
   {
     "pergunta": "Como se diz 'Vou dar o fora' em inglês?",
     "opcoes": {
@@ -5968,7 +5968,7 @@ const quizIntermediario013 = [
     "resposta_correta": "A"
   }
 ];
-const quizIntermediario014 = [
+export const quizIntermediario014 = [
  
   {
     "pergunta": "Como se diz 'A conta, por favor' em inglês?",
@@ -6081,7 +6081,7 @@ const quizIntermediario014 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario015 = [
+export const quizIntermediario015 = [
   {
     "pergunta": "Como se diz 'Apareça sem avisar' em inglês?",
     "opcoes": {
@@ -6193,7 +6193,7 @@ const quizIntermediario015 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario016 = [
+export const quizIntermediario016 = [
   
   {
     "pergunta": "Como se diz 'Que decepção!' em inglês?",
@@ -6306,7 +6306,7 @@ const quizIntermediario016 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario017 = [
+export const quizIntermediario017 = [
   {
     "pergunta": "Como se diz 'Mudar de ideia' em inglês?",
     "opcoes": {
@@ -6418,7 +6418,7 @@ const quizIntermediario017 = [
     "resposta_correta": "D"
   }
 ];
-const quizIntermediario018 = [
+export const quizIntermediario018 = [
  
   {
     "pergunta": "Como se diz 'Eu não fumo' em inglês?",
@@ -6531,7 +6531,7 @@ const quizIntermediario018 = [
     "resposta_correta": "C"
   }
 ];
-const quizIntermediario019 = [
+export const quizIntermediario019 = [
   {
     "pergunta": "Como se diz 'Apareça sem avisar' em inglês?",
     "opcoes": {
@@ -6643,7 +6643,7 @@ const quizIntermediario019 = [
     "resposta_correta": "B"
   }
 ];
-const quizIntermediario020 = [
+export const quizIntermediario020 = [
  
   {
     "pergunta": "Como se diz 'Sinto muito pelo atraso' em inglês?",

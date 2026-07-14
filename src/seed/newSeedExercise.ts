@@ -24,13 +24,13 @@ import {
     quizIniciante016,quizIniciante017,quizIniciante018,quizIniciante019,quizIniciante020
    
 
-} from "../conteudo/vocabulario/substantivos/viagens-e-turismo"
+} from "../conteudo/vocabulario/substantivos/transporte-publico-e-cidades"
 import { 
     quizBasico01,quizBasico02,quizBasico03,quizBasico04,quizBasico05,
     quizBasico06,quizBasico07,quizBasico08,quizBasico09,quizBasico010,
     quizBasico011,quizBasico012,quizBasico013,quizBasico014,quizBasico015,
     quizBasico016,quizBasico017,quizBasico018,quizBasico019,quizBasico020 
-} from "../conteudo/vocabulario/substantivos/viagens-e-turismo"
+} from "../conteudo/vocabulario/substantivos/transporte-publico-e-cidades"
 
 import { 
     quizIntermediario01,quizIntermediario02,quizIntermediario03,quizIntermediario04,
@@ -39,7 +39,7 @@ import {
     quizIntermediario013,quizIntermediario014,quizIntermediario015,quizIntermediario016,
     quizIntermediario017,quizIntermediario018,quizIntermediario019,quizIntermediario020
     
-} from "../conteudo/vocabulario/substantivos/viagens-e-turismo"
+} from "../conteudo/vocabulario/substantivos/transporte-publico-e-cidades"
 
 const quizzes=[
    quizIntermediario01,quizIntermediario02,quizIntermediario03,quizIntermediario04,
@@ -52,16 +52,26 @@ const quizzes=[
     //básico
     //Intermediário
     //avançado
+
+    //sentidos e percepções
+    //sentimentos e emoções
+    //tempo e datas
+    //transporte e veículos
+    //transportes públicos / cidade
+
+    
+
+
 const typeQuiz=[
     {
         category:"dia-a-dia",
-        subCategory:"casa e vida doméstica",
+        subCategory:"transporte e mobilidade",
         level:"Intermediário"
     },
     {
         category:"vocabulário",
         subCategory:"substantivos",
-        area:"viagens e turismo",
+        area:"transportes públicos / cidade",
         level:"Intermediário"
     }
 ]
@@ -138,5 +148,7 @@ async function seed(){
  })
  .catch(function(erro){
         return   console.log("houve um erro "+erro.message)    
-}) 
+})  
+
+
 
